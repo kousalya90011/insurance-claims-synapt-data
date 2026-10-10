@@ -1,0 +1,21 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000002
+Policy ID: POL-49499059
+Claim Type: Home
+State: TN
+Policyholder Tenure: 5.8 years
+Previous Claims: 0
+Incident Date: 2023-12-25
+Claim Filed Date: 2024-01-21
+Claim Amount: 
+Deductible: 
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000000002 for home policy in TN. Policyholder tenure: 5.8 yrs with 0 prior claims. Amount claimed:  (deductible ). Filed on 2024-01-21 following incident on 2023-12-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000002 HAS_POLICY Policy POL-49499059.
+- Claim CLM-C000000002 is covered by Policy POL-49499059.
+- Claim CLM-C000000002 concerns an incident in TN on 2023-12-25.
+- Claim CLM-C000000002 has outcome Approved.
+- Claim CLM-C000000002 has claim type Home.

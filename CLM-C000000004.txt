@@ -1,0 +1,21 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000004
+Policy ID: POL-87273811
+Claim Type: Home
+State: OH
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2024-04-05
+Claim Filed Date: 2024-04-09
+Claim Amount: 
+Deductible: 
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000000004 for home policy in OH. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed:  (deductible ). Filed on 2024-04-09 following incident on 2024-04-05. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000004 HAS_POLICY Policy POL-87273811.
+- Claim CLM-C000000004 is covered by Policy POL-87273811.
+- Claim CLM-C000000004 concerns an incident in OH on 2024-04-05.
+- Claim CLM-C000000004 has outcome Pending.
+- Claim CLM-C000000004 has claim type Home.

@@ -1,0 +1,21 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000003
+Policy ID: POL-48971370
+Claim Type: Renters
+State: WA
+Policyholder Tenure: 15.2 years
+Previous Claims: 1
+Incident Date: 2023-06-22
+Claim Filed Date: 2023-07-06
+Claim Amount: 
+Deductible: 
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000000003 for renters policy in WA. Policyholder tenure: 15.2 yrs with 1 prior claims. Amount claimed:  (deductible ). Filed on 2023-07-06 following incident on 2023-06-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000003 HAS_POLICY Policy POL-48971370.
+- Claim CLM-C000000003 is covered by Policy POL-48971370.
+- Claim CLM-C000000003 concerns an incident in WA on 2023-06-22.
+- Claim CLM-C000000003 has outcome Approved.
+- Claim CLM-C000000003 has claim type Renters.
