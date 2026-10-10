@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008325
+Policy ID: POL-12948150
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 1.4 years
+Previous Claims: 0
+Incident Date: 2023-06-02
+Claim Filed Date: 2023-06-12
+Claim Amount: $5,683.38
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000008325 for auto policy in PA. Policyholder tenure: 1.4 yrs with 0 prior claims. Amount claimed: $5683.38 (deductible $500.0). Filed on 2023-06-12 following incident on 2023-06-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008325 is covered by Policy POL-12948150.
+- Claim CLM-C000008325 concerns an incident in PA on 2023-06-02.
+- Claim CLM-C000008325 has outcome Approved.
+- Claim CLM-C000008325 has claim type Auto.

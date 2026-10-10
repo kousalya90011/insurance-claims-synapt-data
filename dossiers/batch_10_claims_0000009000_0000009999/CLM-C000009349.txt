@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009349
+Policy ID: POL-53428370
+Claim Type: Property
+State: PA
+Policyholder Tenure: 2.2 years
+Previous Claims: 1
+Incident Date: 2023-09-26
+Claim Filed Date: 2023-11-04
+Claim Amount: $12,354.61
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000009349 for property policy in PA. Policyholder tenure: 2.2 yrs with 1 prior claims. Amount claimed: $12354.61 (deductible $250.0). Filed on 2023-11-04 following incident on 2023-09-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009349 is covered by Policy POL-53428370.
+- Claim CLM-C000009349 concerns an incident in PA on 2023-09-26.
+- Claim CLM-C000009349 has outcome Approved.
+- Claim CLM-C000009349 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008545
+Policy ID: POL-17549501
+Claim Type: Property
+State: TX
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2024-10-25
+Claim Filed Date: 2024-11-21
+Claim Amount: $33,827.54
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 50 days
+Claim Narrative: Claim CLM-C000008545 for property policy in TX. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed: $33827.54 (deductible $250.0). Filed on 2024-11-21 following incident on 2024-10-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008545 is covered by Policy POL-17549501.
+- Claim CLM-C000008545 concerns an incident in TX on 2024-10-25.
+- Claim CLM-C000008545 has outcome Approved.
+- Claim CLM-C000008545 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004400
+Policy ID: POL-43199053
+Claim Type: Home
+State: CO
+Policyholder Tenure: 22.1 years
+Previous Claims: 0
+Incident Date: 2023-12-17
+Claim Filed Date: 2024-01-09
+Claim Amount: $4,953.42
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000004400 for home policy in CO. Policyholder tenure: 22.1 yrs with 0 prior claims. Amount claimed: $4953.42 (deductible $500.0). Filed on 2024-01-09 following incident on 2023-12-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004400 is covered by Policy POL-43199053.
+- Claim CLM-C000004400 concerns an incident in CO on 2023-12-17.
+- Claim CLM-C000004400 has outcome Approved.
+- Claim CLM-C000004400 has claim type Home.

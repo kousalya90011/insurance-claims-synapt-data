@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006379
+Policy ID: POL-89384689
+Claim Type: Home
+State: FL
+Policyholder Tenure: 10.2 years
+Previous Claims: 0
+Incident Date: 2024-12-18
+Claim Filed Date: 2024-12-24
+Claim Amount: $33,840.65
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000006379 for home policy in FL. Policyholder tenure: 10.2 yrs with 0 prior claims. Amount claimed: $33840.65 (deductible $250.0). Filed on 2024-12-24 following incident on 2024-12-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006379 is covered by Policy POL-89384689.
+- Claim CLM-C000006379 concerns an incident in FL on 2024-12-18.
+- Claim CLM-C000006379 has outcome Approved.
+- Claim CLM-C000006379 has claim type Home.

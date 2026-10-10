@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007045
+Policy ID: POL-75023003
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 7.4 years
+Previous Claims: 1
+Incident Date: 2024-03-14
+Claim Filed Date: 2024-03-30
+Claim Amount: $11,029.60
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000007045 for auto policy in NJ. Policyholder tenure: 7.4 yrs with 1 prior claims. Amount claimed: $11029.6 (deductible $500.0). Filed on 2024-03-30 following incident on 2024-03-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007045 is covered by Policy POL-75023003.
+- Claim CLM-C000007045 concerns an incident in NJ on 2024-03-14.
+- Claim CLM-C000007045 has outcome Under Review.
+- Claim CLM-C000007045 has claim type Auto.

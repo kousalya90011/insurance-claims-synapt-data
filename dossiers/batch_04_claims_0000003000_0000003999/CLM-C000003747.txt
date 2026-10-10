@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003747
+Policy ID: POL-91351376
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 4.5 years
+Previous Claims: 0
+Incident Date: 2023-01-08
+Claim Filed Date: 2023-02-20
+Claim Amount: $5,516.40
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000003747 for auto policy in CA. Policyholder tenure: 4.5 yrs with 0 prior claims. Amount claimed: $5516.4 (deductible $500.0). Filed on 2023-02-20 following incident on 2023-01-08. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000003747 is covered by Policy POL-91351376.
+- Claim CLM-C000003747 concerns an incident in CA on 2023-01-08.
+- Claim CLM-C000003747 has outcome Pending.
+- Claim CLM-C000003747 has claim type Auto.

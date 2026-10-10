@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008207
+Policy ID: POL-37082177
+Claim Type: Renters
+State: GA
+Policyholder Tenure: 3.9 years
+Previous Claims: 2
+Incident Date: 2023-02-02
+Claim Filed Date: 2023-02-26
+Claim Amount: $4,227.31
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000008207 for renters policy in GA. Policyholder tenure: 3.9 yrs with 2 prior claims. Amount claimed: $4227.31 (deductible $250.0). Filed on 2023-02-26 following incident on 2023-02-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008207 is covered by Policy POL-37082177.
+- Claim CLM-C000008207 concerns an incident in GA on 2023-02-02.
+- Claim CLM-C000008207 has outcome Under Review.
+- Claim CLM-C000008207 has claim type Renters.

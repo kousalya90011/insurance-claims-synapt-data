@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007017
+Policy ID: POL-30202044
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 31.0 years
+Previous Claims: 2
+Incident Date: 2023-06-11
+Claim Filed Date: 2023-06-24
+Claim Amount: $8,606.63
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000007017 for auto policy in OH. Policyholder tenure: 31.0 yrs with 2 prior claims. Amount claimed: $8606.63 (deductible $500.0). Filed on 2023-06-24 following incident on 2023-06-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007017 is covered by Policy POL-30202044.
+- Claim CLM-C000007017 concerns an incident in OH on 2023-06-11.
+- Claim CLM-C000007017 has outcome Approved.
+- Claim CLM-C000007017 has claim type Auto.

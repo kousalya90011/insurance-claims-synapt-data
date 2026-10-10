@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005049
+Policy ID: POL-11422291
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2024-03-21
+Claim Filed Date: 2024-04-29
+Claim Amount: $3,445.22
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000005049 for home policy in NJ. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $3445.22 (deductible $500.0). Filed on 2024-04-29 following incident on 2024-03-21. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005049 is covered by Policy POL-11422291.
+- Claim CLM-C000005049 concerns an incident in NJ on 2024-03-21.
+- Claim CLM-C000005049 has outcome Denied.
+- Claim CLM-C000005049 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007317
+Policy ID: POL-56344574
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 10.8 years
+Previous Claims: 1
+Incident Date: 2024-05-25
+Claim Filed Date: 2024-06-20
+Claim Amount: $1,248.98
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000007317 for renters policy in VA. Policyholder tenure: 10.8 yrs with 1 prior claims. Amount claimed: $1248.98 (deductible $1000.0). Filed on 2024-06-20 following incident on 2024-05-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007317 is covered by Policy POL-56344574.
+- Claim CLM-C000007317 concerns an incident in VA on 2024-05-25.
+- Claim CLM-C000007317 has outcome Approved.
+- Claim CLM-C000007317 has claim type Renters.

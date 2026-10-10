@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003521
+Policy ID: POL-36085069
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 7.3 years
+Previous Claims: 3
+Incident Date: 2024-01-04
+Claim Filed Date: 2024-01-19
+Claim Amount: $1,342.94
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000003521 for renters policy in MI. Policyholder tenure: 7.3 yrs with 3 prior claims. Amount claimed: $1342.94 (deductible $2000.0). Filed on 2024-01-19 following incident on 2024-01-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003521 is covered by Policy POL-36085069.
+- Claim CLM-C000003521 concerns an incident in MI on 2024-01-04.
+- Claim CLM-C000003521 has outcome Approved.
+- Claim CLM-C000003521 has claim type Renters.

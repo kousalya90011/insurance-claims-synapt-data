@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009081
+Policy ID: POL-67921434
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2024-03-12
+Claim Filed Date: 2024-04-04
+Claim Amount: $6,319.36
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000009081 for auto policy in OH. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $6319.36 (deductible $1000.0). Filed on 2024-04-04 following incident on 2024-03-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009081 is covered by Policy POL-67921434.
+- Claim CLM-C000009081 concerns an incident in OH on 2024-03-12.
+- Claim CLM-C000009081 has outcome Approved.
+- Claim CLM-C000009081 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003971
+Policy ID: POL-82927229
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-10-21
+Claim Filed Date: 2023-10-27
+Claim Amount: $15,262.37
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000003971 for property policy in AZ. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $15262.37 (deductible $2000.0). Filed on 2023-10-27 following incident on 2023-10-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003971 is covered by Policy POL-82927229.
+- Claim CLM-C000003971 concerns an incident in AZ on 2023-10-21.
+- Claim CLM-C000003971 has outcome Approved.
+- Claim CLM-C000003971 has claim type Property.

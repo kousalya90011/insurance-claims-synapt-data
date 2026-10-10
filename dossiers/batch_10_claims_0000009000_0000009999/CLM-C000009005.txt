@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009005
+Policy ID: POL-71011321
+Claim Type: Home
+State: OH
+Policyholder Tenure: 8.9 years
+Previous Claims: 3
+Incident Date: 2023-08-06
+Claim Filed Date: 2023-08-30
+Claim Amount: $12,771.15
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000009005 for home policy in OH. Policyholder tenure: 8.9 yrs with 3 prior claims. Amount claimed: $12771.15 (deductible $250.0). Filed on 2023-08-30 following incident on 2023-08-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009005 is covered by Policy POL-71011321.
+- Claim CLM-C000009005 concerns an incident in OH on 2023-08-06.
+- Claim CLM-C000009005 has outcome Approved.
+- Claim CLM-C000009005 has claim type Home.

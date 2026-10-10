@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009129
+Policy ID: POL-13506290
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 5.4 years
+Previous Claims: 0
+Incident Date: 2023-04-06
+Claim Filed Date: 2023-05-17
+Claim Amount: $18,392.96
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000009129 for auto policy in VA. Policyholder tenure: 5.4 yrs with 0 prior claims. Amount claimed: $18392.96 (deductible $500.0). Filed on 2023-05-17 following incident on 2023-04-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009129 is covered by Policy POL-13506290.
+- Claim CLM-C000009129 concerns an incident in VA on 2023-04-06.
+- Claim CLM-C000009129 has outcome Approved.
+- Claim CLM-C000009129 has claim type Auto.

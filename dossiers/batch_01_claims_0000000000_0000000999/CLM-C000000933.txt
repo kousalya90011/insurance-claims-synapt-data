@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000933
+Policy ID: POL-80702234
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 7.0 years
+Previous Claims: 1
+Incident Date: 2024-06-28
+Claim Filed Date: 2024-07-15
+Claim Amount: $3,104.90
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000000933 for auto policy in WA. Policyholder tenure: 7.0 yrs with 1 prior claims. Amount claimed: $3104.9 (deductible $1000.0). Filed on 2024-07-15 following incident on 2024-06-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000933 is covered by Policy POL-80702234.
+- Claim CLM-C000000933 concerns an incident in WA on 2024-06-28.
+- Claim CLM-C000000933 has outcome Approved.
+- Claim CLM-C000000933 has claim type Auto.

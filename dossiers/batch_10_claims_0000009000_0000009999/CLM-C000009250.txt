@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009250
+Policy ID: POL-33245256
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2025-01-13
+Claim Filed Date: 2025-02-15
+Claim Amount: $3,607.30
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000009250 for auto policy in MO. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $3607.3 (deductible $500.0). Filed on 2025-02-15 following incident on 2025-01-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009250 is covered by Policy POL-33245256.
+- Claim CLM-C000009250 concerns an incident in MO on 2025-01-13.
+- Claim CLM-C000009250 has outcome Approved.
+- Claim CLM-C000009250 has claim type Auto.

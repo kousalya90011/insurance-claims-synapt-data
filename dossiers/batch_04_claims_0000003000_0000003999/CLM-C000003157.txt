@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003157
+Policy ID: POL-72957625
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 15.9 years
+Previous Claims: 1
+Incident Date: 2023-08-29
+Claim Filed Date: 2023-09-15
+Claim Amount: $926.82
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000003157 for auto policy in MA. Policyholder tenure: 15.9 yrs with 1 prior claims. Amount claimed: $926.82 (deductible $1000.0). Filed on 2023-09-15 following incident on 2023-08-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003157 is covered by Policy POL-72957625.
+- Claim CLM-C000003157 concerns an incident in MA on 2023-08-29.
+- Claim CLM-C000003157 has outcome Approved.
+- Claim CLM-C000003157 has claim type Auto.

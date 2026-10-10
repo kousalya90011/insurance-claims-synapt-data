@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001430
+Policy ID: POL-61492756
+Claim Type: Renters
+State: MA
+Policyholder Tenure: 9.0 years
+Previous Claims: 0
+Incident Date: 2024-11-01
+Claim Filed Date: 2024-11-26
+Claim Amount: $13,433.24
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000001430 for renters policy in MA. Policyholder tenure: 9.0 yrs with 0 prior claims. Amount claimed: $13433.24 (deductible $500.0). Filed on 2024-11-26 following incident on 2024-11-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001430 is covered by Policy POL-61492756.
+- Claim CLM-C000001430 concerns an incident in MA on 2024-11-01.
+- Claim CLM-C000001430 has outcome Approved.
+- Claim CLM-C000001430 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000626
+Policy ID: POL-92471320
+Claim Type: Home
+State: WI
+Policyholder Tenure: 4.3 years
+Previous Claims: 0
+Incident Date: 2024-05-08
+Claim Filed Date: 2024-06-06
+Claim Amount: $8,376.51
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000000626 for home policy in WI. Policyholder tenure: 4.3 yrs with 0 prior claims. Amount claimed: $8376.51 (deductible $2000.0). Filed on 2024-06-06 following incident on 2024-05-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000626 is covered by Policy POL-92471320.
+- Claim CLM-C000000626 concerns an incident in WI on 2024-05-08.
+- Claim CLM-C000000626 has outcome Approved.
+- Claim CLM-C000000626 has claim type Home.

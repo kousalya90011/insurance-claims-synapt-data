@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002288
+Policy ID: POL-83727988
+Claim Type: Property
+State: CO
+Policyholder Tenure: 7.7 years
+Previous Claims: 1
+Incident Date: 2024-01-13
+Claim Filed Date: 2024-02-23
+Claim Amount: $8,917.85
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000002288 for property policy in CO. Policyholder tenure: 7.7 yrs with 1 prior claims. Amount claimed: $8917.85 (deductible $500.0). Filed on 2024-02-23 following incident on 2024-01-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002288 is covered by Policy POL-83727988.
+- Claim CLM-C000002288 concerns an incident in CO on 2024-01-13.
+- Claim CLM-C000002288 has outcome Under Review.
+- Claim CLM-C000002288 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000045
+Policy ID: POL-71012710
+Claim Type: Property
+State: FL
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2024-12-29
+Claim Filed Date: 2025-01-13
+Claim Amount: $8,640.15
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000000045 for property policy in FL. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $8640.15 (deductible $1000.0). Filed on 2025-01-13 following incident on 2024-12-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000045 is covered by Policy POL-71012710.
+- Claim CLM-C000000045 concerns an incident in FL on 2024-12-29.
+- Claim CLM-C000000045 has outcome Approved.
+- Claim CLM-C000000045 has claim type Property.

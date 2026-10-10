@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007962
+Policy ID: POL-43005175
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 2.4 years
+Previous Claims: 3
+Incident Date: 2024-02-11
+Claim Filed Date: 2024-03-25
+Claim Amount: $1,951.23
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000007962 for renters policy in CO. Policyholder tenure: 2.4 yrs with 3 prior claims. Amount claimed: $1951.23 (deductible $500.0). Filed on 2024-03-25 following incident on 2024-02-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007962 is covered by Policy POL-43005175.
+- Claim CLM-C000007962 concerns an incident in CO on 2024-02-11.
+- Claim CLM-C000007962 has outcome Approved.
+- Claim CLM-C000007962 has claim type Renters.

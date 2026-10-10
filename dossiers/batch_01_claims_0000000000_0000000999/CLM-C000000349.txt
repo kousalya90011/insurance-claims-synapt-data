@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000349
+Policy ID: POL-86107842
+Claim Type: Home
+State: NY
+Policyholder Tenure: 2.8 years
+Previous Claims: 0
+Incident Date: 2023-08-13
+Claim Filed Date: 2023-09-08
+Claim Amount: $31,434.66
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000000349 for home policy in NY. Policyholder tenure: 2.8 yrs with 0 prior claims. Amount claimed: $31434.66 (deductible $250.0). Filed on 2023-09-08 following incident on 2023-08-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000349 is covered by Policy POL-86107842.
+- Claim CLM-C000000349 concerns an incident in NY on 2023-08-13.
+- Claim CLM-C000000349 has outcome Under Review.
+- Claim CLM-C000000349 has claim type Home.

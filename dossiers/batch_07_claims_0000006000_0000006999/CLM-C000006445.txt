@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006445
+Policy ID: POL-19473183
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2023-12-19
+Claim Filed Date: 2024-01-28
+Claim Amount: $3,098.32
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000006445 for renters policy in TN. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $3098.32 (deductible $250.0). Filed on 2024-01-28 following incident on 2023-12-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006445 is covered by Policy POL-19473183.
+- Claim CLM-C000006445 concerns an incident in TN on 2023-12-19.
+- Claim CLM-C000006445 has outcome Under Review.
+- Claim CLM-C000006445 has claim type Renters.

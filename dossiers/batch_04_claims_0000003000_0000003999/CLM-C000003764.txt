@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003764
+Policy ID: POL-60358391
+Claim Type: Home
+State: VA
+Policyholder Tenure: 3.8 years
+Previous Claims: 0
+Incident Date: 2023-07-01
+Claim Filed Date: 2023-07-03
+Claim Amount: $71,104.09
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 55 days
+Claim Narrative: Claim CLM-C000003764 for home policy in VA. Policyholder tenure: 3.8 yrs with 0 prior claims. Amount claimed: $71104.09 (deductible $500.0). Filed on 2023-07-03 following incident on 2023-07-01. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003764 is covered by Policy POL-60358391.
+- Claim CLM-C000003764 concerns an incident in VA on 2023-07-01.
+- Claim CLM-C000003764 has outcome Under Review.
+- Claim CLM-C000003764 has claim type Home.

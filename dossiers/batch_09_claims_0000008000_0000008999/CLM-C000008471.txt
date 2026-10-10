@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008471
+Policy ID: POL-45195489
+Claim Type: Business
+State: MA
+Policyholder Tenure: 0.8 years
+Previous Claims: 0
+Incident Date: 2024-05-07
+Claim Filed Date: 2024-05-13
+Claim Amount: $40,665.47
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 72 days
+Claim Narrative: Claim CLM-C000008471 for business policy in MA. Policyholder tenure: 0.8 yrs with 0 prior claims. Amount claimed: $40665.47 (deductible $250.0). Filed on 2024-05-13 following incident on 2024-05-07. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008471 is covered by Policy POL-45195489.
+- Claim CLM-C000008471 concerns an incident in MA on 2024-05-07.
+- Claim CLM-C000008471 has outcome Under Review.
+- Claim CLM-C000008471 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008548
+Policy ID: POL-75719235
+Claim Type: Property
+State: IL
+Policyholder Tenure: 1.4 years
+Previous Claims: 0
+Incident Date: 2023-05-05
+Claim Filed Date: 2023-06-06
+Claim Amount: $17,448.03
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000008548 for property policy in IL. Policyholder tenure: 1.4 yrs with 0 prior claims. Amount claimed: $17448.03 (deductible $250.0). Filed on 2023-06-06 following incident on 2023-05-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008548 is covered by Policy POL-75719235.
+- Claim CLM-C000008548 concerns an incident in IL on 2023-05-05.
+- Claim CLM-C000008548 has outcome Approved.
+- Claim CLM-C000008548 has claim type Property.

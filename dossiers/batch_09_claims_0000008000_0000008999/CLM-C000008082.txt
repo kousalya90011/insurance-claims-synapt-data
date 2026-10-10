@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008082
+Policy ID: POL-56672252
+Claim Type: Home
+State: TX
+Policyholder Tenure: 2.1 years
+Previous Claims: 1
+Incident Date: 2024-01-17
+Claim Filed Date: 2024-02-22
+Claim Amount: $65,229.55
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000008082 for home policy in TX. Policyholder tenure: 2.1 yrs with 1 prior claims. Amount claimed: $65229.55 (deductible $250.0). Filed on 2024-02-22 following incident on 2024-01-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008082 is covered by Policy POL-56672252.
+- Claim CLM-C000008082 concerns an incident in TX on 2024-01-17.
+- Claim CLM-C000008082 has outcome Approved.
+- Claim CLM-C000008082 has claim type Home.

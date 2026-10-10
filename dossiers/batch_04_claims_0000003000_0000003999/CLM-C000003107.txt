@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003107
+Policy ID: POL-83997578
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2023-10-28
+Claim Filed Date: 2023-11-26
+Claim Amount: $1,597.07
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000003107 for renters policy in FL. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $1597.07 (deductible $250.0). Filed on 2023-11-26 following incident on 2023-10-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003107 is covered by Policy POL-83997578.
+- Claim CLM-C000003107 concerns an incident in FL on 2023-10-28.
+- Claim CLM-C000003107 has outcome Under Review.
+- Claim CLM-C000003107 has claim type Renters.

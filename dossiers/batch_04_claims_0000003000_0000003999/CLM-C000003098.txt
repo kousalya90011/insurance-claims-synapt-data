@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003098
+Policy ID: POL-88562080
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 4.5 years
+Previous Claims: 0
+Incident Date: 2023-03-02
+Claim Filed Date: 2023-03-05
+Claim Amount: $1,117.95
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000003098 for renters policy in NY. Policyholder tenure: 4.5 yrs with 0 prior claims. Amount claimed: $1117.95 (deductible $250.0). Filed on 2023-03-05 following incident on 2023-03-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003098 is covered by Policy POL-88562080.
+- Claim CLM-C000003098 concerns an incident in NY on 2023-03-02.
+- Claim CLM-C000003098 has outcome Approved.
+- Claim CLM-C000003098 has claim type Renters.

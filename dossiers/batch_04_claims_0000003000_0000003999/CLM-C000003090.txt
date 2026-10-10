@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003090
+Policy ID: POL-30265989
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 7.2 years
+Previous Claims: 0
+Incident Date: 2023-06-26
+Claim Filed Date: 2023-07-03
+Claim Amount: $5,423.78
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000003090 for home policy in NJ. Policyholder tenure: 7.2 yrs with 0 prior claims. Amount claimed: $5423.78 (deductible $500.0). Filed on 2023-07-03 following incident on 2023-06-26. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000003090 is covered by Policy POL-30265989.
+- Claim CLM-C000003090 concerns an incident in NJ on 2023-06-26.
+- Claim CLM-C000003090 has outcome Pending.
+- Claim CLM-C000003090 has claim type Home.

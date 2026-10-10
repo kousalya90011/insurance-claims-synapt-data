@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006991
+Policy ID: POL-94533535
+Claim Type: Home
+State: WA
+Policyholder Tenure: 5.6 years
+Previous Claims: 0
+Incident Date: 2024-11-23
+Claim Filed Date: 2024-11-25
+Claim Amount: $9,103.92
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000006991 for home policy in WA. Policyholder tenure: 5.6 yrs with 0 prior claims. Amount claimed: $9103.92 (deductible $2500.0). Filed on 2024-11-25 following incident on 2024-11-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006991 is covered by Policy POL-94533535.
+- Claim CLM-C000006991 concerns an incident in WA on 2024-11-23.
+- Claim CLM-C000006991 has outcome Approved.
+- Claim CLM-C000006991 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008611
+Policy ID: POL-48316164
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 2.8 years
+Previous Claims: 0
+Incident Date: 2024-04-13
+Claim Filed Date: 2024-05-21
+Claim Amount: $3,475.07
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000008611 for auto policy in AZ. Policyholder tenure: 2.8 yrs with 0 prior claims. Amount claimed: $3475.07 (deductible $2000.0). Filed on 2024-05-21 following incident on 2024-04-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008611 is covered by Policy POL-48316164.
+- Claim CLM-C000008611 concerns an incident in AZ on 2024-04-13.
+- Claim CLM-C000008611 has outcome Approved.
+- Claim CLM-C000008611 has claim type Auto.

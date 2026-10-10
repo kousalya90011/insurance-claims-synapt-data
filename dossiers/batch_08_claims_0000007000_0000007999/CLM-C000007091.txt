@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007091
+Policy ID: POL-22887706
+Claim Type: Business
+State: OH
+Policyholder Tenure: 2.4 years
+Previous Claims: 3
+Incident Date: 2023-09-09
+Claim Filed Date: 2023-10-21
+Claim Amount: $21,094.73
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000007091 for business policy in OH. Policyholder tenure: 2.4 yrs with 3 prior claims. Amount claimed: $21094.73 (deductible $500.0). Filed on 2023-10-21 following incident on 2023-09-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007091 is covered by Policy POL-22887706.
+- Claim CLM-C000007091 concerns an incident in OH on 2023-09-09.
+- Claim CLM-C000007091 has outcome Approved.
+- Claim CLM-C000007091 has claim type Business.

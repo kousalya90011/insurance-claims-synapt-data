@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009695
+Policy ID: POL-53646422
+Claim Type: Property
+State: WA
+Policyholder Tenure: 5.2 years
+Previous Claims: 1
+Incident Date: 2023-07-18
+Claim Filed Date: 2023-08-04
+Claim Amount: $6,759.33
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000009695 for property policy in WA. Policyholder tenure: 5.2 yrs with 1 prior claims. Amount claimed: $6759.33 (deductible $5000.0). Filed on 2023-08-04 following incident on 2023-07-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009695 is covered by Policy POL-53646422.
+- Claim CLM-C000009695 concerns an incident in WA on 2023-07-18.
+- Claim CLM-C000009695 has outcome Approved.
+- Claim CLM-C000009695 has claim type Property.

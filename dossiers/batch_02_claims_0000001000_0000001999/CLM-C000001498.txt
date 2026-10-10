@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001498
+Policy ID: POL-38711435
+Claim Type: Home
+State: OH
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2024-07-12
+Claim Filed Date: 2024-07-21
+Claim Amount: $43,592.37
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 50 days
+Claim Narrative: Claim CLM-C000001498 for home policy in OH. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $43592.37 (deductible $250.0). Filed on 2024-07-21 following incident on 2024-07-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001498 is covered by Policy POL-38711435.
+- Claim CLM-C000001498 concerns an incident in OH on 2024-07-12.
+- Claim CLM-C000001498 has outcome Approved.
+- Claim CLM-C000001498 has claim type Home.

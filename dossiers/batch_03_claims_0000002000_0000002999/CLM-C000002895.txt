@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002895
+Policy ID: POL-94306995
+Claim Type: Property
+State: MO
+Policyholder Tenure: 5.2 years
+Previous Claims: 3
+Incident Date: 2024-03-01
+Claim Filed Date: 2024-03-22
+Claim Amount: $23,195.50
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000002895 for property policy in MO. Policyholder tenure: 5.2 yrs with 3 prior claims. Amount claimed: $23195.5 (deductible $1000.0). Filed on 2024-03-22 following incident on 2024-03-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002895 is covered by Policy POL-94306995.
+- Claim CLM-C000002895 concerns an incident in MO on 2024-03-01.
+- Claim CLM-C000002895 has outcome Approved.
+- Claim CLM-C000002895 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003890
+Policy ID: POL-65679454
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 2.4 years
+Previous Claims: 2
+Incident Date: 2024-05-07
+Claim Filed Date: 2024-06-19
+Claim Amount: $2,766.30
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000003890 for auto policy in PA. Policyholder tenure: 2.4 yrs with 2 prior claims. Amount claimed: $2766.3 (deductible $500.0). Filed on 2024-06-19 following incident on 2024-05-07. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003890 is covered by Policy POL-65679454.
+- Claim CLM-C000003890 concerns an incident in PA on 2024-05-07.
+- Claim CLM-C000003890 has outcome Denied.
+- Claim CLM-C000003890 has claim type Auto.

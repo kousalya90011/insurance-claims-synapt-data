@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005871
+Policy ID: POL-24430431
+Claim Type: Business
+State: NC
+Policyholder Tenure: 3.0 years
+Previous Claims: 1
+Incident Date: 2024-10-25
+Claim Filed Date: 2024-11-13
+Claim Amount: $12,398.05
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000005871 for business policy in NC. Policyholder tenure: 3.0 yrs with 1 prior claims. Amount claimed: $12398.05 (deductible $1000.0). Filed on 2024-11-13 following incident on 2024-10-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005871 is covered by Policy POL-24430431.
+- Claim CLM-C000005871 concerns an incident in NC on 2024-10-25.
+- Claim CLM-C000005871 has outcome Approved.
+- Claim CLM-C000005871 has claim type Business.

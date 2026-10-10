@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001990
+Policy ID: POL-52550557
+Claim Type: Home
+State: OH
+Policyholder Tenure: 5.4 years
+Previous Claims: 0
+Incident Date: 2023-05-05
+Claim Filed Date: 2023-06-05
+Claim Amount: $11,850.69
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000001990 for home policy in OH. Policyholder tenure: 5.4 yrs with 0 prior claims. Amount claimed: $11850.69 (deductible $500.0). Filed on 2023-06-05 following incident on 2023-05-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001990 is covered by Policy POL-52550557.
+- Claim CLM-C000001990 concerns an incident in OH on 2023-05-05.
+- Claim CLM-C000001990 has outcome Approved.
+- Claim CLM-C000001990 has claim type Home.

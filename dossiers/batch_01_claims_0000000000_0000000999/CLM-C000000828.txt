@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000828
+Policy ID: POL-10488685
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 9.4 years
+Previous Claims: 0
+Incident Date: 2023-01-25
+Claim Filed Date: 2023-03-08
+Claim Amount: $6,955.95
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 55 days
+Claim Narrative: Claim CLM-C000000828 for auto policy in MA. Policyholder tenure: 9.4 yrs with 0 prior claims. Amount claimed: $6955.95 (deductible $250.0). Filed on 2023-03-08 following incident on 2023-01-25. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000828 is covered by Policy POL-10488685.
+- Claim CLM-C000000828 concerns an incident in MA on 2023-01-25.
+- Claim CLM-C000000828 has outcome Denied.
+- Claim CLM-C000000828 has claim type Auto.

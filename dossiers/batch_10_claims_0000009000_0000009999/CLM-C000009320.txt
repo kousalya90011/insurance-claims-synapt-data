@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009320
+Policy ID: POL-36309294
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 2.5 years
+Previous Claims: 1
+Incident Date: 2023-11-12
+Claim Filed Date: 2023-12-07
+Claim Amount: $1,463.97
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000009320 for renters policy in FL. Policyholder tenure: 2.5 yrs with 1 prior claims. Amount claimed: $1463.97 (deductible $500.0). Filed on 2023-12-07 following incident on 2023-11-12. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009320 is covered by Policy POL-36309294.
+- Claim CLM-C000009320 concerns an incident in FL on 2023-11-12.
+- Claim CLM-C000009320 has outcome Denied.
+- Claim CLM-C000009320 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007242
+Policy ID: POL-75489692
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 24.4 years
+Previous Claims: 3
+Incident Date: 2024-08-20
+Claim Filed Date: 2024-09-01
+Claim Amount: $4,328.38
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000007242 for auto policy in PA. Policyholder tenure: 24.4 yrs with 3 prior claims. Amount claimed: $4328.38 (deductible $250.0). Filed on 2024-09-01 following incident on 2024-08-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007242 is covered by Policy POL-75489692.
+- Claim CLM-C000007242 concerns an incident in PA on 2024-08-20.
+- Claim CLM-C000007242 has outcome Approved.
+- Claim CLM-C000007242 has claim type Auto.

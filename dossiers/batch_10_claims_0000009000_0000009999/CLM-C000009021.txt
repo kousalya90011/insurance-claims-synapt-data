@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009021
+Policy ID: POL-67938253
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 1.9 years
+Previous Claims: 1
+Incident Date: 2024-10-14
+Claim Filed Date: 2024-10-25
+Claim Amount: $11,311.64
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000009021 for property policy in NJ. Policyholder tenure: 1.9 yrs with 1 prior claims. Amount claimed: $11311.64 (deductible $2000.0). Filed on 2024-10-25 following incident on 2024-10-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009021 is covered by Policy POL-67938253.
+- Claim CLM-C000009021 concerns an incident in NJ on 2024-10-14.
+- Claim CLM-C000009021 has outcome Approved.
+- Claim CLM-C000009021 has claim type Property.

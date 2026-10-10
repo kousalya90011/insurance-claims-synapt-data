@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006548
+Policy ID: POL-34747378
+Claim Type: Home
+State: TX
+Policyholder Tenure: 9.8 years
+Previous Claims: 2
+Incident Date: 2024-04-04
+Claim Filed Date: 2024-04-09
+Claim Amount: $10,151.76
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006548 for home policy in TX. Policyholder tenure: 9.8 yrs with 2 prior claims. Amount claimed: $10151.76 (deductible $500.0). Filed on 2024-04-09 following incident on 2024-04-04. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006548 is covered by Policy POL-34747378.
+- Claim CLM-C000006548 concerns an incident in TX on 2024-04-04.
+- Claim CLM-C000006548 has outcome Pending.
+- Claim CLM-C000006548 has claim type Home.

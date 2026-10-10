@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000229
+Policy ID: POL-69696820
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 2.2 years
+Previous Claims: 0
+Incident Date: 2024-12-07
+Claim Filed Date: 2024-12-20
+Claim Amount: $5,962.61
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000000229 for auto policy in FL. Policyholder tenure: 2.2 yrs with 0 prior claims. Amount claimed: $5962.61 (deductible $500.0). Filed on 2024-12-20 following incident on 2024-12-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000229 is covered by Policy POL-69696820.
+- Claim CLM-C000000229 concerns an incident in FL on 2024-12-07.
+- Claim CLM-C000000229 has outcome Approved.
+- Claim CLM-C000000229 has claim type Auto.

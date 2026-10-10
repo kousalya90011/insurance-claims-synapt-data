@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001482
+Policy ID: POL-87694548
+Claim Type: Renters
+State: WA
+Policyholder Tenure: 4.9 years
+Previous Claims: 1
+Incident Date: 2024-11-20
+Claim Filed Date: 2024-12-11
+Claim Amount: $10,227.33
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000001482 for renters policy in WA. Policyholder tenure: 4.9 yrs with 1 prior claims. Amount claimed: $10227.33 (deductible $1000.0). Filed on 2024-12-11 following incident on 2024-11-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001482 is covered by Policy POL-87694548.
+- Claim CLM-C000001482 concerns an incident in WA on 2024-11-20.
+- Claim CLM-C000001482 has outcome Approved.
+- Claim CLM-C000001482 has claim type Renters.

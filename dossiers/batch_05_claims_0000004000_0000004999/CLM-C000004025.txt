@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004025
+Policy ID: POL-85838915
+Claim Type: Property
+State: FL
+Policyholder Tenure: 9.4 years
+Previous Claims: 0
+Incident Date: 2024-04-06
+Claim Filed Date: 2024-04-16
+Claim Amount: $11,554.96
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000004025 for property policy in FL. Policyholder tenure: 9.4 yrs with 0 prior claims. Amount claimed: $11554.96 (deductible $1000.0). Filed on 2024-04-16 following incident on 2024-04-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004025 is covered by Policy POL-85838915.
+- Claim CLM-C000004025 concerns an incident in FL on 2024-04-06.
+- Claim CLM-C000004025 has outcome Approved.
+- Claim CLM-C000004025 has claim type Property.

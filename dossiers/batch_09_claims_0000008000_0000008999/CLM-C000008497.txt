@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008497
+Policy ID: POL-77971959
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 7.0 years
+Previous Claims: 1
+Incident Date: 2024-10-05
+Claim Filed Date: 2024-10-27
+Claim Amount: $18,540.75
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000008497 for auto policy in MO. Policyholder tenure: 7.0 yrs with 1 prior claims. Amount claimed: $18540.75 (deductible $500.0). Filed on 2024-10-27 following incident on 2024-10-05. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008497 is covered by Policy POL-77971959.
+- Claim CLM-C000008497 concerns an incident in MO on 2024-10-05.
+- Claim CLM-C000008497 has outcome Under Review.
+- Claim CLM-C000008497 has claim type Auto.

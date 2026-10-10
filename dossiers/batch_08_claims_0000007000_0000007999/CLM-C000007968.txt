@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007968
+Policy ID: POL-70213368
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 0.1 years
+Previous Claims: 2
+Incident Date: 2023-05-28
+Claim Filed Date: 2023-07-08
+Claim Amount: $7,915.93
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 63 days
+Claim Narrative: Claim CLM-C000007968 for property policy in NJ. Policyholder tenure: 0.1 yrs with 2 prior claims. Amount claimed: $7915.93 (deductible $250.0). Filed on 2023-07-08 following incident on 2023-05-28. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007968 is covered by Policy POL-70213368.
+- Claim CLM-C000007968 concerns an incident in NJ on 2023-05-28.
+- Claim CLM-C000007968 has outcome Denied.
+- Claim CLM-C000007968 has claim type Property.

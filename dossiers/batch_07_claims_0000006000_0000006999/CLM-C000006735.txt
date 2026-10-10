@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006735
+Policy ID: POL-70980683
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 0.2 years
+Previous Claims: 1
+Incident Date: 2024-02-12
+Claim Filed Date: 2024-03-23
+Claim Amount: $10,718.65
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000006735 for auto policy in IL. Policyholder tenure: 0.2 yrs with 1 prior claims. Amount claimed: $10718.65 (deductible $1000.0). Filed on 2024-03-23 following incident on 2024-02-12. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006735 is covered by Policy POL-70980683.
+- Claim CLM-C000006735 concerns an incident in IL on 2024-02-12.
+- Claim CLM-C000006735 has outcome Denied.
+- Claim CLM-C000006735 has claim type Auto.

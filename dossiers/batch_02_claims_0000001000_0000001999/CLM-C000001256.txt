@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001256
+Policy ID: POL-87891088
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 9.9 years
+Previous Claims: 1
+Incident Date: 2023-07-23
+Claim Filed Date: 2023-08-12
+Claim Amount: $4,720.91
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001256 for renters policy in CO. Policyholder tenure: 9.9 yrs with 1 prior claims. Amount claimed: $4720.91 (deductible $500.0). Filed on 2023-08-12 following incident on 2023-07-23. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001256 is covered by Policy POL-87891088.
+- Claim CLM-C000001256 concerns an incident in CO on 2023-07-23.
+- Claim CLM-C000001256 has outcome Pending.
+- Claim CLM-C000001256 has claim type Renters.

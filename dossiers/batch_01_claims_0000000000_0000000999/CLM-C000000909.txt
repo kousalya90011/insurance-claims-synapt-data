@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000909
+Policy ID: POL-58379242
+Claim Type: Business
+State: MA
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2023-11-25
+Claim Filed Date: 2023-11-29
+Claim Amount: $12,595.73
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000000909 for business policy in MA. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $12595.73 (deductible $500.0). Filed on 2023-11-29 following incident on 2023-11-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000909 is covered by Policy POL-58379242.
+- Claim CLM-C000000909 concerns an incident in MA on 2023-11-25.
+- Claim CLM-C000000909 has outcome Approved.
+- Claim CLM-C000000909 has claim type Business.

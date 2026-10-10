@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009937
+Policy ID: POL-90372996
+Claim Type: Property
+State: MD
+Policyholder Tenure: 6.0 years
+Previous Claims: 2
+Incident Date: 2023-11-06
+Claim Filed Date: 2023-11-18
+Claim Amount: $8,754.77
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000009937 for property policy in MD. Policyholder tenure: 6.0 yrs with 2 prior claims. Amount claimed: $8754.77 (deductible $250.0). Filed on 2023-11-18 following incident on 2023-11-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009937 is covered by Policy POL-90372996.
+- Claim CLM-C000009937 concerns an incident in MD on 2023-11-06.
+- Claim CLM-C000009937 has outcome Approved.
+- Claim CLM-C000009937 has claim type Property.

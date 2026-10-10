@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008724
+Policy ID: POL-82406150
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 2.5 years
+Previous Claims: 2
+Incident Date: 2023-04-21
+Claim Filed Date: 2023-04-22
+Claim Amount: $21,174.25
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000008724 for auto policy in FL. Policyholder tenure: 2.5 yrs with 2 prior claims. Amount claimed: $21174.25 (deductible $1000.0). Filed on 2023-04-22 following incident on 2023-04-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008724 is covered by Policy POL-82406150.
+- Claim CLM-C000008724 concerns an incident in FL on 2023-04-21.
+- Claim CLM-C000008724 has outcome Approved.
+- Claim CLM-C000008724 has claim type Auto.

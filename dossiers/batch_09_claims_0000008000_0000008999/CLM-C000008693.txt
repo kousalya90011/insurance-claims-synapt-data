@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008693
+Policy ID: POL-37445995
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 9.7 years
+Previous Claims: 1
+Incident Date: 2024-03-11
+Claim Filed Date: 2024-03-28
+Claim Amount: $6,454.43
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000008693 for home policy in AZ. Policyholder tenure: 9.7 yrs with 1 prior claims. Amount claimed: $6454.43 (deductible $2000.0). Filed on 2024-03-28 following incident on 2024-03-11. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008693 is covered by Policy POL-37445995.
+- Claim CLM-C000008693 concerns an incident in AZ on 2024-03-11.
+- Claim CLM-C000008693 has outcome Denied.
+- Claim CLM-C000008693 has claim type Home.

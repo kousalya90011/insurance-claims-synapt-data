@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009348
+Policy ID: POL-27513462
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 9.9 years
+Previous Claims: 1
+Incident Date: 2023-05-06
+Claim Filed Date: 2023-06-10
+Claim Amount: $1,279.93
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000009348 for renters policy in FL. Policyholder tenure: 9.9 yrs with 1 prior claims. Amount claimed: $1279.93 (deductible $500.0). Filed on 2023-06-10 following incident on 2023-05-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009348 is covered by Policy POL-27513462.
+- Claim CLM-C000009348 concerns an incident in FL on 2023-05-06.
+- Claim CLM-C000009348 has outcome Approved.
+- Claim CLM-C000009348 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006810
+Policy ID: POL-77619139
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 2.7 years
+Previous Claims: 2
+Incident Date: 2023-07-25
+Claim Filed Date: 2023-08-11
+Claim Amount: $10,608.59
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000006810 for renters policy in IL. Policyholder tenure: 2.7 yrs with 2 prior claims. Amount claimed: $10608.59 (deductible $1000.0). Filed on 2023-08-11 following incident on 2023-07-25. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006810 is covered by Policy POL-77619139.
+- Claim CLM-C000006810 concerns an incident in IL on 2023-07-25.
+- Claim CLM-C000006810 has outcome Denied.
+- Claim CLM-C000006810 has claim type Renters.

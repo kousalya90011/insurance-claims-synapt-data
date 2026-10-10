@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000396
+Policy ID: POL-94093522
+Claim Type: Business
+State: MO
+Policyholder Tenure: 3.0 years
+Previous Claims: 0
+Incident Date: 2023-11-17
+Claim Filed Date: 2023-12-05
+Claim Amount: $38,194.52
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 48 days
+Claim Narrative: Claim CLM-C000000396 for business policy in MO. Policyholder tenure: 3.0 yrs with 0 prior claims. Amount claimed: $38194.52 (deductible $250.0). Filed on 2023-12-05 following incident on 2023-11-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000396 is covered by Policy POL-94093522.
+- Claim CLM-C000000396 concerns an incident in MO on 2023-11-17.
+- Claim CLM-C000000396 has outcome Approved.
+- Claim CLM-C000000396 has claim type Business.

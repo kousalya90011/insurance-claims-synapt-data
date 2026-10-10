@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008896
+Policy ID: POL-60209800
+Claim Type: Property
+State: PA
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2024-10-21
+Claim Filed Date: 2024-11-29
+Claim Amount: $3,737.68
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000008896 for property policy in PA. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $3737.68 (deductible $250.0). Filed on 2024-11-29 following incident on 2024-10-21. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008896 is covered by Policy POL-60209800.
+- Claim CLM-C000008896 concerns an incident in PA on 2024-10-21.
+- Claim CLM-C000008896 has outcome Denied.
+- Claim CLM-C000008896 has claim type Property.

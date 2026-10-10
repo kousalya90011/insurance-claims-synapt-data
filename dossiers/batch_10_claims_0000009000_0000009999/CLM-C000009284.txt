@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009284
+Policy ID: POL-26769390
+Claim Type: Property
+State: IL
+Policyholder Tenure: 1.2 years
+Previous Claims: 2
+Incident Date: 2025-01-13
+Claim Filed Date: 2025-02-19
+Claim Amount: $34,608.27
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000009284 for property policy in IL. Policyholder tenure: 1.2 yrs with 2 prior claims. Amount claimed: $34608.27 (deductible $250.0). Filed on 2025-02-19 following incident on 2025-01-13. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009284 is covered by Policy POL-26769390.
+- Claim CLM-C000009284 concerns an incident in IL on 2025-01-13.
+- Claim CLM-C000009284 has outcome Denied.
+- Claim CLM-C000009284 has claim type Property.

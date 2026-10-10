@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006082
+Policy ID: POL-33851335
+Claim Type: Home
+State: IL
+Policyholder Tenure: 3.1 years
+Previous Claims: 2
+Incident Date: 2023-09-07
+Claim Filed Date: 2023-10-12
+Claim Amount: $19,733.60
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006082 for home policy in IL. Policyholder tenure: 3.1 yrs with 2 prior claims. Amount claimed: $19733.6 (deductible $500.0). Filed on 2023-10-12 following incident on 2023-09-07. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006082 is covered by Policy POL-33851335.
+- Claim CLM-C000006082 concerns an incident in IL on 2023-09-07.
+- Claim CLM-C000006082 has outcome Pending.
+- Claim CLM-C000006082 has claim type Home.

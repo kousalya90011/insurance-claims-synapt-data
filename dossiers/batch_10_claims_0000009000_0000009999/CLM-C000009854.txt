@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009854
+Policy ID: POL-83236810
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 7.1 years
+Previous Claims: 0
+Incident Date: 2025-01-19
+Claim Filed Date: 2025-01-26
+Claim Amount: $34,390.46
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 45 days
+Claim Narrative: Claim CLM-C000009854 for auto policy in CA. Policyholder tenure: 7.1 yrs with 0 prior claims. Amount claimed: $34390.46 (deductible $1000.0). Filed on 2025-01-26 following incident on 2025-01-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009854 is covered by Policy POL-83236810.
+- Claim CLM-C000009854 concerns an incident in CA on 2025-01-19.
+- Claim CLM-C000009854 has outcome Approved.
+- Claim CLM-C000009854 has claim type Auto.

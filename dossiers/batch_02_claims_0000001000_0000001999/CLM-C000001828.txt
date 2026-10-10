@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001828
+Policy ID: POL-76161647
+Claim Type: Home
+State: CO
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2024-07-15
+Claim Filed Date: 2024-08-13
+Claim Amount: $4,945.68
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000001828 for home policy in CO. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $4945.68 (deductible $1000.0). Filed on 2024-08-13 following incident on 2024-07-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001828 is covered by Policy POL-76161647.
+- Claim CLM-C000001828 concerns an incident in CO on 2024-07-15.
+- Claim CLM-C000001828 has outcome Approved.
+- Claim CLM-C000001828 has claim type Home.

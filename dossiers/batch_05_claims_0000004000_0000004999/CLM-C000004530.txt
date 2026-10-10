@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004530
+Policy ID: POL-66977966
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 3.2 years
+Previous Claims: 1
+Incident Date: 2024-04-08
+Claim Filed Date: 2024-05-03
+Claim Amount: $5,211.43
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000004530 for auto policy in MI. Policyholder tenure: 3.2 yrs with 1 prior claims. Amount claimed: $5211.43 (deductible $2000.0). Filed on 2024-05-03 following incident on 2024-04-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004530 is covered by Policy POL-66977966.
+- Claim CLM-C000004530 concerns an incident in MI on 2024-04-08.
+- Claim CLM-C000004530 has outcome Denied.
+- Claim CLM-C000004530 has claim type Auto.

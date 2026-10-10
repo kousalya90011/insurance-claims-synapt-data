@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009619
+Policy ID: POL-99974335
+Claim Type: Home
+State: CO
+Policyholder Tenure: 7.8 years
+Previous Claims: 1
+Incident Date: 2023-04-26
+Claim Filed Date: 2023-06-01
+Claim Amount: $24,802.32
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000009619 for home policy in CO. Policyholder tenure: 7.8 yrs with 1 prior claims. Amount claimed: $24802.32 (deductible $1000.0). Filed on 2023-06-01 following incident on 2023-04-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009619 is covered by Policy POL-99974335.
+- Claim CLM-C000009619 concerns an incident in CO on 2023-04-26.
+- Claim CLM-C000009619 has outcome Approved.
+- Claim CLM-C000009619 has claim type Home.

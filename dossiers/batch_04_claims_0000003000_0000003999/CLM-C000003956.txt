@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003956
+Policy ID: POL-65294748
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 5.4 years
+Previous Claims: 0
+Incident Date: 2024-07-31
+Claim Filed Date: 2024-08-06
+Claim Amount: $10,735.51
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000003956 for auto policy in CO. Policyholder tenure: 5.4 yrs with 0 prior claims. Amount claimed: $10735.51 (deductible $500.0). Filed on 2024-08-06 following incident on 2024-07-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003956 is covered by Policy POL-65294748.
+- Claim CLM-C000003956 concerns an incident in CO on 2024-07-31.
+- Claim CLM-C000003956 has outcome Approved.
+- Claim CLM-C000003956 has claim type Auto.

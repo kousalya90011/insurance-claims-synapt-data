@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004926
+Policy ID: POL-57917378
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 8.5 years
+Previous Claims: 0
+Incident Date: 2023-06-11
+Claim Filed Date: 2023-06-23
+Claim Amount: $16,490.57
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000004926 for auto policy in FL. Policyholder tenure: 8.5 yrs with 0 prior claims. Amount claimed: $16490.57 (deductible $2000.0). Filed on 2023-06-23 following incident on 2023-06-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004926 is covered by Policy POL-57917378.
+- Claim CLM-C000004926 concerns an incident in FL on 2023-06-11.
+- Claim CLM-C000004926 has outcome Under Review.
+- Claim CLM-C000004926 has claim type Auto.

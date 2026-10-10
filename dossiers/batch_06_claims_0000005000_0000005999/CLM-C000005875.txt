@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005875
+Policy ID: POL-81177860
+Claim Type: Home
+State: PA
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2023-07-03
+Claim Filed Date: 2023-07-22
+Claim Amount: $29,755.21
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000005875 for home policy in PA. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $29755.21 (deductible $250.0). Filed on 2023-07-22 following incident on 2023-07-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005875 is covered by Policy POL-81177860.
+- Claim CLM-C000005875 concerns an incident in PA on 2023-07-03.
+- Claim CLM-C000005875 has outcome Approved.
+- Claim CLM-C000005875 has claim type Home.

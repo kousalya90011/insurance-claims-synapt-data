@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002434
+Policy ID: POL-14974336
+Claim Type: Renters
+State: NC
+Policyholder Tenure: 3.0 years
+Previous Claims: 0
+Incident Date: 2024-09-24
+Claim Filed Date: 2024-11-01
+Claim Amount: $1,659.54
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 3 days
+Claim Narrative: Claim CLM-C000002434 for renters policy in NC. Policyholder tenure: 3.0 yrs with 0 prior claims. Amount claimed: $1659.54 (deductible $1000.0). Filed on 2024-11-01 following incident on 2024-09-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002434 is covered by Policy POL-14974336.
+- Claim CLM-C000002434 concerns an incident in NC on 2024-09-24.
+- Claim CLM-C000002434 has outcome Approved.
+- Claim CLM-C000002434 has claim type Renters.

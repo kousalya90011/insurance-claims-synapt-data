@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006245
+Policy ID: POL-72804233
+Claim Type: Property
+State: WI
+Policyholder Tenure: 16.7 years
+Previous Claims: 0
+Incident Date: 2023-05-05
+Claim Filed Date: 2023-05-25
+Claim Amount: $17,515.92
+Deductible: $2,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006245 for property policy in WI. Policyholder tenure: 16.7 yrs with 0 prior claims. Amount claimed: $17515.92 (deductible $2000.0). Filed on 2023-05-25 following incident on 2023-05-05. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006245 is covered by Policy POL-72804233.
+- Claim CLM-C000006245 concerns an incident in WI on 2023-05-05.
+- Claim CLM-C000006245 has outcome Pending.
+- Claim CLM-C000006245 has claim type Property.

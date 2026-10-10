@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000108
+Policy ID: POL-51302419
+Claim Type: Renters
+State: CA
+Policyholder Tenure: 3.8 years
+Previous Claims: 0
+Incident Date: 2024-07-13
+Claim Filed Date: 2024-08-13
+Claim Amount: $1,452.06
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000000108 for renters policy in CA. Policyholder tenure: 3.8 yrs with 0 prior claims. Amount claimed: $1452.06 (deductible $1000.0). Filed on 2024-08-13 following incident on 2024-07-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000108 is covered by Policy POL-51302419.
+- Claim CLM-C000000108 concerns an incident in CA on 2024-07-13.
+- Claim CLM-C000000108 has outcome Approved.
+- Claim CLM-C000000108 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009693
+Policy ID: POL-29450084
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 3.7 years
+Previous Claims: 0
+Incident Date: 2024-01-28
+Claim Filed Date: 2024-02-13
+Claim Amount: $6,417.15
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000009693 for renters policy in CO. Policyholder tenure: 3.7 yrs with 0 prior claims. Amount claimed: $6417.15 (deductible $250.0). Filed on 2024-02-13 following incident on 2024-01-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009693 is covered by Policy POL-29450084.
+- Claim CLM-C000009693 concerns an incident in CO on 2024-01-28.
+- Claim CLM-C000009693 has outcome Approved.
+- Claim CLM-C000009693 has claim type Renters.

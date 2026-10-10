@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009769
+Policy ID: POL-10831502
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 11.0 years
+Previous Claims: 1
+Incident Date: 2024-02-07
+Claim Filed Date: 2024-02-07
+Claim Amount: $948.42
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000009769 for renters policy in MI. Policyholder tenure: 11.0 yrs with 1 prior claims. Amount claimed: $948.42 (deductible $250.0). Filed on 2024-02-07 following incident on 2024-02-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009769 is covered by Policy POL-10831502.
+- Claim CLM-C000009769 concerns an incident in MI on 2024-02-07.
+- Claim CLM-C000009769 has outcome Approved.
+- Claim CLM-C000009769 has claim type Renters.

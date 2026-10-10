@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006904
+Policy ID: POL-21171967
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2024-08-11
+Claim Filed Date: 2024-09-20
+Claim Amount: $11,138.32
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000006904 for auto policy in OH. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $11138.32 (deductible $250.0). Filed on 2024-09-20 following incident on 2024-08-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006904 is covered by Policy POL-21171967.
+- Claim CLM-C000006904 concerns an incident in OH on 2024-08-11.
+- Claim CLM-C000006904 has outcome Approved.
+- Claim CLM-C000006904 has claim type Auto.

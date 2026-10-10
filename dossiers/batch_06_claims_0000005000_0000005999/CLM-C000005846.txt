@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005846
+Policy ID: POL-83757516
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 1.0 years
+Previous Claims: 1
+Incident Date: 2023-03-13
+Claim Filed Date: 2023-04-25
+Claim Amount: $11,934.40
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000005846 for auto policy in TN. Policyholder tenure: 1.0 yrs with 1 prior claims. Amount claimed: $11934.4 (deductible $500.0). Filed on 2023-04-25 following incident on 2023-03-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005846 is covered by Policy POL-83757516.
+- Claim CLM-C000005846 concerns an incident in TN on 2023-03-13.
+- Claim CLM-C000005846 has outcome Approved.
+- Claim CLM-C000005846 has claim type Auto.

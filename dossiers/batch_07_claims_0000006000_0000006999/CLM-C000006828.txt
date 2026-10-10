@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006828
+Policy ID: POL-46855209
+Claim Type: Property
+State: CA
+Policyholder Tenure: 2.5 years
+Previous Claims: 2
+Incident Date: 2024-12-06
+Claim Filed Date: 2025-01-06
+Claim Amount: $9,203.24
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000006828 for property policy in CA. Policyholder tenure: 2.5 yrs with 2 prior claims. Amount claimed: $9203.24 (deductible $500.0). Filed on 2025-01-06 following incident on 2024-12-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006828 is covered by Policy POL-46855209.
+- Claim CLM-C000006828 concerns an incident in CA on 2024-12-06.
+- Claim CLM-C000006828 has outcome Approved.
+- Claim CLM-C000006828 has claim type Property.

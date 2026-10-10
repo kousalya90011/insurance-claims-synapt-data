@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001237
+Policy ID: POL-33948770
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 14.9 years
+Previous Claims: 1
+Incident Date: 2023-11-12
+Claim Filed Date: 2023-11-14
+Claim Amount: $7,910.83
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000001237 for auto policy in OH. Policyholder tenure: 14.9 yrs with 1 prior claims. Amount claimed: $7910.83 (deductible $500.0). Filed on 2023-11-14 following incident on 2023-11-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001237 is covered by Policy POL-33948770.
+- Claim CLM-C000001237 concerns an incident in OH on 2023-11-12.
+- Claim CLM-C000001237 has outcome Approved.
+- Claim CLM-C000001237 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002843
+Policy ID: POL-55671051
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 1.3 years
+Previous Claims: 3
+Incident Date: 2024-03-31
+Claim Filed Date: 2024-04-23
+Claim Amount: $5,754.39
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000002843 for auto policy in NJ. Policyholder tenure: 1.3 yrs with 3 prior claims. Amount claimed: $5754.39 (deductible $1000.0). Filed on 2024-04-23 following incident on 2024-03-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002843 is covered by Policy POL-55671051.
+- Claim CLM-C000002843 concerns an incident in NJ on 2024-03-31.
+- Claim CLM-C000002843 has outcome Approved.
+- Claim CLM-C000002843 has claim type Auto.

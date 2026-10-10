@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009857
+Policy ID: POL-31145098
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 7.0 years
+Previous Claims: 1
+Incident Date: 2023-03-12
+Claim Filed Date: 2023-04-25
+Claim Amount: $18,484.23
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000009857 for home policy in NJ. Policyholder tenure: 7.0 yrs with 1 prior claims. Amount claimed: $18484.23 (deductible $500.0). Filed on 2023-04-25 following incident on 2023-03-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009857 is covered by Policy POL-31145098.
+- Claim CLM-C000009857 concerns an incident in NJ on 2023-03-12.
+- Claim CLM-C000009857 has outcome Approved.
+- Claim CLM-C000009857 has claim type Home.

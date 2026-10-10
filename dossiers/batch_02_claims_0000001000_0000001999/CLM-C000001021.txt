@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001021
+Policy ID: POL-47368902
+Claim Type: Home
+State: OH
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2024-10-30
+Claim Filed Date: 2024-12-02
+Claim Amount: $9,744.84
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000001021 for home policy in OH. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $9744.84 (deductible $2000.0). Filed on 2024-12-02 following incident on 2024-10-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001021 is covered by Policy POL-47368902.
+- Claim CLM-C000001021 concerns an incident in OH on 2024-10-30.
+- Claim CLM-C000001021 has outcome Approved.
+- Claim CLM-C000001021 has claim type Home.

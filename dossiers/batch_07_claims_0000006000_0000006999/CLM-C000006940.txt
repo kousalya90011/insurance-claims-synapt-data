@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006940
+Policy ID: POL-53624892
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 0.9 years
+Previous Claims: 1
+Incident Date: 2024-03-23
+Claim Filed Date: 2024-04-19
+Claim Amount: $8,283.97
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000006940 for auto policy in NY. Policyholder tenure: 0.9 yrs with 1 prior claims. Amount claimed: $8283.97 (deductible $2000.0). Filed on 2024-04-19 following incident on 2024-03-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006940 is covered by Policy POL-53624892.
+- Claim CLM-C000006940 concerns an incident in NY on 2024-03-23.
+- Claim CLM-C000006940 has outcome Approved.
+- Claim CLM-C000006940 has claim type Auto.

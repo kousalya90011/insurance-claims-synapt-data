@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009485
+Policy ID: POL-52590275
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 2.3 years
+Previous Claims: 1
+Incident Date: 2023-09-02
+Claim Filed Date: 2023-09-11
+Claim Amount: $11,318.48
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000009485 for auto policy in NY. Policyholder tenure: 2.3 yrs with 1 prior claims. Amount claimed: $11318.48 (deductible $2500.0). Filed on 2023-09-11 following incident on 2023-09-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009485 is covered by Policy POL-52590275.
+- Claim CLM-C000009485 concerns an incident in NY on 2023-09-02.
+- Claim CLM-C000009485 has outcome Approved.
+- Claim CLM-C000009485 has claim type Auto.

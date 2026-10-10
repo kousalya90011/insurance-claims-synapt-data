@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002290
+Policy ID: POL-18348046
+Claim Type: Property
+State: MD
+Policyholder Tenure: 1.0 years
+Previous Claims: 3
+Incident Date: 2024-04-10
+Claim Filed Date: 2024-04-26
+Claim Amount: $8,898.51
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000002290 for property policy in MD. Policyholder tenure: 1.0 yrs with 3 prior claims. Amount claimed: $8898.51 (deductible $1000.0). Filed on 2024-04-26 following incident on 2024-04-10. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002290 is covered by Policy POL-18348046.
+- Claim CLM-C000002290 concerns an incident in MD on 2024-04-10.
+- Claim CLM-C000002290 has outcome Denied.
+- Claim CLM-C000002290 has claim type Property.

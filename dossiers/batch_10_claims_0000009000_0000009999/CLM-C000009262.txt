@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009262
+Policy ID: POL-52320978
+Claim Type: Home
+State: IL
+Policyholder Tenure: 21.9 years
+Previous Claims: 1
+Incident Date: 2023-03-09
+Claim Filed Date: 2023-04-19
+Claim Amount: $45,272.75
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000009262 for home policy in IL. Policyholder tenure: 21.9 yrs with 1 prior claims. Amount claimed: $45272.75 (deductible $250.0). Filed on 2023-04-19 following incident on 2023-03-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009262 is covered by Policy POL-52320978.
+- Claim CLM-C000009262 concerns an incident in IL on 2023-03-09.
+- Claim CLM-C000009262 has outcome Approved.
+- Claim CLM-C000009262 has claim type Home.

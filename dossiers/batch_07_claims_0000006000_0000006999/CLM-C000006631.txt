@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006631
+Policy ID: POL-11084376
+Claim Type: Property
+State: GA
+Policyholder Tenure: 3.4 years
+Previous Claims: 0
+Incident Date: 2024-09-30
+Claim Filed Date: 2024-10-04
+Claim Amount: $13,421.14
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000006631 for property policy in GA. Policyholder tenure: 3.4 yrs with 0 prior claims. Amount claimed: $13421.14 (deductible $250.0). Filed on 2024-10-04 following incident on 2024-09-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006631 is covered by Policy POL-11084376.
+- Claim CLM-C000006631 concerns an incident in GA on 2024-09-30.
+- Claim CLM-C000006631 has outcome Approved.
+- Claim CLM-C000006631 has claim type Property.

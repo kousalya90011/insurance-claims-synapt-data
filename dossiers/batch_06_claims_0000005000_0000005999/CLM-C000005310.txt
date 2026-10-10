@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005310
+Policy ID: POL-83106724
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2023-10-27
+Claim Filed Date: 2023-12-08
+Claim Amount: $18,552.09
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000005310 for home policy in AZ. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $18552.09 (deductible $250.0). Filed on 2023-12-08 following incident on 2023-10-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005310 is covered by Policy POL-83106724.
+- Claim CLM-C000005310 concerns an incident in AZ on 2023-10-27.
+- Claim CLM-C000005310 has outcome Approved.
+- Claim CLM-C000005310 has claim type Home.

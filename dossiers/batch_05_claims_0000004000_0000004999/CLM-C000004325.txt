@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004325
+Policy ID: POL-39093929
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 13.0 years
+Previous Claims: 0
+Incident Date: 2023-01-16
+Claim Filed Date: 2023-01-23
+Claim Amount: $3,567.26
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000004325 for renters policy in TN. Policyholder tenure: 13.0 yrs with 0 prior claims. Amount claimed: $3567.26 (deductible $250.0). Filed on 2023-01-23 following incident on 2023-01-16. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004325 is covered by Policy POL-39093929.
+- Claim CLM-C000004325 concerns an incident in TN on 2023-01-16.
+- Claim CLM-C000004325 has outcome Pending.
+- Claim CLM-C000004325 has claim type Renters.

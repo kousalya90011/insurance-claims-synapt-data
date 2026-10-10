@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009644
+Policy ID: POL-90137388
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2023-02-25
+Claim Filed Date: 2023-04-01
+Claim Amount: $3,057.75
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000009644 for auto policy in NJ. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $3057.75 (deductible $1000.0). Filed on 2023-04-01 following incident on 2023-02-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009644 is covered by Policy POL-90137388.
+- Claim CLM-C000009644 concerns an incident in NJ on 2023-02-25.
+- Claim CLM-C000009644 has outcome Approved.
+- Claim CLM-C000009644 has claim type Auto.

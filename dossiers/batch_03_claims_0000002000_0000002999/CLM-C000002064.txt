@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002064
+Policy ID: POL-70106423
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2024-05-08
+Claim Filed Date: 2024-05-15
+Claim Amount: $3,638.07
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000002064 for renters policy in TX. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $3638.07 (deductible $1000.0). Filed on 2024-05-15 following incident on 2024-05-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002064 is covered by Policy POL-70106423.
+- Claim CLM-C000002064 concerns an incident in TX on 2024-05-08.
+- Claim CLM-C000002064 has outcome Approved.
+- Claim CLM-C000002064 has claim type Renters.

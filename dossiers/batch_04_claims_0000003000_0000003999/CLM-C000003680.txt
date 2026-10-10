@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003680
+Policy ID: POL-38876506
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2024-02-18
+Claim Filed Date: 2024-03-03
+Claim Amount: $1,978.98
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000003680 for renters policy in MO. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $1978.98 (deductible $1000.0). Filed on 2024-03-03 following incident on 2024-02-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003680 is covered by Policy POL-38876506.
+- Claim CLM-C000003680 concerns an incident in MO on 2024-02-18.
+- Claim CLM-C000003680 has outcome Approved.
+- Claim CLM-C000003680 has claim type Renters.

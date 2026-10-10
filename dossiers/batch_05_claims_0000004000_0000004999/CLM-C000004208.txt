@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004208
+Policy ID: POL-54353640
+Claim Type: Property
+State: OH
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2025-01-17
+Claim Filed Date: 2025-02-14
+Claim Amount: $4,010.33
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 69 days
+Claim Narrative: Claim CLM-C000004208 for property policy in OH. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $4010.33 (deductible $250.0). Filed on 2025-02-14 following incident on 2025-01-17. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004208 is covered by Policy POL-54353640.
+- Claim CLM-C000004208 concerns an incident in OH on 2025-01-17.
+- Claim CLM-C000004208 has outcome Under Review.
+- Claim CLM-C000004208 has claim type Property.

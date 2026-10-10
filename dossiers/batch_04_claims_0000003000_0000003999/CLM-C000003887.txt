@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003887
+Policy ID: POL-80677457
+Claim Type: Property
+State: TX
+Policyholder Tenure: 11.5 years
+Previous Claims: 1
+Incident Date: 2023-08-17
+Claim Filed Date: 2023-09-19
+Claim Amount: $3,133.29
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000003887 for property policy in TX. Policyholder tenure: 11.5 yrs with 1 prior claims. Amount claimed: $3133.29 (deductible $1000.0). Filed on 2023-09-19 following incident on 2023-08-17. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003887 is covered by Policy POL-80677457.
+- Claim CLM-C000003887 concerns an incident in TX on 2023-08-17.
+- Claim CLM-C000003887 has outcome Denied.
+- Claim CLM-C000003887 has claim type Property.

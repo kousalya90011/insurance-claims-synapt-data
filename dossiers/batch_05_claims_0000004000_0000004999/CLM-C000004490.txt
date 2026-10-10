@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004490
+Policy ID: POL-34758833
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 4.5 years
+Previous Claims: 2
+Incident Date: 2025-01-08
+Claim Filed Date: 2025-01-09
+Claim Amount: $6,594.37
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000004490 for renters policy in NJ. Policyholder tenure: 4.5 yrs with 2 prior claims. Amount claimed: $6594.37 (deductible $250.0). Filed on 2025-01-09 following incident on 2025-01-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004490 is covered by Policy POL-34758833.
+- Claim CLM-C000004490 concerns an incident in NJ on 2025-01-08.
+- Claim CLM-C000004490 has outcome Approved.
+- Claim CLM-C000004490 has claim type Renters.

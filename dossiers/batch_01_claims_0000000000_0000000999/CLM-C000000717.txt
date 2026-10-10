@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000717
+Policy ID: POL-79688926
+Claim Type: Home
+State: CO
+Policyholder Tenure: 1.0 years
+Previous Claims: 1
+Incident Date: 2023-02-10
+Claim Filed Date: 2023-02-20
+Claim Amount: $4,726.28
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000000717 for home policy in CO. Policyholder tenure: 1.0 yrs with 1 prior claims. Amount claimed: $4726.28 (deductible $250.0). Filed on 2023-02-20 following incident on 2023-02-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000717 is covered by Policy POL-79688926.
+- Claim CLM-C000000717 concerns an incident in CO on 2023-02-10.
+- Claim CLM-C000000717 has outcome Approved.
+- Claim CLM-C000000717 has claim type Home.

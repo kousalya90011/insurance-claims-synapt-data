@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008629
+Policy ID: POL-56010435
+Claim Type: Business
+State: TX
+Policyholder Tenure: 15.9 years
+Previous Claims: 1
+Incident Date: 2023-05-31
+Claim Filed Date: 2023-06-09
+Claim Amount: $7,246.02
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000008629 for business policy in TX. Policyholder tenure: 15.9 yrs with 1 prior claims. Amount claimed: $7246.02 (deductible $500.0). Filed on 2023-06-09 following incident on 2023-05-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008629 is covered by Policy POL-56010435.
+- Claim CLM-C000008629 concerns an incident in TX on 2023-05-31.
+- Claim CLM-C000008629 has outcome Approved.
+- Claim CLM-C000008629 has claim type Business.

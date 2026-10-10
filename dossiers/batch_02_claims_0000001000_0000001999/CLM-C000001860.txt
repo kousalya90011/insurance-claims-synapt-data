@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001860
+Policy ID: POL-32073307
+Claim Type: Home
+State: MA
+Policyholder Tenure: 3.5 years
+Previous Claims: 0
+Incident Date: 2023-01-18
+Claim Filed Date: 2023-02-03
+Claim Amount: $14,630.52
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000001860 for home policy in MA. Policyholder tenure: 3.5 yrs with 0 prior claims. Amount claimed: $14630.52 (deductible $1000.0). Filed on 2023-02-03 following incident on 2023-01-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001860 is covered by Policy POL-32073307.
+- Claim CLM-C000001860 concerns an incident in MA on 2023-01-18.
+- Claim CLM-C000001860 has outcome Denied.
+- Claim CLM-C000001860 has claim type Home.

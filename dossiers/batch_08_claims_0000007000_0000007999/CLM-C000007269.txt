@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007269
+Policy ID: POL-36947034
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 20.1 years
+Previous Claims: 2
+Incident Date: 2023-12-29
+Claim Filed Date: 2024-01-17
+Claim Amount: $17,190.33
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000007269 for home policy in NJ. Policyholder tenure: 20.1 yrs with 2 prior claims. Amount claimed: $17190.33 (deductible $500.0). Filed on 2024-01-17 following incident on 2023-12-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007269 is covered by Policy POL-36947034.
+- Claim CLM-C000007269 concerns an incident in NJ on 2023-12-29.
+- Claim CLM-C000007269 has outcome Approved.
+- Claim CLM-C000007269 has claim type Home.

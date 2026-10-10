@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003778
+Policy ID: POL-42314707
+Claim Type: Home
+State: CO
+Policyholder Tenure: 2.1 years
+Previous Claims: 0
+Incident Date: 2023-09-22
+Claim Filed Date: 2023-10-06
+Claim Amount: $3,303.94
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000003778 for home policy in CO. Policyholder tenure: 2.1 yrs with 0 prior claims. Amount claimed: $3303.94 (deductible $250.0). Filed on 2023-10-06 following incident on 2023-09-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003778 is covered by Policy POL-42314707.
+- Claim CLM-C000003778 concerns an incident in CO on 2023-09-22.
+- Claim CLM-C000003778 has outcome Approved.
+- Claim CLM-C000003778 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004169
+Policy ID: POL-40510696
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 5.3 years
+Previous Claims: 0
+Incident Date: 2024-10-23
+Claim Filed Date: 2024-11-24
+Claim Amount: $1,138.84
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000004169 for renters policy in TN. Policyholder tenure: 5.3 yrs with 0 prior claims. Amount claimed: $1138.84 (deductible $500.0). Filed on 2024-11-24 following incident on 2024-10-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004169 is covered by Policy POL-40510696.
+- Claim CLM-C000004169 concerns an incident in TN on 2024-10-23.
+- Claim CLM-C000004169 has outcome Approved.
+- Claim CLM-C000004169 has claim type Renters.

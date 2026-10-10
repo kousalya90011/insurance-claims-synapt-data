@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003876
+Policy ID: POL-94831155
+Claim Type: Home
+State: WA
+Policyholder Tenure: 13.5 years
+Previous Claims: 0
+Incident Date: 2023-03-21
+Claim Filed Date: 2023-04-19
+Claim Amount: $32,217.52
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000003876 for home policy in WA. Policyholder tenure: 13.5 yrs with 0 prior claims. Amount claimed: $32217.52 (deductible $1000.0). Filed on 2023-04-19 following incident on 2023-03-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003876 is covered by Policy POL-94831155.
+- Claim CLM-C000003876 concerns an incident in WA on 2023-03-21.
+- Claim CLM-C000003876 has outcome Approved.
+- Claim CLM-C000003876 has claim type Home.

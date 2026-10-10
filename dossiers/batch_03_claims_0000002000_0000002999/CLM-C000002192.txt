@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002192
+Policy ID: POL-81166416
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2024-08-31
+Claim Filed Date: 2024-10-12
+Claim Amount: $4,997.44
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000002192 for renters policy in PA. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $4997.44 (deductible $500.0). Filed on 2024-10-12 following incident on 2024-08-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002192 is covered by Policy POL-81166416.
+- Claim CLM-C000002192 concerns an incident in PA on 2024-08-31.
+- Claim CLM-C000002192 has outcome Approved.
+- Claim CLM-C000002192 has claim type Renters.

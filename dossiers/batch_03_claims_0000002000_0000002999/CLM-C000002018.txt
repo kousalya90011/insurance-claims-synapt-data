@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002018
+Policy ID: POL-74305535
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 20.0 years
+Previous Claims: 1
+Incident Date: 2024-08-08
+Claim Filed Date: 2024-09-12
+Claim Amount: $8,122.84
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000002018 for auto policy in CO. Policyholder tenure: 20.0 yrs with 1 prior claims. Amount claimed: $8122.84 (deductible $1000.0). Filed on 2024-09-12 following incident on 2024-08-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002018 is covered by Policy POL-74305535.
+- Claim CLM-C000002018 concerns an incident in CO on 2024-08-08.
+- Claim CLM-C000002018 has outcome Approved.
+- Claim CLM-C000002018 has claim type Auto.

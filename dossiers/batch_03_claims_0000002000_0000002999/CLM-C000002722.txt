@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002722
+Policy ID: POL-56987618
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2023-05-23
+Claim Filed Date: 2023-06-28
+Claim Amount: $5,331.66
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000002722 for renters policy in MO. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $5331.66 (deductible $1000.0). Filed on 2023-06-28 following incident on 2023-05-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002722 is covered by Policy POL-56987618.
+- Claim CLM-C000002722 concerns an incident in MO on 2023-05-23.
+- Claim CLM-C000002722 has outcome Approved.
+- Claim CLM-C000002722 has claim type Renters.

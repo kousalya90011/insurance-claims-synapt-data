@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003865
+Policy ID: POL-21738812
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 7.4 years
+Previous Claims: 0
+Incident Date: 2024-12-14
+Claim Filed Date: 2024-12-31
+Claim Amount: $5,708.38
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000003865 for home policy in NJ. Policyholder tenure: 7.4 yrs with 0 prior claims. Amount claimed: $5708.38 (deductible $1000.0). Filed on 2024-12-31 following incident on 2024-12-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003865 is covered by Policy POL-21738812.
+- Claim CLM-C000003865 concerns an incident in NJ on 2024-12-14.
+- Claim CLM-C000003865 has outcome Approved.
+- Claim CLM-C000003865 has claim type Home.

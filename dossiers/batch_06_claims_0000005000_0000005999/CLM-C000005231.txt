@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005231
+Policy ID: POL-32138291
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2023-12-11
+Claim Filed Date: 2023-12-21
+Claim Amount: $1,111.54
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000005231 for renters policy in MO. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $1111.54 (deductible $500.0). Filed on 2023-12-21 following incident on 2023-12-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005231 is covered by Policy POL-32138291.
+- Claim CLM-C000005231 concerns an incident in MO on 2023-12-11.
+- Claim CLM-C000005231 has outcome Approved.
+- Claim CLM-C000005231 has claim type Renters.

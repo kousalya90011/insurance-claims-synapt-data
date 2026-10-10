@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008597
+Policy ID: POL-74422387
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 1.8 years
+Previous Claims: 0
+Incident Date: 2024-12-19
+Claim Filed Date: 2025-01-31
+Claim Amount: $13,109.20
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000008597 for auto policy in WI. Policyholder tenure: 1.8 yrs with 0 prior claims. Amount claimed: $13109.2 (deductible $500.0). Filed on 2025-01-31 following incident on 2024-12-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008597 is covered by Policy POL-74422387.
+- Claim CLM-C000008597 concerns an incident in WI on 2024-12-19.
+- Claim CLM-C000008597 has outcome Under Review.
+- Claim CLM-C000008597 has claim type Auto.

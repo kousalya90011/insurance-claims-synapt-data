@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004017
+Policy ID: POL-40265724
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 10.1 years
+Previous Claims: 0
+Incident Date: 2024-02-03
+Claim Filed Date: 2024-02-27
+Claim Amount: $2,402.38
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000004017 for auto policy in NC. Policyholder tenure: 10.1 yrs with 0 prior claims. Amount claimed: $2402.38 (deductible $250.0). Filed on 2024-02-27 following incident on 2024-02-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004017 is covered by Policy POL-40265724.
+- Claim CLM-C000004017 concerns an incident in NC on 2024-02-03.
+- Claim CLM-C000004017 has outcome Approved.
+- Claim CLM-C000004017 has claim type Auto.

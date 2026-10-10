@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009970
+Policy ID: POL-42173935
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2023-06-19
+Claim Filed Date: 2023-06-28
+Claim Amount: $23,929.33
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000009970 for home policy in AZ. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $23929.33 (deductible $500.0). Filed on 2023-06-28 following incident on 2023-06-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009970 is covered by Policy POL-42173935.
+- Claim CLM-C000009970 concerns an incident in AZ on 2023-06-19.
+- Claim CLM-C000009970 has outcome Approved.
+- Claim CLM-C000009970 has claim type Home.

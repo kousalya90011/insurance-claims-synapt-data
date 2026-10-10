@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006053
+Policy ID: POL-30235469
+Claim Type: Property
+State: WA
+Policyholder Tenure: 4.2 years
+Previous Claims: 2
+Incident Date: 2023-08-07
+Claim Filed Date: 2023-08-28
+Claim Amount: $2,233.28
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000006053 for property policy in WA. Policyholder tenure: 4.2 yrs with 2 prior claims. Amount claimed: $2233.28 (deductible $500.0). Filed on 2023-08-28 following incident on 2023-08-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006053 is covered by Policy POL-30235469.
+- Claim CLM-C000006053 concerns an incident in WA on 2023-08-07.
+- Claim CLM-C000006053 has outcome Approved.
+- Claim CLM-C000006053 has claim type Property.

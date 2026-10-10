@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008615
+Policy ID: POL-75306412
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-06-24
+Claim Filed Date: 2023-07-21
+Claim Amount: $6,909.43
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000008615 for auto policy in PA. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $6909.43 (deductible $500.0). Filed on 2023-07-21 following incident on 2023-06-24. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008615 is covered by Policy POL-75306412.
+- Claim CLM-C000008615 concerns an incident in PA on 2023-06-24.
+- Claim CLM-C000008615 has outcome Pending.
+- Claim CLM-C000008615 has claim type Auto.

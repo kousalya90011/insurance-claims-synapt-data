@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003802
+Policy ID: POL-87829116
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 4.9 years
+Previous Claims: 0
+Incident Date: 2024-06-21
+Claim Filed Date: 2024-06-27
+Claim Amount: $4,486.35
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000003802 for auto policy in CA. Policyholder tenure: 4.9 yrs with 0 prior claims. Amount claimed: $4486.35 (deductible $2500.0). Filed on 2024-06-27 following incident on 2024-06-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003802 is covered by Policy POL-87829116.
+- Claim CLM-C000003802 concerns an incident in CA on 2024-06-21.
+- Claim CLM-C000003802 has outcome Approved.
+- Claim CLM-C000003802 has claim type Auto.

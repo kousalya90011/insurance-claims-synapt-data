@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000269
+Policy ID: POL-52039679
+Claim Type: Home
+State: PA
+Policyholder Tenure: 2.0 years
+Previous Claims: 2
+Incident Date: 2024-03-28
+Claim Filed Date: 2024-05-05
+Claim Amount: $23,814.11
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 45 days
+Claim Narrative: Claim CLM-C000000269 for home policy in PA. Policyholder tenure: 2.0 yrs with 2 prior claims. Amount claimed: $23814.11 (deductible $250.0). Filed on 2024-05-05 following incident on 2024-03-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000269 is covered by Policy POL-52039679.
+- Claim CLM-C000000269 concerns an incident in PA on 2024-03-28.
+- Claim CLM-C000000269 has outcome Approved.
+- Claim CLM-C000000269 has claim type Home.

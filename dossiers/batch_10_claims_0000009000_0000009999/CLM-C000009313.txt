@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009313
+Policy ID: POL-77134991
+Claim Type: Home
+State: PA
+Policyholder Tenure: 14.7 years
+Previous Claims: 1
+Incident Date: 2024-01-01
+Claim Filed Date: 2024-01-16
+Claim Amount: $19,097.96
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000009313 for home policy in PA. Policyholder tenure: 14.7 yrs with 1 prior claims. Amount claimed: $19097.96 (deductible $1000.0). Filed on 2024-01-16 following incident on 2024-01-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009313 is covered by Policy POL-77134991.
+- Claim CLM-C000009313 concerns an incident in PA on 2024-01-01.
+- Claim CLM-C000009313 has outcome Approved.
+- Claim CLM-C000009313 has claim type Home.

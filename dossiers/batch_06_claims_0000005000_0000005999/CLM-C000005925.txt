@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005925
+Policy ID: POL-79240424
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 5.2 years
+Previous Claims: 0
+Incident Date: 2024-11-11
+Claim Filed Date: 2024-11-16
+Claim Amount: $1,263.19
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000005925 for auto policy in MI. Policyholder tenure: 5.2 yrs with 0 prior claims. Amount claimed: $1263.19 (deductible $500.0). Filed on 2024-11-16 following incident on 2024-11-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005925 is covered by Policy POL-79240424.
+- Claim CLM-C000005925 concerns an incident in MI on 2024-11-11.
+- Claim CLM-C000005925 has outcome Approved.
+- Claim CLM-C000005925 has claim type Auto.

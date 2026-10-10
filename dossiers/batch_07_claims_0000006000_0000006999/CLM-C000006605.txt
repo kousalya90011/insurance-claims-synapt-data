@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006605
+Policy ID: POL-87572031
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 6.1 years
+Previous Claims: 2
+Incident Date: 2024-04-24
+Claim Filed Date: 2024-05-22
+Claim Amount: $6,486.02
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000006605 for home policy in NJ. Policyholder tenure: 6.1 yrs with 2 prior claims. Amount claimed: $6486.02 (deductible $500.0). Filed on 2024-05-22 following incident on 2024-04-24. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006605 is covered by Policy POL-87572031.
+- Claim CLM-C000006605 concerns an incident in NJ on 2024-04-24.
+- Claim CLM-C000006605 has outcome Denied.
+- Claim CLM-C000006605 has claim type Home.

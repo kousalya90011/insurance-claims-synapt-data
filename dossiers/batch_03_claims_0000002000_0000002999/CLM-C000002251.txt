@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002251
+Policy ID: POL-54213169
+Claim Type: Home
+State: MA
+Policyholder Tenure: 4.3 years
+Previous Claims: 0
+Incident Date: 2024-11-22
+Claim Filed Date: 2024-12-24
+Claim Amount: $11,217.54
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000002251 for home policy in MA. Policyholder tenure: 4.3 yrs with 0 prior claims. Amount claimed: $11217.54 (deductible $250.0). Filed on 2024-12-24 following incident on 2024-11-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002251 is covered by Policy POL-54213169.
+- Claim CLM-C000002251 concerns an incident in MA on 2024-11-22.
+- Claim CLM-C000002251 has outcome Approved.
+- Claim CLM-C000002251 has claim type Home.

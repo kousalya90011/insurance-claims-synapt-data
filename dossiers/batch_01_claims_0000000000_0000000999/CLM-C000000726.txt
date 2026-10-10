@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000726
+Policy ID: POL-67104768
+Claim Type: Renters
+State: OH
+Policyholder Tenure: 2.1 years
+Previous Claims: 0
+Incident Date: 2024-11-28
+Claim Filed Date: 2024-12-08
+Claim Amount: $11,671.61
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000000726 for renters policy in OH. Policyholder tenure: 2.1 yrs with 0 prior claims. Amount claimed: $11671.61 (deductible $500.0). Filed on 2024-12-08 following incident on 2024-11-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000726 is covered by Policy POL-67104768.
+- Claim CLM-C000000726 concerns an incident in OH on 2024-11-28.
+- Claim CLM-C000000726 has outcome Approved.
+- Claim CLM-C000000726 has claim type Renters.

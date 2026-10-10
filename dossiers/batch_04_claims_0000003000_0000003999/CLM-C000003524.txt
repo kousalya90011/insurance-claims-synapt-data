@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003524
+Policy ID: POL-35608801
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2023-02-08
+Claim Filed Date: 2023-03-24
+Claim Amount: $13,235.57
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 85 days
+Claim Narrative: Claim CLM-C000003524 for renters policy in MO. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $13235.57 (deductible $1000.0). Filed on 2023-03-24 following incident on 2023-02-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003524 is covered by Policy POL-35608801.
+- Claim CLM-C000003524 concerns an incident in MO on 2023-02-08.
+- Claim CLM-C000003524 has outcome Denied.
+- Claim CLM-C000003524 has claim type Renters.

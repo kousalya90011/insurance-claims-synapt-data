@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004793
+Policy ID: POL-24435038
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2023-08-08
+Claim Filed Date: 2023-09-09
+Claim Amount: $20,290.96
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000004793 for property policy in NJ. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $20290.96 (deductible $500.0). Filed on 2023-09-09 following incident on 2023-08-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004793 is covered by Policy POL-24435038.
+- Claim CLM-C000004793 concerns an incident in NJ on 2023-08-08.
+- Claim CLM-C000004793 has outcome Denied.
+- Claim CLM-C000004793 has claim type Property.

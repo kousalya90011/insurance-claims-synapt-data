@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000890
+Policy ID: POL-26517990
+Claim Type: Business
+State: TN
+Policyholder Tenure: 2.6 years
+Previous Claims: 0
+Incident Date: 2024-05-11
+Claim Filed Date: 2024-06-05
+Claim Amount: $30,611.84
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 86 days
+Claim Narrative: Claim CLM-C000000890 for business policy in TN. Policyholder tenure: 2.6 yrs with 0 prior claims. Amount claimed: $30611.84 (deductible $250.0). Filed on 2024-06-05 following incident on 2024-05-11. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000890 is covered by Policy POL-26517990.
+- Claim CLM-C000000890 concerns an incident in TN on 2024-05-11.
+- Claim CLM-C000000890 has outcome Denied.
+- Claim CLM-C000000890 has claim type Business.

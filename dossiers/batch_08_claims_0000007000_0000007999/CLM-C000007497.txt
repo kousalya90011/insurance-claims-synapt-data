@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007497
+Policy ID: POL-22380071
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 5.0 years
+Previous Claims: 1
+Incident Date: 2024-04-30
+Claim Filed Date: 2024-05-19
+Claim Amount: $6,553.35
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000007497 for auto policy in WA. Policyholder tenure: 5.0 yrs with 1 prior claims. Amount claimed: $6553.35 (deductible $500.0). Filed on 2024-05-19 following incident on 2024-04-30. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007497 is covered by Policy POL-22380071.
+- Claim CLM-C000007497 concerns an incident in WA on 2024-04-30.
+- Claim CLM-C000007497 has outcome Under Review.
+- Claim CLM-C000007497 has claim type Auto.

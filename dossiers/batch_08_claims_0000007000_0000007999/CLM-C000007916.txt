@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007916
+Policy ID: POL-81681997
+Claim Type: Home
+State: VA
+Policyholder Tenure: 0.3 years
+Previous Claims: 1
+Incident Date: 2024-01-02
+Claim Filed Date: 2024-01-30
+Claim Amount: $7,026.61
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000007916 for home policy in VA. Policyholder tenure: 0.3 yrs with 1 prior claims. Amount claimed: $7026.61 (deductible $2000.0). Filed on 2024-01-30 following incident on 2024-01-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007916 is covered by Policy POL-81681997.
+- Claim CLM-C000007916 concerns an incident in VA on 2024-01-02.
+- Claim CLM-C000007916 has outcome Approved.
+- Claim CLM-C000007916 has claim type Home.

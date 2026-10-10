@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007114
+Policy ID: POL-85705177
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 11.3 years
+Previous Claims: 1
+Incident Date: 2023-01-18
+Claim Filed Date: 2023-01-29
+Claim Amount: $11,032.18
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 86 days
+Claim Narrative: Claim CLM-C000007114 for auto policy in CO. Policyholder tenure: 11.3 yrs with 1 prior claims. Amount claimed: $11032.18 (deductible $250.0). Filed on 2023-01-29 following incident on 2023-01-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007114 is covered by Policy POL-85705177.
+- Claim CLM-C000007114 concerns an incident in CO on 2023-01-18.
+- Claim CLM-C000007114 has outcome Denied.
+- Claim CLM-C000007114 has claim type Auto.

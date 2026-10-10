@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003921
+Policy ID: POL-85845876
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 6.4 years
+Previous Claims: 0
+Incident Date: 2024-11-02
+Claim Filed Date: 2024-11-25
+Claim Amount: $1,426.90
+Deductible: $2,500.00
+Claim Status: Denied
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000003921 for auto policy in VA. Policyholder tenure: 6.4 yrs with 0 prior claims. Amount claimed: $1426.9 (deductible $2500.0). Filed on 2024-11-25 following incident on 2024-11-02. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003921 is covered by Policy POL-85845876.
+- Claim CLM-C000003921 concerns an incident in VA on 2024-11-02.
+- Claim CLM-C000003921 has outcome Denied.
+- Claim CLM-C000003921 has claim type Auto.

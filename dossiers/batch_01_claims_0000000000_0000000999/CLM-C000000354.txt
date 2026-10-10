@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000354
+Policy ID: POL-56697251
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 2.1 years
+Previous Claims: 1
+Incident Date: 2023-08-11
+Claim Filed Date: 2023-09-11
+Claim Amount: $3,407.71
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000000354 for auto policy in NY. Policyholder tenure: 2.1 yrs with 1 prior claims. Amount claimed: $3407.71 (deductible $250.0). Filed on 2023-09-11 following incident on 2023-08-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000354 is covered by Policy POL-56697251.
+- Claim CLM-C000000354 concerns an incident in NY on 2023-08-11.
+- Claim CLM-C000000354 has outcome Approved.
+- Claim CLM-C000000354 has claim type Auto.

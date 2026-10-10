@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002800
+Policy ID: POL-61138462
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 0.9 years
+Previous Claims: 0
+Incident Date: 2024-11-04
+Claim Filed Date: 2024-12-02
+Claim Amount: $1,561.12
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000002800 for renters policy in VA. Policyholder tenure: 0.9 yrs with 0 prior claims. Amount claimed: $1561.12 (deductible $500.0). Filed on 2024-12-02 following incident on 2024-11-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002800 is covered by Policy POL-61138462.
+- Claim CLM-C000002800 concerns an incident in VA on 2024-11-04.
+- Claim CLM-C000002800 has outcome Approved.
+- Claim CLM-C000002800 has claim type Renters.

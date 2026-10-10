@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000345
+Policy ID: POL-99313799
+Claim Type: Business
+State: NY
+Policyholder Tenure: 3.4 years
+Previous Claims: 1
+Incident Date: 2023-05-15
+Claim Filed Date: 2023-05-16
+Claim Amount: $120,029.67
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 55 days
+Claim Narrative: Claim CLM-C000000345 for business policy in NY. Policyholder tenure: 3.4 yrs with 1 prior claims. Amount claimed: $120029.67 (deductible $250.0). Filed on 2023-05-16 following incident on 2023-05-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000345 is covered by Policy POL-99313799.
+- Claim CLM-C000000345 concerns an incident in NY on 2023-05-15.
+- Claim CLM-C000000345 has outcome Approved.
+- Claim CLM-C000000345 has claim type Business.

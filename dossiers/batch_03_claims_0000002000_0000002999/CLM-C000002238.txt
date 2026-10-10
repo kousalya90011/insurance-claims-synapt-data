@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002238
+Policy ID: POL-71306949
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 9.2 years
+Previous Claims: 0
+Incident Date: 2024-01-30
+Claim Filed Date: 2024-02-07
+Claim Amount: $4,643.18
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 53 days
+Claim Narrative: Claim CLM-C000002238 for auto policy in VA. Policyholder tenure: 9.2 yrs with 0 prior claims. Amount claimed: $4643.18 (deductible $1000.0). Filed on 2024-02-07 following incident on 2024-01-30. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002238 is covered by Policy POL-71306949.
+- Claim CLM-C000002238 concerns an incident in VA on 2024-01-30.
+- Claim CLM-C000002238 has outcome Under Review.
+- Claim CLM-C000002238 has claim type Auto.

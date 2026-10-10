@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009812
+Policy ID: POL-28219983
+Claim Type: Property
+State: VA
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2024-02-24
+Claim Filed Date: 2024-03-17
+Claim Amount: $4,693.93
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000009812 for property policy in VA. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $4693.93 (deductible $250.0). Filed on 2024-03-17 following incident on 2024-02-24. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009812 is covered by Policy POL-28219983.
+- Claim CLM-C000009812 concerns an incident in VA on 2024-02-24.
+- Claim CLM-C000009812 has outcome Under Review.
+- Claim CLM-C000009812 has claim type Property.

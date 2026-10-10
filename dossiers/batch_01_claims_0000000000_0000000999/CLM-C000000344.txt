@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000344
+Policy ID: POL-97243596
+Claim Type: Property
+State: NY
+Policyholder Tenure: 5.4 years
+Previous Claims: 0
+Incident Date: 2024-08-08
+Claim Filed Date: 2024-08-25
+Claim Amount: $7,555.20
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000000344 for property policy in NY. Policyholder tenure: 5.4 yrs with 0 prior claims. Amount claimed: $7555.2 (deductible $500.0). Filed on 2024-08-25 following incident on 2024-08-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000344 is covered by Policy POL-97243596.
+- Claim CLM-C000000344 concerns an incident in NY on 2024-08-08.
+- Claim CLM-C000000344 has outcome Approved.
+- Claim CLM-C000000344 has claim type Property.

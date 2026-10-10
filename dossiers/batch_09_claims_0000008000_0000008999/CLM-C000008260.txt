@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008260
+Policy ID: POL-25750446
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2023-04-16
+Claim Filed Date: 2023-05-30
+Claim Amount: $5,062.66
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000008260 for auto policy in CO. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $5062.66 (deductible $500.0). Filed on 2023-05-30 following incident on 2023-04-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008260 is covered by Policy POL-25750446.
+- Claim CLM-C000008260 concerns an incident in CO on 2023-04-16.
+- Claim CLM-C000008260 has outcome Approved.
+- Claim CLM-C000008260 has claim type Auto.

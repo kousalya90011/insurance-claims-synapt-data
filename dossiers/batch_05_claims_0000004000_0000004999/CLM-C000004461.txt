@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004461
+Policy ID: POL-57223053
+Claim Type: Home
+State: WI
+Policyholder Tenure: 5.2 years
+Previous Claims: 2
+Incident Date: 2024-03-24
+Claim Filed Date: 2024-04-15
+Claim Amount: $10,535.89
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000004461 for home policy in WI. Policyholder tenure: 5.2 yrs with 2 prior claims. Amount claimed: $10535.89 (deductible $500.0). Filed on 2024-04-15 following incident on 2024-03-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004461 is covered by Policy POL-57223053.
+- Claim CLM-C000004461 concerns an incident in WI on 2024-03-24.
+- Claim CLM-C000004461 has outcome Approved.
+- Claim CLM-C000004461 has claim type Home.

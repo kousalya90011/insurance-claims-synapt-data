@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003086
+Policy ID: POL-85295172
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2024-01-15
+Claim Filed Date: 2024-02-25
+Claim Amount: $6,445.46
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000003086 for home policy in AZ. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $6445.46 (deductible $500.0). Filed on 2024-02-25 following incident on 2024-01-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003086 is covered by Policy POL-85295172.
+- Claim CLM-C000003086 concerns an incident in AZ on 2024-01-15.
+- Claim CLM-C000003086 has outcome Approved.
+- Claim CLM-C000003086 has claim type Home.

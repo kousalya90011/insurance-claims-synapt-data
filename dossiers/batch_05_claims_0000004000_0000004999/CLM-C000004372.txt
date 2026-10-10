@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004372
+Policy ID: POL-63195246
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 4.8 years
+Previous Claims: 0
+Incident Date: 2024-01-09
+Claim Filed Date: 2024-01-22
+Claim Amount: $3,906.43
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000004372 for auto policy in TN. Policyholder tenure: 4.8 yrs with 0 prior claims. Amount claimed: $3906.43 (deductible $1000.0). Filed on 2024-01-22 following incident on 2024-01-09. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004372 is covered by Policy POL-63195246.
+- Claim CLM-C000004372 concerns an incident in TN on 2024-01-09.
+- Claim CLM-C000004372 has outcome Under Review.
+- Claim CLM-C000004372 has claim type Auto.

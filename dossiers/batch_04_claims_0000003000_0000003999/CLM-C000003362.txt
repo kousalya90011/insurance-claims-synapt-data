@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003362
+Policy ID: POL-79317379
+Claim Type: Auto
+State: TX
+Policyholder Tenure: 19.0 years
+Previous Claims: 2
+Incident Date: 2023-05-01
+Claim Filed Date: 2023-05-11
+Claim Amount: $2,771.91
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000003362 for auto policy in TX. Policyholder tenure: 19.0 yrs with 2 prior claims. Amount claimed: $2771.91 (deductible $500.0). Filed on 2023-05-11 following incident on 2023-05-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003362 is covered by Policy POL-79317379.
+- Claim CLM-C000003362 concerns an incident in TX on 2023-05-01.
+- Claim CLM-C000003362 has outcome Approved.
+- Claim CLM-C000003362 has claim type Auto.

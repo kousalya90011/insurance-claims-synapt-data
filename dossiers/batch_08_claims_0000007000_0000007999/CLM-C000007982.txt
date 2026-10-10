@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007982
+Policy ID: POL-48199343
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 2.7 years
+Previous Claims: 0
+Incident Date: 2024-07-08
+Claim Filed Date: 2024-07-18
+Claim Amount: $6,652.80
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000007982 for auto policy in CO. Policyholder tenure: 2.7 yrs with 0 prior claims. Amount claimed: $6652.8 (deductible $2500.0). Filed on 2024-07-18 following incident on 2024-07-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007982 is covered by Policy POL-48199343.
+- Claim CLM-C000007982 concerns an incident in CO on 2024-07-08.
+- Claim CLM-C000007982 has outcome Approved.
+- Claim CLM-C000007982 has claim type Auto.

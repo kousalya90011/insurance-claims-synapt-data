@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005302
+Policy ID: POL-88366002
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 4.0 years
+Previous Claims: 1
+Incident Date: 2024-06-21
+Claim Filed Date: 2024-07-21
+Claim Amount: $13,185.74
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000005302 for auto policy in NY. Policyholder tenure: 4.0 yrs with 1 prior claims. Amount claimed: $13185.74 (deductible $250.0). Filed on 2024-07-21 following incident on 2024-06-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005302 is covered by Policy POL-88366002.
+- Claim CLM-C000005302 concerns an incident in NY on 2024-06-21.
+- Claim CLM-C000005302 has outcome Approved.
+- Claim CLM-C000005302 has claim type Auto.

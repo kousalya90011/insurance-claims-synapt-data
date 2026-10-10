@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001623
+Policy ID: POL-14672088
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 6.8 years
+Previous Claims: 0
+Incident Date: 2023-03-02
+Claim Filed Date: 2023-03-04
+Claim Amount: $9,597.16
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000001623 for auto policy in NY. Policyholder tenure: 6.8 yrs with 0 prior claims. Amount claimed: $9597.16 (deductible $500.0). Filed on 2023-03-04 following incident on 2023-03-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001623 is covered by Policy POL-14672088.
+- Claim CLM-C000001623 concerns an incident in NY on 2023-03-02.
+- Claim CLM-C000001623 has outcome Approved.
+- Claim CLM-C000001623 has claim type Auto.

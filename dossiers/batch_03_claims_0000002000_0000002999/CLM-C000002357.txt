@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002357
+Policy ID: POL-57746491
+Claim Type: Property
+State: WA
+Policyholder Tenure: 16.0 years
+Previous Claims: 1
+Incident Date: 2024-02-24
+Claim Filed Date: 2024-03-16
+Claim Amount: $23,474.06
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000002357 for property policy in WA. Policyholder tenure: 16.0 yrs with 1 prior claims. Amount claimed: $23474.06 (deductible $500.0). Filed on 2024-03-16 following incident on 2024-02-24. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002357 is covered by Policy POL-57746491.
+- Claim CLM-C000002357 concerns an incident in WA on 2024-02-24.
+- Claim CLM-C000002357 has outcome Denied.
+- Claim CLM-C000002357 has claim type Property.

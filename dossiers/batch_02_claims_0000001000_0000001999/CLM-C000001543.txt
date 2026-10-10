@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001543
+Policy ID: POL-42538246
+Claim Type: Home
+State: VA
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2024-11-21
+Claim Filed Date: 2025-01-03
+Claim Amount: $10,363.08
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000001543 for home policy in VA. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $10363.08 (deductible $500.0). Filed on 2025-01-03 following incident on 2024-11-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001543 is covered by Policy POL-42538246.
+- Claim CLM-C000001543 concerns an incident in VA on 2024-11-21.
+- Claim CLM-C000001543 has outcome Approved.
+- Claim CLM-C000001543 has claim type Home.

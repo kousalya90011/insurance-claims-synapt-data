@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008713
+Policy ID: POL-37731426
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2023-08-13
+Claim Filed Date: 2023-09-19
+Claim Amount: $18,925.35
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 92 days
+Claim Narrative: Claim CLM-C000008713 for auto policy in GA. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $18925.35 (deductible $2000.0). Filed on 2023-09-19 following incident on 2023-08-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008713 is covered by Policy POL-37731426.
+- Claim CLM-C000008713 concerns an incident in GA on 2023-08-13.
+- Claim CLM-C000008713 has outcome Under Review.
+- Claim CLM-C000008713 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004631
+Policy ID: POL-61494659
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 2.9 years
+Previous Claims: 0
+Incident Date: 2023-08-31
+Claim Filed Date: 2023-09-01
+Claim Amount: $4,119.08
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000004631 for auto policy in MD. Policyholder tenure: 2.9 yrs with 0 prior claims. Amount claimed: $4119.08 (deductible $250.0). Filed on 2023-09-01 following incident on 2023-08-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004631 is covered by Policy POL-61494659.
+- Claim CLM-C000004631 concerns an incident in MD on 2023-08-31.
+- Claim CLM-C000004631 has outcome Approved.
+- Claim CLM-C000004631 has claim type Auto.

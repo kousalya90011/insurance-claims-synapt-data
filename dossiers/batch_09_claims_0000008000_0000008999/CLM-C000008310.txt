@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008310
+Policy ID: POL-23753193
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 1.4 years
+Previous Claims: 0
+Incident Date: 2023-12-04
+Claim Filed Date: 2023-12-10
+Claim Amount: $5,135.60
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000008310 for auto policy in IL. Policyholder tenure: 1.4 yrs with 0 prior claims. Amount claimed: $5135.6 (deductible $1000.0). Filed on 2023-12-10 following incident on 2023-12-04. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008310 is covered by Policy POL-23753193.
+- Claim CLM-C000008310 concerns an incident in IL on 2023-12-04.
+- Claim CLM-C000008310 has outcome Pending.
+- Claim CLM-C000008310 has claim type Auto.

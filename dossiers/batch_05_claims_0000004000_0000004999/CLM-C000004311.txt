@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004311
+Policy ID: POL-56101866
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 2.8 years
+Previous Claims: 0
+Incident Date: 2025-01-15
+Claim Filed Date: 2025-01-23
+Claim Amount: $1,185.02
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000004311 for renters policy in NJ. Policyholder tenure: 2.8 yrs with 0 prior claims. Amount claimed: $1185.02 (deductible $1000.0). Filed on 2025-01-23 following incident on 2025-01-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004311 is covered by Policy POL-56101866.
+- Claim CLM-C000004311 concerns an incident in NJ on 2025-01-15.
+- Claim CLM-C000004311 has outcome Approved.
+- Claim CLM-C000004311 has claim type Renters.

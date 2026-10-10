@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002512
+Policy ID: POL-48836709
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 0.9 years
+Previous Claims: 1
+Incident Date: 2024-07-05
+Claim Filed Date: 2024-07-27
+Claim Amount: $17,920.86
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000002512 for property policy in NJ. Policyholder tenure: 0.9 yrs with 1 prior claims. Amount claimed: $17920.86 (deductible $500.0). Filed on 2024-07-27 following incident on 2024-07-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002512 is covered by Policy POL-48836709.
+- Claim CLM-C000002512 concerns an incident in NJ on 2024-07-05.
+- Claim CLM-C000002512 has outcome Approved.
+- Claim CLM-C000002512 has claim type Property.

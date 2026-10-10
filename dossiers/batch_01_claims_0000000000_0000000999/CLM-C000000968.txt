@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000968
+Policy ID: POL-80868899
+Claim Type: Home
+State: MA
+Policyholder Tenure: 13.4 years
+Previous Claims: 1
+Incident Date: 2024-08-02
+Claim Filed Date: 2024-09-11
+Claim Amount: $21,219.47
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000000968 for home policy in MA. Policyholder tenure: 13.4 yrs with 1 prior claims. Amount claimed: $21219.47 (deductible $500.0). Filed on 2024-09-11 following incident on 2024-08-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000968 is covered by Policy POL-80868899.
+- Claim CLM-C000000968 concerns an incident in MA on 2024-08-02.
+- Claim CLM-C000000968 has outcome Approved.
+- Claim CLM-C000000968 has claim type Home.

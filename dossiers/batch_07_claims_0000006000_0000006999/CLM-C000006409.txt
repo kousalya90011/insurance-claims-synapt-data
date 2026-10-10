@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006409
+Policy ID: POL-72650471
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 13.3 years
+Previous Claims: 1
+Incident Date: 2024-10-30
+Claim Filed Date: 2024-11-07
+Claim Amount: $1,973.29
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000006409 for auto policy in OH. Policyholder tenure: 13.3 yrs with 1 prior claims. Amount claimed: $1973.29 (deductible $500.0). Filed on 2024-11-07 following incident on 2024-10-30. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006409 is covered by Policy POL-72650471.
+- Claim CLM-C000006409 concerns an incident in OH on 2024-10-30.
+- Claim CLM-C000006409 has outcome Under Review.
+- Claim CLM-C000006409 has claim type Auto.

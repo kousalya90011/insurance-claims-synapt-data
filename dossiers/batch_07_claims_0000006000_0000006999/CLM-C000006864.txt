@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006864
+Policy ID: POL-10223013
+Claim Type: Home
+State: GA
+Policyholder Tenure: 0.9 years
+Previous Claims: 0
+Incident Date: 2024-09-07
+Claim Filed Date: 2024-10-17
+Claim Amount: $36,076.30
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000006864 for home policy in GA. Policyholder tenure: 0.9 yrs with 0 prior claims. Amount claimed: $36076.3 (deductible $250.0). Filed on 2024-10-17 following incident on 2024-09-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006864 is covered by Policy POL-10223013.
+- Claim CLM-C000006864 concerns an incident in GA on 2024-09-07.
+- Claim CLM-C000006864 has outcome Approved.
+- Claim CLM-C000006864 has claim type Home.

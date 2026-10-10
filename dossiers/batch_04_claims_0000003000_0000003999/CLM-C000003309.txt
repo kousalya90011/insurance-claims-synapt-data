@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003309
+Policy ID: POL-62437990
+Claim Type: Home
+State: OH
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2023-06-08
+Claim Filed Date: 2023-07-16
+Claim Amount: $6,372.00
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000003309 for home policy in OH. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $6372.0 (deductible $500.0). Filed on 2023-07-16 following incident on 2023-06-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003309 is covered by Policy POL-62437990.
+- Claim CLM-C000003309 concerns an incident in OH on 2023-06-08.
+- Claim CLM-C000003309 has outcome Approved.
+- Claim CLM-C000003309 has claim type Home.

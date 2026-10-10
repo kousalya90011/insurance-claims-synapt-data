@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008560
+Policy ID: POL-26461286
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 12.8 years
+Previous Claims: 2
+Incident Date: 2023-02-06
+Claim Filed Date: 2023-03-05
+Claim Amount: $3,084.20
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000008560 for auto policy in WA. Policyholder tenure: 12.8 yrs with 2 prior claims. Amount claimed: $3084.2 (deductible $500.0). Filed on 2023-03-05 following incident on 2023-02-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008560 is covered by Policy POL-26461286.
+- Claim CLM-C000008560 concerns an incident in WA on 2023-02-06.
+- Claim CLM-C000008560 has outcome Denied.
+- Claim CLM-C000008560 has claim type Auto.

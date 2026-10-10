@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001731
+Policy ID: POL-46822597
+Claim Type: Home
+State: MI
+Policyholder Tenure: 9.5 years
+Previous Claims: 2
+Incident Date: 2024-05-01
+Claim Filed Date: 2024-06-06
+Claim Amount: $11,769.12
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000001731 for home policy in MI. Policyholder tenure: 9.5 yrs with 2 prior claims. Amount claimed: $11769.12 (deductible $1000.0). Filed on 2024-06-06 following incident on 2024-05-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001731 is covered by Policy POL-46822597.
+- Claim CLM-C000001731 concerns an incident in MI on 2024-05-01.
+- Claim CLM-C000001731 has outcome Approved.
+- Claim CLM-C000001731 has claim type Home.

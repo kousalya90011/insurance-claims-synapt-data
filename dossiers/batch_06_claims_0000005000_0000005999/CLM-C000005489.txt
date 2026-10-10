@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005489
+Policy ID: POL-17355245
+Claim Type: Home
+State: CA
+Policyholder Tenure: 2.0 years
+Previous Claims: 2
+Incident Date: 2024-02-15
+Claim Filed Date: 2024-02-28
+Claim Amount: $15,569.20
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000005489 for home policy in CA. Policyholder tenure: 2.0 yrs with 2 prior claims. Amount claimed: $15569.2 (deductible $2000.0). Filed on 2024-02-28 following incident on 2024-02-15. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005489 is covered by Policy POL-17355245.
+- Claim CLM-C000005489 concerns an incident in CA on 2024-02-15.
+- Claim CLM-C000005489 has outcome Under Review.
+- Claim CLM-C000005489 has claim type Home.

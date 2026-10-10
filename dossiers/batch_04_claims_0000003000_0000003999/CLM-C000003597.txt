@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003597
+Policy ID: POL-62836070
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 0.3 years
+Previous Claims: 1
+Incident Date: 2024-02-04
+Claim Filed Date: 2024-03-04
+Claim Amount: $3,743.87
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000003597 for auto policy in MD. Policyholder tenure: 0.3 yrs with 1 prior claims. Amount claimed: $3743.87 (deductible $250.0). Filed on 2024-03-04 following incident on 2024-02-04. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003597 is covered by Policy POL-62836070.
+- Claim CLM-C000003597 concerns an incident in MD on 2024-02-04.
+- Claim CLM-C000003597 has outcome Denied.
+- Claim CLM-C000003597 has claim type Auto.

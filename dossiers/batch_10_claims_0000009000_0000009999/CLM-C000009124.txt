@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009124
+Policy ID: POL-28059996
+Claim Type: Business
+State: TX
+Policyholder Tenure: 6.0 years
+Previous Claims: 1
+Incident Date: 2024-02-18
+Claim Filed Date: 2024-03-08
+Claim Amount: $82,390.64
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000009124 for business policy in TX. Policyholder tenure: 6.0 yrs with 1 prior claims. Amount claimed: $82390.64 (deductible $500.0). Filed on 2024-03-08 following incident on 2024-02-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009124 is covered by Policy POL-28059996.
+- Claim CLM-C000009124 concerns an incident in TX on 2024-02-18.
+- Claim CLM-C000009124 has outcome Approved.
+- Claim CLM-C000009124 has claim type Business.

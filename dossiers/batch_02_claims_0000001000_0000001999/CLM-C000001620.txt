@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001620
+Policy ID: POL-85262065
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2024-06-03
+Claim Filed Date: 2024-06-13
+Claim Amount: $5,103.04
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000001620 for auto policy in OH. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $5103.04 (deductible $500.0). Filed on 2024-06-13 following incident on 2024-06-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001620 is covered by Policy POL-85262065.
+- Claim CLM-C000001620 concerns an incident in OH on 2024-06-03.
+- Claim CLM-C000001620 has outcome Denied.
+- Claim CLM-C000001620 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007147
+Policy ID: POL-63011873
+Claim Type: Home
+State: MA
+Policyholder Tenure: 0.3 years
+Previous Claims: 0
+Incident Date: 2024-01-19
+Claim Filed Date: 2024-02-05
+Claim Amount: $9,365.81
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000007147 for home policy in MA. Policyholder tenure: 0.3 yrs with 0 prior claims. Amount claimed: $9365.81 (deductible $500.0). Filed on 2024-02-05 following incident on 2024-01-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007147 is covered by Policy POL-63011873.
+- Claim CLM-C000007147 concerns an incident in MA on 2024-01-19.
+- Claim CLM-C000007147 has outcome Approved.
+- Claim CLM-C000007147 has claim type Home.

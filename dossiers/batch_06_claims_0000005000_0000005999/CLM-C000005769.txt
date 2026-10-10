@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005769
+Policy ID: POL-74060385
+Claim Type: Home
+State: OH
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2024-06-05
+Claim Filed Date: 2024-07-12
+Claim Amount: $9,306.61
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000005769 for home policy in OH. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $9306.61 (deductible $500.0). Filed on 2024-07-12 following incident on 2024-06-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005769 is covered by Policy POL-74060385.
+- Claim CLM-C000005769 concerns an incident in OH on 2024-06-05.
+- Claim CLM-C000005769 has outcome Approved.
+- Claim CLM-C000005769 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006198
+Policy ID: POL-45630266
+Claim Type: Home
+State: OH
+Policyholder Tenure: 13.7 years
+Previous Claims: 0
+Incident Date: 2023-05-02
+Claim Filed Date: 2023-05-16
+Claim Amount: $47,995.02
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000006198 for home policy in OH. Policyholder tenure: 13.7 yrs with 0 prior claims. Amount claimed: $47995.02 (deductible $1000.0). Filed on 2023-05-16 following incident on 2023-05-02. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006198 is covered by Policy POL-45630266.
+- Claim CLM-C000006198 concerns an incident in OH on 2023-05-02.
+- Claim CLM-C000006198 has outcome Denied.
+- Claim CLM-C000006198 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009123
+Policy ID: POL-59244701
+Claim Type: Renters
+State: GA
+Policyholder Tenure: 6.5 years
+Previous Claims: 0
+Incident Date: 2023-07-03
+Claim Filed Date: 2023-08-07
+Claim Amount: $450.97
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000009123 for renters policy in GA. Policyholder tenure: 6.5 yrs with 0 prior claims. Amount claimed: $450.97 (deductible $500.0). Filed on 2023-08-07 following incident on 2023-07-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009123 is covered by Policy POL-59244701.
+- Claim CLM-C000009123 concerns an incident in GA on 2023-07-03.
+- Claim CLM-C000009123 has outcome Denied.
+- Claim CLM-C000009123 has claim type Renters.

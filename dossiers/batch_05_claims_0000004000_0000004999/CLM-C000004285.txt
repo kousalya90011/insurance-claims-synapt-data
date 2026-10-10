@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004285
+Policy ID: POL-57381407
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 13.0 years
+Previous Claims: 1
+Incident Date: 2023-12-08
+Claim Filed Date: 2023-12-10
+Claim Amount: $1,132.95
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000004285 for renters policy in TN. Policyholder tenure: 13.0 yrs with 1 prior claims. Amount claimed: $1132.95 (deductible $500.0). Filed on 2023-12-10 following incident on 2023-12-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004285 is covered by Policy POL-57381407.
+- Claim CLM-C000004285 concerns an incident in TN on 2023-12-08.
+- Claim CLM-C000004285 has outcome Approved.
+- Claim CLM-C000004285 has claim type Renters.

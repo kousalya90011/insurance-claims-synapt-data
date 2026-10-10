@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000204
+Policy ID: POL-74520116
+Claim Type: Home
+State: CO
+Policyholder Tenure: 3.8 years
+Previous Claims: 1
+Incident Date: 2024-01-28
+Claim Filed Date: 2024-02-06
+Claim Amount: $6,451.00
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000000204 for home policy in CO. Policyholder tenure: 3.8 yrs with 1 prior claims. Amount claimed: $6451.0 (deductible $1000.0). Filed on 2024-02-06 following incident on 2024-01-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000204 is covered by Policy POL-74520116.
+- Claim CLM-C000000204 concerns an incident in CO on 2024-01-28.
+- Claim CLM-C000000204 has outcome Approved.
+- Claim CLM-C000000204 has claim type Home.

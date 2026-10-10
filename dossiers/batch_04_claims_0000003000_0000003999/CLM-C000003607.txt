@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003607
+Policy ID: POL-29394307
+Claim Type: Home
+State: VA
+Policyholder Tenure: 0.1 years
+Previous Claims: 0
+Incident Date: 2023-01-22
+Claim Filed Date: 2023-01-31
+Claim Amount: $9,923.33
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000003607 for home policy in VA. Policyholder tenure: 0.1 yrs with 0 prior claims. Amount claimed: $9923.33 (deductible $500.0). Filed on 2023-01-31 following incident on 2023-01-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003607 is covered by Policy POL-29394307.
+- Claim CLM-C000003607 concerns an incident in VA on 2023-01-22.
+- Claim CLM-C000003607 has outcome Approved.
+- Claim CLM-C000003607 has claim type Home.

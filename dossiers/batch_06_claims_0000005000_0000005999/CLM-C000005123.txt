@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005123
+Policy ID: POL-30929703
+Claim Type: Home
+State: MA
+Policyholder Tenure: 5.0 years
+Previous Claims: 0
+Incident Date: 2023-07-04
+Claim Filed Date: 2023-07-09
+Claim Amount: $28,378.47
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000005123 for home policy in MA. Policyholder tenure: 5.0 yrs with 0 prior claims. Amount claimed: $28378.47 (deductible $1000.0). Filed on 2023-07-09 following incident on 2023-07-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005123 is covered by Policy POL-30929703.
+- Claim CLM-C000005123 concerns an incident in MA on 2023-07-04.
+- Claim CLM-C000005123 has outcome Approved.
+- Claim CLM-C000005123 has claim type Home.

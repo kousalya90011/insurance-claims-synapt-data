@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009457
+Policy ID: POL-51200569
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2024-01-29
+Claim Filed Date: 2024-01-30
+Claim Amount: $2,266.37
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000009457 for renters policy in AZ. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $2266.37 (deductible $250.0). Filed on 2024-01-30 following incident on 2024-01-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009457 is covered by Policy POL-51200569.
+- Claim CLM-C000009457 concerns an incident in AZ on 2024-01-29.
+- Claim CLM-C000009457 has outcome Approved.
+- Claim CLM-C000009457 has claim type Renters.

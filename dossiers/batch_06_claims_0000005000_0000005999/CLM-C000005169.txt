@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005169
+Policy ID: POL-62989648
+Claim Type: Property
+State: CO
+Policyholder Tenure: 4.5 years
+Previous Claims: 0
+Incident Date: 2024-10-10
+Claim Filed Date: 2024-11-13
+Claim Amount: $18,009.34
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 67 days
+Claim Narrative: Claim CLM-C000005169 for property policy in CO. Policyholder tenure: 4.5 yrs with 0 prior claims. Amount claimed: $18009.34 (deductible $1000.0). Filed on 2024-11-13 following incident on 2024-10-10. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005169 is covered by Policy POL-62989648.
+- Claim CLM-C000005169 concerns an incident in CO on 2024-10-10.
+- Claim CLM-C000005169 has outcome Denied.
+- Claim CLM-C000005169 has claim type Property.

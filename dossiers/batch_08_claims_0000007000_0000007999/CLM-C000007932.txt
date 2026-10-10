@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007932
+Policy ID: POL-29003156
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 10.4 years
+Previous Claims: 0
+Incident Date: 2023-09-22
+Claim Filed Date: 2023-10-24
+Claim Amount: $3,750.11
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000007932 for auto policy in OH. Policyholder tenure: 10.4 yrs with 0 prior claims. Amount claimed: $3750.11 (deductible $500.0). Filed on 2023-10-24 following incident on 2023-09-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007932 is covered by Policy POL-29003156.
+- Claim CLM-C000007932 concerns an incident in OH on 2023-09-22.
+- Claim CLM-C000007932 has outcome Approved.
+- Claim CLM-C000007932 has claim type Auto.

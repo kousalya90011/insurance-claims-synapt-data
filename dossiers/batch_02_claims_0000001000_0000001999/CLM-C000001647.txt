@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001647
+Policy ID: POL-23480606
+Claim Type: Property
+State: MD
+Policyholder Tenure: 3.7 years
+Previous Claims: 1
+Incident Date: 2024-05-09
+Claim Filed Date: 2024-06-18
+Claim Amount: $24,273.42
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000001647 for property policy in MD. Policyholder tenure: 3.7 yrs with 1 prior claims. Amount claimed: $24273.42 (deductible $500.0). Filed on 2024-06-18 following incident on 2024-05-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001647 is covered by Policy POL-23480606.
+- Claim CLM-C000001647 concerns an incident in MD on 2024-05-09.
+- Claim CLM-C000001647 has outcome Approved.
+- Claim CLM-C000001647 has claim type Property.

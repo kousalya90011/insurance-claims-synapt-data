@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001158
+Policy ID: POL-93471440
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 8.9 years
+Previous Claims: 0
+Incident Date: 2024-04-14
+Claim Filed Date: 2024-05-11
+Claim Amount: $36,414.03
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000001158 for auto policy in VA. Policyholder tenure: 8.9 yrs with 0 prior claims. Amount claimed: $36414.03 (deductible $500.0). Filed on 2024-05-11 following incident on 2024-04-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001158 is covered by Policy POL-93471440.
+- Claim CLM-C000001158 concerns an incident in VA on 2024-04-14.
+- Claim CLM-C000001158 has outcome Approved.
+- Claim CLM-C000001158 has claim type Auto.

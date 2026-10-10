@@ -1,0 +1,6 @@
+# Never commit identifier mappings or credentials
+*mapping*
+*.key
+*.token
+*.secret
+.env*

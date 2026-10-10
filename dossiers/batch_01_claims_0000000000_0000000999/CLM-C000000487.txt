@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000487
+Policy ID: POL-20235593
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 0.7 years
+Previous Claims: 2
+Incident Date: 2024-06-29
+Claim Filed Date: 2024-07-08
+Claim Amount: $4,392.16
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000000487 for auto policy in CO. Policyholder tenure: 0.7 yrs with 2 prior claims. Amount claimed: $4392.16 (deductible $500.0). Filed on 2024-07-08 following incident on 2024-06-29. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000487 is covered by Policy POL-20235593.
+- Claim CLM-C000000487 concerns an incident in CO on 2024-06-29.
+- Claim CLM-C000000487 has outcome Under Review.
+- Claim CLM-C000000487 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001793
+Policy ID: POL-88903970
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 4.2 years
+Previous Claims: 2
+Incident Date: 2024-03-23
+Claim Filed Date: 2024-03-30
+Claim Amount: $4,866.81
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 73 days
+Claim Narrative: Claim CLM-C000001793 for auto policy in TN. Policyholder tenure: 4.2 yrs with 2 prior claims. Amount claimed: $4866.81 (deductible $250.0). Filed on 2024-03-30 following incident on 2024-03-23. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001793 is covered by Policy POL-88903970.
+- Claim CLM-C000001793 concerns an incident in TN on 2024-03-23.
+- Claim CLM-C000001793 has outcome Denied.
+- Claim CLM-C000001793 has claim type Auto.

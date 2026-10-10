@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009948
+Policy ID: POL-59434290
+Claim Type: Home
+State: MD
+Policyholder Tenure: 5.7 years
+Previous Claims: 1
+Incident Date: 2024-01-05
+Claim Filed Date: 2024-01-10
+Claim Amount: $4,541.11
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000009948 for home policy in MD. Policyholder tenure: 5.7 yrs with 1 prior claims. Amount claimed: $4541.11 (deductible $500.0). Filed on 2024-01-10 following incident on 2024-01-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009948 is covered by Policy POL-59434290.
+- Claim CLM-C000009948 concerns an incident in MD on 2024-01-05.
+- Claim CLM-C000009948 has outcome Approved.
+- Claim CLM-C000009948 has claim type Home.

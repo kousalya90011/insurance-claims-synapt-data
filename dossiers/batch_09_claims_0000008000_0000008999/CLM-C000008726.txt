@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008726
+Policy ID: POL-44549889
+Claim Type: Business
+State: VA
+Policyholder Tenure: 4.1 years
+Previous Claims: 0
+Incident Date: 2024-12-15
+Claim Filed Date: 2025-01-03
+Claim Amount: $76,593.20
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 56 days
+Claim Narrative: Claim CLM-C000008726 for business policy in VA. Policyholder tenure: 4.1 yrs with 0 prior claims. Amount claimed: $76593.2 (deductible $500.0). Filed on 2025-01-03 following incident on 2024-12-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008726 is covered by Policy POL-44549889.
+- Claim CLM-C000008726 concerns an incident in VA on 2024-12-15.
+- Claim CLM-C000008726 has outcome Approved.
+- Claim CLM-C000008726 has claim type Business.

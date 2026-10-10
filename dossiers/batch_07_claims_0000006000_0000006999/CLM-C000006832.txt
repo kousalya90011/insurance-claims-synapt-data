@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006832
+Policy ID: POL-48910187
+Claim Type: Property
+State: WI
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2023-09-09
+Claim Filed Date: 2023-09-20
+Claim Amount: $3,839.91
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000006832 for property policy in WI. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $3839.91 (deductible $500.0). Filed on 2023-09-20 following incident on 2023-09-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006832 is covered by Policy POL-48910187.
+- Claim CLM-C000006832 concerns an incident in WI on 2023-09-09.
+- Claim CLM-C000006832 has outcome Approved.
+- Claim CLM-C000006832 has claim type Property.

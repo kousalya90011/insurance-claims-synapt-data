@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006040
+Policy ID: POL-88218267
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2023-09-17
+Claim Filed Date: 2023-09-24
+Claim Amount: $12,292.16
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006040 for auto policy in NY. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $12292.16 (deductible $250.0). Filed on 2023-09-24 following incident on 2023-09-17. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006040 is covered by Policy POL-88218267.
+- Claim CLM-C000006040 concerns an incident in NY on 2023-09-17.
+- Claim CLM-C000006040 has outcome Pending.
+- Claim CLM-C000006040 has claim type Auto.

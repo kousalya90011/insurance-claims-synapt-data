@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002999
+Policy ID: POL-23268335
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 3.5 years
+Previous Claims: 0
+Incident Date: 2023-08-24
+Claim Filed Date: 2023-09-15
+Claim Amount: $14,065.52
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000002999 for auto policy in GA. Policyholder tenure: 3.5 yrs with 0 prior claims. Amount claimed: $14065.52 (deductible $500.0). Filed on 2023-09-15 following incident on 2023-08-24. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002999 is covered by Policy POL-23268335.
+- Claim CLM-C000002999 concerns an incident in GA on 2023-08-24.
+- Claim CLM-C000002999 has outcome Denied.
+- Claim CLM-C000002999 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004507
+Policy ID: POL-13885770
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 4.3 years
+Previous Claims: 2
+Incident Date: 2024-02-07
+Claim Filed Date: 2024-02-20
+Claim Amount: $1,389.37
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000004507 for renters policy in NY. Policyholder tenure: 4.3 yrs with 2 prior claims. Amount claimed: $1389.37 (deductible $1000.0). Filed on 2024-02-20 following incident on 2024-02-07. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004507 is covered by Policy POL-13885770.
+- Claim CLM-C000004507 concerns an incident in NY on 2024-02-07.
+- Claim CLM-C000004507 has outcome Under Review.
+- Claim CLM-C000004507 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001763
+Policy ID: POL-35030201
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 5.0 years
+Previous Claims: 2
+Incident Date: 2023-10-14
+Claim Filed Date: 2023-10-27
+Claim Amount: $4,917.30
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000001763 for auto policy in WA. Policyholder tenure: 5.0 yrs with 2 prior claims. Amount claimed: $4917.3 (deductible $500.0). Filed on 2023-10-27 following incident on 2023-10-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001763 is covered by Policy POL-35030201.
+- Claim CLM-C000001763 concerns an incident in WA on 2023-10-14.
+- Claim CLM-C000001763 has outcome Approved.
+- Claim CLM-C000001763 has claim type Auto.

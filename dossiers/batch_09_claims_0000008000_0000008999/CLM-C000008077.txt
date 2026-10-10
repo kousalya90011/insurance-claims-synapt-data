@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008077
+Policy ID: POL-14514827
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2024-08-20
+Claim Filed Date: 2024-09-26
+Claim Amount: $3,294.51
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000008077 for auto policy in WA. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $3294.51 (deductible $250.0). Filed on 2024-09-26 following incident on 2024-08-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008077 is covered by Policy POL-14514827.
+- Claim CLM-C000008077 concerns an incident in WA on 2024-08-20.
+- Claim CLM-C000008077 has outcome Approved.
+- Claim CLM-C000008077 has claim type Auto.

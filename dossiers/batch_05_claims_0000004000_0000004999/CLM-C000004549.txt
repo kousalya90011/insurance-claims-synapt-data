@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004549
+Policy ID: POL-54665986
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 1.3 years
+Previous Claims: 1
+Incident Date: 2023-05-15
+Claim Filed Date: 2023-06-27
+Claim Amount: $8,406.17
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000004549 for auto policy in TN. Policyholder tenure: 1.3 yrs with 1 prior claims. Amount claimed: $8406.17 (deductible $1000.0). Filed on 2023-06-27 following incident on 2023-05-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004549 is covered by Policy POL-54665986.
+- Claim CLM-C000004549 concerns an incident in TN on 2023-05-15.
+- Claim CLM-C000004549 has outcome Approved.
+- Claim CLM-C000004549 has claim type Auto.

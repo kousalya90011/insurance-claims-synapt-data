@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000952
+Policy ID: POL-52671940
+Claim Type: Property
+State: CA
+Policyholder Tenure: 0.9 years
+Previous Claims: 1
+Incident Date: 2024-06-27
+Claim Filed Date: 2024-07-14
+Claim Amount: $12,502.63
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000000952 for property policy in CA. Policyholder tenure: 0.9 yrs with 1 prior claims. Amount claimed: $12502.63 (deductible $500.0). Filed on 2024-07-14 following incident on 2024-06-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000952 is covered by Policy POL-52671940.
+- Claim CLM-C000000952 concerns an incident in CA on 2024-06-27.
+- Claim CLM-C000000952 has outcome Approved.
+- Claim CLM-C000000952 has claim type Property.

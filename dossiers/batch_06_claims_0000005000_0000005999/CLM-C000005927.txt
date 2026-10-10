@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005927
+Policy ID: POL-32389329
+Claim Type: Home
+State: MI
+Policyholder Tenure: 2.0 years
+Previous Claims: 0
+Incident Date: 2024-02-24
+Claim Filed Date: 2024-03-03
+Claim Amount: $58,473.62
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 82 days
+Claim Narrative: Claim CLM-C000005927 for home policy in MI. Policyholder tenure: 2.0 yrs with 0 prior claims. Amount claimed: $58473.62 (deductible $500.0). Filed on 2024-03-03 following incident on 2024-02-24. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005927 is covered by Policy POL-32389329.
+- Claim CLM-C000005927 concerns an incident in MI on 2024-02-24.
+- Claim CLM-C000005927 has outcome Under Review.
+- Claim CLM-C000005927 has claim type Home.

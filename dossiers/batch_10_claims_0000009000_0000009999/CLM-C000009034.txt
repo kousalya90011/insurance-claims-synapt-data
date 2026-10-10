@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009034
+Policy ID: POL-21918764
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 3.8 years
+Previous Claims: 1
+Incident Date: 2023-07-15
+Claim Filed Date: 2023-08-16
+Claim Amount: $5,159.78
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000009034 for auto policy in MI. Policyholder tenure: 3.8 yrs with 1 prior claims. Amount claimed: $5159.78 (deductible $500.0). Filed on 2023-08-16 following incident on 2023-07-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009034 is covered by Policy POL-21918764.
+- Claim CLM-C000009034 concerns an incident in MI on 2023-07-15.
+- Claim CLM-C000009034 has outcome Approved.
+- Claim CLM-C000009034 has claim type Auto.

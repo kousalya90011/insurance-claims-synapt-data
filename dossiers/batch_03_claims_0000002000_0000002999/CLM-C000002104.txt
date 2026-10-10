@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002104
+Policy ID: POL-42630591
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 0.8 years
+Previous Claims: 0
+Incident Date: 2024-07-18
+Claim Filed Date: 2024-08-17
+Claim Amount: $11,800.94
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000002104 for auto policy in NC. Policyholder tenure: 0.8 yrs with 0 prior claims. Amount claimed: $11800.94 (deductible $2000.0). Filed on 2024-08-17 following incident on 2024-07-18. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002104 is covered by Policy POL-42630591.
+- Claim CLM-C000002104 concerns an incident in NC on 2024-07-18.
+- Claim CLM-C000002104 has outcome Under Review.
+- Claim CLM-C000002104 has claim type Auto.

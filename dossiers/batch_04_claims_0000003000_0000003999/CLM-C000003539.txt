@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003539
+Policy ID: POL-16666349
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 4.3 years
+Previous Claims: 3
+Incident Date: 2024-01-17
+Claim Filed Date: 2024-01-18
+Claim Amount: $1,622.36
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 54 days
+Claim Narrative: Claim CLM-C000003539 for auto policy in NY. Policyholder tenure: 4.3 yrs with 3 prior claims. Amount claimed: $1622.36 (deductible $2000.0). Filed on 2024-01-18 following incident on 2024-01-17. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003539 is covered by Policy POL-16666349.
+- Claim CLM-C000003539 concerns an incident in NY on 2024-01-17.
+- Claim CLM-C000003539 has outcome Denied.
+- Claim CLM-C000003539 has claim type Auto.

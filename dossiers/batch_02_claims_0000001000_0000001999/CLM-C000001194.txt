@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001194
+Policy ID: POL-75917214
+Claim Type: Home
+State: MA
+Policyholder Tenure: 3.4 years
+Previous Claims: 1
+Incident Date: 2024-07-31
+Claim Filed Date: 2024-08-01
+Claim Amount: $7,296.72
+Deductible: $2,500.00
+Claim Status: Under Review
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000001194 for home policy in MA. Policyholder tenure: 3.4 yrs with 1 prior claims. Amount claimed: $7296.72 (deductible $2500.0). Filed on 2024-08-01 following incident on 2024-07-31. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001194 is covered by Policy POL-75917214.
+- Claim CLM-C000001194 concerns an incident in MA on 2024-07-31.
+- Claim CLM-C000001194 has outcome Under Review.
+- Claim CLM-C000001194 has claim type Home.

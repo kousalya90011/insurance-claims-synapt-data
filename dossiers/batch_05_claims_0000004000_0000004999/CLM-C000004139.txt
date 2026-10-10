@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004139
+Policy ID: POL-57992482
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 2.8 years
+Previous Claims: 0
+Incident Date: 2024-12-02
+Claim Filed Date: 2024-12-10
+Claim Amount: $5,088.32
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000004139 for auto policy in VA. Policyholder tenure: 2.8 yrs with 0 prior claims. Amount claimed: $5088.32 (deductible $500.0). Filed on 2024-12-10 following incident on 2024-12-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004139 is covered by Policy POL-57992482.
+- Claim CLM-C000004139 concerns an incident in VA on 2024-12-02.
+- Claim CLM-C000004139 has outcome Approved.
+- Claim CLM-C000004139 has claim type Auto.

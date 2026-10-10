@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008710
+Policy ID: POL-35785961
+Claim Type: Home
+State: WA
+Policyholder Tenure: 4.2 years
+Previous Claims: 1
+Incident Date: 2024-09-08
+Claim Filed Date: 2024-09-14
+Claim Amount: $39,617.20
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000008710 for home policy in WA. Policyholder tenure: 4.2 yrs with 1 prior claims. Amount claimed: $39617.2 (deductible $250.0). Filed on 2024-09-14 following incident on 2024-09-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008710 is covered by Policy POL-35785961.
+- Claim CLM-C000008710 concerns an incident in WA on 2024-09-08.
+- Claim CLM-C000008710 has outcome Denied.
+- Claim CLM-C000008710 has claim type Home.

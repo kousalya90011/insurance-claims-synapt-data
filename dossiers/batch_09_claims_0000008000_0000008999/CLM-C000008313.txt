@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008313
+Policy ID: POL-60965517
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 0.3 years
+Previous Claims: 1
+Incident Date: 2023-10-15
+Claim Filed Date: 2023-10-17
+Claim Amount: $3,500.20
+Deductible: $2,000.00
+Claim Status: Pending
+Resolution Time: 47 days
+Claim Narrative: Claim CLM-C000008313 for auto policy in MA. Policyholder tenure: 0.3 yrs with 1 prior claims. Amount claimed: $3500.2 (deductible $2000.0). Filed on 2023-10-17 following incident on 2023-10-15. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008313 is covered by Policy POL-60965517.
+- Claim CLM-C000008313 concerns an incident in MA on 2023-10-15.
+- Claim CLM-C000008313 has outcome Pending.
+- Claim CLM-C000008313 has claim type Auto.

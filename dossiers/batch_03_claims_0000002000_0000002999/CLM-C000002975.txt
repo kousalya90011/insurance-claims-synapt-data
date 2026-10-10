@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002975
+Policy ID: POL-19965183
+Claim Type: Renters
+State: WA
+Policyholder Tenure: 2.3 years
+Previous Claims: 3
+Incident Date: 2024-06-17
+Claim Filed Date: 2024-06-22
+Claim Amount: $3,759.77
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000002975 for renters policy in WA. Policyholder tenure: 2.3 yrs with 3 prior claims. Amount claimed: $3759.77 (deductible $500.0). Filed on 2024-06-22 following incident on 2024-06-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002975 is covered by Policy POL-19965183.
+- Claim CLM-C000002975 concerns an incident in WA on 2024-06-17.
+- Claim CLM-C000002975 has outcome Approved.
+- Claim CLM-C000002975 has claim type Renters.

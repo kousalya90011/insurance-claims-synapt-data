@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001124
+Policy ID: POL-57821322
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2023-04-18
+Claim Filed Date: 2023-05-21
+Claim Amount: $6,174.94
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000001124 for auto policy in MO. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $6174.94 (deductible $1000.0). Filed on 2023-05-21 following incident on 2023-04-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001124 is covered by Policy POL-57821322.
+- Claim CLM-C000001124 concerns an incident in MO on 2023-04-18.
+- Claim CLM-C000001124 has outcome Approved.
+- Claim CLM-C000001124 has claim type Auto.

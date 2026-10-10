@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001160
+Policy ID: POL-50338659
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 0.3 years
+Previous Claims: 2
+Incident Date: 2024-05-13
+Claim Filed Date: 2024-05-18
+Claim Amount: $3,251.42
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000001160 for renters policy in WI. Policyholder tenure: 0.3 yrs with 2 prior claims. Amount claimed: $3251.42 (deductible $500.0). Filed on 2024-05-18 following incident on 2024-05-13. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001160 is covered by Policy POL-50338659.
+- Claim CLM-C000001160 concerns an incident in WI on 2024-05-13.
+- Claim CLM-C000001160 has outcome Denied.
+- Claim CLM-C000001160 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004322
+Policy ID: POL-33286897
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 11.9 years
+Previous Claims: 1
+Incident Date: 2024-09-14
+Claim Filed Date: 2024-10-17
+Claim Amount: $10,562.21
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000004322 for home policy in AZ. Policyholder tenure: 11.9 yrs with 1 prior claims. Amount claimed: $10562.21 (deductible $2000.0). Filed on 2024-10-17 following incident on 2024-09-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004322 is covered by Policy POL-33286897.
+- Claim CLM-C000004322 concerns an incident in AZ on 2024-09-14.
+- Claim CLM-C000004322 has outcome Approved.
+- Claim CLM-C000004322 has claim type Home.

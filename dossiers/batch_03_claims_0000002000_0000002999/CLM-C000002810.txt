@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002810
+Policy ID: POL-38369802
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2024-10-29
+Claim Filed Date: 2024-11-16
+Claim Amount: $6,857.93
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000002810 for auto policy in CO. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $6857.93 (deductible $500.0). Filed on 2024-11-16 following incident on 2024-10-29. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002810 is covered by Policy POL-38369802.
+- Claim CLM-C000002810 concerns an incident in CO on 2024-10-29.
+- Claim CLM-C000002810 has outcome Under Review.
+- Claim CLM-C000002810 has claim type Auto.

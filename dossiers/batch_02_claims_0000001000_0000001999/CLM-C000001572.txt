@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001572
+Policy ID: POL-76472234
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 7.4 years
+Previous Claims: 1
+Incident Date: 2024-12-12
+Claim Filed Date: 2024-12-15
+Claim Amount: $7,194.23
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000001572 for auto policy in GA. Policyholder tenure: 7.4 yrs with 1 prior claims. Amount claimed: $7194.23 (deductible $500.0). Filed on 2024-12-15 following incident on 2024-12-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001572 is covered by Policy POL-76472234.
+- Claim CLM-C000001572 concerns an incident in GA on 2024-12-12.
+- Claim CLM-C000001572 has outcome Approved.
+- Claim CLM-C000001572 has claim type Auto.

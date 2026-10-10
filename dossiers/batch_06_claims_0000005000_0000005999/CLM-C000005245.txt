@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005245
+Policy ID: POL-65285365
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 13.9 years
+Previous Claims: 0
+Incident Date: 2023-07-15
+Claim Filed Date: 2023-07-28
+Claim Amount: $4,248.28
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000005245 for auto policy in CO. Policyholder tenure: 13.9 yrs with 0 prior claims. Amount claimed: $4248.28 (deductible $500.0). Filed on 2023-07-28 following incident on 2023-07-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005245 is covered by Policy POL-65285365.
+- Claim CLM-C000005245 concerns an incident in CO on 2023-07-15.
+- Claim CLM-C000005245 has outcome Approved.
+- Claim CLM-C000005245 has claim type Auto.

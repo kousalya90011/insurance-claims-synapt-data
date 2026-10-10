@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000826
+Policy ID: POL-13254643
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 9.9 years
+Previous Claims: 1
+Incident Date: 2023-03-09
+Claim Filed Date: 2023-03-19
+Claim Amount: $21,214.29
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000000826 for auto policy in AZ. Policyholder tenure: 9.9 yrs with 1 prior claims. Amount claimed: $21214.29 (deductible $500.0). Filed on 2023-03-19 following incident on 2023-03-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000826 is covered by Policy POL-13254643.
+- Claim CLM-C000000826 concerns an incident in AZ on 2023-03-09.
+- Claim CLM-C000000826 has outcome Approved.
+- Claim CLM-C000000826 has claim type Auto.

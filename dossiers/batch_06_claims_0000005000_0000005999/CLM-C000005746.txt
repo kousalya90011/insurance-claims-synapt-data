@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005746
+Policy ID: POL-63081097
+Claim Type: Home
+State: IL
+Policyholder Tenure: 12.3 years
+Previous Claims: 1
+Incident Date: 2024-09-15
+Claim Filed Date: 2024-10-24
+Claim Amount: $23,194.60
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000005746 for home policy in IL. Policyholder tenure: 12.3 yrs with 1 prior claims. Amount claimed: $23194.6 (deductible $500.0). Filed on 2024-10-24 following incident on 2024-09-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005746 is covered by Policy POL-63081097.
+- Claim CLM-C000005746 concerns an incident in IL on 2024-09-15.
+- Claim CLM-C000005746 has outcome Approved.
+- Claim CLM-C000005746 has claim type Home.

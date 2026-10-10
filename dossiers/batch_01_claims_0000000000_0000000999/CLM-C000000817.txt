@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000817
+Policy ID: POL-86891196
+Claim Type: Property
+State: MA
+Policyholder Tenure: 1.8 years
+Previous Claims: 1
+Incident Date: 2023-03-06
+Claim Filed Date: 2023-03-29
+Claim Amount: $3,948.07
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000000817 for property policy in MA. Policyholder tenure: 1.8 yrs with 1 prior claims. Amount claimed: $3948.07 (deductible $1000.0). Filed on 2023-03-29 following incident on 2023-03-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000817 is covered by Policy POL-86891196.
+- Claim CLM-C000000817 concerns an incident in MA on 2023-03-06.
+- Claim CLM-C000000817 has outcome Denied.
+- Claim CLM-C000000817 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002755
+Policy ID: POL-56218464
+Claim Type: Renters
+State: GA
+Policyholder Tenure: 18.9 years
+Previous Claims: 0
+Incident Date: 2023-10-20
+Claim Filed Date: 2023-11-22
+Claim Amount: $3,227.77
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000002755 for renters policy in GA. Policyholder tenure: 18.9 yrs with 0 prior claims. Amount claimed: $3227.77 (deductible $2500.0). Filed on 2023-11-22 following incident on 2023-10-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002755 is covered by Policy POL-56218464.
+- Claim CLM-C000002755 concerns an incident in GA on 2023-10-20.
+- Claim CLM-C000002755 has outcome Approved.
+- Claim CLM-C000002755 has claim type Renters.

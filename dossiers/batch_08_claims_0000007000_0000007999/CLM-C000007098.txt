@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007098
+Policy ID: POL-42119712
+Claim Type: Property
+State: MA
+Policyholder Tenure: 11.0 years
+Previous Claims: 2
+Incident Date: 2023-04-29
+Claim Filed Date: 2023-05-01
+Claim Amount: $5,564.98
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000007098 for property policy in MA. Policyholder tenure: 11.0 yrs with 2 prior claims. Amount claimed: $5564.98 (deductible $500.0). Filed on 2023-05-01 following incident on 2023-04-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007098 is covered by Policy POL-42119712.
+- Claim CLM-C000007098 concerns an incident in MA on 2023-04-29.
+- Claim CLM-C000007098 has outcome Approved.
+- Claim CLM-C000007098 has claim type Property.

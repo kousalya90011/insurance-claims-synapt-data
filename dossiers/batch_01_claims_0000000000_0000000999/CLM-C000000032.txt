@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000032
+Policy ID: POL-15743552
+Claim Type: Business
+State: MO
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2023-04-04
+Claim Filed Date: 2023-05-08
+Claim Amount: $41,177.79
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000000032 for business policy in MO. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $41177.79 (deductible $500.0). Filed on 2023-05-08 following incident on 2023-04-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000032 is covered by Policy POL-15743552.
+- Claim CLM-C000000032 concerns an incident in MO on 2023-04-04.
+- Claim CLM-C000000032 has outcome Approved.
+- Claim CLM-C000000032 has claim type Business.

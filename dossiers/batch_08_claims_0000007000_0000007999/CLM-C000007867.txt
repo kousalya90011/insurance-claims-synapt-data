@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007867
+Policy ID: POL-68129066
+Claim Type: Home
+State: VA
+Policyholder Tenure: 4.4 years
+Previous Claims: 0
+Incident Date: 2025-01-19
+Claim Filed Date: 2025-01-24
+Claim Amount: $47,679.04
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000007867 for home policy in VA. Policyholder tenure: 4.4 yrs with 0 prior claims. Amount claimed: $47679.04 (deductible $500.0). Filed on 2025-01-24 following incident on 2025-01-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007867 is covered by Policy POL-68129066.
+- Claim CLM-C000007867 concerns an incident in VA on 2025-01-19.
+- Claim CLM-C000007867 has outcome Approved.
+- Claim CLM-C000007867 has claim type Home.

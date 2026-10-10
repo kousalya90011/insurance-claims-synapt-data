@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007137
+Policy ID: POL-27079132
+Claim Type: Renters
+State: WA
+Policyholder Tenure: 1.3 years
+Previous Claims: 1
+Incident Date: 2023-02-10
+Claim Filed Date: 2023-02-25
+Claim Amount: $450.19
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000007137 for renters policy in WA. Policyholder tenure: 1.3 yrs with 1 prior claims. Amount claimed: $450.19 (deductible $500.0). Filed on 2023-02-25 following incident on 2023-02-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007137 is covered by Policy POL-27079132.
+- Claim CLM-C000007137 concerns an incident in WA on 2023-02-10.
+- Claim CLM-C000007137 has outcome Approved.
+- Claim CLM-C000007137 has claim type Renters.

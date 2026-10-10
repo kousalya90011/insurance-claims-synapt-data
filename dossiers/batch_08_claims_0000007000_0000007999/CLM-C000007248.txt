@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007248
+Policy ID: POL-63515492
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 3.2 years
+Previous Claims: 3
+Incident Date: 2023-10-02
+Claim Filed Date: 2023-10-27
+Claim Amount: $47,316.19
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 47 days
+Claim Narrative: Claim CLM-C000007248 for home policy in NJ. Policyholder tenure: 3.2 yrs with 3 prior claims. Amount claimed: $47316.19 (deductible $1000.0). Filed on 2023-10-27 following incident on 2023-10-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007248 is covered by Policy POL-63515492.
+- Claim CLM-C000007248 concerns an incident in NJ on 2023-10-02.
+- Claim CLM-C000007248 has outcome Under Review.
+- Claim CLM-C000007248 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003632
+Policy ID: POL-78048382
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 6.7 years
+Previous Claims: 0
+Incident Date: 2024-08-05
+Claim Filed Date: 2024-08-06
+Claim Amount: $6,757.31
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000003632 for auto policy in WI. Policyholder tenure: 6.7 yrs with 0 prior claims. Amount claimed: $6757.31 (deductible $250.0). Filed on 2024-08-06 following incident on 2024-08-05. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003632 is covered by Policy POL-78048382.
+- Claim CLM-C000003632 concerns an incident in WI on 2024-08-05.
+- Claim CLM-C000003632 has outcome Under Review.
+- Claim CLM-C000003632 has claim type Auto.

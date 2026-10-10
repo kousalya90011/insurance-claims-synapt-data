@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003354
+Policy ID: POL-44450484
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 19.5 years
+Previous Claims: 0
+Incident Date: 2024-03-24
+Claim Filed Date: 2024-04-20
+Claim Amount: $1,914.28
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000003354 for renters policy in MD. Policyholder tenure: 19.5 yrs with 0 prior claims. Amount claimed: $1914.28 (deductible $250.0). Filed on 2024-04-20 following incident on 2024-03-24. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003354 is covered by Policy POL-44450484.
+- Claim CLM-C000003354 concerns an incident in MD on 2024-03-24.
+- Claim CLM-C000003354 has outcome Under Review.
+- Claim CLM-C000003354 has claim type Renters.

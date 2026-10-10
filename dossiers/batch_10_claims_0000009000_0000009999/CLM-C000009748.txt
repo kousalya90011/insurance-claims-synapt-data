@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009748
+Policy ID: POL-94445228
+Claim Type: Home
+State: CA
+Policyholder Tenure: 5.4 years
+Previous Claims: 1
+Incident Date: 2024-11-29
+Claim Filed Date: 2024-12-10
+Claim Amount: $17,667.96
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000009748 for home policy in CA. Policyholder tenure: 5.4 yrs with 1 prior claims. Amount claimed: $17667.96 (deductible $500.0). Filed on 2024-12-10 following incident on 2024-11-29. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009748 is covered by Policy POL-94445228.
+- Claim CLM-C000009748 concerns an incident in CA on 2024-11-29.
+- Claim CLM-C000009748 has outcome Pending.
+- Claim CLM-C000009748 has claim type Home.

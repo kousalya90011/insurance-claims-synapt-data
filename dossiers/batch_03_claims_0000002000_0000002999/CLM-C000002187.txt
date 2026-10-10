@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002187
+Policy ID: POL-66939498
+Claim Type: Property
+State: FL
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2024-07-16
+Claim Filed Date: 2024-08-21
+Claim Amount: $927.03
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000002187 for property policy in FL. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $927.03 (deductible $500.0). Filed on 2024-08-21 following incident on 2024-07-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002187 is covered by Policy POL-66939498.
+- Claim CLM-C000002187 concerns an incident in FL on 2024-07-16.
+- Claim CLM-C000002187 has outcome Denied.
+- Claim CLM-C000002187 has claim type Property.

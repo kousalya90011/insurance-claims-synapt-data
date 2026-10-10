@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007432
+Policy ID: POL-19409693
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2024-09-05
+Claim Filed Date: 2024-09-22
+Claim Amount: $3,586.54
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000007432 for renters policy in WI. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $3586.54 (deductible $500.0). Filed on 2024-09-22 following incident on 2024-09-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007432 is covered by Policy POL-19409693.
+- Claim CLM-C000007432 concerns an incident in WI on 2024-09-05.
+- Claim CLM-C000007432 has outcome Approved.
+- Claim CLM-C000007432 has claim type Renters.

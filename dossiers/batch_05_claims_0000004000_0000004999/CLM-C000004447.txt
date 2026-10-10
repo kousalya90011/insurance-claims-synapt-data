@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004447
+Policy ID: POL-77636759
+Claim Type: Home
+State: CO
+Policyholder Tenure: 6.9 years
+Previous Claims: 0
+Incident Date: 2023-11-17
+Claim Filed Date: 2023-12-26
+Claim Amount: $28,900.63
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000004447 for home policy in CO. Policyholder tenure: 6.9 yrs with 0 prior claims. Amount claimed: $28900.63 (deductible $250.0). Filed on 2023-12-26 following incident on 2023-11-17. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004447 is covered by Policy POL-77636759.
+- Claim CLM-C000004447 concerns an incident in CO on 2023-11-17.
+- Claim CLM-C000004447 has outcome Pending.
+- Claim CLM-C000004447 has claim type Home.

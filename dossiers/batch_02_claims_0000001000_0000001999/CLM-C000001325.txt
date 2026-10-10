@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001325
+Policy ID: POL-76122930
+Claim Type: Home
+State: WA
+Policyholder Tenure: 5.5 years
+Previous Claims: 0
+Incident Date: 2023-04-21
+Claim Filed Date: 2023-05-01
+Claim Amount: $4,625.61
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001325 for home policy in WA. Policyholder tenure: 5.5 yrs with 0 prior claims. Amount claimed: $4625.61 (deductible $500.0). Filed on 2023-05-01 following incident on 2023-04-21. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001325 is covered by Policy POL-76122930.
+- Claim CLM-C000001325 concerns an incident in WA on 2023-04-21.
+- Claim CLM-C000001325 has outcome Pending.
+- Claim CLM-C000001325 has claim type Home.

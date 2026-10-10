@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008751
+Policy ID: POL-21781888
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2024-09-20
+Claim Filed Date: 2024-10-27
+Claim Amount: $3,089.98
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000008751 for renters policy in MD. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $3089.98 (deductible $1000.0). Filed on 2024-10-27 following incident on 2024-09-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008751 is covered by Policy POL-21781888.
+- Claim CLM-C000008751 concerns an incident in MD on 2024-09-20.
+- Claim CLM-C000008751 has outcome Approved.
+- Claim CLM-C000008751 has claim type Renters.

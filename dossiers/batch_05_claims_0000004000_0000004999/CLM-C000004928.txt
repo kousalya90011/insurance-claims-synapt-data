@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004928
+Policy ID: POL-67808566
+Claim Type: Home
+State: NY
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-06-26
+Claim Filed Date: 2023-07-17
+Claim Amount: $3,664.46
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000004928 for home policy in NY. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $3664.46 (deductible $1000.0). Filed on 2023-07-17 following incident on 2023-06-26. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004928 is covered by Policy POL-67808566.
+- Claim CLM-C000004928 concerns an incident in NY on 2023-06-26.
+- Claim CLM-C000004928 has outcome Under Review.
+- Claim CLM-C000004928 has claim type Home.

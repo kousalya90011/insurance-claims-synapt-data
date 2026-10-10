@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009380
+Policy ID: POL-73847161
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 7.6 years
+Previous Claims: 0
+Incident Date: 2023-11-10
+Claim Filed Date: 2023-12-12
+Claim Amount: $8,228.16
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000009380 for auto policy in NJ. Policyholder tenure: 7.6 yrs with 0 prior claims. Amount claimed: $8228.16 (deductible $250.0). Filed on 2023-12-12 following incident on 2023-11-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009380 is covered by Policy POL-73847161.
+- Claim CLM-C000009380 concerns an incident in NJ on 2023-11-10.
+- Claim CLM-C000009380 has outcome Approved.
+- Claim CLM-C000009380 has claim type Auto.

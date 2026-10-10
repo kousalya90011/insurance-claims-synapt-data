@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004937
+Policy ID: POL-73189032
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 4.0 years
+Previous Claims: 1
+Incident Date: 2023-05-22
+Claim Filed Date: 2023-06-08
+Claim Amount: $2,593.89
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004937 for auto policy in MI. Policyholder tenure: 4.0 yrs with 1 prior claims. Amount claimed: $2593.89 (deductible $500.0). Filed on 2023-06-08 following incident on 2023-05-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004937 is covered by Policy POL-73189032.
+- Claim CLM-C000004937 concerns an incident in MI on 2023-05-22.
+- Claim CLM-C000004937 has outcome Approved.
+- Claim CLM-C000004937 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004188
+Policy ID: POL-93997919
+Claim Type: Renters
+State: WA
+Policyholder Tenure: 5.2 years
+Previous Claims: 0
+Incident Date: 2024-03-14
+Claim Filed Date: 2024-04-18
+Claim Amount: $13,656.45
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000004188 for renters policy in WA. Policyholder tenure: 5.2 yrs with 0 prior claims. Amount claimed: $13656.45 (deductible $500.0). Filed on 2024-04-18 following incident on 2024-03-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004188 is covered by Policy POL-93997919.
+- Claim CLM-C000004188 concerns an incident in WA on 2024-03-14.
+- Claim CLM-C000004188 has outcome Approved.
+- Claim CLM-C000004188 has claim type Renters.

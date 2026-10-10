@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001355
+Policy ID: POL-58677096
+Claim Type: Property
+State: PA
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2024-01-23
+Claim Filed Date: 2024-02-05
+Claim Amount: $28,349.78
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000001355 for property policy in PA. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $28349.78 (deductible $500.0). Filed on 2024-02-05 following incident on 2024-01-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001355 is covered by Policy POL-58677096.
+- Claim CLM-C000001355 concerns an incident in PA on 2024-01-23.
+- Claim CLM-C000001355 has outcome Approved.
+- Claim CLM-C000001355 has claim type Property.

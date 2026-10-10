@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001697
+Policy ID: POL-95477585
+Claim Type: Home
+State: VA
+Policyholder Tenure: 36.2 years
+Previous Claims: 0
+Incident Date: 2023-09-10
+Claim Filed Date: 2023-10-17
+Claim Amount: $18,968.00
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001697 for home policy in VA. Policyholder tenure: 36.2 yrs with 0 prior claims. Amount claimed: $18968.0 (deductible $250.0). Filed on 2023-10-17 following incident on 2023-09-10. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001697 is covered by Policy POL-95477585.
+- Claim CLM-C000001697 concerns an incident in VA on 2023-09-10.
+- Claim CLM-C000001697 has outcome Pending.
+- Claim CLM-C000001697 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006084
+Policy ID: POL-38914628
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-06-19
+Claim Filed Date: 2023-07-05
+Claim Amount: $7,470.21
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000006084 for property policy in NJ. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $7470.21 (deductible $500.0). Filed on 2023-07-05 following incident on 2023-06-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006084 is covered by Policy POL-38914628.
+- Claim CLM-C000006084 concerns an incident in NJ on 2023-06-19.
+- Claim CLM-C000006084 has outcome Approved.
+- Claim CLM-C000006084 has claim type Property.

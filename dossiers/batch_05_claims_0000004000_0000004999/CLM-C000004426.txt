@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004426
+Policy ID: POL-21062028
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 3.1 years
+Previous Claims: 3
+Incident Date: 2024-02-14
+Claim Filed Date: 2024-02-25
+Claim Amount: $900.43
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004426 for auto policy in WI. Policyholder tenure: 3.1 yrs with 3 prior claims. Amount claimed: $900.43 (deductible $500.0). Filed on 2024-02-25 following incident on 2024-02-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004426 is covered by Policy POL-21062028.
+- Claim CLM-C000004426 concerns an incident in WI on 2024-02-14.
+- Claim CLM-C000004426 has outcome Approved.
+- Claim CLM-C000004426 has claim type Auto.

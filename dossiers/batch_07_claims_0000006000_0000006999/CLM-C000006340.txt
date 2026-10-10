@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006340
+Policy ID: POL-82705051
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2024-11-09
+Claim Filed Date: 2024-11-10
+Claim Amount: $984.62
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000006340 for auto policy in NJ. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $984.62 (deductible $500.0). Filed on 2024-11-10 following incident on 2024-11-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006340 is covered by Policy POL-82705051.
+- Claim CLM-C000006340 concerns an incident in NJ on 2024-11-09.
+- Claim CLM-C000006340 has outcome Approved.
+- Claim CLM-C000006340 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007915
+Policy ID: POL-75929513
+Claim Type: Property
+State: MD
+Policyholder Tenure: 9.8 years
+Previous Claims: 0
+Incident Date: 2024-03-10
+Claim Filed Date: 2024-04-18
+Claim Amount: $7,475.99
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000007915 for property policy in MD. Policyholder tenure: 9.8 yrs with 0 prior claims. Amount claimed: $7475.99 (deductible $500.0). Filed on 2024-04-18 following incident on 2024-03-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007915 is covered by Policy POL-75929513.
+- Claim CLM-C000007915 concerns an incident in MD on 2024-03-10.
+- Claim CLM-C000007915 has outcome Approved.
+- Claim CLM-C000007915 has claim type Property.

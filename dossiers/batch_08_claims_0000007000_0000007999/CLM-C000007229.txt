@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007229
+Policy ID: POL-43593964
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 18.2 years
+Previous Claims: 1
+Incident Date: 2023-12-09
+Claim Filed Date: 2024-01-07
+Claim Amount: $2,060.84
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000007229 for auto policy in IL. Policyholder tenure: 18.2 yrs with 1 prior claims. Amount claimed: $2060.84 (deductible $500.0). Filed on 2024-01-07 following incident on 2023-12-09. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007229 is covered by Policy POL-43593964.
+- Claim CLM-C000007229 concerns an incident in IL on 2023-12-09.
+- Claim CLM-C000007229 has outcome Under Review.
+- Claim CLM-C000007229 has claim type Auto.

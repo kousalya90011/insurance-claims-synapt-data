@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005779
+Policy ID: POL-21776180
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2024-01-02
+Claim Filed Date: 2024-02-05
+Claim Amount: $8,612.69
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000005779 for auto policy in TN. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $8612.69 (deductible $500.0). Filed on 2024-02-05 following incident on 2024-01-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005779 is covered by Policy POL-21776180.
+- Claim CLM-C000005779 concerns an incident in TN on 2024-01-02.
+- Claim CLM-C000005779 has outcome Under Review.
+- Claim CLM-C000005779 has claim type Auto.

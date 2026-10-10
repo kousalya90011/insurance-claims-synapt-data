@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006987
+Policy ID: POL-35233626
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2023-06-11
+Claim Filed Date: 2023-07-11
+Claim Amount: $2,001.25
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000006987 for renters policy in PA. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $2001.25 (deductible $500.0). Filed on 2023-07-11 following incident on 2023-06-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006987 is covered by Policy POL-35233626.
+- Claim CLM-C000006987 concerns an incident in PA on 2023-06-11.
+- Claim CLM-C000006987 has outcome Under Review.
+- Claim CLM-C000006987 has claim type Renters.

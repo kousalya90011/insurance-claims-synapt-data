@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009931
+Policy ID: POL-84757133
+Claim Type: Home
+State: MA
+Policyholder Tenure: 0.3 years
+Previous Claims: 0
+Incident Date: 2024-05-29
+Claim Filed Date: 2024-07-08
+Claim Amount: $260,272.60
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: 50 days
+Claim Narrative: Claim CLM-C000009931 for home policy in MA. Policyholder tenure: 0.3 yrs with 0 prior claims. Amount claimed: $260272.6 (deductible $1000.0). Filed on 2024-07-08 following incident on 2024-05-29. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009931 is covered by Policy POL-84757133.
+- Claim CLM-C000009931 concerns an incident in MA on 2024-05-29.
+- Claim CLM-C000009931 has outcome Pending.
+- Claim CLM-C000009931 has claim type Home.

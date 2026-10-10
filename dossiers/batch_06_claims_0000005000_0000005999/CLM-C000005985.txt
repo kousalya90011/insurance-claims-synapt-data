@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005985
+Policy ID: POL-51488273
+Claim Type: Home
+State: NY
+Policyholder Tenure: 3.5 years
+Previous Claims: 1
+Incident Date: 2023-11-24
+Claim Filed Date: 2023-12-02
+Claim Amount: $8,809.17
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000005985 for home policy in NY. Policyholder tenure: 3.5 yrs with 1 prior claims. Amount claimed: $8809.17 (deductible $2500.0). Filed on 2023-12-02 following incident on 2023-11-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005985 is covered by Policy POL-51488273.
+- Claim CLM-C000005985 concerns an incident in NY on 2023-11-24.
+- Claim CLM-C000005985 has outcome Approved.
+- Claim CLM-C000005985 has claim type Home.

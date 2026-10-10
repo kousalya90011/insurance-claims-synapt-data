@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003393
+Policy ID: POL-42384956
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2023-10-31
+Claim Filed Date: 2023-12-05
+Claim Amount: $2,319.14
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 46 days
+Claim Narrative: Claim CLM-C000003393 for renters policy in TN. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $2319.14 (deductible $500.0). Filed on 2023-12-05 following incident on 2023-10-31. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003393 is covered by Policy POL-42384956.
+- Claim CLM-C000003393 concerns an incident in TN on 2023-10-31.
+- Claim CLM-C000003393 has outcome Denied.
+- Claim CLM-C000003393 has claim type Renters.

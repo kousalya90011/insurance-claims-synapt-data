@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006030
+Policy ID: POL-50361243
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 9.4 years
+Previous Claims: 0
+Incident Date: 2023-03-04
+Claim Filed Date: 2023-04-08
+Claim Amount: $35,475.62
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000006030 for home policy in NJ. Policyholder tenure: 9.4 yrs with 0 prior claims. Amount claimed: $35475.62 (deductible $500.0). Filed on 2023-04-08 following incident on 2023-03-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006030 is covered by Policy POL-50361243.
+- Claim CLM-C000006030 concerns an incident in NJ on 2023-03-04.
+- Claim CLM-C000006030 has outcome Approved.
+- Claim CLM-C000006030 has claim type Home.

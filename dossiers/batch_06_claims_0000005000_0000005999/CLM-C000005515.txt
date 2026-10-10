@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005515
+Policy ID: POL-81754899
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 3.0 years
+Previous Claims: 0
+Incident Date: 2024-05-22
+Claim Filed Date: 2024-05-31
+Claim Amount: $3,192.60
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000005515 for auto policy in NY. Policyholder tenure: 3.0 yrs with 0 prior claims. Amount claimed: $3192.6 (deductible $500.0). Filed on 2024-05-31 following incident on 2024-05-22. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005515 is covered by Policy POL-81754899.
+- Claim CLM-C000005515 concerns an incident in NY on 2024-05-22.
+- Claim CLM-C000005515 has outcome Under Review.
+- Claim CLM-C000005515 has claim type Auto.

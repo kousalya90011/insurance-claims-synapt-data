@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000008
+Policy ID: POL-57383107
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 12.4 years
+Previous Claims: 0
+Incident Date: 2024-09-02
+Claim Filed Date: 2024-10-13
+Claim Amount: $3,057.31
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000000008 for renters policy in FL. Policyholder tenure: 12.4 yrs with 0 prior claims. Amount claimed: $3057.31 (deductible $2000.0). Filed on 2024-10-13 following incident on 2024-09-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000008 is covered by Policy POL-57383107.
+- Claim CLM-C000000008 concerns an incident in FL on 2024-09-02.
+- Claim CLM-C000000008 has outcome Under Review.
+- Claim CLM-C000000008 has claim type Renters.

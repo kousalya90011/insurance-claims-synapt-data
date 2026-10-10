@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006473
+Policy ID: POL-54240918
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 1.7 years
+Previous Claims: 2
+Incident Date: 2024-11-30
+Claim Filed Date: 2024-12-17
+Claim Amount: $8,203.10
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000006473 for auto policy in MD. Policyholder tenure: 1.7 yrs with 2 prior claims. Amount claimed: $8203.1 (deductible $1000.0). Filed on 2024-12-17 following incident on 2024-11-30. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006473 is covered by Policy POL-54240918.
+- Claim CLM-C000006473 concerns an incident in MD on 2024-11-30.
+- Claim CLM-C000006473 has outcome Denied.
+- Claim CLM-C000006473 has claim type Auto.

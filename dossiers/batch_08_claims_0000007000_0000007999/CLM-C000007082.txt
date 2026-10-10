@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007082
+Policy ID: POL-10378193
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 6.2 years
+Previous Claims: 1
+Incident Date: 2024-06-27
+Claim Filed Date: 2024-08-08
+Claim Amount: $12,185.20
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000007082 for auto policy in VA. Policyholder tenure: 6.2 yrs with 1 prior claims. Amount claimed: $12185.2 (deductible $500.0). Filed on 2024-08-08 following incident on 2024-06-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007082 is covered by Policy POL-10378193.
+- Claim CLM-C000007082 concerns an incident in VA on 2024-06-27.
+- Claim CLM-C000007082 has outcome Approved.
+- Claim CLM-C000007082 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001090
+Policy ID: POL-30956705
+Claim Type: Home
+State: WA
+Policyholder Tenure: 6.1 years
+Previous Claims: 0
+Incident Date: 2024-01-17
+Claim Filed Date: 2024-01-24
+Claim Amount: $24,751.45
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000001090 for home policy in WA. Policyholder tenure: 6.1 yrs with 0 prior claims. Amount claimed: $24751.45 (deductible $250.0). Filed on 2024-01-24 following incident on 2024-01-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001090 is covered by Policy POL-30956705.
+- Claim CLM-C000001090 concerns an incident in WA on 2024-01-17.
+- Claim CLM-C000001090 has outcome Approved.
+- Claim CLM-C000001090 has claim type Home.

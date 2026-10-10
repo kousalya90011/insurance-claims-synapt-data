@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002157
+Policy ID: POL-42939914
+Claim Type: Home
+State: TX
+Policyholder Tenure: 13.0 years
+Previous Claims: 1
+Incident Date: 2024-12-28
+Claim Filed Date: 2025-01-03
+Claim Amount: $4,651.03
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000002157 for home policy in TX. Policyholder tenure: 13.0 yrs with 1 prior claims. Amount claimed: $4651.03 (deductible $500.0). Filed on 2025-01-03 following incident on 2024-12-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002157 is covered by Policy POL-42939914.
+- Claim CLM-C000002157 concerns an incident in TX on 2024-12-28.
+- Claim CLM-C000002157 has outcome Approved.
+- Claim CLM-C000002157 has claim type Home.

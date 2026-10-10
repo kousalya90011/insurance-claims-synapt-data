@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006740
+Policy ID: POL-93186077
+Claim Type: Home
+State: WA
+Policyholder Tenure: 2.7 years
+Previous Claims: 0
+Incident Date: 2023-11-27
+Claim Filed Date: 2023-12-20
+Claim Amount: $18,929.56
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000006740 for home policy in WA. Policyholder tenure: 2.7 yrs with 0 prior claims. Amount claimed: $18929.56 (deductible $1000.0). Filed on 2023-12-20 following incident on 2023-11-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006740 is covered by Policy POL-93186077.
+- Claim CLM-C000006740 concerns an incident in WA on 2023-11-27.
+- Claim CLM-C000006740 has outcome Under Review.
+- Claim CLM-C000006740 has claim type Home.

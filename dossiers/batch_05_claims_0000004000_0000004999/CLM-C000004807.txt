@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004807
+Policy ID: POL-62468042
+Claim Type: Home
+State: PA
+Policyholder Tenure: 2.4 years
+Previous Claims: 2
+Incident Date: 2024-09-28
+Claim Filed Date: 2024-09-29
+Claim Amount: $38,816.88
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000004807 for home policy in PA. Policyholder tenure: 2.4 yrs with 2 prior claims. Amount claimed: $38816.88 (deductible $1000.0). Filed on 2024-09-29 following incident on 2024-09-28. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004807 is covered by Policy POL-62468042.
+- Claim CLM-C000004807 concerns an incident in PA on 2024-09-28.
+- Claim CLM-C000004807 has outcome Denied.
+- Claim CLM-C000004807 has claim type Home.

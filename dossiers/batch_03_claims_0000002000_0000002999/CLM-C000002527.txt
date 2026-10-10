@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002527
+Policy ID: POL-44532374
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2024-07-22
+Claim Filed Date: 2024-07-30
+Claim Amount: $16,959.17
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000002527 for renters policy in IL. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $16959.17 (deductible $250.0). Filed on 2024-07-30 following incident on 2024-07-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002527 is covered by Policy POL-44532374.
+- Claim CLM-C000002527 concerns an incident in IL on 2024-07-22.
+- Claim CLM-C000002527 has outcome Approved.
+- Claim CLM-C000002527 has claim type Renters.

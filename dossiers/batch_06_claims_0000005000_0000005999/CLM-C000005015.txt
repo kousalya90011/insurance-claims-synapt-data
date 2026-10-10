@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005015
+Policy ID: POL-95500158
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 2.9 years
+Previous Claims: 1
+Incident Date: 2023-04-23
+Claim Filed Date: 2023-06-01
+Claim Amount: $19,042.99
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 60 days
+Claim Narrative: Claim CLM-C000005015 for auto policy in VA. Policyholder tenure: 2.9 yrs with 1 prior claims. Amount claimed: $19042.99 (deductible $250.0). Filed on 2023-06-01 following incident on 2023-04-23. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005015 is covered by Policy POL-95500158.
+- Claim CLM-C000005015 concerns an incident in VA on 2023-04-23.
+- Claim CLM-C000005015 has outcome Denied.
+- Claim CLM-C000005015 has claim type Auto.

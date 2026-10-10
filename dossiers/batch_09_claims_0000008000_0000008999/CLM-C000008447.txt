@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008447
+Policy ID: POL-56609816
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 16.1 years
+Previous Claims: 1
+Incident Date: 2023-02-17
+Claim Filed Date: 2023-02-25
+Claim Amount: $2,581.31
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000008447 for renters policy in NY. Policyholder tenure: 16.1 yrs with 1 prior claims. Amount claimed: $2581.31 (deductible $500.0). Filed on 2023-02-25 following incident on 2023-02-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008447 is covered by Policy POL-56609816.
+- Claim CLM-C000008447 concerns an incident in NY on 2023-02-17.
+- Claim CLM-C000008447 has outcome Approved.
+- Claim CLM-C000008447 has claim type Renters.

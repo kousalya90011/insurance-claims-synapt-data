@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004127
+Policy ID: POL-23593226
+Claim Type: Business
+State: FL
+Policyholder Tenure: 3.5 years
+Previous Claims: 0
+Incident Date: 2024-02-05
+Claim Filed Date: 2024-02-07
+Claim Amount: $14,931.68
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000004127 for business policy in FL. Policyholder tenure: 3.5 yrs with 0 prior claims. Amount claimed: $14931.68 (deductible $250.0). Filed on 2024-02-07 following incident on 2024-02-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004127 is covered by Policy POL-23593226.
+- Claim CLM-C000004127 concerns an incident in FL on 2024-02-05.
+- Claim CLM-C000004127 has outcome Approved.
+- Claim CLM-C000004127 has claim type Business.

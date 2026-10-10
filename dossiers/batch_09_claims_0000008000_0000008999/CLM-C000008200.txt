@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008200
+Policy ID: POL-58283783
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 19.8 years
+Previous Claims: 0
+Incident Date: 2023-12-09
+Claim Filed Date: 2024-01-09
+Claim Amount: $4,331.76
+Deductible: $2,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000008200 for auto policy in IL. Policyholder tenure: 19.8 yrs with 0 prior claims. Amount claimed: $4331.76 (deductible $2000.0). Filed on 2024-01-09 following incident on 2023-12-09. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008200 is covered by Policy POL-58283783.
+- Claim CLM-C000008200 concerns an incident in IL on 2023-12-09.
+- Claim CLM-C000008200 has outcome Pending.
+- Claim CLM-C000008200 has claim type Auto.

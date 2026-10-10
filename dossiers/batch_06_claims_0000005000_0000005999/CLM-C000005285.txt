@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005285
+Policy ID: POL-44978393
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 7.6 years
+Previous Claims: 0
+Incident Date: 2023-09-29
+Claim Filed Date: 2023-10-02
+Claim Amount: $4,717.39
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000005285 for home policy in NJ. Policyholder tenure: 7.6 yrs with 0 prior claims. Amount claimed: $4717.39 (deductible $500.0). Filed on 2023-10-02 following incident on 2023-09-29. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005285 is covered by Policy POL-44978393.
+- Claim CLM-C000005285 concerns an incident in NJ on 2023-09-29.
+- Claim CLM-C000005285 has outcome Denied.
+- Claim CLM-C000005285 has claim type Home.

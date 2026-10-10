@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001523
+Policy ID: POL-86803250
+Claim Type: Property
+State: VA
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2023-11-10
+Claim Filed Date: 2023-12-08
+Claim Amount: $10,544.62
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001523 for property policy in VA. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $10544.62 (deductible $1000.0). Filed on 2023-12-08 following incident on 2023-11-10. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001523 is covered by Policy POL-86803250.
+- Claim CLM-C000001523 concerns an incident in VA on 2023-11-10.
+- Claim CLM-C000001523 has outcome Pending.
+- Claim CLM-C000001523 has claim type Property.

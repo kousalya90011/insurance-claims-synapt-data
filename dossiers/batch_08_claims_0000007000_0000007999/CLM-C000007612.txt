@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007612
+Policy ID: POL-85861031
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 2.2 years
+Previous Claims: 1
+Incident Date: 2023-06-22
+Claim Filed Date: 2023-06-23
+Claim Amount: $1,907.78
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000007612 for property policy in AZ. Policyholder tenure: 2.2 yrs with 1 prior claims. Amount claimed: $1907.78 (deductible $500.0). Filed on 2023-06-23 following incident on 2023-06-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007612 is covered by Policy POL-85861031.
+- Claim CLM-C000007612 concerns an incident in AZ on 2023-06-22.
+- Claim CLM-C000007612 has outcome Approved.
+- Claim CLM-C000007612 has claim type Property.

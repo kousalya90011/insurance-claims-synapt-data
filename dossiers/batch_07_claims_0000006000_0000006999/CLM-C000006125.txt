@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006125
+Policy ID: POL-70599546
+Claim Type: Property
+State: PA
+Policyholder Tenure: 17.0 years
+Previous Claims: 0
+Incident Date: 2023-10-17
+Claim Filed Date: 2023-11-16
+Claim Amount: $6,981.02
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000006125 for property policy in PA. Policyholder tenure: 17.0 yrs with 0 prior claims. Amount claimed: $6981.02 (deductible $1000.0). Filed on 2023-11-16 following incident on 2023-10-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006125 is covered by Policy POL-70599546.
+- Claim CLM-C000006125 concerns an incident in PA on 2023-10-17.
+- Claim CLM-C000006125 has outcome Approved.
+- Claim CLM-C000006125 has claim type Property.

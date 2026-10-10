@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007409
+Policy ID: POL-40328795
+Claim Type: Home
+State: WA
+Policyholder Tenure: 9.7 years
+Previous Claims: 0
+Incident Date: 2025-01-05
+Claim Filed Date: 2025-02-08
+Claim Amount: $4,372.83
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000007409 for home policy in WA. Policyholder tenure: 9.7 yrs with 0 prior claims. Amount claimed: $4372.83 (deductible $1000.0). Filed on 2025-02-08 following incident on 2025-01-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007409 is covered by Policy POL-40328795.
+- Claim CLM-C000007409 concerns an incident in WA on 2025-01-05.
+- Claim CLM-C000007409 has outcome Approved.
+- Claim CLM-C000007409 has claim type Home.

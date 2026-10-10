@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007817
+Policy ID: POL-16872562
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 1.6 years
+Previous Claims: 3
+Incident Date: 2023-10-25
+Claim Filed Date: 2023-10-30
+Claim Amount: $16,028.75
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000007817 for auto policy in NC. Policyholder tenure: 1.6 yrs with 3 prior claims. Amount claimed: $16028.75 (deductible $2000.0). Filed on 2023-10-30 following incident on 2023-10-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007817 is covered by Policy POL-16872562.
+- Claim CLM-C000007817 concerns an incident in NC on 2023-10-25.
+- Claim CLM-C000007817 has outcome Approved.
+- Claim CLM-C000007817 has claim type Auto.

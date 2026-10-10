@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003092
+Policy ID: POL-81370447
+Claim Type: Property
+State: FL
+Policyholder Tenure: 8.5 years
+Previous Claims: 0
+Incident Date: 2024-10-13
+Claim Filed Date: 2024-11-20
+Claim Amount: $6,160.40
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000003092 for property policy in FL. Policyholder tenure: 8.5 yrs with 0 prior claims. Amount claimed: $6160.4 (deductible $2000.0). Filed on 2024-11-20 following incident on 2024-10-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003092 is covered by Policy POL-81370447.
+- Claim CLM-C000003092 concerns an incident in FL on 2024-10-13.
+- Claim CLM-C000003092 has outcome Approved.
+- Claim CLM-C000003092 has claim type Property.

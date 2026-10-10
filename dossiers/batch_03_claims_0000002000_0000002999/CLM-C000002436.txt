@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002436
+Policy ID: POL-42163265
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 1.2 years
+Previous Claims: 1
+Incident Date: 2023-03-21
+Claim Filed Date: 2023-05-03
+Claim Amount: $5,348.32
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000002436 for auto policy in NY. Policyholder tenure: 1.2 yrs with 1 prior claims. Amount claimed: $5348.32 (deductible $2000.0). Filed on 2023-05-03 following incident on 2023-03-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002436 is covered by Policy POL-42163265.
+- Claim CLM-C000002436 concerns an incident in NY on 2023-03-21.
+- Claim CLM-C000002436 has outcome Approved.
+- Claim CLM-C000002436 has claim type Auto.

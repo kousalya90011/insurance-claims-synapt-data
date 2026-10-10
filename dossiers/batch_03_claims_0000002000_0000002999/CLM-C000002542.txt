@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002542
+Policy ID: POL-24945636
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 3.9 years
+Previous Claims: 0
+Incident Date: 2023-12-05
+Claim Filed Date: 2024-01-02
+Claim Amount: $5,190.22
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000002542 for auto policy in MD. Policyholder tenure: 3.9 yrs with 0 prior claims. Amount claimed: $5190.22 (deductible $500.0). Filed on 2024-01-02 following incident on 2023-12-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002542 is covered by Policy POL-24945636.
+- Claim CLM-C000002542 concerns an incident in MD on 2023-12-05.
+- Claim CLM-C000002542 has outcome Approved.
+- Claim CLM-C000002542 has claim type Auto.

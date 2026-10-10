@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000958
+Policy ID: POL-60919470
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 11.6 years
+Previous Claims: 0
+Incident Date: 2024-05-27
+Claim Filed Date: 2024-06-18
+Claim Amount: $2,704.28
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000000958 for auto policy in WI. Policyholder tenure: 11.6 yrs with 0 prior claims. Amount claimed: $2704.28 (deductible $500.0). Filed on 2024-06-18 following incident on 2024-05-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000958 is covered by Policy POL-60919470.
+- Claim CLM-C000000958 concerns an incident in WI on 2024-05-27.
+- Claim CLM-C000000958 has outcome Approved.
+- Claim CLM-C000000958 has claim type Auto.

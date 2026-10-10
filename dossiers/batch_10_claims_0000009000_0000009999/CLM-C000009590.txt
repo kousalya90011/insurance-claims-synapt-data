@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009590
+Policy ID: POL-36276596
+Claim Type: Home
+State: WA
+Policyholder Tenure: 7.6 years
+Previous Claims: 0
+Incident Date: 2023-08-24
+Claim Filed Date: 2023-09-06
+Claim Amount: $3,729.27
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000009590 for home policy in WA. Policyholder tenure: 7.6 yrs with 0 prior claims. Amount claimed: $3729.27 (deductible $500.0). Filed on 2023-09-06 following incident on 2023-08-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009590 is covered by Policy POL-36276596.
+- Claim CLM-C000009590 concerns an incident in WA on 2023-08-24.
+- Claim CLM-C000009590 has outcome Approved.
+- Claim CLM-C000009590 has claim type Home.

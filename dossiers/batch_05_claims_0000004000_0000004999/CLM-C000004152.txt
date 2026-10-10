@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004152
+Policy ID: POL-95029959
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 1.0 years
+Previous Claims: 2
+Incident Date: 2023-02-07
+Claim Filed Date: 2023-02-15
+Claim Amount: $2,870.37
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: 55 days
+Claim Narrative: Claim CLM-C000004152 for auto policy in CO. Policyholder tenure: 1.0 yrs with 2 prior claims. Amount claimed: $2870.37 (deductible $250.0). Filed on 2023-02-15 following incident on 2023-02-07. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004152 is covered by Policy POL-95029959.
+- Claim CLM-C000004152 concerns an incident in CO on 2023-02-07.
+- Claim CLM-C000004152 has outcome Pending.
+- Claim CLM-C000004152 has claim type Auto.

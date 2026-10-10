@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002308
+Policy ID: POL-29727029
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2023-04-02
+Claim Filed Date: 2023-04-21
+Claim Amount: $9,418.95
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000002308 for auto policy in MO. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $9418.95 (deductible $250.0). Filed on 2023-04-21 following incident on 2023-04-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002308 is covered by Policy POL-29727029.
+- Claim CLM-C000002308 concerns an incident in MO on 2023-04-02.
+- Claim CLM-C000002308 has outcome Under Review.
+- Claim CLM-C000002308 has claim type Auto.

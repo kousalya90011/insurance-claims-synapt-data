@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001638
+Policy ID: POL-70985868
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 1.6 years
+Previous Claims: 0
+Incident Date: 2024-11-14
+Claim Filed Date: 2024-12-02
+Claim Amount: $3,110.24
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000001638 for auto policy in OH. Policyholder tenure: 1.6 yrs with 0 prior claims. Amount claimed: $3110.24 (deductible $500.0). Filed on 2024-12-02 following incident on 2024-11-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001638 is covered by Policy POL-70985868.
+- Claim CLM-C000001638 concerns an incident in OH on 2024-11-14.
+- Claim CLM-C000001638 has outcome Under Review.
+- Claim CLM-C000001638 has claim type Auto.

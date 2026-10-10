@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007142
+Policy ID: POL-56519155
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2024-09-18
+Claim Filed Date: 2024-09-19
+Claim Amount: $1,306.48
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000007142 for auto policy in IL. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $1306.48 (deductible $5000.0). Filed on 2024-09-19 following incident on 2024-09-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007142 is covered by Policy POL-56519155.
+- Claim CLM-C000007142 concerns an incident in IL on 2024-09-18.
+- Claim CLM-C000007142 has outcome Approved.
+- Claim CLM-C000007142 has claim type Auto.

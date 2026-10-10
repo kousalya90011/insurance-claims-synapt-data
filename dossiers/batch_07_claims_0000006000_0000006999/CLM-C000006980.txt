@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006980
+Policy ID: POL-87731382
+Claim Type: Renters
+State: NC
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2023-07-21
+Claim Filed Date: 2023-07-31
+Claim Amount: $5,011.43
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006980 for renters policy in NC. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $5011.43 (deductible $500.0). Filed on 2023-07-31 following incident on 2023-07-21. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006980 is covered by Policy POL-87731382.
+- Claim CLM-C000006980 concerns an incident in NC on 2023-07-21.
+- Claim CLM-C000006980 has outcome Pending.
+- Claim CLM-C000006980 has claim type Renters.

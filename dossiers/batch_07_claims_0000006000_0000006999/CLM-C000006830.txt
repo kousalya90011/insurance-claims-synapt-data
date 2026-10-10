@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006830
+Policy ID: POL-59740440
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 10.4 years
+Previous Claims: 1
+Incident Date: 2024-12-10
+Claim Filed Date: 2024-12-24
+Claim Amount: $9,007.05
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000006830 for auto policy in WA. Policyholder tenure: 10.4 yrs with 1 prior claims. Amount claimed: $9007.05 (deductible $250.0). Filed on 2024-12-24 following incident on 2024-12-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006830 is covered by Policy POL-59740440.
+- Claim CLM-C000006830 concerns an incident in WA on 2024-12-10.
+- Claim CLM-C000006830 has outcome Approved.
+- Claim CLM-C000006830 has claim type Auto.

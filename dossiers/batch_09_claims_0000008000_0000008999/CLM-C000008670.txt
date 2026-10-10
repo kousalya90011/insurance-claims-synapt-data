@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008670
+Policy ID: POL-52755745
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 13.1 years
+Previous Claims: 2
+Incident Date: 2023-10-13
+Claim Filed Date: 2023-11-18
+Claim Amount: $10,943.95
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000008670 for auto policy in PA. Policyholder tenure: 13.1 yrs with 2 prior claims. Amount claimed: $10943.95 (deductible $250.0). Filed on 2023-11-18 following incident on 2023-10-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008670 is covered by Policy POL-52755745.
+- Claim CLM-C000008670 concerns an incident in PA on 2023-10-13.
+- Claim CLM-C000008670 has outcome Approved.
+- Claim CLM-C000008670 has claim type Auto.

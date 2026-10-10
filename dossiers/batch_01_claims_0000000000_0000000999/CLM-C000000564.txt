@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000564
+Policy ID: POL-90419284
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 1.6 years
+Previous Claims: 3
+Incident Date: 2023-08-10
+Claim Filed Date: 2023-09-08
+Claim Amount: $8,927.64
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 51 days
+Claim Narrative: Claim CLM-C000000564 for auto policy in AZ. Policyholder tenure: 1.6 yrs with 3 prior claims. Amount claimed: $8927.64 (deductible $500.0). Filed on 2023-09-08 following incident on 2023-08-10. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000564 is covered by Policy POL-90419284.
+- Claim CLM-C000000564 concerns an incident in AZ on 2023-08-10.
+- Claim CLM-C000000564 has outcome Under Review.
+- Claim CLM-C000000564 has claim type Auto.

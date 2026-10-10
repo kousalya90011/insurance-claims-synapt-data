@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002280
+Policy ID: POL-12371316
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2024-03-10
+Claim Filed Date: 2024-04-23
+Claim Amount: $9,258.16
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000002280 for property policy in NJ. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $9258.16 (deductible $250.0). Filed on 2024-04-23 following incident on 2024-03-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002280 is covered by Policy POL-12371316.
+- Claim CLM-C000002280 concerns an incident in NJ on 2024-03-10.
+- Claim CLM-C000002280 has outcome Approved.
+- Claim CLM-C000002280 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004742
+Policy ID: POL-45075924
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 10.7 years
+Previous Claims: 0
+Incident Date: 2023-03-19
+Claim Filed Date: 2023-04-22
+Claim Amount: $7,580.96
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000004742 for auto policy in CA. Policyholder tenure: 10.7 yrs with 0 prior claims. Amount claimed: $7580.96 (deductible $500.0). Filed on 2023-04-22 following incident on 2023-03-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004742 is covered by Policy POL-45075924.
+- Claim CLM-C000004742 concerns an incident in CA on 2023-03-19.
+- Claim CLM-C000004742 has outcome Under Review.
+- Claim CLM-C000004742 has claim type Auto.

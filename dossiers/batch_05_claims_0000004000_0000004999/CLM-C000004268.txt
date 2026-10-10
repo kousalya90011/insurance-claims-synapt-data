@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004268
+Policy ID: POL-59609646
+Claim Type: Home
+State: OH
+Policyholder Tenure: 4.1 years
+Previous Claims: 0
+Incident Date: 2024-10-18
+Claim Filed Date: 2024-10-25
+Claim Amount: $4,094.61
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000004268 for home policy in OH. Policyholder tenure: 4.1 yrs with 0 prior claims. Amount claimed: $4094.61 (deductible $250.0). Filed on 2024-10-25 following incident on 2024-10-18. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004268 is covered by Policy POL-59609646.
+- Claim CLM-C000004268 concerns an incident in OH on 2024-10-18.
+- Claim CLM-C000004268 has outcome Under Review.
+- Claim CLM-C000004268 has claim type Home.

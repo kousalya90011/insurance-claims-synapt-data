@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002469
+Policy ID: POL-28897164
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 2.0 years
+Previous Claims: 1
+Incident Date: 2024-05-12
+Claim Filed Date: 2024-05-21
+Claim Amount: $2,313.00
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000002469 for auto policy in WA. Policyholder tenure: 2.0 yrs with 1 prior claims. Amount claimed: $2313.0 (deductible $500.0). Filed on 2024-05-21 following incident on 2024-05-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002469 is covered by Policy POL-28897164.
+- Claim CLM-C000002469 concerns an incident in WA on 2024-05-12.
+- Claim CLM-C000002469 has outcome Approved.
+- Claim CLM-C000002469 has claim type Auto.

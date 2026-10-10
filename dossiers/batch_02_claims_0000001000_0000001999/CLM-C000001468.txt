@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001468
+Policy ID: POL-46912112
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 4.4 years
+Previous Claims: 0
+Incident Date: 2023-02-27
+Claim Filed Date: 2023-03-18
+Claim Amount: $10,966.27
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000001468 for auto policy in MI. Policyholder tenure: 4.4 yrs with 0 prior claims. Amount claimed: $10966.27 (deductible $500.0). Filed on 2023-03-18 following incident on 2023-02-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001468 is covered by Policy POL-46912112.
+- Claim CLM-C000001468 concerns an incident in MI on 2023-02-27.
+- Claim CLM-C000001468 has outcome Approved.
+- Claim CLM-C000001468 has claim type Auto.

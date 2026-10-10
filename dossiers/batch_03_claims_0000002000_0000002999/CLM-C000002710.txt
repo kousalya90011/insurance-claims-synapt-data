@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002710
+Policy ID: POL-28402097
+Claim Type: Home
+State: WI
+Policyholder Tenure: 1.2 years
+Previous Claims: 3
+Incident Date: 2023-10-19
+Claim Filed Date: 2023-10-21
+Claim Amount: $14,334.29
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000002710 for home policy in WI. Policyholder tenure: 1.2 yrs with 3 prior claims. Amount claimed: $14334.29 (deductible $250.0). Filed on 2023-10-21 following incident on 2023-10-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002710 is covered by Policy POL-28402097.
+- Claim CLM-C000002710 concerns an incident in WI on 2023-10-19.
+- Claim CLM-C000002710 has outcome Approved.
+- Claim CLM-C000002710 has claim type Home.

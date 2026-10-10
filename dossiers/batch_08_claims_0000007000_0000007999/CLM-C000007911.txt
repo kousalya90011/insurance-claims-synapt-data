@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007911
+Policy ID: POL-47451006
+Claim Type: Property
+State: OH
+Policyholder Tenure: 11.4 years
+Previous Claims: 1
+Incident Date: 2024-01-06
+Claim Filed Date: 2024-01-30
+Claim Amount: $6,351.25
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000007911 for property policy in OH. Policyholder tenure: 11.4 yrs with 1 prior claims. Amount claimed: $6351.25 (deductible $500.0). Filed on 2024-01-30 following incident on 2024-01-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007911 is covered by Policy POL-47451006.
+- Claim CLM-C000007911 concerns an incident in OH on 2024-01-06.
+- Claim CLM-C000007911 has outcome Denied.
+- Claim CLM-C000007911 has claim type Property.

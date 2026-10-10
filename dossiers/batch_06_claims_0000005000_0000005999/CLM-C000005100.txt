@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005100
+Policy ID: POL-54642256
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2023-11-22
+Claim Filed Date: 2023-12-23
+Claim Amount: $4,442.95
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000005100 for auto policy in NY. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $4442.95 (deductible $500.0). Filed on 2023-12-23 following incident on 2023-11-22. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005100 is covered by Policy POL-54642256.
+- Claim CLM-C000005100 concerns an incident in NY on 2023-11-22.
+- Claim CLM-C000005100 has outcome Denied.
+- Claim CLM-C000005100 has claim type Auto.

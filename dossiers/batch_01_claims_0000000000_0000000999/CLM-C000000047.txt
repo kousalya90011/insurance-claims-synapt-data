@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000047
+Policy ID: POL-78390948
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 0.9 years
+Previous Claims: 2
+Incident Date: 2024-07-06
+Claim Filed Date: 2024-08-05
+Claim Amount: $20,555.03
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000000047 for auto policy in PA. Policyholder tenure: 0.9 yrs with 2 prior claims. Amount claimed: $20555.03 (deductible $500.0). Filed on 2024-08-05 following incident on 2024-07-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000047 is covered by Policy POL-78390948.
+- Claim CLM-C000000047 concerns an incident in PA on 2024-07-06.
+- Claim CLM-C000000047 has outcome Denied.
+- Claim CLM-C000000047 has claim type Auto.

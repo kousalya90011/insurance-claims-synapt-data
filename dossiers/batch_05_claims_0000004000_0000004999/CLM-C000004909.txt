@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004909
+Policy ID: POL-27808126
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2024-08-24
+Claim Filed Date: 2024-08-29
+Claim Amount: $23,744.88
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000004909 for auto policy in AZ. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $23744.88 (deductible $500.0). Filed on 2024-08-29 following incident on 2024-08-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004909 is covered by Policy POL-27808126.
+- Claim CLM-C000004909 concerns an incident in AZ on 2024-08-24.
+- Claim CLM-C000004909 has outcome Approved.
+- Claim CLM-C000004909 has claim type Auto.

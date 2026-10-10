@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004554
+Policy ID: POL-95765991
+Claim Type: Property
+State: MD
+Policyholder Tenure: 7.4 years
+Previous Claims: 0
+Incident Date: 2024-03-12
+Claim Filed Date: 2024-04-07
+Claim Amount: $3,229.72
+Deductible: $2,500.00
+Claim Status: Under Review
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000004554 for property policy in MD. Policyholder tenure: 7.4 yrs with 0 prior claims. Amount claimed: $3229.72 (deductible $2500.0). Filed on 2024-04-07 following incident on 2024-03-12. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004554 is covered by Policy POL-95765991.
+- Claim CLM-C000004554 concerns an incident in MD on 2024-03-12.
+- Claim CLM-C000004554 has outcome Under Review.
+- Claim CLM-C000004554 has claim type Property.

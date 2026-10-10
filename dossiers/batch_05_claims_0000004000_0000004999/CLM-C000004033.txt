@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004033
+Policy ID: POL-52738914
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2023-02-13
+Claim Filed Date: 2023-02-25
+Claim Amount: $7,784.10
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000004033 for auto policy in VA. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed: $7784.1 (deductible $500.0). Filed on 2023-02-25 following incident on 2023-02-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004033 is covered by Policy POL-52738914.
+- Claim CLM-C000004033 concerns an incident in VA on 2023-02-13.
+- Claim CLM-C000004033 has outcome Approved.
+- Claim CLM-C000004033 has claim type Auto.

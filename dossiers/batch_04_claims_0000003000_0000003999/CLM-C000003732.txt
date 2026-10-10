@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003732
+Policy ID: POL-30599656
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 3.7 years
+Previous Claims: 1
+Incident Date: 2023-01-09
+Claim Filed Date: 2023-01-17
+Claim Amount: $1,229.07
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000003732 for auto policy in IL. Policyholder tenure: 3.7 yrs with 1 prior claims. Amount claimed: $1229.07 (deductible $500.0). Filed on 2023-01-17 following incident on 2023-01-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003732 is covered by Policy POL-30599656.
+- Claim CLM-C000003732 concerns an incident in IL on 2023-01-09.
+- Claim CLM-C000003732 has outcome Approved.
+- Claim CLM-C000003732 has claim type Auto.

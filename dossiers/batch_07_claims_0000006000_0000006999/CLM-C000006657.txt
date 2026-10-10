@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006657
+Policy ID: POL-96880940
+Claim Type: Home
+State: GA
+Policyholder Tenure: 9.0 years
+Previous Claims: 0
+Incident Date: 2023-06-14
+Claim Filed Date: 2023-06-18
+Claim Amount: $7,982.18
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000006657 for home policy in GA. Policyholder tenure: 9.0 yrs with 0 prior claims. Amount claimed: $7982.18 (deductible $500.0). Filed on 2023-06-18 following incident on 2023-06-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006657 is covered by Policy POL-96880940.
+- Claim CLM-C000006657 concerns an incident in GA on 2023-06-14.
+- Claim CLM-C000006657 has outcome Approved.
+- Claim CLM-C000006657 has claim type Home.

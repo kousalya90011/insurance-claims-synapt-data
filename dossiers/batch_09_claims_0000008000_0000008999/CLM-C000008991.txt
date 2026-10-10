@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008991
+Policy ID: POL-42777523
+Claim Type: Home
+State: FL
+Policyholder Tenure: 10.9 years
+Previous Claims: 2
+Incident Date: 2023-09-24
+Claim Filed Date: 2023-11-07
+Claim Amount: $7,303.64
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000008991 for home policy in FL. Policyholder tenure: 10.9 yrs with 2 prior claims. Amount claimed: $7303.64 (deductible $250.0). Filed on 2023-11-07 following incident on 2023-09-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008991 is covered by Policy POL-42777523.
+- Claim CLM-C000008991 concerns an incident in FL on 2023-09-24.
+- Claim CLM-C000008991 has outcome Approved.
+- Claim CLM-C000008991 has claim type Home.

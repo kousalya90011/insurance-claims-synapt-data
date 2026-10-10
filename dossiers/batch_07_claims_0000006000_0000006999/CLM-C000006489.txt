@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006489
+Policy ID: POL-38725657
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 0.2 years
+Previous Claims: 2
+Incident Date: 2024-03-05
+Claim Filed Date: 2024-03-16
+Claim Amount: $1,316.89
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000006489 for auto policy in PA. Policyholder tenure: 0.2 yrs with 2 prior claims. Amount claimed: $1316.89 (deductible $250.0). Filed on 2024-03-16 following incident on 2024-03-05. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006489 is covered by Policy POL-38725657.
+- Claim CLM-C000006489 concerns an incident in PA on 2024-03-05.
+- Claim CLM-C000006489 has outcome Under Review.
+- Claim CLM-C000006489 has claim type Auto.

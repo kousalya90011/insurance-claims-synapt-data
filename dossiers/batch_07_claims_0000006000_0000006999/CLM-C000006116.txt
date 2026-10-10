@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006116
+Policy ID: POL-63583824
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 9.6 years
+Previous Claims: 2
+Incident Date: 2024-06-01
+Claim Filed Date: 2024-06-10
+Claim Amount: $20,853.45
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000006116 for auto policy in WA. Policyholder tenure: 9.6 yrs with 2 prior claims. Amount claimed: $20853.45 (deductible $500.0). Filed on 2024-06-10 following incident on 2024-06-01. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006116 is covered by Policy POL-63583824.
+- Claim CLM-C000006116 concerns an incident in WA on 2024-06-01.
+- Claim CLM-C000006116 has outcome Denied.
+- Claim CLM-C000006116 has claim type Auto.

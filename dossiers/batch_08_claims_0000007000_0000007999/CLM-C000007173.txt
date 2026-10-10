@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007173
+Policy ID: POL-34508257
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2024-12-14
+Claim Filed Date: 2024-12-29
+Claim Amount: $4,844.90
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000007173 for renters policy in TX. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $4844.9 (deductible $250.0). Filed on 2024-12-29 following incident on 2024-12-14. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007173 is covered by Policy POL-34508257.
+- Claim CLM-C000007173 concerns an incident in TX on 2024-12-14.
+- Claim CLM-C000007173 has outcome Pending.
+- Claim CLM-C000007173 has claim type Renters.

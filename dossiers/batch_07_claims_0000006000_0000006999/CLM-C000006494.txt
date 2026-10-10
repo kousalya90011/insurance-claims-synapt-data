@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006494
+Policy ID: POL-17642448
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 2.1 years
+Previous Claims: 1
+Incident Date: 2023-05-19
+Claim Filed Date: 2023-06-20
+Claim Amount: $12,052.87
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 43 days
+Claim Narrative: Claim CLM-C000006494 for auto policy in OH. Policyholder tenure: 2.1 yrs with 1 prior claims. Amount claimed: $12052.87 (deductible $250.0). Filed on 2023-06-20 following incident on 2023-05-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006494 is covered by Policy POL-17642448.
+- Claim CLM-C000006494 concerns an incident in OH on 2023-05-19.
+- Claim CLM-C000006494 has outcome Approved.
+- Claim CLM-C000006494 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009896
+Policy ID: POL-19909107
+Claim Type: Home
+State: NY
+Policyholder Tenure: 6.1 years
+Previous Claims: 1
+Incident Date: 2024-08-08
+Claim Filed Date: 2024-08-28
+Claim Amount: $18,551.95
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000009896 for home policy in NY. Policyholder tenure: 6.1 yrs with 1 prior claims. Amount claimed: $18551.95 (deductible $1000.0). Filed on 2024-08-28 following incident on 2024-08-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009896 is covered by Policy POL-19909107.
+- Claim CLM-C000009896 concerns an incident in NY on 2024-08-08.
+- Claim CLM-C000009896 has outcome Approved.
+- Claim CLM-C000009896 has claim type Home.

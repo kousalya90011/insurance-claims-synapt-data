@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007236
+Policy ID: POL-15552402
+Claim Type: Property
+State: VA
+Policyholder Tenure: 3.4 years
+Previous Claims: 1
+Incident Date: 2023-10-15
+Claim Filed Date: 2023-11-25
+Claim Amount: $74,354.32
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000007236 for property policy in VA. Policyholder tenure: 3.4 yrs with 1 prior claims. Amount claimed: $74354.32 (deductible $500.0). Filed on 2023-11-25 following incident on 2023-10-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007236 is covered by Policy POL-15552402.
+- Claim CLM-C000007236 concerns an incident in VA on 2023-10-15.
+- Claim CLM-C000007236 has outcome Approved.
+- Claim CLM-C000007236 has claim type Property.

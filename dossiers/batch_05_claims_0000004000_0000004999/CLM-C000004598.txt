@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004598
+Policy ID: POL-95353970
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 0.3 years
+Previous Claims: 0
+Incident Date: 2024-09-29
+Claim Filed Date: 2024-10-11
+Claim Amount: $7,106.60
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000004598 for auto policy in MI. Policyholder tenure: 0.3 yrs with 0 prior claims. Amount claimed: $7106.6 (deductible $250.0). Filed on 2024-10-11 following incident on 2024-09-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004598 is covered by Policy POL-95353970.
+- Claim CLM-C000004598 concerns an incident in MI on 2024-09-29.
+- Claim CLM-C000004598 has outcome Approved.
+- Claim CLM-C000004598 has claim type Auto.

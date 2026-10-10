@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003048
+Policy ID: POL-91071739
+Claim Type: Property
+State: CO
+Policyholder Tenure: 1.9 years
+Previous Claims: 0
+Incident Date: 2025-01-18
+Claim Filed Date: 2025-01-18
+Claim Amount: $18,606.38
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000003048 for property policy in CO. Policyholder tenure: 1.9 yrs with 0 prior claims. Amount claimed: $18606.38 (deductible $1000.0). Filed on 2025-01-18 following incident on 2025-01-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003048 is covered by Policy POL-91071739.
+- Claim CLM-C000003048 concerns an incident in CO on 2025-01-18.
+- Claim CLM-C000003048 has outcome Approved.
+- Claim CLM-C000003048 has claim type Property.

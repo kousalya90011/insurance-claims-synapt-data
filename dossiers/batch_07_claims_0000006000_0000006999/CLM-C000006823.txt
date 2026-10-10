@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006823
+Policy ID: POL-55295662
+Claim Type: Home
+State: VA
+Policyholder Tenure: 13.9 years
+Previous Claims: 0
+Incident Date: 2023-03-31
+Claim Filed Date: 2023-04-28
+Claim Amount: $3,792.63
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000006823 for home policy in VA. Policyholder tenure: 13.9 yrs with 0 prior claims. Amount claimed: $3792.63 (deductible $1000.0). Filed on 2023-04-28 following incident on 2023-03-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006823 is covered by Policy POL-55295662.
+- Claim CLM-C000006823 concerns an incident in VA on 2023-03-31.
+- Claim CLM-C000006823 has outcome Approved.
+- Claim CLM-C000006823 has claim type Home.

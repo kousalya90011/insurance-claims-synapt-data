@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001093
+Policy ID: POL-27494831
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 1.6 years
+Previous Claims: 3
+Incident Date: 2024-02-25
+Claim Filed Date: 2024-03-27
+Claim Amount: $619.85
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000001093 for renters policy in MI. Policyholder tenure: 1.6 yrs with 3 prior claims. Amount claimed: $619.85 (deductible $500.0). Filed on 2024-03-27 following incident on 2024-02-25. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001093 is covered by Policy POL-27494831.
+- Claim CLM-C000001093 concerns an incident in MI on 2024-02-25.
+- Claim CLM-C000001093 has outcome Denied.
+- Claim CLM-C000001093 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007866
+Policy ID: POL-26231834
+Claim Type: Property
+State: MI
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2024-12-03
+Claim Filed Date: 2025-01-09
+Claim Amount: $34,943.86
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000007866 for property policy in MI. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $34943.86 (deductible $2000.0). Filed on 2025-01-09 following incident on 2024-12-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007866 is covered by Policy POL-26231834.
+- Claim CLM-C000007866 concerns an incident in MI on 2024-12-03.
+- Claim CLM-C000007866 has outcome Denied.
+- Claim CLM-C000007866 has claim type Property.

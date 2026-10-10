@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000937
+Policy ID: POL-97431634
+Claim Type: Business
+State: AZ
+Policyholder Tenure: 4.9 years
+Previous Claims: 0
+Incident Date: 2024-10-15
+Claim Filed Date: 2024-11-11
+Claim Amount: $32,984.35
+Deductible: $5,000.00
+Claim Status: Under Review
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000000937 for business policy in AZ. Policyholder tenure: 4.9 yrs with 0 prior claims. Amount claimed: $32984.35 (deductible $5000.0). Filed on 2024-11-11 following incident on 2024-10-15. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000937 is covered by Policy POL-97431634.
+- Claim CLM-C000000937 concerns an incident in AZ on 2024-10-15.
+- Claim CLM-C000000937 has outcome Under Review.
+- Claim CLM-C000000937 has claim type Business.

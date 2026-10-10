@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007291
+Policy ID: POL-83382959
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 1.3 years
+Previous Claims: 2
+Incident Date: 2023-02-10
+Claim Filed Date: 2023-02-23
+Claim Amount: $13,551.55
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000007291 for auto policy in NC. Policyholder tenure: 1.3 yrs with 2 prior claims. Amount claimed: $13551.55 (deductible $1000.0). Filed on 2023-02-23 following incident on 2023-02-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007291 is covered by Policy POL-83382959.
+- Claim CLM-C000007291 concerns an incident in NC on 2023-02-10.
+- Claim CLM-C000007291 has outcome Approved.
+- Claim CLM-C000007291 has claim type Auto.

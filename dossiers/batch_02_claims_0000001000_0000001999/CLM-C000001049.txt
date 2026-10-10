@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001049
+Policy ID: POL-70746434
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 14.3 years
+Previous Claims: 1
+Incident Date: 2024-12-20
+Claim Filed Date: 2025-01-12
+Claim Amount: $5,560.32
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000001049 for renters policy in MD. Policyholder tenure: 14.3 yrs with 1 prior claims. Amount claimed: $5560.32 (deductible $250.0). Filed on 2025-01-12 following incident on 2024-12-20. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001049 is covered by Policy POL-70746434.
+- Claim CLM-C000001049 concerns an incident in MD on 2024-12-20.
+- Claim CLM-C000001049 has outcome Under Review.
+- Claim CLM-C000001049 has claim type Renters.

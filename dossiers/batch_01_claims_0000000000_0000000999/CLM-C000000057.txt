@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000057
+Policy ID: POL-93027504
+Claim Type: Home
+State: TN
+Policyholder Tenure: 6.2 years
+Previous Claims: 0
+Incident Date: 2024-02-11
+Claim Filed Date: 2024-03-12
+Claim Amount: $14,110.49
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000000057 for home policy in TN. Policyholder tenure: 6.2 yrs with 0 prior claims. Amount claimed: $14110.49 (deductible $500.0). Filed on 2024-03-12 following incident on 2024-02-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000057 is covered by Policy POL-93027504.
+- Claim CLM-C000000057 concerns an incident in TN on 2024-02-11.
+- Claim CLM-C000000057 has outcome Approved.
+- Claim CLM-C000000057 has claim type Home.

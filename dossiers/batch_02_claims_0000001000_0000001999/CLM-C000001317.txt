@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001317
+Policy ID: POL-58075160
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2023-03-30
+Claim Filed Date: 2023-04-19
+Claim Amount: $991.25
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000001317 for auto policy in MD. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $991.25 (deductible $2000.0). Filed on 2023-04-19 following incident on 2023-03-30. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001317 is covered by Policy POL-58075160.
+- Claim CLM-C000001317 concerns an incident in MD on 2023-03-30.
+- Claim CLM-C000001317 has outcome Under Review.
+- Claim CLM-C000001317 has claim type Auto.

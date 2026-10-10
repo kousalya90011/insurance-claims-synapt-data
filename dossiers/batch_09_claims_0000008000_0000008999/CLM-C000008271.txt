@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008271
+Policy ID: POL-12583860
+Claim Type: Property
+State: MA
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-06-12
+Claim Filed Date: 2023-06-14
+Claim Amount: $40,389.13
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 49 days
+Claim Narrative: Claim CLM-C000008271 for property policy in MA. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $40389.13 (deductible $500.0). Filed on 2023-06-14 following incident on 2023-06-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008271 is covered by Policy POL-12583860.
+- Claim CLM-C000008271 concerns an incident in MA on 2023-06-12.
+- Claim CLM-C000008271 has outcome Approved.
+- Claim CLM-C000008271 has claim type Property.

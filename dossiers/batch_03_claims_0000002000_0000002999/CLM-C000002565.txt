@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002565
+Policy ID: POL-69091536
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 0.1 years
+Previous Claims: 2
+Incident Date: 2025-01-14
+Claim Filed Date: 2025-01-30
+Claim Amount: $8,080.62
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000002565 for auto policy in WA. Policyholder tenure: 0.1 yrs with 2 prior claims. Amount claimed: $8080.62 (deductible $1000.0). Filed on 2025-01-30 following incident on 2025-01-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002565 is covered by Policy POL-69091536.
+- Claim CLM-C000002565 concerns an incident in WA on 2025-01-14.
+- Claim CLM-C000002565 has outcome Approved.
+- Claim CLM-C000002565 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007634
+Policy ID: POL-74159765
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 8.1 years
+Previous Claims: 1
+Incident Date: 2023-03-23
+Claim Filed Date: 2023-04-28
+Claim Amount: $2,148.00
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000007634 for renters policy in VA. Policyholder tenure: 8.1 yrs with 1 prior claims. Amount claimed: $2148.0 (deductible $500.0). Filed on 2023-04-28 following incident on 2023-03-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007634 is covered by Policy POL-74159765.
+- Claim CLM-C000007634 concerns an incident in VA on 2023-03-23.
+- Claim CLM-C000007634 has outcome Approved.
+- Claim CLM-C000007634 has claim type Renters.

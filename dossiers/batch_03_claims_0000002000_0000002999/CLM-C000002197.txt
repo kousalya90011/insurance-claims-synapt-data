@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002197
+Policy ID: POL-30124299
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 3.6 years
+Previous Claims: 2
+Incident Date: 2023-02-01
+Claim Filed Date: 2023-03-17
+Claim Amount: $1,412.04
+Deductible: $5,000.00
+Claim Status: Under Review
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000002197 for renters policy in TX. Policyholder tenure: 3.6 yrs with 2 prior claims. Amount claimed: $1412.04 (deductible $5000.0). Filed on 2023-03-17 following incident on 2023-02-01. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002197 is covered by Policy POL-30124299.
+- Claim CLM-C000002197 concerns an incident in TX on 2023-02-01.
+- Claim CLM-C000002197 has outcome Under Review.
+- Claim CLM-C000002197 has claim type Renters.

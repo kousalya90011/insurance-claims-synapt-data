@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004083
+Policy ID: POL-71203143
+Claim Type: Home
+State: IL
+Policyholder Tenure: 0.6 years
+Previous Claims: 1
+Incident Date: 2023-10-18
+Claim Filed Date: 2023-12-01
+Claim Amount: $7,774.57
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004083 for home policy in IL. Policyholder tenure: 0.6 yrs with 1 prior claims. Amount claimed: $7774.57 (deductible $500.0). Filed on 2023-12-01 following incident on 2023-10-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004083 is covered by Policy POL-71203143.
+- Claim CLM-C000004083 concerns an incident in IL on 2023-10-18.
+- Claim CLM-C000004083 has outcome Denied.
+- Claim CLM-C000004083 has claim type Home.

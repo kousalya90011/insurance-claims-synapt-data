@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001757
+Policy ID: POL-18903205
+Claim Type: Renters
+State: OH
+Policyholder Tenure: 4.4 years
+Previous Claims: 1
+Incident Date: 2023-09-19
+Claim Filed Date: 2023-10-30
+Claim Amount: $1,256.29
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000001757 for renters policy in OH. Policyholder tenure: 4.4 yrs with 1 prior claims. Amount claimed: $1256.29 (deductible $500.0). Filed on 2023-10-30 following incident on 2023-09-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001757 is covered by Policy POL-18903205.
+- Claim CLM-C000001757 concerns an incident in OH on 2023-09-19.
+- Claim CLM-C000001757 has outcome Under Review.
+- Claim CLM-C000001757 has claim type Renters.

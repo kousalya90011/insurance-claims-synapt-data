@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001388
+Policy ID: POL-32554160
+Claim Type: Home
+State: CA
+Policyholder Tenure: 13.8 years
+Previous Claims: 2
+Incident Date: 2024-10-13
+Claim Filed Date: 2024-11-12
+Claim Amount: $22,192.45
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 59 days
+Claim Narrative: Claim CLM-C000001388 for home policy in CA. Policyholder tenure: 13.8 yrs with 2 prior claims. Amount claimed: $22192.45 (deductible $250.0). Filed on 2024-11-12 following incident on 2024-10-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001388 is covered by Policy POL-32554160.
+- Claim CLM-C000001388 concerns an incident in CA on 2024-10-13.
+- Claim CLM-C000001388 has outcome Under Review.
+- Claim CLM-C000001388 has claim type Home.

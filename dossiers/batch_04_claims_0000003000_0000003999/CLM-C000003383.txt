@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003383
+Policy ID: POL-83642531
+Claim Type: Home
+State: GA
+Policyholder Tenure: 1.2 years
+Previous Claims: 1
+Incident Date: 2023-11-29
+Claim Filed Date: 2024-01-10
+Claim Amount: $9,225.24
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000003383 for home policy in GA. Policyholder tenure: 1.2 yrs with 1 prior claims. Amount claimed: $9225.24 (deductible $1000.0). Filed on 2024-01-10 following incident on 2023-11-29. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003383 is covered by Policy POL-83642531.
+- Claim CLM-C000003383 concerns an incident in GA on 2023-11-29.
+- Claim CLM-C000003383 has outcome Under Review.
+- Claim CLM-C000003383 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004826
+Policy ID: POL-19414052
+Claim Type: Property
+State: PA
+Policyholder Tenure: 5.7 years
+Previous Claims: 2
+Incident Date: 2024-09-29
+Claim Filed Date: 2024-09-30
+Claim Amount: $6,134.76
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000004826 for property policy in PA. Policyholder tenure: 5.7 yrs with 2 prior claims. Amount claimed: $6134.76 (deductible $500.0). Filed on 2024-09-30 following incident on 2024-09-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004826 is covered by Policy POL-19414052.
+- Claim CLM-C000004826 concerns an incident in PA on 2024-09-29.
+- Claim CLM-C000004826 has outcome Approved.
+- Claim CLM-C000004826 has claim type Property.

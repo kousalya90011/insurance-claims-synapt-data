@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006931
+Policy ID: POL-48909276
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 4.4 years
+Previous Claims: 1
+Incident Date: 2024-10-19
+Claim Filed Date: 2024-11-23
+Claim Amount: $52,808.31
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000006931 for home policy in AZ. Policyholder tenure: 4.4 yrs with 1 prior claims. Amount claimed: $52808.31 (deductible $500.0). Filed on 2024-11-23 following incident on 2024-10-19. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006931 is covered by Policy POL-48909276.
+- Claim CLM-C000006931 concerns an incident in AZ on 2024-10-19.
+- Claim CLM-C000006931 has outcome Denied.
+- Claim CLM-C000006931 has claim type Home.

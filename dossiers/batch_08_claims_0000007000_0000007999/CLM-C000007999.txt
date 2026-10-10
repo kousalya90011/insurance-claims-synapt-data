@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007999
+Policy ID: POL-83485154
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2023-03-18
+Claim Filed Date: 2023-04-06
+Claim Amount: $7,179.29
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 88 days
+Claim Narrative: Claim CLM-C000007999 for auto policy in NY. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $7179.29 (deductible $500.0). Filed on 2023-04-06 following incident on 2023-03-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007999 is covered by Policy POL-83485154.
+- Claim CLM-C000007999 concerns an incident in NY on 2023-03-18.
+- Claim CLM-C000007999 has outcome Denied.
+- Claim CLM-C000007999 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001410
+Policy ID: POL-38750462
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 5.8 years
+Previous Claims: 0
+Incident Date: 2023-08-31
+Claim Filed Date: 2023-09-05
+Claim Amount: $12,600.78
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000001410 for auto policy in OH. Policyholder tenure: 5.8 yrs with 0 prior claims. Amount claimed: $12600.78 (deductible $1000.0). Filed on 2023-09-05 following incident on 2023-08-31. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001410 is covered by Policy POL-38750462.
+- Claim CLM-C000001410 concerns an incident in OH on 2023-08-31.
+- Claim CLM-C000001410 has outcome Under Review.
+- Claim CLM-C000001410 has claim type Auto.

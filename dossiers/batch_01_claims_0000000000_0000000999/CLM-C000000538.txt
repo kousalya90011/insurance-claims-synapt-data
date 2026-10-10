@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000538
+Policy ID: POL-84539607
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 6.4 years
+Previous Claims: 1
+Incident Date: 2024-01-06
+Claim Filed Date: 2024-01-18
+Claim Amount: $3,566.87
+Deductible: $2,500.00
+Claim Status: Under Review
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000000538 for auto policy in VA. Policyholder tenure: 6.4 yrs with 1 prior claims. Amount claimed: $3566.87 (deductible $2500.0). Filed on 2024-01-18 following incident on 2024-01-06. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000538 is covered by Policy POL-84539607.
+- Claim CLM-C000000538 concerns an incident in VA on 2024-01-06.
+- Claim CLM-C000000538 has outcome Under Review.
+- Claim CLM-C000000538 has claim type Auto.

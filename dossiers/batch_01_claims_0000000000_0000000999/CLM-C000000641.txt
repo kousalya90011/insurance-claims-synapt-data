@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000641
+Policy ID: POL-78965516
+Claim Type: Property
+State: VA
+Policyholder Tenure: 0.6 years
+Previous Claims: 1
+Incident Date: 2023-08-24
+Claim Filed Date: 2023-08-31
+Claim Amount: $12,756.50
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000000641 for property policy in VA. Policyholder tenure: 0.6 yrs with 1 prior claims. Amount claimed: $12756.5 (deductible $1000.0). Filed on 2023-08-31 following incident on 2023-08-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000641 is covered by Policy POL-78965516.
+- Claim CLM-C000000641 concerns an incident in VA on 2023-08-24.
+- Claim CLM-C000000641 has outcome Approved.
+- Claim CLM-C000000641 has claim type Property.

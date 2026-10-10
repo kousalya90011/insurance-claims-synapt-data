@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005536
+Policy ID: POL-49114375
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2023-12-04
+Claim Filed Date: 2023-12-05
+Claim Amount: $1,856.96
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000005536 for renters policy in MI. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $1856.96 (deductible $1000.0). Filed on 2023-12-05 following incident on 2023-12-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005536 is covered by Policy POL-49114375.
+- Claim CLM-C000005536 concerns an incident in MI on 2023-12-04.
+- Claim CLM-C000005536 has outcome Approved.
+- Claim CLM-C000005536 has claim type Renters.

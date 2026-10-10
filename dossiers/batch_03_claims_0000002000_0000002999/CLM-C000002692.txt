@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002692
+Policy ID: POL-30214597
+Claim Type: Home
+State: FL
+Policyholder Tenure: 13.8 years
+Previous Claims: 0
+Incident Date: 2025-01-15
+Claim Filed Date: 2025-02-14
+Claim Amount: $5,520.33
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000002692 for home policy in FL. Policyholder tenure: 13.8 yrs with 0 prior claims. Amount claimed: $5520.33 (deductible $500.0). Filed on 2025-02-14 following incident on 2025-01-15. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002692 is covered by Policy POL-30214597.
+- Claim CLM-C000002692 concerns an incident in FL on 2025-01-15.
+- Claim CLM-C000002692 has outcome Denied.
+- Claim CLM-C000002692 has claim type Home.

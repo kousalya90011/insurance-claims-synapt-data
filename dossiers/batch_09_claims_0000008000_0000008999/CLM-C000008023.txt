@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008023
+Policy ID: POL-25064805
+Claim Type: Property
+State: FL
+Policyholder Tenure: 3.4 years
+Previous Claims: 0
+Incident Date: 2023-02-09
+Claim Filed Date: 2023-02-17
+Claim Amount: $6,848.90
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000008023 for property policy in FL. Policyholder tenure: 3.4 yrs with 0 prior claims. Amount claimed: $6848.9 (deductible $250.0). Filed on 2023-02-17 following incident on 2023-02-09. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008023 is covered by Policy POL-25064805.
+- Claim CLM-C000008023 concerns an incident in FL on 2023-02-09.
+- Claim CLM-C000008023 has outcome Under Review.
+- Claim CLM-C000008023 has claim type Property.

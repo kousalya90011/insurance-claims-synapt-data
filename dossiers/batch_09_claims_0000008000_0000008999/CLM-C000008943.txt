@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008943
+Policy ID: POL-51554852
+Claim Type: Home
+State: NY
+Policyholder Tenure: 1.6 years
+Previous Claims: 0
+Incident Date: 2024-10-22
+Claim Filed Date: 2024-11-23
+Claim Amount: $6,346.93
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000008943 for home policy in NY. Policyholder tenure: 1.6 yrs with 0 prior claims. Amount claimed: $6346.93 (deductible $250.0). Filed on 2024-11-23 following incident on 2024-10-22. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008943 is covered by Policy POL-51554852.
+- Claim CLM-C000008943 concerns an incident in NY on 2024-10-22.
+- Claim CLM-C000008943 has outcome Under Review.
+- Claim CLM-C000008943 has claim type Home.

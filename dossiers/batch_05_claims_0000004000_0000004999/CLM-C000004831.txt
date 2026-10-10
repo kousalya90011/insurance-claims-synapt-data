@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004831
+Policy ID: POL-88568848
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 1.0 years
+Previous Claims: 3
+Incident Date: 2023-11-15
+Claim Filed Date: 2023-12-06
+Claim Amount: $5,056.28
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000004831 for auto policy in PA. Policyholder tenure: 1.0 yrs with 3 prior claims. Amount claimed: $5056.28 (deductible $500.0). Filed on 2023-12-06 following incident on 2023-11-15. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004831 is covered by Policy POL-88568848.
+- Claim CLM-C000004831 concerns an incident in PA on 2023-11-15.
+- Claim CLM-C000004831 has outcome Under Review.
+- Claim CLM-C000004831 has claim type Auto.

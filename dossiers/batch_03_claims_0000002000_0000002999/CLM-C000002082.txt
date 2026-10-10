@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002082
+Policy ID: POL-95763021
+Claim Type: Home
+State: NY
+Policyholder Tenure: 9.9 years
+Previous Claims: 1
+Incident Date: 2024-12-08
+Claim Filed Date: 2025-01-20
+Claim Amount: $50,000.47
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 49 days
+Claim Narrative: Claim CLM-C000002082 for home policy in NY. Policyholder tenure: 9.9 yrs with 1 prior claims. Amount claimed: $50000.47 (deductible $500.0). Filed on 2025-01-20 following incident on 2024-12-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002082 is covered by Policy POL-95763021.
+- Claim CLM-C000002082 concerns an incident in NY on 2024-12-08.
+- Claim CLM-C000002082 has outcome Approved.
+- Claim CLM-C000002082 has claim type Home.

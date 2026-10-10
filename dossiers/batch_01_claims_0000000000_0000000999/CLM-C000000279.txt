@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000279
+Policy ID: POL-61455524
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 5.5 years
+Previous Claims: 0
+Incident Date: 2024-03-12
+Claim Filed Date: 2024-03-13
+Claim Amount: $1,825.28
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000000279 for auto policy in AZ. Policyholder tenure: 5.5 yrs with 0 prior claims. Amount claimed: $1825.28 (deductible $2500.0). Filed on 2024-03-13 following incident on 2024-03-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000279 is covered by Policy POL-61455524.
+- Claim CLM-C000000279 concerns an incident in AZ on 2024-03-12.
+- Claim CLM-C000000279 has outcome Approved.
+- Claim CLM-C000000279 has claim type Auto.

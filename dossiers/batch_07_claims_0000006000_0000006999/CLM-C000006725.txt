@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006725
+Policy ID: POL-87469091
+Claim Type: Auto
+State: TX
+Policyholder Tenure: 13.6 years
+Previous Claims: 1
+Incident Date: 2023-04-07
+Claim Filed Date: 2023-05-01
+Claim Amount: $5,528.89
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000006725 for auto policy in TX. Policyholder tenure: 13.6 yrs with 1 prior claims. Amount claimed: $5528.89 (deductible $500.0). Filed on 2023-05-01 following incident on 2023-04-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006725 is covered by Policy POL-87469091.
+- Claim CLM-C000006725 concerns an incident in TX on 2023-04-07.
+- Claim CLM-C000006725 has outcome Approved.
+- Claim CLM-C000006725 has claim type Auto.

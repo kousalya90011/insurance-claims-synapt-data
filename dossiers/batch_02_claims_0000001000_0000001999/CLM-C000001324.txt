@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001324
+Policy ID: POL-73079290
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 8.6 years
+Previous Claims: 1
+Incident Date: 2024-08-13
+Claim Filed Date: 2024-08-31
+Claim Amount: $5,526.75
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000001324 for auto policy in CA. Policyholder tenure: 8.6 yrs with 1 prior claims. Amount claimed: $5526.75 (deductible $500.0). Filed on 2024-08-31 following incident on 2024-08-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001324 is covered by Policy POL-73079290.
+- Claim CLM-C000001324 concerns an incident in CA on 2024-08-13.
+- Claim CLM-C000001324 has outcome Approved.
+- Claim CLM-C000001324 has claim type Auto.

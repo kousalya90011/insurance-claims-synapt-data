@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009882
+Policy ID: POL-52103182
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 10.4 years
+Previous Claims: 1
+Incident Date: 2024-07-22
+Claim Filed Date: 2024-07-22
+Claim Amount: $923.75
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000009882 for renters policy in TX. Policyholder tenure: 10.4 yrs with 1 prior claims. Amount claimed: $923.75 (deductible $500.0). Filed on 2024-07-22 following incident on 2024-07-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009882 is covered by Policy POL-52103182.
+- Claim CLM-C000009882 concerns an incident in TX on 2024-07-22.
+- Claim CLM-C000009882 has outcome Approved.
+- Claim CLM-C000009882 has claim type Renters.

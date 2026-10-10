@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002618
+Policy ID: POL-87007790
+Claim Type: Home
+State: WI
+Policyholder Tenure: 1.4 years
+Previous Claims: 2
+Incident Date: 2023-03-07
+Claim Filed Date: 2023-03-27
+Claim Amount: $12,950.86
+Deductible: $2,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000002618 for home policy in WI. Policyholder tenure: 1.4 yrs with 2 prior claims. Amount claimed: $12950.86 (deductible $2000.0). Filed on 2023-03-27 following incident on 2023-03-07. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000002618 is covered by Policy POL-87007790.
+- Claim CLM-C000002618 concerns an incident in WI on 2023-03-07.
+- Claim CLM-C000002618 has outcome Pending.
+- Claim CLM-C000002618 has claim type Home.

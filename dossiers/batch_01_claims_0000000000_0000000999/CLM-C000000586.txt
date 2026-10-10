@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000586
+Policy ID: POL-80109671
+Claim Type: Property
+State: OH
+Policyholder Tenure: 1.3 years
+Previous Claims: 1
+Incident Date: 2023-07-09
+Claim Filed Date: 2023-07-17
+Claim Amount: $5,800.64
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000000586 for property policy in OH. Policyholder tenure: 1.3 yrs with 1 prior claims. Amount claimed: $5800.64 (deductible $250.0). Filed on 2023-07-17 following incident on 2023-07-09. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000586 is covered by Policy POL-80109671.
+- Claim CLM-C000000586 concerns an incident in OH on 2023-07-09.
+- Claim CLM-C000000586 has outcome Pending.
+- Claim CLM-C000000586 has claim type Property.

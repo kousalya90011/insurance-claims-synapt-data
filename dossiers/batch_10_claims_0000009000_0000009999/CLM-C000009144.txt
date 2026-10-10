@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009144
+Policy ID: POL-59541324
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 7.9 years
+Previous Claims: 0
+Incident Date: 2023-07-29
+Claim Filed Date: 2023-08-03
+Claim Amount: $12,281.97
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000009144 for auto policy in NJ. Policyholder tenure: 7.9 yrs with 0 prior claims. Amount claimed: $12281.97 (deductible $500.0). Filed on 2023-08-03 following incident on 2023-07-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009144 is covered by Policy POL-59541324.
+- Claim CLM-C000009144 concerns an incident in NJ on 2023-07-29.
+- Claim CLM-C000009144 has outcome Approved.
+- Claim CLM-C000009144 has claim type Auto.

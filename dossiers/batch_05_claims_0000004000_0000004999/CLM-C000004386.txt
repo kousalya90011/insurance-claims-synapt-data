@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004386
+Policy ID: POL-88864050
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 5.3 years
+Previous Claims: 1
+Incident Date: 2023-06-28
+Claim Filed Date: 2023-07-11
+Claim Amount: $13,424.39
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000004386 for auto policy in WA. Policyholder tenure: 5.3 yrs with 1 prior claims. Amount claimed: $13424.39 (deductible $500.0). Filed on 2023-07-11 following incident on 2023-06-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004386 is covered by Policy POL-88864050.
+- Claim CLM-C000004386 concerns an incident in WA on 2023-06-28.
+- Claim CLM-C000004386 has outcome Approved.
+- Claim CLM-C000004386 has claim type Auto.

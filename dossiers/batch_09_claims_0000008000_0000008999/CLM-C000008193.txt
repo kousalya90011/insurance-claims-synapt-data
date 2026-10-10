@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008193
+Policy ID: POL-12925999
+Claim Type: Home
+State: MI
+Policyholder Tenure: 29.1 years
+Previous Claims: 0
+Incident Date: 2023-06-30
+Claim Filed Date: 2023-08-05
+Claim Amount: $8,624.19
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000008193 for home policy in MI. Policyholder tenure: 29.1 yrs with 0 prior claims. Amount claimed: $8624.19 (deductible $1000.0). Filed on 2023-08-05 following incident on 2023-06-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008193 is covered by Policy POL-12925999.
+- Claim CLM-C000008193 concerns an incident in MI on 2023-06-30.
+- Claim CLM-C000008193 has outcome Approved.
+- Claim CLM-C000008193 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007110
+Policy ID: POL-49677844
+Claim Type: Home
+State: MO
+Policyholder Tenure: 13.3 years
+Previous Claims: 0
+Incident Date: 2023-08-17
+Claim Filed Date: 2023-09-28
+Claim Amount: $5,607.62
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000007110 for home policy in MO. Policyholder tenure: 13.3 yrs with 0 prior claims. Amount claimed: $5607.62 (deductible $1000.0). Filed on 2023-09-28 following incident on 2023-08-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007110 is covered by Policy POL-49677844.
+- Claim CLM-C000007110 concerns an incident in MO on 2023-08-17.
+- Claim CLM-C000007110 has outcome Approved.
+- Claim CLM-C000007110 has claim type Home.

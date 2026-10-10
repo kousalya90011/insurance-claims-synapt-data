@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000211
+Policy ID: POL-50232134
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 3.7 years
+Previous Claims: 2
+Incident Date: 2023-11-27
+Claim Filed Date: 2023-11-28
+Claim Amount: $10,558.45
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000000211 for renters policy in AZ. Policyholder tenure: 3.7 yrs with 2 prior claims. Amount claimed: $10558.45 (deductible $500.0). Filed on 2023-11-28 following incident on 2023-11-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000211 is covered by Policy POL-50232134.
+- Claim CLM-C000000211 concerns an incident in AZ on 2023-11-27.
+- Claim CLM-C000000211 has outcome Approved.
+- Claim CLM-C000000211 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006244
+Policy ID: POL-42821045
+Claim Type: Auto
+State: TX
+Policyholder Tenure: 6.5 years
+Previous Claims: 1
+Incident Date: 2023-06-20
+Claim Filed Date: 2023-07-14
+Claim Amount: $6,932.07
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000006244 for auto policy in TX. Policyholder tenure: 6.5 yrs with 1 prior claims. Amount claimed: $6932.07 (deductible $500.0). Filed on 2023-07-14 following incident on 2023-06-20. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006244 is covered by Policy POL-42821045.
+- Claim CLM-C000006244 concerns an incident in TX on 2023-06-20.
+- Claim CLM-C000006244 has outcome Denied.
+- Claim CLM-C000006244 has claim type Auto.

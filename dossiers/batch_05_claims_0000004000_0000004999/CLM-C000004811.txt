@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004811
+Policy ID: POL-69160055
+Claim Type: Home
+State: WI
+Policyholder Tenure: 0.1 years
+Previous Claims: 0
+Incident Date: 2023-10-16
+Claim Filed Date: 2023-11-24
+Claim Amount: $8,613.65
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 53 days
+Claim Narrative: Claim CLM-C000004811 for home policy in WI. Policyholder tenure: 0.1 yrs with 0 prior claims. Amount claimed: $8613.65 (deductible $500.0). Filed on 2023-11-24 following incident on 2023-10-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004811 is covered by Policy POL-69160055.
+- Claim CLM-C000004811 concerns an incident in WI on 2023-10-16.
+- Claim CLM-C000004811 has outcome Denied.
+- Claim CLM-C000004811 has claim type Home.

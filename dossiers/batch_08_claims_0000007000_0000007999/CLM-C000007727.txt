@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007727
+Policy ID: POL-91894344
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 20.8 years
+Previous Claims: 1
+Incident Date: 2024-04-16
+Claim Filed Date: 2024-05-20
+Claim Amount: $1,703.28
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000007727 for renters policy in CO. Policyholder tenure: 20.8 yrs with 1 prior claims. Amount claimed: $1703.28 (deductible $1000.0). Filed on 2024-05-20 following incident on 2024-04-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007727 is covered by Policy POL-91894344.
+- Claim CLM-C000007727 concerns an incident in CO on 2024-04-16.
+- Claim CLM-C000007727 has outcome Approved.
+- Claim CLM-C000007727 has claim type Renters.

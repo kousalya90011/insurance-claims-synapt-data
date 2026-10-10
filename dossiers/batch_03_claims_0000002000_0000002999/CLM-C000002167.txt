@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002167
+Policy ID: POL-72990343
+Claim Type: Home
+State: GA
+Policyholder Tenure: 2.7 years
+Previous Claims: 4
+Incident Date: 2023-05-30
+Claim Filed Date: 2023-06-21
+Claim Amount: $6,249.06
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000002167 for home policy in GA. Policyholder tenure: 2.7 yrs with 4 prior claims. Amount claimed: $6249.06 (deductible $250.0). Filed on 2023-06-21 following incident on 2023-05-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002167 is covered by Policy POL-72990343.
+- Claim CLM-C000002167 concerns an incident in GA on 2023-05-30.
+- Claim CLM-C000002167 has outcome Approved.
+- Claim CLM-C000002167 has claim type Home.

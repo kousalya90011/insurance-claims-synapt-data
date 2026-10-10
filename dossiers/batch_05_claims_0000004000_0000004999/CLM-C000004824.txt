@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004824
+Policy ID: POL-79992692
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 2.0 years
+Previous Claims: 1
+Incident Date: 2023-06-10
+Claim Filed Date: 2023-06-21
+Claim Amount: $4,367.44
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000004824 for renters policy in NJ. Policyholder tenure: 2.0 yrs with 1 prior claims. Amount claimed: $4367.44 (deductible $500.0). Filed on 2023-06-21 following incident on 2023-06-10. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004824 is covered by Policy POL-79992692.
+- Claim CLM-C000004824 concerns an incident in NJ on 2023-06-10.
+- Claim CLM-C000004824 has outcome Pending.
+- Claim CLM-C000004824 has claim type Renters.

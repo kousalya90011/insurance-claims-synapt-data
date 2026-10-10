@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004662
+Policy ID: POL-23494732
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2024-05-20
+Claim Filed Date: 2024-06-14
+Claim Amount: $1,691.67
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000004662 for renters policy in IL. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $1691.67 (deductible $250.0). Filed on 2024-06-14 following incident on 2024-05-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004662 is covered by Policy POL-23494732.
+- Claim CLM-C000004662 concerns an incident in IL on 2024-05-20.
+- Claim CLM-C000004662 has outcome Approved.
+- Claim CLM-C000004662 has claim type Renters.

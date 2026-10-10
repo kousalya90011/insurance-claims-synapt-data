@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007830
+Policy ID: POL-63618159
+Claim Type: Business
+State: MI
+Policyholder Tenure: 5.0 years
+Previous Claims: 1
+Incident Date: 2024-06-02
+Claim Filed Date: 2024-07-11
+Claim Amount: $63,006.58
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000007830 for business policy in MI. Policyholder tenure: 5.0 yrs with 1 prior claims. Amount claimed: $63006.58 (deductible $500.0). Filed on 2024-07-11 following incident on 2024-06-02. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007830 is covered by Policy POL-63618159.
+- Claim CLM-C000007830 concerns an incident in MI on 2024-06-02.
+- Claim CLM-C000007830 has outcome Pending.
+- Claim CLM-C000007830 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001351
+Policy ID: POL-96328833
+Claim Type: Home
+State: PA
+Policyholder Tenure: 11.2 years
+Previous Claims: 0
+Incident Date: 2023-12-01
+Claim Filed Date: 2023-12-15
+Claim Amount: $10,292.90
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000001351 for home policy in PA. Policyholder tenure: 11.2 yrs with 0 prior claims. Amount claimed: $10292.9 (deductible $2500.0). Filed on 2023-12-15 following incident on 2023-12-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001351 is covered by Policy POL-96328833.
+- Claim CLM-C000001351 concerns an incident in PA on 2023-12-01.
+- Claim CLM-C000001351 has outcome Approved.
+- Claim CLM-C000001351 has claim type Home.

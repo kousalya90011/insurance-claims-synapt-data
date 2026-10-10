@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001463
+Policy ID: POL-55735061
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 2.5 years
+Previous Claims: 3
+Incident Date: 2024-01-13
+Claim Filed Date: 2024-02-16
+Claim Amount: $7,049.45
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000001463 for auto policy in CO. Policyholder tenure: 2.5 yrs with 3 prior claims. Amount claimed: $7049.45 (deductible $500.0). Filed on 2024-02-16 following incident on 2024-01-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001463 is covered by Policy POL-55735061.
+- Claim CLM-C000001463 concerns an incident in CO on 2024-01-13.
+- Claim CLM-C000001463 has outcome Approved.
+- Claim CLM-C000001463 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008630
+Policy ID: POL-92374947
+Claim Type: Home
+State: CA
+Policyholder Tenure: 6.7 years
+Previous Claims: 3
+Incident Date: 2024-02-10
+Claim Filed Date: 2024-02-12
+Claim Amount: $36,317.51
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000008630 for home policy in CA. Policyholder tenure: 6.7 yrs with 3 prior claims. Amount claimed: $36317.51 (deductible $250.0). Filed on 2024-02-12 following incident on 2024-02-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008630 is covered by Policy POL-92374947.
+- Claim CLM-C000008630 concerns an incident in CA on 2024-02-10.
+- Claim CLM-C000008630 has outcome Approved.
+- Claim CLM-C000008630 has claim type Home.

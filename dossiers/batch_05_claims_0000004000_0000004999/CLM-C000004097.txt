@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004097
+Policy ID: POL-51985833
+Claim Type: Home
+State: IL
+Policyholder Tenure: 1.3 years
+Previous Claims: 2
+Incident Date: 2023-01-08
+Claim Filed Date: 2023-01-11
+Claim Amount: $9,479.85
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000004097 for home policy in IL. Policyholder tenure: 1.3 yrs with 2 prior claims. Amount claimed: $9479.85 (deductible $500.0). Filed on 2023-01-11 following incident on 2023-01-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004097 is covered by Policy POL-51985833.
+- Claim CLM-C000004097 concerns an incident in IL on 2023-01-08.
+- Claim CLM-C000004097 has outcome Approved.
+- Claim CLM-C000004097 has claim type Home.

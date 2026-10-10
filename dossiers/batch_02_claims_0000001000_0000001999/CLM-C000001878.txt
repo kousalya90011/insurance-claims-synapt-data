@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001878
+Policy ID: POL-94601710
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 5.0 years
+Previous Claims: 0
+Incident Date: 2024-02-20
+Claim Filed Date: 2024-04-03
+Claim Amount: $3,970.23
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000001878 for auto policy in MA. Policyholder tenure: 5.0 yrs with 0 prior claims. Amount claimed: $3970.23 (deductible $2000.0). Filed on 2024-04-03 following incident on 2024-02-20. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001878 is covered by Policy POL-94601710.
+- Claim CLM-C000001878 concerns an incident in MA on 2024-02-20.
+- Claim CLM-C000001878 has outcome Denied.
+- Claim CLM-C000001878 has claim type Auto.

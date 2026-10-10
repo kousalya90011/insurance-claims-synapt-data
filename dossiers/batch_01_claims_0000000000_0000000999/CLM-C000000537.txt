@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000537
+Policy ID: POL-45426740
+Claim Type: Home
+State: MA
+Policyholder Tenure: 15.6 years
+Previous Claims: 0
+Incident Date: 2023-09-22
+Claim Filed Date: 2023-10-23
+Claim Amount: $11,620.18
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000000537 for home policy in MA. Policyholder tenure: 15.6 yrs with 0 prior claims. Amount claimed: $11620.18 (deductible $250.0). Filed on 2023-10-23 following incident on 2023-09-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000537 is covered by Policy POL-45426740.
+- Claim CLM-C000000537 concerns an incident in MA on 2023-09-22.
+- Claim CLM-C000000537 has outcome Approved.
+- Claim CLM-C000000537 has claim type Home.

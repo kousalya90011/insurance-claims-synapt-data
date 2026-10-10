@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002394
+Policy ID: POL-68166168
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 1.9 years
+Previous Claims: 1
+Incident Date: 2024-02-27
+Claim Filed Date: 2024-03-29
+Claim Amount: $7,272.60
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000002394 for auto policy in CA. Policyholder tenure: 1.9 yrs with 1 prior claims. Amount claimed: $7272.6 (deductible $500.0). Filed on 2024-03-29 following incident on 2024-02-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002394 is covered by Policy POL-68166168.
+- Claim CLM-C000002394 concerns an incident in CA on 2024-02-27.
+- Claim CLM-C000002394 has outcome Under Review.
+- Claim CLM-C000002394 has claim type Auto.

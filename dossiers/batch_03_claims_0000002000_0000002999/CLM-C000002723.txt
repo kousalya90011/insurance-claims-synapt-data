@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002723
+Policy ID: POL-91269022
+Claim Type: Renters
+State: WA
+Policyholder Tenure: 6.8 years
+Previous Claims: 2
+Incident Date: 2024-01-13
+Claim Filed Date: 2024-02-05
+Claim Amount: $3,162.88
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 70 days
+Claim Narrative: Claim CLM-C000002723 for renters policy in WA. Policyholder tenure: 6.8 yrs with 2 prior claims. Amount claimed: $3162.88 (deductible $250.0). Filed on 2024-02-05 following incident on 2024-01-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002723 is covered by Policy POL-91269022.
+- Claim CLM-C000002723 concerns an incident in WA on 2024-01-13.
+- Claim CLM-C000002723 has outcome Under Review.
+- Claim CLM-C000002723 has claim type Renters.

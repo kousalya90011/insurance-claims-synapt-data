@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003674
+Policy ID: POL-91549612
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 5.7 years
+Previous Claims: 1
+Incident Date: 2023-06-12
+Claim Filed Date: 2023-07-11
+Claim Amount: $1,915.32
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000003674 for auto policy in FL. Policyholder tenure: 5.7 yrs with 1 prior claims. Amount claimed: $1915.32 (deductible $250.0). Filed on 2023-07-11 following incident on 2023-06-12. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003674 is covered by Policy POL-91549612.
+- Claim CLM-C000003674 concerns an incident in FL on 2023-06-12.
+- Claim CLM-C000003674 has outcome Under Review.
+- Claim CLM-C000003674 has claim type Auto.

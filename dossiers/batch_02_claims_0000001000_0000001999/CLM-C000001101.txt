@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001101
+Policy ID: POL-34198533
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 9.2 years
+Previous Claims: 0
+Incident Date: 2024-08-23
+Claim Filed Date: 2024-09-01
+Claim Amount: $13,634.55
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000001101 for auto policy in NC. Policyholder tenure: 9.2 yrs with 0 prior claims. Amount claimed: $13634.55 (deductible $1000.0). Filed on 2024-09-01 following incident on 2024-08-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001101 is covered by Policy POL-34198533.
+- Claim CLM-C000001101 concerns an incident in NC on 2024-08-23.
+- Claim CLM-C000001101 has outcome Approved.
+- Claim CLM-C000001101 has claim type Auto.

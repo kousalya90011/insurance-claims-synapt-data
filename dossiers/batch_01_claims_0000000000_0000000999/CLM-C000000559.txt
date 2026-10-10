@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000559
+Policy ID: POL-14432870
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 2.7 years
+Previous Claims: 5
+Incident Date: 2024-02-05
+Claim Filed Date: 2024-03-16
+Claim Amount: $1,858.14
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000000559 for renters policy in WI. Policyholder tenure: 2.7 yrs with 5 prior claims. Amount claimed: $1858.14 (deductible $500.0). Filed on 2024-03-16 following incident on 2024-02-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000559 is covered by Policy POL-14432870.
+- Claim CLM-C000000559 concerns an incident in WI on 2024-02-05.
+- Claim CLM-C000000559 has outcome Approved.
+- Claim CLM-C000000559 has claim type Renters.

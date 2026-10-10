@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003942
+Policy ID: POL-58810635
+Claim Type: Home
+State: PA
+Policyholder Tenure: 19.0 years
+Previous Claims: 1
+Incident Date: 2023-02-14
+Claim Filed Date: 2023-03-11
+Claim Amount: $8,027.95
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000003942 for home policy in PA. Policyholder tenure: 19.0 yrs with 1 prior claims. Amount claimed: $8027.95 (deductible $2000.0). Filed on 2023-03-11 following incident on 2023-02-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003942 is covered by Policy POL-58810635.
+- Claim CLM-C000003942 concerns an incident in PA on 2023-02-14.
+- Claim CLM-C000003942 has outcome Approved.
+- Claim CLM-C000003942 has claim type Home.

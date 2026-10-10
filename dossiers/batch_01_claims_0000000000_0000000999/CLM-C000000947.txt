@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000947
+Policy ID: POL-92841137
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 1.0 years
+Previous Claims: 1
+Incident Date: 2024-04-18
+Claim Filed Date: 2024-05-30
+Claim Amount: $14,061.43
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000000947 for auto policy in WA. Policyholder tenure: 1.0 yrs with 1 prior claims. Amount claimed: $14061.43 (deductible $1000.0). Filed on 2024-05-30 following incident on 2024-04-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000947 is covered by Policy POL-92841137.
+- Claim CLM-C000000947 concerns an incident in WA on 2024-04-18.
+- Claim CLM-C000000947 has outcome Approved.
+- Claim CLM-C000000947 has claim type Auto.

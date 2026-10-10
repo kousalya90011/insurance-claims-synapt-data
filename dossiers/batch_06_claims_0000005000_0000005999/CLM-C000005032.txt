@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005032
+Policy ID: POL-20386771
+Claim Type: Home
+State: FL
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2024-05-06
+Claim Filed Date: 2024-05-08
+Claim Amount: $28,805.59
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000005032 for home policy in FL. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $28805.59 (deductible $1000.0). Filed on 2024-05-08 following incident on 2024-05-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005032 is covered by Policy POL-20386771.
+- Claim CLM-C000005032 concerns an incident in FL on 2024-05-06.
+- Claim CLM-C000005032 has outcome Approved.
+- Claim CLM-C000005032 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002989
+Policy ID: POL-78449141
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 0.1 years
+Previous Claims: 0
+Incident Date: 2024-09-09
+Claim Filed Date: 2024-09-26
+Claim Amount: $4,343.65
+Deductible: $2,500.00
+Claim Status: Denied
+Resolution Time: 92 days
+Claim Narrative: Claim CLM-C000002989 for auto policy in WI. Policyholder tenure: 0.1 yrs with 0 prior claims. Amount claimed: $4343.65 (deductible $2500.0). Filed on 2024-09-26 following incident on 2024-09-09. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002989 is covered by Policy POL-78449141.
+- Claim CLM-C000002989 concerns an incident in WI on 2024-09-09.
+- Claim CLM-C000002989 has outcome Denied.
+- Claim CLM-C000002989 has claim type Auto.

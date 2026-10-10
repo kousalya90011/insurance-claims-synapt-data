@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006534
+Policy ID: POL-64387656
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 3.6 years
+Previous Claims: 0
+Incident Date: 2023-12-27
+Claim Filed Date: 2024-01-12
+Claim Amount: $4,151.62
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000006534 for auto policy in OH. Policyholder tenure: 3.6 yrs with 0 prior claims. Amount claimed: $4151.62 (deductible $500.0). Filed on 2024-01-12 following incident on 2023-12-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006534 is covered by Policy POL-64387656.
+- Claim CLM-C000006534 concerns an incident in OH on 2023-12-27.
+- Claim CLM-C000006534 has outcome Under Review.
+- Claim CLM-C000006534 has claim type Auto.

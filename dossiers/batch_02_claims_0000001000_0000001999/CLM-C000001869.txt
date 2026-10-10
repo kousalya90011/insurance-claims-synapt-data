@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001869
+Policy ID: POL-58138156
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 2.5 years
+Previous Claims: 3
+Incident Date: 2023-07-24
+Claim Filed Date: 2023-08-14
+Claim Amount: $1,888.16
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000001869 for auto policy in MD. Policyholder tenure: 2.5 yrs with 3 prior claims. Amount claimed: $1888.16 (deductible $1000.0). Filed on 2023-08-14 following incident on 2023-07-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001869 is covered by Policy POL-58138156.
+- Claim CLM-C000001869 concerns an incident in MD on 2023-07-24.
+- Claim CLM-C000001869 has outcome Approved.
+- Claim CLM-C000001869 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006701
+Policy ID: POL-55537794
+Claim Type: Home
+State: VA
+Policyholder Tenure: 1.9 years
+Previous Claims: 1
+Incident Date: 2023-05-19
+Claim Filed Date: 2023-05-26
+Claim Amount: $11,913.17
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000006701 for home policy in VA. Policyholder tenure: 1.9 yrs with 1 prior claims. Amount claimed: $11913.17 (deductible $1000.0). Filed on 2023-05-26 following incident on 2023-05-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006701 is covered by Policy POL-55537794.
+- Claim CLM-C000006701 concerns an incident in VA on 2023-05-19.
+- Claim CLM-C000006701 has outcome Approved.
+- Claim CLM-C000006701 has claim type Home.

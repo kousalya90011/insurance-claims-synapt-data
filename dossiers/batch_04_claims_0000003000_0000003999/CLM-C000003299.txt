@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003299
+Policy ID: POL-35906938
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2023-03-03
+Claim Filed Date: 2023-03-03
+Claim Amount: $15,776.96
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 43 days
+Claim Narrative: Claim CLM-C000003299 for auto policy in PA. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $15776.96 (deductible $500.0). Filed on 2023-03-03 following incident on 2023-03-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003299 is covered by Policy POL-35906938.
+- Claim CLM-C000003299 concerns an incident in PA on 2023-03-03.
+- Claim CLM-C000003299 has outcome Approved.
+- Claim CLM-C000003299 has claim type Auto.

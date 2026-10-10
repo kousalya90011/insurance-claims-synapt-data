@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005079
+Policy ID: POL-50073103
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 14.3 years
+Previous Claims: 1
+Incident Date: 2024-09-14
+Claim Filed Date: 2024-09-26
+Claim Amount: $3,612.87
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000005079 for auto policy in GA. Policyholder tenure: 14.3 yrs with 1 prior claims. Amount claimed: $3612.87 (deductible $500.0). Filed on 2024-09-26 following incident on 2024-09-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005079 is covered by Policy POL-50073103.
+- Claim CLM-C000005079 concerns an incident in GA on 2024-09-14.
+- Claim CLM-C000005079 has outcome Under Review.
+- Claim CLM-C000005079 has claim type Auto.

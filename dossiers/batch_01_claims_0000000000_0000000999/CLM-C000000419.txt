@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000419
+Policy ID: POL-76508559
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 14.2 years
+Previous Claims: 1
+Incident Date: 2025-01-17
+Claim Filed Date: 2025-02-13
+Claim Amount: $10,604.95
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000000419 for auto policy in NJ. Policyholder tenure: 14.2 yrs with 1 prior claims. Amount claimed: $10604.95 (deductible $1000.0). Filed on 2025-02-13 following incident on 2025-01-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000419 is covered by Policy POL-76508559.
+- Claim CLM-C000000419 concerns an incident in NJ on 2025-01-17.
+- Claim CLM-C000000419 has outcome Approved.
+- Claim CLM-C000000419 has claim type Auto.

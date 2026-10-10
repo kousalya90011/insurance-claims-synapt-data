@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008975
+Policy ID: POL-69452530
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 11.9 years
+Previous Claims: 1
+Incident Date: 2023-05-15
+Claim Filed Date: 2023-06-20
+Claim Amount: $199.35
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000008975 for auto policy in TN. Policyholder tenure: 11.9 yrs with 1 prior claims. Amount claimed: $199.35 (deductible $250.0). Filed on 2023-06-20 following incident on 2023-05-15. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008975 is covered by Policy POL-69452530.
+- Claim CLM-C000008975 concerns an incident in TN on 2023-05-15.
+- Claim CLM-C000008975 has outcome Denied.
+- Claim CLM-C000008975 has claim type Auto.

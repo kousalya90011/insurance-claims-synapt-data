@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008665
+Policy ID: POL-79596974
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 16.5 years
+Previous Claims: 0
+Incident Date: 2024-08-23
+Claim Filed Date: 2024-08-29
+Claim Amount: $6,630.97
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000008665 for auto policy in VA. Policyholder tenure: 16.5 yrs with 0 prior claims. Amount claimed: $6630.97 (deductible $250.0). Filed on 2024-08-29 following incident on 2024-08-23. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008665 is covered by Policy POL-79596974.
+- Claim CLM-C000008665 concerns an incident in VA on 2024-08-23.
+- Claim CLM-C000008665 has outcome Denied.
+- Claim CLM-C000008665 has claim type Auto.

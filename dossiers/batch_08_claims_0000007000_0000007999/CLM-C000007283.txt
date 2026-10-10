@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007283
+Policy ID: POL-71587523
+Claim Type: Business
+State: PA
+Policyholder Tenure: 11.6 years
+Previous Claims: 2
+Incident Date: 2023-04-04
+Claim Filed Date: 2023-05-05
+Claim Amount: $17,610.57
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000007283 for business policy in PA. Policyholder tenure: 11.6 yrs with 2 prior claims. Amount claimed: $17610.57 (deductible $500.0). Filed on 2023-05-05 following incident on 2023-04-04. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007283 is covered by Policy POL-71587523.
+- Claim CLM-C000007283 concerns an incident in PA on 2023-04-04.
+- Claim CLM-C000007283 has outcome Denied.
+- Claim CLM-C000007283 has claim type Business.

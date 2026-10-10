@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007046
+Policy ID: POL-45896038
+Claim Type: Property
+State: TX
+Policyholder Tenure: 2.0 years
+Previous Claims: 1
+Incident Date: 2024-01-29
+Claim Filed Date: 2024-02-26
+Claim Amount: $9,447.01
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000007046 for property policy in TX. Policyholder tenure: 2.0 yrs with 1 prior claims. Amount claimed: $9447.01 (deductible $1000.0). Filed on 2024-02-26 following incident on 2024-01-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007046 is covered by Policy POL-45896038.
+- Claim CLM-C000007046 concerns an incident in TX on 2024-01-29.
+- Claim CLM-C000007046 has outcome Approved.
+- Claim CLM-C000007046 has claim type Property.

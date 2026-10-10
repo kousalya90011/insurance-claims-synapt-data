@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000565
+Policy ID: POL-19150471
+Claim Type: Home
+State: IL
+Policyholder Tenure: 6.1 years
+Previous Claims: 1
+Incident Date: 2024-04-04
+Claim Filed Date: 2024-05-13
+Claim Amount: $5,368.52
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000000565 for home policy in IL. Policyholder tenure: 6.1 yrs with 1 prior claims. Amount claimed: $5368.52 (deductible $1000.0). Filed on 2024-05-13 following incident on 2024-04-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000565 is covered by Policy POL-19150471.
+- Claim CLM-C000000565 concerns an incident in IL on 2024-04-04.
+- Claim CLM-C000000565 has outcome Approved.
+- Claim CLM-C000000565 has claim type Home.

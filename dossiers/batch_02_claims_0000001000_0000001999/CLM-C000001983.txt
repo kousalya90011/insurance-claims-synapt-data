@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001983
+Policy ID: POL-74760823
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 3.8 years
+Previous Claims: 0
+Incident Date: 2023-12-19
+Claim Filed Date: 2024-01-23
+Claim Amount: $1,235.46
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000001983 for renters policy in FL. Policyholder tenure: 3.8 yrs with 0 prior claims. Amount claimed: $1235.46 (deductible $2000.0). Filed on 2024-01-23 following incident on 2023-12-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001983 is covered by Policy POL-74760823.
+- Claim CLM-C000001983 concerns an incident in FL on 2023-12-19.
+- Claim CLM-C000001983 has outcome Approved.
+- Claim CLM-C000001983 has claim type Renters.

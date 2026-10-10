@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004078
+Policy ID: POL-46289065
+Claim Type: Property
+State: PA
+Policyholder Tenure: 1.8 years
+Previous Claims: 2
+Incident Date: 2023-03-13
+Claim Filed Date: 2023-04-09
+Claim Amount: $11,860.61
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000004078 for property policy in PA. Policyholder tenure: 1.8 yrs with 2 prior claims. Amount claimed: $11860.61 (deductible $1000.0). Filed on 2023-04-09 following incident on 2023-03-13. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004078 is covered by Policy POL-46289065.
+- Claim CLM-C000004078 concerns an incident in PA on 2023-03-13.
+- Claim CLM-C000004078 has outcome Pending.
+- Claim CLM-C000004078 has claim type Property.

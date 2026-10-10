@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005017
+Policy ID: POL-35669897
+Claim Type: Business
+State: IL
+Policyholder Tenure: 5.0 years
+Previous Claims: 1
+Incident Date: 2023-04-23
+Claim Filed Date: 2023-05-27
+Claim Amount: $88,575.23
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 59 days
+Claim Narrative: Claim CLM-C000005017 for business policy in IL. Policyholder tenure: 5.0 yrs with 1 prior claims. Amount claimed: $88575.23 (deductible $250.0). Filed on 2023-05-27 following incident on 2023-04-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005017 is covered by Policy POL-35669897.
+- Claim CLM-C000005017 concerns an incident in IL on 2023-04-23.
+- Claim CLM-C000005017 has outcome Approved.
+- Claim CLM-C000005017 has claim type Business.

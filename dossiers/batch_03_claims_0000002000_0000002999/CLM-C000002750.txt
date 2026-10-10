@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002750
+Policy ID: POL-97187707
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 2.1 years
+Previous Claims: 1
+Incident Date: 2023-01-11
+Claim Filed Date: 2023-01-14
+Claim Amount: $3,458.71
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000002750 for renters policy in MD. Policyholder tenure: 2.1 yrs with 1 prior claims. Amount claimed: $3458.71 (deductible $1000.0). Filed on 2023-01-14 following incident on 2023-01-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002750 is covered by Policy POL-97187707.
+- Claim CLM-C000002750 concerns an incident in MD on 2023-01-11.
+- Claim CLM-C000002750 has outcome Under Review.
+- Claim CLM-C000002750 has claim type Renters.

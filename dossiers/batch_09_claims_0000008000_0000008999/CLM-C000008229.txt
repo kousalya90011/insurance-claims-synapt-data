@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008229
+Policy ID: POL-41241971
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 10.4 years
+Previous Claims: 0
+Incident Date: 2024-01-23
+Claim Filed Date: 2024-02-23
+Claim Amount: $22,706.77
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000008229 for auto policy in CO. Policyholder tenure: 10.4 yrs with 0 prior claims. Amount claimed: $22706.77 (deductible $1000.0). Filed on 2024-02-23 following incident on 2024-01-23. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008229 is covered by Policy POL-41241971.
+- Claim CLM-C000008229 concerns an incident in CO on 2024-01-23.
+- Claim CLM-C000008229 has outcome Denied.
+- Claim CLM-C000008229 has claim type Auto.

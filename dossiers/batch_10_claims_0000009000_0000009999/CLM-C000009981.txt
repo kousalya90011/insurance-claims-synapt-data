@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009981
+Policy ID: POL-94807122
+Claim Type: Home
+State: MI
+Policyholder Tenure: 14.0 years
+Previous Claims: 2
+Incident Date: 2023-01-23
+Claim Filed Date: 2023-01-25
+Claim Amount: $44,127.63
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000009981 for home policy in MI. Policyholder tenure: 14.0 yrs with 2 prior claims. Amount claimed: $44127.63 (deductible $500.0). Filed on 2023-01-25 following incident on 2023-01-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009981 is covered by Policy POL-94807122.
+- Claim CLM-C000009981 concerns an incident in MI on 2023-01-23.
+- Claim CLM-C000009981 has outcome Approved.
+- Claim CLM-C000009981 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003035
+Policy ID: POL-77660263
+Claim Type: Home
+State: WA
+Policyholder Tenure: 4.6 years
+Previous Claims: 0
+Incident Date: 2024-03-13
+Claim Filed Date: 2024-04-06
+Claim Amount: $2,543.94
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000003035 for home policy in WA. Policyholder tenure: 4.6 yrs with 0 prior claims. Amount claimed: $2543.94 (deductible $500.0). Filed on 2024-04-06 following incident on 2024-03-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003035 is covered by Policy POL-77660263.
+- Claim CLM-C000003035 concerns an incident in WA on 2024-03-13.
+- Claim CLM-C000003035 has outcome Under Review.
+- Claim CLM-C000003035 has claim type Home.

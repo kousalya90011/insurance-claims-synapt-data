@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008349
+Policy ID: POL-57561632
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 8.8 years
+Previous Claims: 1
+Incident Date: 2023-10-28
+Claim Filed Date: 2023-11-20
+Claim Amount: $4,335.94
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000008349 for auto policy in MI. Policyholder tenure: 8.8 yrs with 1 prior claims. Amount claimed: $4335.94 (deductible $500.0). Filed on 2023-11-20 following incident on 2023-10-28. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008349 is covered by Policy POL-57561632.
+- Claim CLM-C000008349 concerns an incident in MI on 2023-10-28.
+- Claim CLM-C000008349 has outcome Pending.
+- Claim CLM-C000008349 has claim type Auto.

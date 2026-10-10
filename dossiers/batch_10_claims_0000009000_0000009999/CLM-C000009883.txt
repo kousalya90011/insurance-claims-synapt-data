@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009883
+Policy ID: POL-66656490
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2024-02-21
+Claim Filed Date: 2024-03-09
+Claim Amount: $1,862.26
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000009883 for renters policy in PA. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $1862.26 (deductible $500.0). Filed on 2024-03-09 following incident on 2024-02-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009883 is covered by Policy POL-66656490.
+- Claim CLM-C000009883 concerns an incident in PA on 2024-02-21.
+- Claim CLM-C000009883 has outcome Approved.
+- Claim CLM-C000009883 has claim type Renters.

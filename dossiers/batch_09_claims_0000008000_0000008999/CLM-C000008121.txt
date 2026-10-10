@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008121
+Policy ID: POL-56470987
+Claim Type: Home
+State: CA
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-07-21
+Claim Filed Date: 2023-09-03
+Claim Amount: $18,272.80
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000008121 for home policy in CA. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $18272.8 (deductible $250.0). Filed on 2023-09-03 following incident on 2023-07-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008121 is covered by Policy POL-56470987.
+- Claim CLM-C000008121 concerns an incident in CA on 2023-07-21.
+- Claim CLM-C000008121 has outcome Under Review.
+- Claim CLM-C000008121 has claim type Home.

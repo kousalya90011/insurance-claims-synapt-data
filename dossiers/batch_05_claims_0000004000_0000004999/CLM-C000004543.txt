@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004543
+Policy ID: POL-35872571
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 6.0 years
+Previous Claims: 1
+Incident Date: 2023-10-26
+Claim Filed Date: 2023-12-01
+Claim Amount: $7,742.15
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000004543 for auto policy in WI. Policyholder tenure: 6.0 yrs with 1 prior claims. Amount claimed: $7742.15 (deductible $1000.0). Filed on 2023-12-01 following incident on 2023-10-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004543 is covered by Policy POL-35872571.
+- Claim CLM-C000004543 concerns an incident in WI on 2023-10-26.
+- Claim CLM-C000004543 has outcome Approved.
+- Claim CLM-C000004543 has claim type Auto.

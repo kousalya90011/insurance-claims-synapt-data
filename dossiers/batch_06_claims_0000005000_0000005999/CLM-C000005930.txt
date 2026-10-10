@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005930
+Policy ID: POL-39354637
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 4.5 years
+Previous Claims: 1
+Incident Date: 2023-12-07
+Claim Filed Date: 2024-01-10
+Claim Amount: $6,795.86
+Deductible: $2,500.00
+Claim Status: Denied
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000005930 for auto policy in NJ. Policyholder tenure: 4.5 yrs with 1 prior claims. Amount claimed: $6795.86 (deductible $2500.0). Filed on 2024-01-10 following incident on 2023-12-07. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005930 is covered by Policy POL-39354637.
+- Claim CLM-C000005930 concerns an incident in NJ on 2023-12-07.
+- Claim CLM-C000005930 has outcome Denied.
+- Claim CLM-C000005930 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000248
+Policy ID: POL-23007176
+Claim Type: Renters
+State: WA
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2024-11-20
+Claim Filed Date: 2024-12-12
+Claim Amount: $2,122.87
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: 68 days
+Claim Narrative: Claim CLM-C000000248 for renters policy in WA. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $2122.87 (deductible $250.0). Filed on 2024-12-12 following incident on 2024-11-20. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000248 is covered by Policy POL-23007176.
+- Claim CLM-C000000248 concerns an incident in WA on 2024-11-20.
+- Claim CLM-C000000248 has outcome Pending.
+- Claim CLM-C000000248 has claim type Renters.

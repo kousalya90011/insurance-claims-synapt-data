@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000401
+Policy ID: POL-21863999
+Claim Type: Property
+State: PA
+Policyholder Tenure: 10.1 years
+Previous Claims: 0
+Incident Date: 2024-05-17
+Claim Filed Date: 2024-06-06
+Claim Amount: $37,348.07
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000000401 for property policy in PA. Policyholder tenure: 10.1 yrs with 0 prior claims. Amount claimed: $37348.07 (deductible $250.0). Filed on 2024-06-06 following incident on 2024-05-17. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000401 is covered by Policy POL-21863999.
+- Claim CLM-C000000401 concerns an incident in PA on 2024-05-17.
+- Claim CLM-C000000401 has outcome Under Review.
+- Claim CLM-C000000401 has claim type Property.

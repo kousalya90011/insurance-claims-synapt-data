@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004951
+Policy ID: POL-45854154
+Claim Type: Business
+State: AZ
+Policyholder Tenure: 1.9 years
+Previous Claims: 0
+Incident Date: 2023-02-27
+Claim Filed Date: 2023-03-14
+Claim Amount: $6,298.88
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000004951 for business policy in AZ. Policyholder tenure: 1.9 yrs with 0 prior claims. Amount claimed: $6298.88 (deductible $250.0). Filed on 2023-03-14 following incident on 2023-02-27. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004951 is covered by Policy POL-45854154.
+- Claim CLM-C000004951 concerns an incident in AZ on 2023-02-27.
+- Claim CLM-C000004951 has outcome Pending.
+- Claim CLM-C000004951 has claim type Business.

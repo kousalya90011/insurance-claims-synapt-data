@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003612
+Policy ID: POL-94696864
+Claim Type: Home
+State: CA
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2023-12-19
+Claim Filed Date: 2024-01-31
+Claim Amount: $7,617.74
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000003612 for home policy in CA. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $7617.74 (deductible $500.0). Filed on 2024-01-31 following incident on 2023-12-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003612 is covered by Policy POL-94696864.
+- Claim CLM-C000003612 concerns an incident in CA on 2023-12-19.
+- Claim CLM-C000003612 has outcome Approved.
+- Claim CLM-C000003612 has claim type Home.

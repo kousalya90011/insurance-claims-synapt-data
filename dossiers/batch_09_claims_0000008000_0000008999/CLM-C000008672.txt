@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008672
+Policy ID: POL-43436451
+Claim Type: Property
+State: OH
+Policyholder Tenure: 6.8 years
+Previous Claims: 0
+Incident Date: 2024-08-06
+Claim Filed Date: 2024-09-06
+Claim Amount: $5,841.79
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000008672 for property policy in OH. Policyholder tenure: 6.8 yrs with 0 prior claims. Amount claimed: $5841.79 (deductible $500.0). Filed on 2024-09-06 following incident on 2024-08-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008672 is covered by Policy POL-43436451.
+- Claim CLM-C000008672 concerns an incident in OH on 2024-08-06.
+- Claim CLM-C000008672 has outcome Denied.
+- Claim CLM-C000008672 has claim type Property.

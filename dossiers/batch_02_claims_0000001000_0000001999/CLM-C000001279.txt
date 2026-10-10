@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001279
+Policy ID: POL-72983566
+Claim Type: Home
+State: FL
+Policyholder Tenure: 7.6 years
+Previous Claims: 0
+Incident Date: 2024-05-29
+Claim Filed Date: 2024-06-26
+Claim Amount: $20,209.54
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000001279 for home policy in FL. Policyholder tenure: 7.6 yrs with 0 prior claims. Amount claimed: $20209.54 (deductible $2500.0). Filed on 2024-06-26 following incident on 2024-05-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001279 is covered by Policy POL-72983566.
+- Claim CLM-C000001279 concerns an incident in FL on 2024-05-29.
+- Claim CLM-C000001279 has outcome Approved.
+- Claim CLM-C000001279 has claim type Home.

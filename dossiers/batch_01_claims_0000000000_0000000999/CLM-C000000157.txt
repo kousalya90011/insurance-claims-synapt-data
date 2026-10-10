@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000157
+Policy ID: POL-46574817
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 14.9 years
+Previous Claims: 0
+Incident Date: 2024-05-04
+Claim Filed Date: 2024-05-05
+Claim Amount: $2,795.11
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000000157 for auto policy in MD. Policyholder tenure: 14.9 yrs with 0 prior claims. Amount claimed: $2795.11 (deductible $250.0). Filed on 2024-05-05 following incident on 2024-05-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000157 is covered by Policy POL-46574817.
+- Claim CLM-C000000157 concerns an incident in MD on 2024-05-04.
+- Claim CLM-C000000157 has outcome Approved.
+- Claim CLM-C000000157 has claim type Auto.

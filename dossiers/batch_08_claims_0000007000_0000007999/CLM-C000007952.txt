@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007952
+Policy ID: POL-93218518
+Claim Type: Renters
+State: OH
+Policyholder Tenure: 11.3 years
+Previous Claims: 3
+Incident Date: 2024-07-28
+Claim Filed Date: 2024-08-23
+Claim Amount: $2,672.75
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000007952 for renters policy in OH. Policyholder tenure: 11.3 yrs with 3 prior claims. Amount claimed: $2672.75 (deductible $500.0). Filed on 2024-08-23 following incident on 2024-07-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007952 is covered by Policy POL-93218518.
+- Claim CLM-C000007952 concerns an incident in OH on 2024-07-28.
+- Claim CLM-C000007952 has outcome Under Review.
+- Claim CLM-C000007952 has claim type Renters.

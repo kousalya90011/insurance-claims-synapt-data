@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001570
+Policy ID: POL-73728210
+Claim Type: Home
+State: TX
+Policyholder Tenure: 3.0 years
+Previous Claims: 2
+Incident Date: 2023-12-31
+Claim Filed Date: 2024-01-28
+Claim Amount: $64,282.73
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000001570 for home policy in TX. Policyholder tenure: 3.0 yrs with 2 prior claims. Amount claimed: $64282.73 (deductible $500.0). Filed on 2024-01-28 following incident on 2023-12-31. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001570 is covered by Policy POL-73728210.
+- Claim CLM-C000001570 concerns an incident in TX on 2023-12-31.
+- Claim CLM-C000001570 has outcome Denied.
+- Claim CLM-C000001570 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001321
+Policy ID: POL-26802183
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 4.2 years
+Previous Claims: 0
+Incident Date: 2024-04-15
+Claim Filed Date: 2024-05-15
+Claim Amount: $6,498.45
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000001321 for auto policy in MD. Policyholder tenure: 4.2 yrs with 0 prior claims. Amount claimed: $6498.45 (deductible $500.0). Filed on 2024-05-15 following incident on 2024-04-15. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001321 is covered by Policy POL-26802183.
+- Claim CLM-C000001321 concerns an incident in MD on 2024-04-15.
+- Claim CLM-C000001321 has outcome Under Review.
+- Claim CLM-C000001321 has claim type Auto.

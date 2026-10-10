@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009525
+Policy ID: POL-68206200
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2023-08-31
+Claim Filed Date: 2023-09-26
+Claim Amount: $2,622.45
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000009525 for renters policy in TN. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $2622.45 (deductible $1000.0). Filed on 2023-09-26 following incident on 2023-08-31. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009525 is covered by Policy POL-68206200.
+- Claim CLM-C000009525 concerns an incident in TN on 2023-08-31.
+- Claim CLM-C000009525 has outcome Under Review.
+- Claim CLM-C000009525 has claim type Renters.

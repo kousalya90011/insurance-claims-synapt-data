@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004573
+Policy ID: POL-62239446
+Claim Type: Home
+State: MA
+Policyholder Tenure: 1.6 years
+Previous Claims: 3
+Incident Date: 2023-09-26
+Claim Filed Date: 2023-10-04
+Claim Amount: $4,951.90
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 81 days
+Claim Narrative: Claim CLM-C000004573 for home policy in MA. Policyholder tenure: 1.6 yrs with 3 prior claims. Amount claimed: $4951.9 (deductible $250.0). Filed on 2023-10-04 following incident on 2023-09-26. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004573 is covered by Policy POL-62239446.
+- Claim CLM-C000004573 concerns an incident in MA on 2023-09-26.
+- Claim CLM-C000004573 has outcome Under Review.
+- Claim CLM-C000004573 has claim type Home.

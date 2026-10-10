@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004225
+Policy ID: POL-64216922
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 1.8 years
+Previous Claims: 1
+Incident Date: 2024-04-03
+Claim Filed Date: 2024-05-10
+Claim Amount: $8,728.88
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000004225 for auto policy in PA. Policyholder tenure: 1.8 yrs with 1 prior claims. Amount claimed: $8728.88 (deductible $1000.0). Filed on 2024-05-10 following incident on 2024-04-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004225 is covered by Policy POL-64216922.
+- Claim CLM-C000004225 concerns an incident in PA on 2024-04-03.
+- Claim CLM-C000004225 has outcome Approved.
+- Claim CLM-C000004225 has claim type Auto.

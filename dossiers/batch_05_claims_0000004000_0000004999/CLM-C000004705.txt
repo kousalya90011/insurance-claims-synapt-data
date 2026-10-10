@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004705
+Policy ID: POL-45672668
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 1.5 years
+Previous Claims: 1
+Incident Date: 2024-04-10
+Claim Filed Date: 2024-05-02
+Claim Amount: $37,331.75
+Deductible: $2,500.00
+Claim Status: Denied
+Resolution Time: 47 days
+Claim Narrative: Claim CLM-C000004705 for auto policy in WI. Policyholder tenure: 1.5 yrs with 1 prior claims. Amount claimed: $37331.75 (deductible $2500.0). Filed on 2024-05-02 following incident on 2024-04-10. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004705 is covered by Policy POL-45672668.
+- Claim CLM-C000004705 concerns an incident in WI on 2024-04-10.
+- Claim CLM-C000004705 has outcome Denied.
+- Claim CLM-C000004705 has claim type Auto.

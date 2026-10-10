@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002823
+Policy ID: POL-97947344
+Claim Type: Home
+State: NC
+Policyholder Tenure: 19.6 years
+Previous Claims: 0
+Incident Date: 2023-07-02
+Claim Filed Date: 2023-07-18
+Claim Amount: $7,499.42
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000002823 for home policy in NC. Policyholder tenure: 19.6 yrs with 0 prior claims. Amount claimed: $7499.42 (deductible $500.0). Filed on 2023-07-18 following incident on 2023-07-02. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002823 is covered by Policy POL-97947344.
+- Claim CLM-C000002823 concerns an incident in NC on 2023-07-02.
+- Claim CLM-C000002823 has outcome Denied.
+- Claim CLM-C000002823 has claim type Home.

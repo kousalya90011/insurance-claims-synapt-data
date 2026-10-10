@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009393
+Policy ID: POL-54003890
+Claim Type: Home
+State: WI
+Policyholder Tenure: 7.9 years
+Previous Claims: 1
+Incident Date: 2023-11-20
+Claim Filed Date: 2024-01-01
+Claim Amount: $40,146.77
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000009393 for home policy in WI. Policyholder tenure: 7.9 yrs with 1 prior claims. Amount claimed: $40146.77 (deductible $250.0). Filed on 2024-01-01 following incident on 2023-11-20. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009393 is covered by Policy POL-54003890.
+- Claim CLM-C000009393 concerns an incident in WI on 2023-11-20.
+- Claim CLM-C000009393 has outcome Denied.
+- Claim CLM-C000009393 has claim type Home.

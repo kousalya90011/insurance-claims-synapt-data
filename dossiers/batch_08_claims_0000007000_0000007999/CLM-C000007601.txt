@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007601
+Policy ID: POL-39171178
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 13.9 years
+Previous Claims: 2
+Incident Date: 2024-06-24
+Claim Filed Date: 2024-07-24
+Claim Amount: $5,253.33
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000007601 for auto policy in WI. Policyholder tenure: 13.9 yrs with 2 prior claims. Amount claimed: $5253.33 (deductible $2000.0). Filed on 2024-07-24 following incident on 2024-06-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007601 is covered by Policy POL-39171178.
+- Claim CLM-C000007601 concerns an incident in WI on 2024-06-24.
+- Claim CLM-C000007601 has outcome Approved.
+- Claim CLM-C000007601 has claim type Auto.

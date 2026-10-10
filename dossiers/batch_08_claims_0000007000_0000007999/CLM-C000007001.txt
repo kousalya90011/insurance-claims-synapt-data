@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007001
+Policy ID: POL-64376873
+Claim Type: Property
+State: CO
+Policyholder Tenure: 12.1 years
+Previous Claims: 0
+Incident Date: 2024-10-18
+Claim Filed Date: 2024-11-24
+Claim Amount: $6,531.32
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000007001 for property policy in CO. Policyholder tenure: 12.1 yrs with 0 prior claims. Amount claimed: $6531.32 (deductible $500.0). Filed on 2024-11-24 following incident on 2024-10-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007001 is covered by Policy POL-64376873.
+- Claim CLM-C000007001 concerns an incident in CO on 2024-10-18.
+- Claim CLM-C000007001 has outcome Approved.
+- Claim CLM-C000007001 has claim type Property.

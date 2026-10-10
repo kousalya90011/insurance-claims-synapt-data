@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003137
+Policy ID: POL-33824053
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 9.6 years
+Previous Claims: 0
+Incident Date: 2023-12-05
+Claim Filed Date: 2023-12-12
+Claim Amount: $5,879.70
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 73 days
+Claim Narrative: Claim CLM-C000003137 for auto policy in AZ. Policyholder tenure: 9.6 yrs with 0 prior claims. Amount claimed: $5879.7 (deductible $500.0). Filed on 2023-12-12 following incident on 2023-12-05. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003137 is covered by Policy POL-33824053.
+- Claim CLM-C000003137 concerns an incident in AZ on 2023-12-05.
+- Claim CLM-C000003137 has outcome Under Review.
+- Claim CLM-C000003137 has claim type Auto.

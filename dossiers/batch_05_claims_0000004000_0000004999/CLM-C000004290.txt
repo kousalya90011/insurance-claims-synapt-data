@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004290
+Policy ID: POL-37299623
+Claim Type: Business
+State: NJ
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2024-11-18
+Claim Filed Date: 2024-12-05
+Claim Amount: $26,635.37
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000004290 for business policy in NJ. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $26635.37 (deductible $250.0). Filed on 2024-12-05 following incident on 2024-11-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004290 is covered by Policy POL-37299623.
+- Claim CLM-C000004290 concerns an incident in NJ on 2024-11-18.
+- Claim CLM-C000004290 has outcome Approved.
+- Claim CLM-C000004290 has claim type Business.

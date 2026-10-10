@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000804
+Policy ID: POL-69911625
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2024-07-21
+Claim Filed Date: 2024-07-27
+Claim Amount: $16,566.76
+Deductible: $2,500.00
+Claim Status: Denied
+Resolution Time: 46 days
+Claim Narrative: Claim CLM-C000000804 for auto policy in FL. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $16566.76 (deductible $2500.0). Filed on 2024-07-27 following incident on 2024-07-21. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000804 is covered by Policy POL-69911625.
+- Claim CLM-C000000804 concerns an incident in FL on 2024-07-21.
+- Claim CLM-C000000804 has outcome Denied.
+- Claim CLM-C000000804 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000327
+Policy ID: POL-96689067
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 4.1 years
+Previous Claims: 2
+Incident Date: 2023-07-01
+Claim Filed Date: 2023-07-09
+Claim Amount: $1,173.42
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000000327 for auto policy in CA. Policyholder tenure: 4.1 yrs with 2 prior claims. Amount claimed: $1173.42 (deductible $500.0). Filed on 2023-07-09 following incident on 2023-07-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000327 is covered by Policy POL-96689067.
+- Claim CLM-C000000327 concerns an incident in CA on 2023-07-01.
+- Claim CLM-C000000327 has outcome Approved.
+- Claim CLM-C000000327 has claim type Auto.

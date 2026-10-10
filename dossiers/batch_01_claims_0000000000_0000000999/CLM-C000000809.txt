@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000809
+Policy ID: POL-71265528
+Claim Type: Home
+State: CA
+Policyholder Tenure: 3.7 years
+Previous Claims: 1
+Incident Date: 2024-09-12
+Claim Filed Date: 2024-09-27
+Claim Amount: $10,391.25
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000000809 for home policy in CA. Policyholder tenure: 3.7 yrs with 1 prior claims. Amount claimed: $10391.25 (deductible $500.0). Filed on 2024-09-27 following incident on 2024-09-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000809 is covered by Policy POL-71265528.
+- Claim CLM-C000000809 concerns an incident in CA on 2024-09-12.
+- Claim CLM-C000000809 has outcome Approved.
+- Claim CLM-C000000809 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005188
+Policy ID: POL-74496047
+Claim Type: Property
+State: MO
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2023-08-30
+Claim Filed Date: 2023-09-13
+Claim Amount: $22,886.56
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000005188 for property policy in MO. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $22886.56 (deductible $500.0). Filed on 2023-09-13 following incident on 2023-08-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005188 is covered by Policy POL-74496047.
+- Claim CLM-C000005188 concerns an incident in MO on 2023-08-30.
+- Claim CLM-C000005188 has outcome Approved.
+- Claim CLM-C000005188 has claim type Property.

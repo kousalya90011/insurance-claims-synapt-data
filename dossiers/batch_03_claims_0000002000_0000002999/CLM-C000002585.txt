@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002585
+Policy ID: POL-23592909
+Claim Type: Home
+State: FL
+Policyholder Tenure: 18.3 years
+Previous Claims: 0
+Incident Date: 2024-10-08
+Claim Filed Date: 2024-11-12
+Claim Amount: $26,481.21
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000002585 for home policy in FL. Policyholder tenure: 18.3 yrs with 0 prior claims. Amount claimed: $26481.21 (deductible $500.0). Filed on 2024-11-12 following incident on 2024-10-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002585 is covered by Policy POL-23592909.
+- Claim CLM-C000002585 concerns an incident in FL on 2024-10-08.
+- Claim CLM-C000002585 has outcome Approved.
+- Claim CLM-C000002585 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009094
+Policy ID: POL-66056586
+Claim Type: Property
+State: TN
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2023-06-16
+Claim Filed Date: 2023-07-14
+Claim Amount: $34,581.97
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000009094 for property policy in TN. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $34581.97 (deductible $1000.0). Filed on 2023-07-14 following incident on 2023-06-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009094 is covered by Policy POL-66056586.
+- Claim CLM-C000009094 concerns an incident in TN on 2023-06-16.
+- Claim CLM-C000009094 has outcome Approved.
+- Claim CLM-C000009094 has claim type Property.

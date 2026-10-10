@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009664
+Policy ID: POL-13557194
+Claim Type: Home
+State: IL
+Policyholder Tenure: 2.0 years
+Previous Claims: 2
+Incident Date: 2023-01-22
+Claim Filed Date: 2023-02-02
+Claim Amount: $19,140.52
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000009664 for home policy in IL. Policyholder tenure: 2.0 yrs with 2 prior claims. Amount claimed: $19140.52 (deductible $250.0). Filed on 2023-02-02 following incident on 2023-01-22. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009664 is covered by Policy POL-13557194.
+- Claim CLM-C000009664 concerns an incident in IL on 2023-01-22.
+- Claim CLM-C000009664 has outcome Denied.
+- Claim CLM-C000009664 has claim type Home.

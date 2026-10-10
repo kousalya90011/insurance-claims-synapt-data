@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000127
+Policy ID: POL-60328643
+Claim Type: Home
+State: FL
+Policyholder Tenure: 10.6 years
+Previous Claims: 0
+Incident Date: 2023-07-31
+Claim Filed Date: 2023-08-09
+Claim Amount: $12,203.16
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000000127 for home policy in FL. Policyholder tenure: 10.6 yrs with 0 prior claims. Amount claimed: $12203.16 (deductible $500.0). Filed on 2023-08-09 following incident on 2023-07-31. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000127 is covered by Policy POL-60328643.
+- Claim CLM-C000000127 concerns an incident in FL on 2023-07-31.
+- Claim CLM-C000000127 has outcome Under Review.
+- Claim CLM-C000000127 has claim type Home.

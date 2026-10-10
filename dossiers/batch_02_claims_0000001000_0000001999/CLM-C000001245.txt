@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001245
+Policy ID: POL-95783772
+Claim Type: Home
+State: CO
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2023-05-15
+Claim Filed Date: 2023-06-28
+Claim Amount: $6,613.17
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000001245 for home policy in CO. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $6613.17 (deductible $500.0). Filed on 2023-06-28 following incident on 2023-05-15. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001245 is covered by Policy POL-95783772.
+- Claim CLM-C000001245 concerns an incident in CO on 2023-05-15.
+- Claim CLM-C000001245 has outcome Denied.
+- Claim CLM-C000001245 has claim type Home.

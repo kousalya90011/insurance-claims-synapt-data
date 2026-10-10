@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004677
+Policy ID: POL-61361925
+Claim Type: Property
+State: IL
+Policyholder Tenure: 4.8 years
+Previous Claims: 0
+Incident Date: 2024-11-17
+Claim Filed Date: 2024-11-25
+Claim Amount: $5,354.14
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000004677 for property policy in IL. Policyholder tenure: 4.8 yrs with 0 prior claims. Amount claimed: $5354.14 (deductible $2000.0). Filed on 2024-11-25 following incident on 2024-11-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004677 is covered by Policy POL-61361925.
+- Claim CLM-C000004677 concerns an incident in IL on 2024-11-17.
+- Claim CLM-C000004677 has outcome Approved.
+- Claim CLM-C000004677 has claim type Property.

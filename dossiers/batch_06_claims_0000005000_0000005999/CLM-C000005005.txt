@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005005
+Policy ID: POL-38769900
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 6.4 years
+Previous Claims: 1
+Incident Date: 2023-04-03
+Claim Filed Date: 2023-04-30
+Claim Amount: $5,057.69
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000005005 for auto policy in AZ. Policyholder tenure: 6.4 yrs with 1 prior claims. Amount claimed: $5057.69 (deductible $1000.0). Filed on 2023-04-30 following incident on 2023-04-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005005 is covered by Policy POL-38769900.
+- Claim CLM-C000005005 concerns an incident in AZ on 2023-04-03.
+- Claim CLM-C000005005 has outcome Denied.
+- Claim CLM-C000005005 has claim type Auto.

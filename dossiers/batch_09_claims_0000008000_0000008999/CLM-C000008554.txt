@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008554
+Policy ID: POL-88945782
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2024-11-02
+Claim Filed Date: 2024-12-06
+Claim Amount: $6,675.60
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000008554 for auto policy in VA. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $6675.6 (deductible $1000.0). Filed on 2024-12-06 following incident on 2024-11-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008554 is covered by Policy POL-88945782.
+- Claim CLM-C000008554 concerns an incident in VA on 2024-11-02.
+- Claim CLM-C000008554 has outcome Approved.
+- Claim CLM-C000008554 has claim type Auto.

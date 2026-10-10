@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006318
+Policy ID: POL-23179255
+Claim Type: Home
+State: TX
+Policyholder Tenure: 5.0 years
+Previous Claims: 2
+Incident Date: 2024-04-25
+Claim Filed Date: 2024-04-25
+Claim Amount: $3,806.47
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000006318 for home policy in TX. Policyholder tenure: 5.0 yrs with 2 prior claims. Amount claimed: $3806.47 (deductible $2000.0). Filed on 2024-04-25 following incident on 2024-04-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006318 is covered by Policy POL-23179255.
+- Claim CLM-C000006318 concerns an incident in TX on 2024-04-25.
+- Claim CLM-C000006318 has outcome Approved.
+- Claim CLM-C000006318 has claim type Home.

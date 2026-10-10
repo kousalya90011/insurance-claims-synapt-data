@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005958
+Policy ID: POL-44445011
+Claim Type: Auto
+State: TX
+Policyholder Tenure: 1.5 years
+Previous Claims: 3
+Incident Date: 2023-01-30
+Claim Filed Date: 2023-03-05
+Claim Amount: $7,394.26
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 60 days
+Claim Narrative: Claim CLM-C000005958 for auto policy in TX. Policyholder tenure: 1.5 yrs with 3 prior claims. Amount claimed: $7394.26 (deductible $1000.0). Filed on 2023-03-05 following incident on 2023-01-30. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005958 is covered by Policy POL-44445011.
+- Claim CLM-C000005958 concerns an incident in TX on 2023-01-30.
+- Claim CLM-C000005958 has outcome Denied.
+- Claim CLM-C000005958 has claim type Auto.

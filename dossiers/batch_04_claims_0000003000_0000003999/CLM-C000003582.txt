@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003582
+Policy ID: POL-92951647
+Claim Type: Home
+State: CO
+Policyholder Tenure: 1.4 years
+Previous Claims: 0
+Incident Date: 2023-01-06
+Claim Filed Date: 2023-01-14
+Claim Amount: $27,178.73
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000003582 for home policy in CO. Policyholder tenure: 1.4 yrs with 0 prior claims. Amount claimed: $27178.73 (deductible $250.0). Filed on 2023-01-14 following incident on 2023-01-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003582 is covered by Policy POL-92951647.
+- Claim CLM-C000003582 concerns an incident in CO on 2023-01-06.
+- Claim CLM-C000003582 has outcome Denied.
+- Claim CLM-C000003582 has claim type Home.

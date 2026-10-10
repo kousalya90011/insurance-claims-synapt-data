@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000587
+Policy ID: POL-76513865
+Claim Type: Home
+State: CO
+Policyholder Tenure: 1.4 years
+Previous Claims: 0
+Incident Date: 2024-04-08
+Claim Filed Date: 2024-05-22
+Claim Amount: $11,215.50
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000000587 for home policy in CO. Policyholder tenure: 1.4 yrs with 0 prior claims. Amount claimed: $11215.5 (deductible $5000.0). Filed on 2024-05-22 following incident on 2024-04-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000587 is covered by Policy POL-76513865.
+- Claim CLM-C000000587 concerns an incident in CO on 2024-04-08.
+- Claim CLM-C000000587 has outcome Approved.
+- Claim CLM-C000000587 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005050
+Policy ID: POL-69277051
+Claim Type: Property
+State: FL
+Policyholder Tenure: 12.9 years
+Previous Claims: 1
+Incident Date: 2023-03-22
+Claim Filed Date: 2023-04-25
+Claim Amount: $24,872.81
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000005050 for property policy in FL. Policyholder tenure: 12.9 yrs with 1 prior claims. Amount claimed: $24872.81 (deductible $500.0). Filed on 2023-04-25 following incident on 2023-03-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005050 is covered by Policy POL-69277051.
+- Claim CLM-C000005050 concerns an incident in FL on 2023-03-22.
+- Claim CLM-C000005050 has outcome Approved.
+- Claim CLM-C000005050 has claim type Property.

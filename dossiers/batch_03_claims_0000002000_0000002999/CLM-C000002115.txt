@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002115
+Policy ID: POL-66898224
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 4.6 years
+Previous Claims: 0
+Incident Date: 2023-02-06
+Claim Filed Date: 2023-02-16
+Claim Amount: $1,477.24
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000002115 for renters policy in WI. Policyholder tenure: 4.6 yrs with 0 prior claims. Amount claimed: $1477.24 (deductible $500.0). Filed on 2023-02-16 following incident on 2023-02-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002115 is covered by Policy POL-66898224.
+- Claim CLM-C000002115 concerns an incident in WI on 2023-02-06.
+- Claim CLM-C000002115 has outcome Denied.
+- Claim CLM-C000002115 has claim type Renters.

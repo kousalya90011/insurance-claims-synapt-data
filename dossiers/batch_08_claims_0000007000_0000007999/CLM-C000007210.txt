@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007210
+Policy ID: POL-29009889
+Claim Type: Home
+State: MA
+Policyholder Tenure: 0.1 years
+Previous Claims: 2
+Incident Date: 2024-05-18
+Claim Filed Date: 2024-05-31
+Claim Amount: $30,371.44
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000007210 for home policy in MA. Policyholder tenure: 0.1 yrs with 2 prior claims. Amount claimed: $30371.44 (deductible $500.0). Filed on 2024-05-31 following incident on 2024-05-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007210 is covered by Policy POL-29009889.
+- Claim CLM-C000007210 concerns an incident in MA on 2024-05-18.
+- Claim CLM-C000007210 has outcome Approved.
+- Claim CLM-C000007210 has claim type Home.

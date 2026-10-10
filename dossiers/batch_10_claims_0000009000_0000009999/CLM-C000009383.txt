@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009383
+Policy ID: POL-33376953
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2023-04-14
+Claim Filed Date: 2023-05-28
+Claim Amount: $9,022.37
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000009383 for auto policy in FL. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $9022.37 (deductible $1000.0). Filed on 2023-05-28 following incident on 2023-04-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009383 is covered by Policy POL-33376953.
+- Claim CLM-C000009383 concerns an incident in FL on 2023-04-14.
+- Claim CLM-C000009383 has outcome Under Review.
+- Claim CLM-C000009383 has claim type Auto.

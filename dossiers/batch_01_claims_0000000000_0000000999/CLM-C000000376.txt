@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000376
+Policy ID: POL-90272029
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-11-02
+Claim Filed Date: 2023-12-15
+Claim Amount: $4,961.46
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 67 days
+Claim Narrative: Claim CLM-C000000376 for auto policy in OH. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $4961.46 (deductible $1000.0). Filed on 2023-12-15 following incident on 2023-11-02. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000376 is covered by Policy POL-90272029.
+- Claim CLM-C000000376 concerns an incident in OH on 2023-11-02.
+- Claim CLM-C000000376 has outcome Denied.
+- Claim CLM-C000000376 has claim type Auto.

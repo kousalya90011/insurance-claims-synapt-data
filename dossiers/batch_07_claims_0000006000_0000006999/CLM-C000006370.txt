@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006370
+Policy ID: POL-90842539
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 11.1 years
+Previous Claims: 1
+Incident Date: 2023-02-12
+Claim Filed Date: 2023-02-20
+Claim Amount: $15,119.28
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000006370 for auto policy in NC. Policyholder tenure: 11.1 yrs with 1 prior claims. Amount claimed: $15119.28 (deductible $500.0). Filed on 2023-02-20 following incident on 2023-02-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006370 is covered by Policy POL-90842539.
+- Claim CLM-C000006370 concerns an incident in NC on 2023-02-12.
+- Claim CLM-C000006370 has outcome Approved.
+- Claim CLM-C000006370 has claim type Auto.

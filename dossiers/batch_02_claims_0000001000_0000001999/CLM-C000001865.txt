@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001865
+Policy ID: POL-61687660
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 9.7 years
+Previous Claims: 1
+Incident Date: 2023-01-29
+Claim Filed Date: 2023-03-05
+Claim Amount: $5,345.44
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000001865 for renters policy in AZ. Policyholder tenure: 9.7 yrs with 1 prior claims. Amount claimed: $5345.44 (deductible $500.0). Filed on 2023-03-05 following incident on 2023-01-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001865 is covered by Policy POL-61687660.
+- Claim CLM-C000001865 concerns an incident in AZ on 2023-01-29.
+- Claim CLM-C000001865 has outcome Approved.
+- Claim CLM-C000001865 has claim type Renters.

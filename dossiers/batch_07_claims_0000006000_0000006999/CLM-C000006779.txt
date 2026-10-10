@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006779
+Policy ID: POL-39529072
+Claim Type: Property
+State: PA
+Policyholder Tenure: 3.6 years
+Previous Claims: 0
+Incident Date: 2023-03-06
+Claim Filed Date: 2023-03-08
+Claim Amount: $25,789.21
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000006779 for property policy in PA. Policyholder tenure: 3.6 yrs with 0 prior claims. Amount claimed: $25789.21 (deductible $2000.0). Filed on 2023-03-08 following incident on 2023-03-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006779 is covered by Policy POL-39529072.
+- Claim CLM-C000006779 concerns an incident in PA on 2023-03-06.
+- Claim CLM-C000006779 has outcome Approved.
+- Claim CLM-C000006779 has claim type Property.

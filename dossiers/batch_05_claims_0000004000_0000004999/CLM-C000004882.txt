@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004882
+Policy ID: POL-79525521
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 0.9 years
+Previous Claims: 1
+Incident Date: 2024-09-15
+Claim Filed Date: 2024-10-08
+Claim Amount: $3,655.60
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000004882 for auto policy in NC. Policyholder tenure: 0.9 yrs with 1 prior claims. Amount claimed: $3655.6 (deductible $500.0). Filed on 2024-10-08 following incident on 2024-09-15. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004882 is covered by Policy POL-79525521.
+- Claim CLM-C000004882 concerns an incident in NC on 2024-09-15.
+- Claim CLM-C000004882 has outcome Under Review.
+- Claim CLM-C000004882 has claim type Auto.

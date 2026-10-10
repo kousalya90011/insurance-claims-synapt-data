@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003559
+Policy ID: POL-78437950
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 1.8 years
+Previous Claims: 0
+Incident Date: 2024-09-16
+Claim Filed Date: 2024-09-27
+Claim Amount: $1,094.53
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000003559 for auto policy in WA. Policyholder tenure: 1.8 yrs with 0 prior claims. Amount claimed: $1094.53 (deductible $500.0). Filed on 2024-09-27 following incident on 2024-09-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003559 is covered by Policy POL-78437950.
+- Claim CLM-C000003559 concerns an incident in WA on 2024-09-16.
+- Claim CLM-C000003559 has outcome Approved.
+- Claim CLM-C000003559 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003168
+Policy ID: POL-29176743
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 1.6 years
+Previous Claims: 0
+Incident Date: 2024-07-28
+Claim Filed Date: 2024-08-02
+Claim Amount: $3,995.94
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000003168 for auto policy in MA. Policyholder tenure: 1.6 yrs with 0 prior claims. Amount claimed: $3995.94 (deductible $250.0). Filed on 2024-08-02 following incident on 2024-07-28. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003168 is covered by Policy POL-29176743.
+- Claim CLM-C000003168 concerns an incident in MA on 2024-07-28.
+- Claim CLM-C000003168 has outcome Denied.
+- Claim CLM-C000003168 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000887
+Policy ID: POL-43404086
+Claim Type: Home
+State: OH
+Policyholder Tenure: 6.3 years
+Previous Claims: 4
+Incident Date: 2024-11-23
+Claim Filed Date: 2024-12-30
+Claim Amount: $5,491.77
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000000887 for home policy in OH. Policyholder tenure: 6.3 yrs with 4 prior claims. Amount claimed: $5491.77 (deductible $2000.0). Filed on 2024-12-30 following incident on 2024-11-23. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000887 is covered by Policy POL-43404086.
+- Claim CLM-C000000887 concerns an incident in OH on 2024-11-23.
+- Claim CLM-C000000887 has outcome Under Review.
+- Claim CLM-C000000887 has claim type Home.

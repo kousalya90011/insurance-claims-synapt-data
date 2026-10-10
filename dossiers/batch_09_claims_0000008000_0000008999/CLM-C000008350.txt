@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008350
+Policy ID: POL-74620526
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 10.7 years
+Previous Claims: 0
+Incident Date: 2023-08-10
+Claim Filed Date: 2023-09-21
+Claim Amount: $5,034.70
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000008350 for renters policy in NJ. Policyholder tenure: 10.7 yrs with 0 prior claims. Amount claimed: $5034.7 (deductible $250.0). Filed on 2023-09-21 following incident on 2023-08-10. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008350 is covered by Policy POL-74620526.
+- Claim CLM-C000008350 concerns an incident in NJ on 2023-08-10.
+- Claim CLM-C000008350 has outcome Under Review.
+- Claim CLM-C000008350 has claim type Renters.

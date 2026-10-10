@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004061
+Policy ID: POL-50342711
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 2.9 years
+Previous Claims: 1
+Incident Date: 2024-12-08
+Claim Filed Date: 2024-12-31
+Claim Amount: $2,018.14
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000004061 for auto policy in NJ. Policyholder tenure: 2.9 yrs with 1 prior claims. Amount claimed: $2018.14 (deductible $500.0). Filed on 2024-12-31 following incident on 2024-12-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004061 is covered by Policy POL-50342711.
+- Claim CLM-C000004061 concerns an incident in NJ on 2024-12-08.
+- Claim CLM-C000004061 has outcome Approved.
+- Claim CLM-C000004061 has claim type Auto.

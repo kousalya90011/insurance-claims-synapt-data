@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009410
+Policy ID: POL-97025241
+Claim Type: Property
+State: WI
+Policyholder Tenure: 2.1 years
+Previous Claims: 0
+Incident Date: 2023-04-27
+Claim Filed Date: 2023-04-27
+Claim Amount: $3,164.59
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000009410 for property policy in WI. Policyholder tenure: 2.1 yrs with 0 prior claims. Amount claimed: $3164.59 (deductible $250.0). Filed on 2023-04-27 following incident on 2023-04-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009410 is covered by Policy POL-97025241.
+- Claim CLM-C000009410 concerns an incident in WI on 2023-04-27.
+- Claim CLM-C000009410 has outcome Approved.
+- Claim CLM-C000009410 has claim type Property.

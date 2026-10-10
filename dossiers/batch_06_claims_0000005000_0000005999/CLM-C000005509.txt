@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005509
+Policy ID: POL-34975773
+Claim Type: Home
+State: VA
+Policyholder Tenure: 3.5 years
+Previous Claims: 1
+Incident Date: 2024-03-29
+Claim Filed Date: 2024-04-03
+Claim Amount: $36,964.98
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000005509 for home policy in VA. Policyholder tenure: 3.5 yrs with 1 prior claims. Amount claimed: $36964.98 (deductible $250.0). Filed on 2024-04-03 following incident on 2024-03-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005509 is covered by Policy POL-34975773.
+- Claim CLM-C000005509 concerns an incident in VA on 2024-03-29.
+- Claim CLM-C000005509 has outcome Approved.
+- Claim CLM-C000005509 has claim type Home.

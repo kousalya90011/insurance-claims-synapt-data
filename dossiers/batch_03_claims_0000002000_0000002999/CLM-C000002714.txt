@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002714
+Policy ID: POL-53067494
+Claim Type: Property
+State: GA
+Policyholder Tenure: 11.2 years
+Previous Claims: 0
+Incident Date: 2023-03-24
+Claim Filed Date: 2023-04-10
+Claim Amount: $96,549.99
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 60 days
+Claim Narrative: Claim CLM-C000002714 for property policy in GA. Policyholder tenure: 11.2 yrs with 0 prior claims. Amount claimed: $96549.99 (deductible $250.0). Filed on 2023-04-10 following incident on 2023-03-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002714 is covered by Policy POL-53067494.
+- Claim CLM-C000002714 concerns an incident in GA on 2023-03-24.
+- Claim CLM-C000002714 has outcome Approved.
+- Claim CLM-C000002714 has claim type Property.

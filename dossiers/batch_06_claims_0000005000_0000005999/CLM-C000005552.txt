@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005552
+Policy ID: POL-51869121
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2023-04-13
+Claim Filed Date: 2023-04-20
+Claim Amount: $6,570.27
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000005552 for auto policy in CA. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $6570.27 (deductible $1000.0). Filed on 2023-04-20 following incident on 2023-04-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005552 is covered by Policy POL-51869121.
+- Claim CLM-C000005552 concerns an incident in CA on 2023-04-13.
+- Claim CLM-C000005552 has outcome Approved.
+- Claim CLM-C000005552 has claim type Auto.

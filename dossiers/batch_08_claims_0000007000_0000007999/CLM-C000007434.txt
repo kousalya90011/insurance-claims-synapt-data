@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007434
+Policy ID: POL-69464839
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 1.6 years
+Previous Claims: 0
+Incident Date: 2023-12-22
+Claim Filed Date: 2023-12-28
+Claim Amount: $8,113.63
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000007434 for auto policy in GA. Policyholder tenure: 1.6 yrs with 0 prior claims. Amount claimed: $8113.63 (deductible $250.0). Filed on 2023-12-28 following incident on 2023-12-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007434 is covered by Policy POL-69464839.
+- Claim CLM-C000007434 concerns an incident in GA on 2023-12-22.
+- Claim CLM-C000007434 has outcome Approved.
+- Claim CLM-C000007434 has claim type Auto.

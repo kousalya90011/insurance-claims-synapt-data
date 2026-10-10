@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005731
+Policy ID: POL-88963020
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2024-04-19
+Claim Filed Date: 2024-04-20
+Claim Amount: $28,143.73
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000005731 for auto policy in FL. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $28143.73 (deductible $250.0). Filed on 2024-04-20 following incident on 2024-04-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005731 is covered by Policy POL-88963020.
+- Claim CLM-C000005731 concerns an incident in FL on 2024-04-19.
+- Claim CLM-C000005731 has outcome Approved.
+- Claim CLM-C000005731 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002302
+Policy ID: POL-77523938
+Claim Type: Renters
+State: NC
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2024-12-20
+Claim Filed Date: 2025-01-28
+Claim Amount: $1,584.70
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000002302 for renters policy in NC. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $1584.7 (deductible $2500.0). Filed on 2025-01-28 following incident on 2024-12-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002302 is covered by Policy POL-77523938.
+- Claim CLM-C000002302 concerns an incident in NC on 2024-12-20.
+- Claim CLM-C000002302 has outcome Approved.
+- Claim CLM-C000002302 has claim type Renters.

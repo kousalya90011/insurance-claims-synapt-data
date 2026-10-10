@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000520
+Policy ID: POL-35624807
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 11.2 years
+Previous Claims: 1
+Incident Date: 2024-10-22
+Claim Filed Date: 2024-11-12
+Claim Amount: $13,239.06
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000000520 for property policy in NJ. Policyholder tenure: 11.2 yrs with 1 prior claims. Amount claimed: $13239.06 (deductible $2500.0). Filed on 2024-11-12 following incident on 2024-10-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000520 is covered by Policy POL-35624807.
+- Claim CLM-C000000520 concerns an incident in NJ on 2024-10-22.
+- Claim CLM-C000000520 has outcome Approved.
+- Claim CLM-C000000520 has claim type Property.

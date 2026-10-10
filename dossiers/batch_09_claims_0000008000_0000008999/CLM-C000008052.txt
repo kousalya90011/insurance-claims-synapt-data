@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008052
+Policy ID: POL-29734457
+Claim Type: Business
+State: MO
+Policyholder Tenure: 1.6 years
+Previous Claims: 0
+Incident Date: 2024-08-29
+Claim Filed Date: 2024-09-23
+Claim Amount: $3,259.05
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000008052 for business policy in MO. Policyholder tenure: 1.6 yrs with 0 prior claims. Amount claimed: $3259.05 (deductible $1000.0). Filed on 2024-09-23 following incident on 2024-08-29. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008052 is covered by Policy POL-29734457.
+- Claim CLM-C000008052 concerns an incident in MO on 2024-08-29.
+- Claim CLM-C000008052 has outcome Pending.
+- Claim CLM-C000008052 has claim type Business.

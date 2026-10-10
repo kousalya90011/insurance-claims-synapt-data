@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002076
+Policy ID: POL-28227016
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 5.3 years
+Previous Claims: 1
+Incident Date: 2024-04-08
+Claim Filed Date: 2024-04-17
+Claim Amount: $7,010.73
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000002076 for auto policy in PA. Policyholder tenure: 5.3 yrs with 1 prior claims. Amount claimed: $7010.73 (deductible $250.0). Filed on 2024-04-17 following incident on 2024-04-08. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002076 is covered by Policy POL-28227016.
+- Claim CLM-C000002076 concerns an incident in PA on 2024-04-08.
+- Claim CLM-C000002076 has outcome Under Review.
+- Claim CLM-C000002076 has claim type Auto.

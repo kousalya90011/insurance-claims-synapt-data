@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008870
+Policy ID: POL-88968436
+Claim Type: Property
+State: NY
+Policyholder Tenure: 4.7 years
+Previous Claims: 0
+Incident Date: 2024-04-28
+Claim Filed Date: 2024-05-04
+Claim Amount: $7,712.17
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000008870 for property policy in NY. Policyholder tenure: 4.7 yrs with 0 prior claims. Amount claimed: $7712.17 (deductible $1000.0). Filed on 2024-05-04 following incident on 2024-04-28. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008870 is covered by Policy POL-88968436.
+- Claim CLM-C000008870 concerns an incident in NY on 2024-04-28.
+- Claim CLM-C000008870 has outcome Denied.
+- Claim CLM-C000008870 has claim type Property.

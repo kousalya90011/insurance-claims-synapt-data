@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005961
+Policy ID: POL-98682809
+Claim Type: Home
+State: MO
+Policyholder Tenure: 7.8 years
+Previous Claims: 1
+Incident Date: 2024-04-25
+Claim Filed Date: 2024-05-19
+Claim Amount: $4,510.99
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000005961 for home policy in MO. Policyholder tenure: 7.8 yrs with 1 prior claims. Amount claimed: $4510.99 (deductible $500.0). Filed on 2024-05-19 following incident on 2024-04-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005961 is covered by Policy POL-98682809.
+- Claim CLM-C000005961 concerns an incident in MO on 2024-04-25.
+- Claim CLM-C000005961 has outcome Approved.
+- Claim CLM-C000005961 has claim type Home.

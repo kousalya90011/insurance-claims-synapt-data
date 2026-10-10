@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001480
+Policy ID: POL-92275621
+Claim Type: Business
+State: NJ
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2024-11-26
+Claim Filed Date: 2024-12-21
+Claim Amount: $19,687.09
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000001480 for business policy in NJ. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $19687.09 (deductible $500.0). Filed on 2024-12-21 following incident on 2024-11-26. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001480 is covered by Policy POL-92275621.
+- Claim CLM-C000001480 concerns an incident in NJ on 2024-11-26.
+- Claim CLM-C000001480 has outcome Denied.
+- Claim CLM-C000001480 has claim type Business.

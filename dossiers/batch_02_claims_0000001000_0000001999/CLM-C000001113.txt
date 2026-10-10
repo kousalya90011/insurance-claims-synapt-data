@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001113
+Policy ID: POL-65244729
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 5.8 years
+Previous Claims: 0
+Incident Date: 2023-02-23
+Claim Filed Date: 2023-03-29
+Claim Amount: $2,416.28
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000001113 for renters policy in FL. Policyholder tenure: 5.8 yrs with 0 prior claims. Amount claimed: $2416.28 (deductible $250.0). Filed on 2023-03-29 following incident on 2023-02-23. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001113 is covered by Policy POL-65244729.
+- Claim CLM-C000001113 concerns an incident in FL on 2023-02-23.
+- Claim CLM-C000001113 has outcome Pending.
+- Claim CLM-C000001113 has claim type Renters.

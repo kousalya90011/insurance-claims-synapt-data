@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005693
+Policy ID: POL-60631363
+Claim Type: Property
+State: TN
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2023-01-10
+Claim Filed Date: 2023-02-18
+Claim Amount: $12,190.14
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000005693 for property policy in TN. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $12190.14 (deductible $500.0). Filed on 2023-02-18 following incident on 2023-01-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005693 is covered by Policy POL-60631363.
+- Claim CLM-C000005693 concerns an incident in TN on 2023-01-10.
+- Claim CLM-C000005693 has outcome Approved.
+- Claim CLM-C000005693 has claim type Property.

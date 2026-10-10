@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009917
+Policy ID: POL-31666865
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 11.9 years
+Previous Claims: 0
+Incident Date: 2024-05-03
+Claim Filed Date: 2024-06-15
+Claim Amount: $3,474.36
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000009917 for auto policy in OH. Policyholder tenure: 11.9 yrs with 0 prior claims. Amount claimed: $3474.36 (deductible $250.0). Filed on 2024-06-15 following incident on 2024-05-03. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009917 is covered by Policy POL-31666865.
+- Claim CLM-C000009917 concerns an incident in OH on 2024-05-03.
+- Claim CLM-C000009917 has outcome Under Review.
+- Claim CLM-C000009917 has claim type Auto.

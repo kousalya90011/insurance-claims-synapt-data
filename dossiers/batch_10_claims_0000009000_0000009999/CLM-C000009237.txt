@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009237
+Policy ID: POL-53064408
+Claim Type: Home
+State: TN
+Policyholder Tenure: 3.9 years
+Previous Claims: 1
+Incident Date: 2024-04-19
+Claim Filed Date: 2024-05-24
+Claim Amount: $8,156.82
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000009237 for home policy in TN. Policyholder tenure: 3.9 yrs with 1 prior claims. Amount claimed: $8156.82 (deductible $250.0). Filed on 2024-05-24 following incident on 2024-04-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009237 is covered by Policy POL-53064408.
+- Claim CLM-C000009237 concerns an incident in TN on 2024-04-19.
+- Claim CLM-C000009237 has outcome Approved.
+- Claim CLM-C000009237 has claim type Home.

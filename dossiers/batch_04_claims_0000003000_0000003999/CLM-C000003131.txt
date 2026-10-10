@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003131
+Policy ID: POL-70385415
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 7.4 years
+Previous Claims: 3
+Incident Date: 2023-02-08
+Claim Filed Date: 2023-02-10
+Claim Amount: $1,712.31
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000003131 for auto policy in MO. Policyholder tenure: 7.4 yrs with 3 prior claims. Amount claimed: $1712.31 (deductible $500.0). Filed on 2023-02-10 following incident on 2023-02-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003131 is covered by Policy POL-70385415.
+- Claim CLM-C000003131 concerns an incident in MO on 2023-02-08.
+- Claim CLM-C000003131 has outcome Denied.
+- Claim CLM-C000003131 has claim type Auto.

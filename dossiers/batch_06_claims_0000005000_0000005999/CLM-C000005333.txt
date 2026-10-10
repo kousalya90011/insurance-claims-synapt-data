@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005333
+Policy ID: POL-96536651
+Claim Type: Home
+State: OH
+Policyholder Tenure: 7.8 years
+Previous Claims: 1
+Incident Date: 2024-09-09
+Claim Filed Date: 2024-10-02
+Claim Amount: $33,534.76
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000005333 for home policy in OH. Policyholder tenure: 7.8 yrs with 1 prior claims. Amount claimed: $33534.76 (deductible $250.0). Filed on 2024-10-02 following incident on 2024-09-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005333 is covered by Policy POL-96536651.
+- Claim CLM-C000005333 concerns an incident in OH on 2024-09-09.
+- Claim CLM-C000005333 has outcome Approved.
+- Claim CLM-C000005333 has claim type Home.

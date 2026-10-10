@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007895
+Policy ID: POL-48246217
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2023-03-13
+Claim Filed Date: 2023-03-30
+Claim Amount: $6,697.83
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000007895 for auto policy in GA. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $6697.83 (deductible $500.0). Filed on 2023-03-30 following incident on 2023-03-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007895 is covered by Policy POL-48246217.
+- Claim CLM-C000007895 concerns an incident in GA on 2023-03-13.
+- Claim CLM-C000007895 has outcome Under Review.
+- Claim CLM-C000007895 has claim type Auto.

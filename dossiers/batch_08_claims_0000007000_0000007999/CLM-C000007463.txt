@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007463
+Policy ID: POL-60609653
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 9.3 years
+Previous Claims: 2
+Incident Date: 2023-04-04
+Claim Filed Date: 2023-05-07
+Claim Amount: $5,836.55
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000007463 for property policy in AZ. Policyholder tenure: 9.3 yrs with 2 prior claims. Amount claimed: $5836.55 (deductible $500.0). Filed on 2023-05-07 following incident on 2023-04-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007463 is covered by Policy POL-60609653.
+- Claim CLM-C000007463 concerns an incident in AZ on 2023-04-04.
+- Claim CLM-C000007463 has outcome Approved.
+- Claim CLM-C000007463 has claim type Property.

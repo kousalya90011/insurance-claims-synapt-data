@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008588
+Policy ID: POL-77023295
+Claim Type: Business
+State: GA
+Policyholder Tenure: 5.9 years
+Previous Claims: 2
+Incident Date: 2023-01-06
+Claim Filed Date: 2023-02-15
+Claim Amount: $81,744.33
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000008588 for business policy in GA. Policyholder tenure: 5.9 yrs with 2 prior claims. Amount claimed: $81744.33 (deductible $500.0). Filed on 2023-02-15 following incident on 2023-01-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008588 is covered by Policy POL-77023295.
+- Claim CLM-C000008588 concerns an incident in GA on 2023-01-06.
+- Claim CLM-C000008588 has outcome Denied.
+- Claim CLM-C000008588 has claim type Business.

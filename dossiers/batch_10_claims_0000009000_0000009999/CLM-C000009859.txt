@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009859
+Policy ID: POL-57860095
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 15.0 years
+Previous Claims: 2
+Incident Date: 2023-11-29
+Claim Filed Date: 2023-12-19
+Claim Amount: $5,522.43
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000009859 for home policy in AZ. Policyholder tenure: 15.0 yrs with 2 prior claims. Amount claimed: $5522.43 (deductible $1000.0). Filed on 2023-12-19 following incident on 2023-11-29. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009859 is covered by Policy POL-57860095.
+- Claim CLM-C000009859 concerns an incident in AZ on 2023-11-29.
+- Claim CLM-C000009859 has outcome Under Review.
+- Claim CLM-C000009859 has claim type Home.

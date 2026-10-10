@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002987
+Policy ID: POL-89454300
+Claim Type: Home
+State: PA
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2023-07-29
+Claim Filed Date: 2023-08-09
+Claim Amount: $3,592.77
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000002987 for home policy in PA. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $3592.77 (deductible $500.0). Filed on 2023-08-09 following incident on 2023-07-29. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002987 is covered by Policy POL-89454300.
+- Claim CLM-C000002987 concerns an incident in PA on 2023-07-29.
+- Claim CLM-C000002987 has outcome Denied.
+- Claim CLM-C000002987 has claim type Home.

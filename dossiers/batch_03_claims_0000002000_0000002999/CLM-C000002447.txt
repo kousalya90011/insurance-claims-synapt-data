@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002447
+Policy ID: POL-72947807
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 7.8 years
+Previous Claims: 0
+Incident Date: 2024-12-04
+Claim Filed Date: 2024-12-10
+Claim Amount: $3,567.70
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000002447 for auto policy in NY. Policyholder tenure: 7.8 yrs with 0 prior claims. Amount claimed: $3567.7 (deductible $250.0). Filed on 2024-12-10 following incident on 2024-12-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002447 is covered by Policy POL-72947807.
+- Claim CLM-C000002447 concerns an incident in NY on 2024-12-04.
+- Claim CLM-C000002447 has outcome Approved.
+- Claim CLM-C000002447 has claim type Auto.

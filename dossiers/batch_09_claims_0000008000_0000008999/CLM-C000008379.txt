@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008379
+Policy ID: POL-62169692
+Claim Type: Home
+State: OH
+Policyholder Tenure: 1.6 years
+Previous Claims: 1
+Incident Date: 2023-12-20
+Claim Filed Date: 2024-01-18
+Claim Amount: $47,998.85
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000008379 for home policy in OH. Policyholder tenure: 1.6 yrs with 1 prior claims. Amount claimed: $47998.85 (deductible $500.0). Filed on 2024-01-18 following incident on 2023-12-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008379 is covered by Policy POL-62169692.
+- Claim CLM-C000008379 concerns an incident in OH on 2023-12-20.
+- Claim CLM-C000008379 has outcome Approved.
+- Claim CLM-C000008379 has claim type Home.

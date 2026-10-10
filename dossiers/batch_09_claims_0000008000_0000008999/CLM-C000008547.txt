@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008547
+Policy ID: POL-58351544
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 4.8 years
+Previous Claims: 0
+Incident Date: 2024-02-01
+Claim Filed Date: 2024-03-11
+Claim Amount: $3,557.21
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000008547 for auto policy in OH. Policyholder tenure: 4.8 yrs with 0 prior claims. Amount claimed: $3557.21 (deductible $250.0). Filed on 2024-03-11 following incident on 2024-02-01. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008547 is covered by Policy POL-58351544.
+- Claim CLM-C000008547 concerns an incident in OH on 2024-02-01.
+- Claim CLM-C000008547 has outcome Denied.
+- Claim CLM-C000008547 has claim type Auto.

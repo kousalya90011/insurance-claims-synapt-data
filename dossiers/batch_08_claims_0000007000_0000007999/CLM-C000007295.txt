@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007295
+Policy ID: POL-88083807
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 7.6 years
+Previous Claims: 1
+Incident Date: 2023-09-12
+Claim Filed Date: 2023-09-28
+Claim Amount: $1,348.85
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 3 days
+Claim Narrative: Claim CLM-C000007295 for renters policy in TX. Policyholder tenure: 7.6 yrs with 1 prior claims. Amount claimed: $1348.85 (deductible $250.0). Filed on 2023-09-28 following incident on 2023-09-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007295 is covered by Policy POL-88083807.
+- Claim CLM-C000007295 concerns an incident in TX on 2023-09-12.
+- Claim CLM-C000007295 has outcome Approved.
+- Claim CLM-C000007295 has claim type Renters.

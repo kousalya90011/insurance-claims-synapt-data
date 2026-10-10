@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007119
+Policy ID: POL-65963023
+Claim Type: Home
+State: TN
+Policyholder Tenure: 3.4 years
+Previous Claims: 0
+Incident Date: 2024-11-17
+Claim Filed Date: 2024-12-21
+Claim Amount: $27,989.95
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000007119 for home policy in TN. Policyholder tenure: 3.4 yrs with 0 prior claims. Amount claimed: $27989.95 (deductible $500.0). Filed on 2024-12-21 following incident on 2024-11-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007119 is covered by Policy POL-65963023.
+- Claim CLM-C000007119 concerns an incident in TN on 2024-11-17.
+- Claim CLM-C000007119 has outcome Approved.
+- Claim CLM-C000007119 has claim type Home.

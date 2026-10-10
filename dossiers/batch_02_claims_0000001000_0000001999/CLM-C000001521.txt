@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001521
+Policy ID: POL-10426725
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 4.5 years
+Previous Claims: 0
+Incident Date: 2023-09-20
+Claim Filed Date: 2023-10-11
+Claim Amount: $2,127.10
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000001521 for renters policy in PA. Policyholder tenure: 4.5 yrs with 0 prior claims. Amount claimed: $2127.1 (deductible $500.0). Filed on 2023-10-11 following incident on 2023-09-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001521 is covered by Policy POL-10426725.
+- Claim CLM-C000001521 concerns an incident in PA on 2023-09-20.
+- Claim CLM-C000001521 has outcome Approved.
+- Claim CLM-C000001521 has claim type Renters.

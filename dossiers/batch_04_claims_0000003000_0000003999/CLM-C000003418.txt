@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003418
+Policy ID: POL-73901518
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 3.7 years
+Previous Claims: 0
+Incident Date: 2023-12-02
+Claim Filed Date: 2024-01-03
+Claim Amount: $6,412.95
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000003418 for renters policy in VA. Policyholder tenure: 3.7 yrs with 0 prior claims. Amount claimed: $6412.95 (deductible $500.0). Filed on 2024-01-03 following incident on 2023-12-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003418 is covered by Policy POL-73901518.
+- Claim CLM-C000003418 concerns an incident in VA on 2023-12-02.
+- Claim CLM-C000003418 has outcome Under Review.
+- Claim CLM-C000003418 has claim type Renters.

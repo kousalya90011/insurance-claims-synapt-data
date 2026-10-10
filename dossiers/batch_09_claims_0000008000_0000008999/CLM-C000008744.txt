@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008744
+Policy ID: POL-44321400
+Claim Type: Home
+State: VA
+Policyholder Tenure: 37.4 years
+Previous Claims: 1
+Incident Date: 2023-11-27
+Claim Filed Date: 2023-12-17
+Claim Amount: $18,506.00
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000008744 for home policy in VA. Policyholder tenure: 37.4 yrs with 1 prior claims. Amount claimed: $18506.0 (deductible $1000.0). Filed on 2023-12-17 following incident on 2023-11-27. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008744 is covered by Policy POL-44321400.
+- Claim CLM-C000008744 concerns an incident in VA on 2023-11-27.
+- Claim CLM-C000008744 has outcome Denied.
+- Claim CLM-C000008744 has claim type Home.

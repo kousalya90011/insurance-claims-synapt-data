@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004323
+Policy ID: POL-26737697
+Claim Type: Home
+State: WI
+Policyholder Tenure: 0.3 years
+Previous Claims: 1
+Incident Date: 2023-03-23
+Claim Filed Date: 2023-04-11
+Claim Amount: $6,517.47
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000004323 for home policy in WI. Policyholder tenure: 0.3 yrs with 1 prior claims. Amount claimed: $6517.47 (deductible $500.0). Filed on 2023-04-11 following incident on 2023-03-23. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004323 is covered by Policy POL-26737697.
+- Claim CLM-C000004323 concerns an incident in WI on 2023-03-23.
+- Claim CLM-C000004323 has outcome Under Review.
+- Claim CLM-C000004323 has claim type Home.

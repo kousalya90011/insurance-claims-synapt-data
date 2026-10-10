@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002149
+Policy ID: POL-35777029
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 5.8 years
+Previous Claims: 1
+Incident Date: 2024-01-10
+Claim Filed Date: 2024-02-07
+Claim Amount: $1,523.47
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000002149 for auto policy in CA. Policyholder tenure: 5.8 yrs with 1 prior claims. Amount claimed: $1523.47 (deductible $1000.0). Filed on 2024-02-07 following incident on 2024-01-10. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002149 is covered by Policy POL-35777029.
+- Claim CLM-C000002149 concerns an incident in CA on 2024-01-10.
+- Claim CLM-C000002149 has outcome Under Review.
+- Claim CLM-C000002149 has claim type Auto.

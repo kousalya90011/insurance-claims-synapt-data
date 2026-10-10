@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002539
+Policy ID: POL-57892959
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 11.6 years
+Previous Claims: 1
+Incident Date: 2023-10-24
+Claim Filed Date: 2023-11-26
+Claim Amount: $16,717.51
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000002539 for auto policy in AZ. Policyholder tenure: 11.6 yrs with 1 prior claims. Amount claimed: $16717.51 (deductible $250.0). Filed on 2023-11-26 following incident on 2023-10-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002539 is covered by Policy POL-57892959.
+- Claim CLM-C000002539 concerns an incident in AZ on 2023-10-24.
+- Claim CLM-C000002539 has outcome Approved.
+- Claim CLM-C000002539 has claim type Auto.

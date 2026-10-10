@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001800
+Policy ID: POL-41935805
+Claim Type: Property
+State: MA
+Policyholder Tenure: 1.6 years
+Previous Claims: 2
+Incident Date: 2024-05-07
+Claim Filed Date: 2024-06-19
+Claim Amount: $32,456.52
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000001800 for property policy in MA. Policyholder tenure: 1.6 yrs with 2 prior claims. Amount claimed: $32456.52 (deductible $1000.0). Filed on 2024-06-19 following incident on 2024-05-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001800 is covered by Policy POL-41935805.
+- Claim CLM-C000001800 concerns an incident in MA on 2024-05-07.
+- Claim CLM-C000001800 has outcome Approved.
+- Claim CLM-C000001800 has claim type Property.

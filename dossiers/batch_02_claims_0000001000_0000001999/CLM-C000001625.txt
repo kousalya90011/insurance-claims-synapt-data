@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001625
+Policy ID: POL-24063445
+Claim Type: Home
+State: FL
+Policyholder Tenure: 8.0 years
+Previous Claims: 1
+Incident Date: 2023-09-14
+Claim Filed Date: 2023-10-01
+Claim Amount: $8,472.45
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000001625 for home policy in FL. Policyholder tenure: 8.0 yrs with 1 prior claims. Amount claimed: $8472.45 (deductible $500.0). Filed on 2023-10-01 following incident on 2023-09-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001625 is covered by Policy POL-24063445.
+- Claim CLM-C000001625 concerns an incident in FL on 2023-09-14.
+- Claim CLM-C000001625 has outcome Approved.
+- Claim CLM-C000001625 has claim type Home.

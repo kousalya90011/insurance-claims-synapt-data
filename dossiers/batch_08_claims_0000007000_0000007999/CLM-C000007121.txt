@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007121
+Policy ID: POL-34976000
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 15.1 years
+Previous Claims: 0
+Incident Date: 2024-05-08
+Claim Filed Date: 2024-05-19
+Claim Amount: $22,323.73
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000007121 for home policy in AZ. Policyholder tenure: 15.1 yrs with 0 prior claims. Amount claimed: $22323.73 (deductible $500.0). Filed on 2024-05-19 following incident on 2024-05-08. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007121 is covered by Policy POL-34976000.
+- Claim CLM-C000007121 concerns an incident in AZ on 2024-05-08.
+- Claim CLM-C000007121 has outcome Pending.
+- Claim CLM-C000007121 has claim type Home.

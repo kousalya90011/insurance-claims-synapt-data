@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003444
+Policy ID: POL-97511161
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2023-04-26
+Claim Filed Date: 2023-06-08
+Claim Amount: $842.51
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000003444 for renters policy in FL. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $842.51 (deductible $250.0). Filed on 2023-06-08 following incident on 2023-04-26. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003444 is covered by Policy POL-97511161.
+- Claim CLM-C000003444 concerns an incident in FL on 2023-04-26.
+- Claim CLM-C000003444 has outcome Under Review.
+- Claim CLM-C000003444 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001261
+Policy ID: POL-44363646
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 1.8 years
+Previous Claims: 1
+Incident Date: 2024-03-11
+Claim Filed Date: 2024-04-06
+Claim Amount: $18,767.78
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000001261 for auto policy in AZ. Policyholder tenure: 1.8 yrs with 1 prior claims. Amount claimed: $18767.78 (deductible $250.0). Filed on 2024-04-06 following incident on 2024-03-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001261 is covered by Policy POL-44363646.
+- Claim CLM-C000001261 concerns an incident in AZ on 2024-03-11.
+- Claim CLM-C000001261 has outcome Under Review.
+- Claim CLM-C000001261 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000029
+Policy ID: POL-30451484
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 1.6 years
+Previous Claims: 0
+Incident Date: 2023-04-26
+Claim Filed Date: 2023-05-07
+Claim Amount: $3,306.63
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000000029 for renters policy in WI. Policyholder tenure: 1.6 yrs with 0 prior claims. Amount claimed: $3306.63 (deductible $500.0). Filed on 2023-05-07 following incident on 2023-04-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000029 is covered by Policy POL-30451484.
+- Claim CLM-C000000029 concerns an incident in WI on 2023-04-26.
+- Claim CLM-C000000029 has outcome Approved.
+- Claim CLM-C000000029 has claim type Renters.

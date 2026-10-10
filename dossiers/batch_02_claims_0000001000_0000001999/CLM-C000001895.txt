@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001895
+Policy ID: POL-42374607
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2024-01-21
+Claim Filed Date: 2024-02-19
+Claim Amount: $3,413.23
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000001895 for renters policy in FL. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $3413.23 (deductible $250.0). Filed on 2024-02-19 following incident on 2024-01-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001895 is covered by Policy POL-42374607.
+- Claim CLM-C000001895 concerns an incident in FL on 2024-01-21.
+- Claim CLM-C000001895 has outcome Approved.
+- Claim CLM-C000001895 has claim type Renters.

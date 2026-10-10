@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000205
+Policy ID: POL-81010589
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 2.9 years
+Previous Claims: 2
+Incident Date: 2023-05-22
+Claim Filed Date: 2023-06-27
+Claim Amount: $4,286.59
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000000205 for auto policy in VA. Policyholder tenure: 2.9 yrs with 2 prior claims. Amount claimed: $4286.59 (deductible $1000.0). Filed on 2023-06-27 following incident on 2023-05-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000205 is covered by Policy POL-81010589.
+- Claim CLM-C000000205 concerns an incident in VA on 2023-05-22.
+- Claim CLM-C000000205 has outcome Approved.
+- Claim CLM-C000000205 has claim type Auto.

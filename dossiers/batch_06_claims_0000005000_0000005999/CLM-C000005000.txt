@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005000
+Policy ID: POL-14196263
+Claim Type: Business
+State: NC
+Policyholder Tenure: 1.0 years
+Previous Claims: 1
+Incident Date: 2023-02-18
+Claim Filed Date: 2023-02-23
+Claim Amount: $33,286.95
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000005000 for business policy in NC. Policyholder tenure: 1.0 yrs with 1 prior claims. Amount claimed: $33286.95 (deductible $500.0). Filed on 2023-02-23 following incident on 2023-02-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005000 is covered by Policy POL-14196263.
+- Claim CLM-C000005000 concerns an incident in NC on 2023-02-18.
+- Claim CLM-C000005000 has outcome Approved.
+- Claim CLM-C000005000 has claim type Business.

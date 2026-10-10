@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001068
+Policy ID: POL-22743629
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 6.2 years
+Previous Claims: 1
+Incident Date: 2023-04-12
+Claim Filed Date: 2023-05-18
+Claim Amount: $1,121.98
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000001068 for renters policy in CO. Policyholder tenure: 6.2 yrs with 1 prior claims. Amount claimed: $1121.98 (deductible $500.0). Filed on 2023-05-18 following incident on 2023-04-12. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001068 is covered by Policy POL-22743629.
+- Claim CLM-C000001068 concerns an incident in CO on 2023-04-12.
+- Claim CLM-C000001068 has outcome Denied.
+- Claim CLM-C000001068 has claim type Renters.

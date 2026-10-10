@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004594
+Policy ID: POL-72774680
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 0.6 years
+Previous Claims: 1
+Incident Date: 2024-02-19
+Claim Filed Date: 2024-03-14
+Claim Amount: $2,652.07
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000004594 for renters policy in MI. Policyholder tenure: 0.6 yrs with 1 prior claims. Amount claimed: $2652.07 (deductible $500.0). Filed on 2024-03-14 following incident on 2024-02-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004594 is covered by Policy POL-72774680.
+- Claim CLM-C000004594 concerns an incident in MI on 2024-02-19.
+- Claim CLM-C000004594 has outcome Approved.
+- Claim CLM-C000004594 has claim type Renters.

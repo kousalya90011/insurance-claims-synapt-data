@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005977
+Policy ID: POL-78825178
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 1.0 years
+Previous Claims: 1
+Incident Date: 2024-07-19
+Claim Filed Date: 2024-08-22
+Claim Amount: $3,938.42
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000005977 for home policy in AZ. Policyholder tenure: 1.0 yrs with 1 prior claims. Amount claimed: $3938.42 (deductible $250.0). Filed on 2024-08-22 following incident on 2024-07-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005977 is covered by Policy POL-78825178.
+- Claim CLM-C000005977 concerns an incident in AZ on 2024-07-19.
+- Claim CLM-C000005977 has outcome Under Review.
+- Claim CLM-C000005977 has claim type Home.

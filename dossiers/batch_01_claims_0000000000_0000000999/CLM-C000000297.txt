@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000297
+Policy ID: POL-22622417
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 1.8 years
+Previous Claims: 1
+Incident Date: 2023-05-15
+Claim Filed Date: 2023-05-24
+Claim Amount: $24,415.06
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000000297 for auto policy in MA. Policyholder tenure: 1.8 yrs with 1 prior claims. Amount claimed: $24415.06 (deductible $250.0). Filed on 2023-05-24 following incident on 2023-05-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000297 is covered by Policy POL-22622417.
+- Claim CLM-C000000297 concerns an incident in MA on 2023-05-15.
+- Claim CLM-C000000297 has outcome Approved.
+- Claim CLM-C000000297 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002536
+Policy ID: POL-41115772
+Claim Type: Property
+State: TX
+Policyholder Tenure: 2.5 years
+Previous Claims: 0
+Incident Date: 2023-11-03
+Claim Filed Date: 2023-11-20
+Claim Amount: $16,027.97
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000002536 for property policy in TX. Policyholder tenure: 2.5 yrs with 0 prior claims. Amount claimed: $16027.97 (deductible $500.0). Filed on 2023-11-20 following incident on 2023-11-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002536 is covered by Policy POL-41115772.
+- Claim CLM-C000002536 concerns an incident in TX on 2023-11-03.
+- Claim CLM-C000002536 has outcome Approved.
+- Claim CLM-C000002536 has claim type Property.

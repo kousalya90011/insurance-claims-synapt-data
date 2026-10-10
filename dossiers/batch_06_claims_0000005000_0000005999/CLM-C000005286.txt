@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005286
+Policy ID: POL-44317678
+Claim Type: Business
+State: AZ
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2023-03-23
+Claim Filed Date: 2023-03-23
+Claim Amount: $71,489.69
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000005286 for business policy in AZ. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $71489.69 (deductible $250.0). Filed on 2023-03-23 following incident on 2023-03-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005286 is covered by Policy POL-44317678.
+- Claim CLM-C000005286 concerns an incident in AZ on 2023-03-23.
+- Claim CLM-C000005286 has outcome Approved.
+- Claim CLM-C000005286 has claim type Business.

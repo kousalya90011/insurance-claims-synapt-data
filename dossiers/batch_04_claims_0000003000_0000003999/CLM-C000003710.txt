@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003710
+Policy ID: POL-97848203
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 13.8 years
+Previous Claims: 0
+Incident Date: 2023-01-27
+Claim Filed Date: 2023-03-09
+Claim Amount: $327.02
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000003710 for renters policy in VA. Policyholder tenure: 13.8 yrs with 0 prior claims. Amount claimed: $327.02 (deductible $1000.0). Filed on 2023-03-09 following incident on 2023-01-27. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003710 is covered by Policy POL-97848203.
+- Claim CLM-C000003710 concerns an incident in VA on 2023-01-27.
+- Claim CLM-C000003710 has outcome Denied.
+- Claim CLM-C000003710 has claim type Renters.

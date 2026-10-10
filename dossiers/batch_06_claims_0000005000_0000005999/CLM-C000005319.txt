@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005319
+Policy ID: POL-41714092
+Claim Type: Home
+State: WA
+Policyholder Tenure: 5.1 years
+Previous Claims: 0
+Incident Date: 2024-06-05
+Claim Filed Date: 2024-07-18
+Claim Amount: $9,802.21
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000005319 for home policy in WA. Policyholder tenure: 5.1 yrs with 0 prior claims. Amount claimed: $9802.21 (deductible $1000.0). Filed on 2024-07-18 following incident on 2024-06-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005319 is covered by Policy POL-41714092.
+- Claim CLM-C000005319 concerns an incident in WA on 2024-06-05.
+- Claim CLM-C000005319 has outcome Approved.
+- Claim CLM-C000005319 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001834
+Policy ID: POL-46436946
+Claim Type: Home
+State: NC
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2023-10-22
+Claim Filed Date: 2023-11-18
+Claim Amount: $11,404.34
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000001834 for home policy in NC. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $11404.34 (deductible $500.0). Filed on 2023-11-18 following incident on 2023-10-22. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001834 is covered by Policy POL-46436946.
+- Claim CLM-C000001834 concerns an incident in NC on 2023-10-22.
+- Claim CLM-C000001834 has outcome Denied.
+- Claim CLM-C000001834 has claim type Home.

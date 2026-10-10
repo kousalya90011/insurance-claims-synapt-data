@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004128
+Policy ID: POL-73932326
+Claim Type: Home
+State: MO
+Policyholder Tenure: 0.9 years
+Previous Claims: 1
+Incident Date: 2023-06-27
+Claim Filed Date: 2023-07-03
+Claim Amount: $62,869.32
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000004128 for home policy in MO. Policyholder tenure: 0.9 yrs with 1 prior claims. Amount claimed: $62869.32 (deductible $500.0). Filed on 2023-07-03 following incident on 2023-06-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004128 is covered by Policy POL-73932326.
+- Claim CLM-C000004128 concerns an incident in MO on 2023-06-27.
+- Claim CLM-C000004128 has outcome Approved.
+- Claim CLM-C000004128 has claim type Home.

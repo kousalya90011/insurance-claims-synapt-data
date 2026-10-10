@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008769
+Policy ID: POL-84205230
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 7.9 years
+Previous Claims: 0
+Incident Date: 2023-11-29
+Claim Filed Date: 2023-12-10
+Claim Amount: $5,206.95
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000008769 for auto policy in MI. Policyholder tenure: 7.9 yrs with 0 prior claims. Amount claimed: $5206.95 (deductible $500.0). Filed on 2023-12-10 following incident on 2023-11-29. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008769 is covered by Policy POL-84205230.
+- Claim CLM-C000008769 concerns an incident in MI on 2023-11-29.
+- Claim CLM-C000008769 has outcome Denied.
+- Claim CLM-C000008769 has claim type Auto.

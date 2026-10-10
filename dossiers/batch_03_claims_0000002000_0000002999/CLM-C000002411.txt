@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002411
+Policy ID: POL-51750856
+Claim Type: Property
+State: OH
+Policyholder Tenure: 0.2 years
+Previous Claims: 1
+Incident Date: 2023-09-18
+Claim Filed Date: 2023-10-02
+Claim Amount: $10,260.73
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000002411 for property policy in OH. Policyholder tenure: 0.2 yrs with 1 prior claims. Amount claimed: $10260.73 (deductible $250.0). Filed on 2023-10-02 following incident on 2023-09-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002411 is covered by Policy POL-51750856.
+- Claim CLM-C000002411 concerns an incident in OH on 2023-09-18.
+- Claim CLM-C000002411 has outcome Approved.
+- Claim CLM-C000002411 has claim type Property.

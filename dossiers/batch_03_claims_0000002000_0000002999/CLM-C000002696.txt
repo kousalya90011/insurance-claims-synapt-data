@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002696
+Policy ID: POL-32065074
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 16.0 years
+Previous Claims: 1
+Incident Date: 2024-08-13
+Claim Filed Date: 2024-08-31
+Claim Amount: $2,488.27
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000002696 for renters policy in TN. Policyholder tenure: 16.0 yrs with 1 prior claims. Amount claimed: $2488.27 (deductible $250.0). Filed on 2024-08-31 following incident on 2024-08-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002696 is covered by Policy POL-32065074.
+- Claim CLM-C000002696 concerns an incident in TN on 2024-08-13.
+- Claim CLM-C000002696 has outcome Approved.
+- Claim CLM-C000002696 has claim type Renters.

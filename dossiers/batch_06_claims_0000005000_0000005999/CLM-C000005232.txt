@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005232
+Policy ID: POL-26487459
+Claim Type: Property
+State: MA
+Policyholder Tenure: 10.5 years
+Previous Claims: 0
+Incident Date: 2024-12-09
+Claim Filed Date: 2025-01-07
+Claim Amount: $19,169.25
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000005232 for property policy in MA. Policyholder tenure: 10.5 yrs with 0 prior claims. Amount claimed: $19169.25 (deductible $500.0). Filed on 2025-01-07 following incident on 2024-12-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005232 is covered by Policy POL-26487459.
+- Claim CLM-C000005232 concerns an incident in MA on 2024-12-09.
+- Claim CLM-C000005232 has outcome Approved.
+- Claim CLM-C000005232 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004403
+Policy ID: POL-69813285
+Claim Type: Home
+State: TX
+Policyholder Tenure: 8.8 years
+Previous Claims: 0
+Incident Date: 2023-04-10
+Claim Filed Date: 2023-05-14
+Claim Amount: $11,249.37
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004403 for home policy in TX. Policyholder tenure: 8.8 yrs with 0 prior claims. Amount claimed: $11249.37 (deductible $500.0). Filed on 2023-05-14 following incident on 2023-04-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004403 is covered by Policy POL-69813285.
+- Claim CLM-C000004403 concerns an incident in TX on 2023-04-10.
+- Claim CLM-C000004403 has outcome Approved.
+- Claim CLM-C000004403 has claim type Home.

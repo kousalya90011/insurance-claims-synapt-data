@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005434
+Policy ID: POL-17979448
+Claim Type: Home
+State: TN
+Policyholder Tenure: 0.9 years
+Previous Claims: 2
+Incident Date: 2024-08-18
+Claim Filed Date: 2024-09-02
+Claim Amount: $94,000.43
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 67 days
+Claim Narrative: Claim CLM-C000005434 for home policy in TN. Policyholder tenure: 0.9 yrs with 2 prior claims. Amount claimed: $94000.43 (deductible $250.0). Filed on 2024-09-02 following incident on 2024-08-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005434 is covered by Policy POL-17979448.
+- Claim CLM-C000005434 concerns an incident in TN on 2024-08-18.
+- Claim CLM-C000005434 has outcome Approved.
+- Claim CLM-C000005434 has claim type Home.

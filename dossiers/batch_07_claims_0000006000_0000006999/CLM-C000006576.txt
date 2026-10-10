@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006576
+Policy ID: POL-70469882
+Claim Type: Business
+State: AZ
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2024-03-22
+Claim Filed Date: 2024-04-03
+Claim Amount: $11,774.99
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000006576 for business policy in AZ. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $11774.99 (deductible $1000.0). Filed on 2024-04-03 following incident on 2024-03-22. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006576 is covered by Policy POL-70469882.
+- Claim CLM-C000006576 concerns an incident in AZ on 2024-03-22.
+- Claim CLM-C000006576 has outcome Under Review.
+- Claim CLM-C000006576 has claim type Business.

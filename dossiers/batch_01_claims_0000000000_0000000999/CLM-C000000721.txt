@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000721
+Policy ID: POL-40027397
+Claim Type: Home
+State: MI
+Policyholder Tenure: 12.6 years
+Previous Claims: 2
+Incident Date: 2024-12-06
+Claim Filed Date: 2024-12-26
+Claim Amount: $21,504.27
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000000721 for home policy in MI. Policyholder tenure: 12.6 yrs with 2 prior claims. Amount claimed: $21504.27 (deductible $1000.0). Filed on 2024-12-26 following incident on 2024-12-06. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000721 is covered by Policy POL-40027397.
+- Claim CLM-C000000721 concerns an incident in MI on 2024-12-06.
+- Claim CLM-C000000721 has outcome Pending.
+- Claim CLM-C000000721 has claim type Home.

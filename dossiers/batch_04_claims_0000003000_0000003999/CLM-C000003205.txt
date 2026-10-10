@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003205
+Policy ID: POL-68734220
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 10.9 years
+Previous Claims: 1
+Incident Date: 2023-06-23
+Claim Filed Date: 2023-07-23
+Claim Amount: $6,434.16
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000003205 for auto policy in MD. Policyholder tenure: 10.9 yrs with 1 prior claims. Amount claimed: $6434.16 (deductible $500.0). Filed on 2023-07-23 following incident on 2023-06-23. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003205 is covered by Policy POL-68734220.
+- Claim CLM-C000003205 concerns an incident in MD on 2023-06-23.
+- Claim CLM-C000003205 has outcome Under Review.
+- Claim CLM-C000003205 has claim type Auto.

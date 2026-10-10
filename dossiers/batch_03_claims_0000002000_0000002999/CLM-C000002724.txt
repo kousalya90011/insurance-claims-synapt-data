@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002724
+Policy ID: POL-14060327
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2024-11-27
+Claim Filed Date: 2024-12-23
+Claim Amount: $16,919.68
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000002724 for auto policy in NY. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $16919.68 (deductible $1000.0). Filed on 2024-12-23 following incident on 2024-11-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002724 is covered by Policy POL-14060327.
+- Claim CLM-C000002724 concerns an incident in NY on 2024-11-27.
+- Claim CLM-C000002724 has outcome Approved.
+- Claim CLM-C000002724 has claim type Auto.

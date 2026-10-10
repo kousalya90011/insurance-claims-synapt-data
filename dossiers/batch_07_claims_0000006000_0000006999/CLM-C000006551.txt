@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006551
+Policy ID: POL-17194602
+Claim Type: Home
+State: MO
+Policyholder Tenure: 1.4 years
+Previous Claims: 1
+Incident Date: 2024-07-09
+Claim Filed Date: 2024-08-16
+Claim Amount: $42,907.18
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000006551 for home policy in MO. Policyholder tenure: 1.4 yrs with 1 prior claims. Amount claimed: $42907.18 (deductible $500.0). Filed on 2024-08-16 following incident on 2024-07-09. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006551 is covered by Policy POL-17194602.
+- Claim CLM-C000006551 concerns an incident in MO on 2024-07-09.
+- Claim CLM-C000006551 has outcome Denied.
+- Claim CLM-C000006551 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004145
+Policy ID: POL-11271225
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2024-10-28
+Claim Filed Date: 2024-11-02
+Claim Amount: $1,520.87
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000004145 for renters policy in TX. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $1520.87 (deductible $500.0). Filed on 2024-11-02 following incident on 2024-10-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004145 is covered by Policy POL-11271225.
+- Claim CLM-C000004145 concerns an incident in TX on 2024-10-28.
+- Claim CLM-C000004145 has outcome Approved.
+- Claim CLM-C000004145 has claim type Renters.

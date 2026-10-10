@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001891
+Policy ID: POL-84291250
+Claim Type: Home
+State: TN
+Policyholder Tenure: 4.5 years
+Previous Claims: 0
+Incident Date: 2023-09-13
+Claim Filed Date: 2023-09-14
+Claim Amount: $8,898.84
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000001891 for home policy in TN. Policyholder tenure: 4.5 yrs with 0 prior claims. Amount claimed: $8898.84 (deductible $2500.0). Filed on 2023-09-14 following incident on 2023-09-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001891 is covered by Policy POL-84291250.
+- Claim CLM-C000001891 concerns an incident in TN on 2023-09-13.
+- Claim CLM-C000001891 has outcome Approved.
+- Claim CLM-C000001891 has claim type Home.

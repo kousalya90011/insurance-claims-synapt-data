@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008663
+Policy ID: POL-63737037
+Claim Type: Property
+State: NC
+Policyholder Tenure: 20.9 years
+Previous Claims: 0
+Incident Date: 2024-05-23
+Claim Filed Date: 2024-06-22
+Claim Amount: $11,440.69
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000008663 for property policy in NC. Policyholder tenure: 20.9 yrs with 0 prior claims. Amount claimed: $11440.69 (deductible $2500.0). Filed on 2024-06-22 following incident on 2024-05-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008663 is covered by Policy POL-63737037.
+- Claim CLM-C000008663 concerns an incident in NC on 2024-05-23.
+- Claim CLM-C000008663 has outcome Approved.
+- Claim CLM-C000008663 has claim type Property.

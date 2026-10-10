@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000392
+Policy ID: POL-54937628
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 7.6 years
+Previous Claims: 0
+Incident Date: 2023-06-28
+Claim Filed Date: 2023-08-02
+Claim Amount: $6,435.81
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000000392 for auto policy in MD. Policyholder tenure: 7.6 yrs with 0 prior claims. Amount claimed: $6435.81 (deductible $250.0). Filed on 2023-08-02 following incident on 2023-06-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000392 is covered by Policy POL-54937628.
+- Claim CLM-C000000392 concerns an incident in MD on 2023-06-28.
+- Claim CLM-C000000392 has outcome Approved.
+- Claim CLM-C000000392 has claim type Auto.

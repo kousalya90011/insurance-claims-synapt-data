@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003197
+Policy ID: POL-87563296
+Claim Type: Home
+State: FL
+Policyholder Tenure: 6.5 years
+Previous Claims: 1
+Incident Date: 2023-12-02
+Claim Filed Date: 2023-12-03
+Claim Amount: $16,865.39
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000003197 for home policy in FL. Policyholder tenure: 6.5 yrs with 1 prior claims. Amount claimed: $16865.39 (deductible $1000.0). Filed on 2023-12-03 following incident on 2023-12-02. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000003197 is covered by Policy POL-87563296.
+- Claim CLM-C000003197 concerns an incident in FL on 2023-12-02.
+- Claim CLM-C000003197 has outcome Pending.
+- Claim CLM-C000003197 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000697
+Policy ID: POL-78753104
+Claim Type: Business
+State: WI
+Policyholder Tenure: 4.6 years
+Previous Claims: 0
+Incident Date: 2023-06-28
+Claim Filed Date: 2023-07-03
+Claim Amount: $257,296.24
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 122 days
+Claim Narrative: Claim CLM-C000000697 for business policy in WI. Policyholder tenure: 4.6 yrs with 0 prior claims. Amount claimed: $257296.24 (deductible $1000.0). Filed on 2023-07-03 following incident on 2023-06-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000697 is covered by Policy POL-78753104.
+- Claim CLM-C000000697 concerns an incident in WI on 2023-06-28.
+- Claim CLM-C000000697 has outcome Approved.
+- Claim CLM-C000000697 has claim type Business.

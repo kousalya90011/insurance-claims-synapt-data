@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003532
+Policy ID: POL-39469890
+Claim Type: Home
+State: NY
+Policyholder Tenure: 9.0 years
+Previous Claims: 1
+Incident Date: 2023-08-15
+Claim Filed Date: 2023-09-24
+Claim Amount: $6,243.86
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000003532 for home policy in NY. Policyholder tenure: 9.0 yrs with 1 prior claims. Amount claimed: $6243.86 (deductible $500.0). Filed on 2023-09-24 following incident on 2023-08-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003532 is covered by Policy POL-39469890.
+- Claim CLM-C000003532 concerns an incident in NY on 2023-08-15.
+- Claim CLM-C000003532 has outcome Approved.
+- Claim CLM-C000003532 has claim type Home.

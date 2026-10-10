@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009542
+Policy ID: POL-43331091
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2023-09-27
+Claim Filed Date: 2023-10-17
+Claim Amount: $5,837.04
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000009542 for auto policy in MO. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $5837.04 (deductible $2000.0). Filed on 2023-10-17 following incident on 2023-09-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009542 is covered by Policy POL-43331091.
+- Claim CLM-C000009542 concerns an incident in MO on 2023-09-27.
+- Claim CLM-C000009542 has outcome Approved.
+- Claim CLM-C000009542 has claim type Auto.

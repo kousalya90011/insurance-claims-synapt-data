@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008755
+Policy ID: POL-64420500
+Claim Type: Home
+State: TX
+Policyholder Tenure: 2.7 years
+Previous Claims: 0
+Incident Date: 2023-12-02
+Claim Filed Date: 2023-12-15
+Claim Amount: $3,233.67
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000008755 for home policy in TX. Policyholder tenure: 2.7 yrs with 0 prior claims. Amount claimed: $3233.67 (deductible $250.0). Filed on 2023-12-15 following incident on 2023-12-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008755 is covered by Policy POL-64420500.
+- Claim CLM-C000008755 concerns an incident in TX on 2023-12-02.
+- Claim CLM-C000008755 has outcome Approved.
+- Claim CLM-C000008755 has claim type Home.

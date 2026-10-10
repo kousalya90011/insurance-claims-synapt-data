@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008648
+Policy ID: POL-42340512
+Claim Type: Home
+State: MO
+Policyholder Tenure: 10.3 years
+Previous Claims: 0
+Incident Date: 2024-05-02
+Claim Filed Date: 2024-06-11
+Claim Amount: $15,572.15
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: 68 days
+Claim Narrative: Claim CLM-C000008648 for home policy in MO. Policyholder tenure: 10.3 yrs with 0 prior claims. Amount claimed: $15572.15 (deductible $500.0). Filed on 2024-06-11 following incident on 2024-05-02. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008648 is covered by Policy POL-42340512.
+- Claim CLM-C000008648 concerns an incident in MO on 2024-05-02.
+- Claim CLM-C000008648 has outcome Pending.
+- Claim CLM-C000008648 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008544
+Policy ID: POL-61169216
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 6.5 years
+Previous Claims: 4
+Incident Date: 2024-01-14
+Claim Filed Date: 2024-02-02
+Claim Amount: $7,998.08
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000008544 for auto policy in CO. Policyholder tenure: 6.5 yrs with 4 prior claims. Amount claimed: $7998.08 (deductible $500.0). Filed on 2024-02-02 following incident on 2024-01-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008544 is covered by Policy POL-61169216.
+- Claim CLM-C000008544 concerns an incident in CO on 2024-01-14.
+- Claim CLM-C000008544 has outcome Under Review.
+- Claim CLM-C000008544 has claim type Auto.

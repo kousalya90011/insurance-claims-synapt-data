@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003421
+Policy ID: POL-43441770
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 20.3 years
+Previous Claims: 0
+Incident Date: 2024-09-15
+Claim Filed Date: 2024-09-19
+Claim Amount: $488.66
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000003421 for renters policy in TN. Policyholder tenure: 20.3 yrs with 0 prior claims. Amount claimed: $488.66 (deductible $1000.0). Filed on 2024-09-19 following incident on 2024-09-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003421 is covered by Policy POL-43441770.
+- Claim CLM-C000003421 concerns an incident in TN on 2024-09-15.
+- Claim CLM-C000003421 has outcome Approved.
+- Claim CLM-C000003421 has claim type Renters.

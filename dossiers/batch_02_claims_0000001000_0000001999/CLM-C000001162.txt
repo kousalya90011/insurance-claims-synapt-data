@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001162
+Policy ID: POL-37678156
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 11.9 years
+Previous Claims: 0
+Incident Date: 2024-11-27
+Claim Filed Date: 2024-12-05
+Claim Amount: $14,963.20
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000001162 for auto policy in WA. Policyholder tenure: 11.9 yrs with 0 prior claims. Amount claimed: $14963.2 (deductible $250.0). Filed on 2024-12-05 following incident on 2024-11-27. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001162 is covered by Policy POL-37678156.
+- Claim CLM-C000001162 concerns an incident in WA on 2024-11-27.
+- Claim CLM-C000001162 has outcome Denied.
+- Claim CLM-C000001162 has claim type Auto.

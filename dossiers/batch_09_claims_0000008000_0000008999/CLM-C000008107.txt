@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008107
+Policy ID: POL-63604309
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 14.9 years
+Previous Claims: 1
+Incident Date: 2024-10-03
+Claim Filed Date: 2024-11-02
+Claim Amount: $3,481.92
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000008107 for auto policy in MI. Policyholder tenure: 14.9 yrs with 1 prior claims. Amount claimed: $3481.92 (deductible $500.0). Filed on 2024-11-02 following incident on 2024-10-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008107 is covered by Policy POL-63604309.
+- Claim CLM-C000008107 concerns an incident in MI on 2024-10-03.
+- Claim CLM-C000008107 has outcome Approved.
+- Claim CLM-C000008107 has claim type Auto.

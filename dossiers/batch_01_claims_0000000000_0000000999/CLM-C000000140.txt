@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000140
+Policy ID: POL-13122366
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 8.1 years
+Previous Claims: 2
+Incident Date: 2024-10-02
+Claim Filed Date: 2024-11-15
+Claim Amount: $8,900.06
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000000140 for auto policy in MO. Policyholder tenure: 8.1 yrs with 2 prior claims. Amount claimed: $8900.06 (deductible $250.0). Filed on 2024-11-15 following incident on 2024-10-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000140 is covered by Policy POL-13122366.
+- Claim CLM-C000000140 concerns an incident in MO on 2024-10-02.
+- Claim CLM-C000000140 has outcome Approved.
+- Claim CLM-C000000140 has claim type Auto.

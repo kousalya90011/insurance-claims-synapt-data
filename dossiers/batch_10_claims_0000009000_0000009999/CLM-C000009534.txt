@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009534
+Policy ID: POL-22410962
+Claim Type: Renters
+State: MA
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2024-09-06
+Claim Filed Date: 2024-09-28
+Claim Amount: $2,243.48
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000009534 for renters policy in MA. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $2243.48 (deductible $250.0). Filed on 2024-09-28 following incident on 2024-09-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009534 is covered by Policy POL-22410962.
+- Claim CLM-C000009534 concerns an incident in MA on 2024-09-06.
+- Claim CLM-C000009534 has outcome Approved.
+- Claim CLM-C000009534 has claim type Renters.

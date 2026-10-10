@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006104
+Policy ID: POL-73942246
+Claim Type: Home
+State: CO
+Policyholder Tenure: 5.9 years
+Previous Claims: 0
+Incident Date: 2024-06-02
+Claim Filed Date: 2024-07-06
+Claim Amount: $44,588.87
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000006104 for home policy in CO. Policyholder tenure: 5.9 yrs with 0 prior claims. Amount claimed: $44588.87 (deductible $2000.0). Filed on 2024-07-06 following incident on 2024-06-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006104 is covered by Policy POL-73942246.
+- Claim CLM-C000006104 concerns an incident in CO on 2024-06-02.
+- Claim CLM-C000006104 has outcome Approved.
+- Claim CLM-C000006104 has claim type Home.

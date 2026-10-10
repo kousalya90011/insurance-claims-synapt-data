@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003633
+Policy ID: POL-54288164
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 0.8 years
+Previous Claims: 0
+Incident Date: 2024-10-18
+Claim Filed Date: 2024-10-28
+Claim Amount: $9,952.66
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000003633 for auto policy in MD. Policyholder tenure: 0.8 yrs with 0 prior claims. Amount claimed: $9952.66 (deductible $1000.0). Filed on 2024-10-28 following incident on 2024-10-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003633 is covered by Policy POL-54288164.
+- Claim CLM-C000003633 concerns an incident in MD on 2024-10-18.
+- Claim CLM-C000003633 has outcome Approved.
+- Claim CLM-C000003633 has claim type Auto.

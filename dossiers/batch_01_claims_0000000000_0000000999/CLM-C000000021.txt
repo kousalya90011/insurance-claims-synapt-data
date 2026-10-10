@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000021
+Policy ID: POL-93408848
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 4.3 years
+Previous Claims: 2
+Incident Date: 2023-01-14
+Claim Filed Date: 2023-02-24
+Claim Amount: $6,997.06
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000000021 for property policy in AZ. Policyholder tenure: 4.3 yrs with 2 prior claims. Amount claimed: $6997.06 (deductible $500.0). Filed on 2023-02-24 following incident on 2023-01-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000021 is covered by Policy POL-93408848.
+- Claim CLM-C000000021 concerns an incident in AZ on 2023-01-14.
+- Claim CLM-C000000021 has outcome Approved.
+- Claim CLM-C000000021 has claim type Property.

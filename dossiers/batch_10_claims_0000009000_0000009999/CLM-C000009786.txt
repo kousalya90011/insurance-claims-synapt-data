@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009786
+Policy ID: POL-92679810
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 5.6 years
+Previous Claims: 0
+Incident Date: 2023-05-11
+Claim Filed Date: 2023-05-20
+Claim Amount: $3,036.17
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000009786 for auto policy in GA. Policyholder tenure: 5.6 yrs with 0 prior claims. Amount claimed: $3036.17 (deductible $1000.0). Filed on 2023-05-20 following incident on 2023-05-11. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009786 is covered by Policy POL-92679810.
+- Claim CLM-C000009786 concerns an incident in GA on 2023-05-11.
+- Claim CLM-C000009786 has outcome Pending.
+- Claim CLM-C000009786 has claim type Auto.

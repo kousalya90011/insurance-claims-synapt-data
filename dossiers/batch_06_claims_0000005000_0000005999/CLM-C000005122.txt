@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005122
+Policy ID: POL-82339078
+Claim Type: Home
+State: MD
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2024-12-19
+Claim Filed Date: 2025-01-28
+Claim Amount: $9,696.96
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000005122 for home policy in MD. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $9696.96 (deductible $500.0). Filed on 2025-01-28 following incident on 2024-12-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005122 is covered by Policy POL-82339078.
+- Claim CLM-C000005122 concerns an incident in MD on 2024-12-19.
+- Claim CLM-C000005122 has outcome Approved.
+- Claim CLM-C000005122 has claim type Home.

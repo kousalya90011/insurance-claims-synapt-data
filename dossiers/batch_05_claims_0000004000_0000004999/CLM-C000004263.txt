@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004263
+Policy ID: POL-23662155
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 14.4 years
+Previous Claims: 2
+Incident Date: 2023-11-09
+Claim Filed Date: 2023-12-23
+Claim Amount: $24,823.54
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000004263 for home policy in NJ. Policyholder tenure: 14.4 yrs with 2 prior claims. Amount claimed: $24823.54 (deductible $500.0). Filed on 2023-12-23 following incident on 2023-11-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004263 is covered by Policy POL-23662155.
+- Claim CLM-C000004263 concerns an incident in NJ on 2023-11-09.
+- Claim CLM-C000004263 has outcome Approved.
+- Claim CLM-C000004263 has claim type Home.

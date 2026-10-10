@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005154
+Policy ID: POL-93864185
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 12.0 years
+Previous Claims: 1
+Incident Date: 2024-09-02
+Claim Filed Date: 2024-09-27
+Claim Amount: $27,124.20
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000005154 for auto policy in CA. Policyholder tenure: 12.0 yrs with 1 prior claims. Amount claimed: $27124.2 (deductible $250.0). Filed on 2024-09-27 following incident on 2024-09-02. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000005154 is covered by Policy POL-93864185.
+- Claim CLM-C000005154 concerns an incident in CA on 2024-09-02.
+- Claim CLM-C000005154 has outcome Pending.
+- Claim CLM-C000005154 has claim type Auto.

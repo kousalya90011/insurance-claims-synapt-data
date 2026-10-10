@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000883
+Policy ID: POL-51303711
+Claim Type: Renters
+State: OH
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2023-05-29
+Claim Filed Date: 2023-06-02
+Claim Amount: $1,966.50
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000000883 for renters policy in OH. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $1966.5 (deductible $250.0). Filed on 2023-06-02 following incident on 2023-05-29. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000883 is covered by Policy POL-51303711.
+- Claim CLM-C000000883 concerns an incident in OH on 2023-05-29.
+- Claim CLM-C000000883 has outcome Denied.
+- Claim CLM-C000000883 has claim type Renters.

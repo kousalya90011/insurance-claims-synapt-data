@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003210
+Policy ID: POL-32128802
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 0.3 years
+Previous Claims: 1
+Incident Date: 2023-01-12
+Claim Filed Date: 2023-01-19
+Claim Amount: $2,301.56
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000003210 for auto policy in PA. Policyholder tenure: 0.3 yrs with 1 prior claims. Amount claimed: $2301.56 (deductible $250.0). Filed on 2023-01-19 following incident on 2023-01-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003210 is covered by Policy POL-32128802.
+- Claim CLM-C000003210 concerns an incident in PA on 2023-01-12.
+- Claim CLM-C000003210 has outcome Approved.
+- Claim CLM-C000003210 has claim type Auto.

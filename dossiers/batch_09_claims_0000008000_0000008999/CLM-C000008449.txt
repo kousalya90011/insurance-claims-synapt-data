@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008449
+Policy ID: POL-46973372
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 17.5 years
+Previous Claims: 0
+Incident Date: 2023-09-11
+Claim Filed Date: 2023-09-13
+Claim Amount: $3,309.11
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000008449 for auto policy in VA. Policyholder tenure: 17.5 yrs with 0 prior claims. Amount claimed: $3309.11 (deductible $250.0). Filed on 2023-09-13 following incident on 2023-09-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008449 is covered by Policy POL-46973372.
+- Claim CLM-C000008449 concerns an incident in VA on 2023-09-11.
+- Claim CLM-C000008449 has outcome Approved.
+- Claim CLM-C000008449 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000395
+Policy ID: POL-22950775
+Claim Type: Home
+State: MD
+Policyholder Tenure: 5.7 years
+Previous Claims: 0
+Incident Date: 2023-08-11
+Claim Filed Date: 2023-08-29
+Claim Amount: $6,196.77
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000000395 for home policy in MD. Policyholder tenure: 5.7 yrs with 0 prior claims. Amount claimed: $6196.77 (deductible $5000.0). Filed on 2023-08-29 following incident on 2023-08-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000395 is covered by Policy POL-22950775.
+- Claim CLM-C000000395 concerns an incident in MD on 2023-08-11.
+- Claim CLM-C000000395 has outcome Approved.
+- Claim CLM-C000000395 has claim type Home.

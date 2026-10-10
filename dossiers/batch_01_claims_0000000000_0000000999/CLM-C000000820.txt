@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000820
+Policy ID: POL-27838380
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 3.2 years
+Previous Claims: 1
+Incident Date: 2024-04-29
+Claim Filed Date: 2024-04-30
+Claim Amount: $6,009.46
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000000820 for renters policy in MD. Policyholder tenure: 3.2 yrs with 1 prior claims. Amount claimed: $6009.46 (deductible $500.0). Filed on 2024-04-30 following incident on 2024-04-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000820 is covered by Policy POL-27838380.
+- Claim CLM-C000000820 concerns an incident in MD on 2024-04-29.
+- Claim CLM-C000000820 has outcome Approved.
+- Claim CLM-C000000820 has claim type Renters.

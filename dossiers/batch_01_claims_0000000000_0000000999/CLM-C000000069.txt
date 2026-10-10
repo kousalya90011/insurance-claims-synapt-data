@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000069
+Policy ID: POL-51664650
+Claim Type: Home
+State: MA
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2023-09-04
+Claim Filed Date: 2023-09-13
+Claim Amount: $4,594.47
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000000069 for home policy in MA. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $4594.47 (deductible $250.0). Filed on 2023-09-13 following incident on 2023-09-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000069 is covered by Policy POL-51664650.
+- Claim CLM-C000000069 concerns an incident in MA on 2023-09-04.
+- Claim CLM-C000000069 has outcome Approved.
+- Claim CLM-C000000069 has claim type Home.

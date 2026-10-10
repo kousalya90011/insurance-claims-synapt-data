@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000506
+Policy ID: POL-63499029
+Claim Type: Home
+State: TX
+Policyholder Tenure: 2.0 years
+Previous Claims: 0
+Incident Date: 2024-06-09
+Claim Filed Date: 2024-06-18
+Claim Amount: $17,772.29
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000000506 for home policy in TX. Policyholder tenure: 2.0 yrs with 0 prior claims. Amount claimed: $17772.29 (deductible $250.0). Filed on 2024-06-18 following incident on 2024-06-09. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000506 is covered by Policy POL-63499029.
+- Claim CLM-C000000506 concerns an incident in TX on 2024-06-09.
+- Claim CLM-C000000506 has outcome Under Review.
+- Claim CLM-C000000506 has claim type Home.

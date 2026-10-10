@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009596
+Policy ID: POL-38934622
+Claim Type: Home
+State: FL
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2024-06-06
+Claim Filed Date: 2024-06-15
+Claim Amount: $22,372.44
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000009596 for home policy in FL. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $22372.44 (deductible $2000.0). Filed on 2024-06-15 following incident on 2024-06-06. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009596 is covered by Policy POL-38934622.
+- Claim CLM-C000009596 concerns an incident in FL on 2024-06-06.
+- Claim CLM-C000009596 has outcome Under Review.
+- Claim CLM-C000009596 has claim type Home.

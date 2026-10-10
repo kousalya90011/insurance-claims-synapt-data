@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006882
+Policy ID: POL-47262481
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 9.2 years
+Previous Claims: 0
+Incident Date: 2023-09-09
+Claim Filed Date: 2023-09-24
+Claim Amount: $2,803.59
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000006882 for auto policy in FL. Policyholder tenure: 9.2 yrs with 0 prior claims. Amount claimed: $2803.59 (deductible $500.0). Filed on 2023-09-24 following incident on 2023-09-09. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006882 is covered by Policy POL-47262481.
+- Claim CLM-C000006882 concerns an incident in FL on 2023-09-09.
+- Claim CLM-C000006882 has outcome Denied.
+- Claim CLM-C000006882 has claim type Auto.

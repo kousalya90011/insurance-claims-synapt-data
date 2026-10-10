@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001936
+Policy ID: POL-23758940
+Claim Type: Home
+State: MA
+Policyholder Tenure: 0.6 years
+Previous Claims: 1
+Incident Date: 2024-03-15
+Claim Filed Date: 2024-04-21
+Claim Amount: $7,052.89
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000001936 for home policy in MA. Policyholder tenure: 0.6 yrs with 1 prior claims. Amount claimed: $7052.89 (deductible $250.0). Filed on 2024-04-21 following incident on 2024-03-15. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001936 is covered by Policy POL-23758940.
+- Claim CLM-C000001936 concerns an incident in MA on 2024-03-15.
+- Claim CLM-C000001936 has outcome Under Review.
+- Claim CLM-C000001936 has claim type Home.

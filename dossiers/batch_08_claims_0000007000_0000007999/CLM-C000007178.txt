@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007178
+Policy ID: POL-36759657
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2023-09-24
+Claim Filed Date: 2023-10-11
+Claim Amount: $17,550.18
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000007178 for home policy in AZ. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $17550.18 (deductible $500.0). Filed on 2023-10-11 following incident on 2023-09-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007178 is covered by Policy POL-36759657.
+- Claim CLM-C000007178 concerns an incident in AZ on 2023-09-24.
+- Claim CLM-C000007178 has outcome Approved.
+- Claim CLM-C000007178 has claim type Home.

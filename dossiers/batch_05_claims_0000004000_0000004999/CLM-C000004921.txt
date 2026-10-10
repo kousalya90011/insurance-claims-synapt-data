@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004921
+Policy ID: POL-63900106
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 1.6 years
+Previous Claims: 1
+Incident Date: 2023-10-07
+Claim Filed Date: 2023-10-20
+Claim Amount: $9,663.88
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000004921 for auto policy in WA. Policyholder tenure: 1.6 yrs with 1 prior claims. Amount claimed: $9663.88 (deductible $1000.0). Filed on 2023-10-20 following incident on 2023-10-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004921 is covered by Policy POL-63900106.
+- Claim CLM-C000004921 concerns an incident in WA on 2023-10-07.
+- Claim CLM-C000004921 has outcome Approved.
+- Claim CLM-C000004921 has claim type Auto.

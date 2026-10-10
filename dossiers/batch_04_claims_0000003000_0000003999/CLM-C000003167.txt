@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003167
+Policy ID: POL-85695476
+Claim Type: Home
+State: MI
+Policyholder Tenure: 0.5 years
+Previous Claims: 2
+Incident Date: 2024-01-30
+Claim Filed Date: 2024-02-12
+Claim Amount: $45,722.41
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000003167 for home policy in MI. Policyholder tenure: 0.5 yrs with 2 prior claims. Amount claimed: $45722.41 (deductible $250.0). Filed on 2024-02-12 following incident on 2024-01-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003167 is covered by Policy POL-85695476.
+- Claim CLM-C000003167 concerns an incident in MI on 2024-01-30.
+- Claim CLM-C000003167 has outcome Approved.
+- Claim CLM-C000003167 has claim type Home.

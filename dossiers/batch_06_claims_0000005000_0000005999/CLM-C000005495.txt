@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005495
+Policy ID: POL-58058092
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 11.4 years
+Previous Claims: 0
+Incident Date: 2024-07-01
+Claim Filed Date: 2024-07-16
+Claim Amount: $3,124.21
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000005495 for auto policy in WA. Policyholder tenure: 11.4 yrs with 0 prior claims. Amount claimed: $3124.21 (deductible $500.0). Filed on 2024-07-16 following incident on 2024-07-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005495 is covered by Policy POL-58058092.
+- Claim CLM-C000005495 concerns an incident in WA on 2024-07-01.
+- Claim CLM-C000005495 has outcome Approved.
+- Claim CLM-C000005495 has claim type Auto.

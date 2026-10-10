@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000109
+Policy ID: POL-55504562
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 7.9 years
+Previous Claims: 1
+Incident Date: 2023-08-28
+Claim Filed Date: 2023-09-21
+Claim Amount: $39,820.86
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000000109 for auto policy in AZ. Policyholder tenure: 7.9 yrs with 1 prior claims. Amount claimed: $39820.86 (deductible $250.0). Filed on 2023-09-21 following incident on 2023-08-28. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000109 is covered by Policy POL-55504562.
+- Claim CLM-C000000109 concerns an incident in AZ on 2023-08-28.
+- Claim CLM-C000000109 has outcome Pending.
+- Claim CLM-C000000109 has claim type Auto.

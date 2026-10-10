@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004105
+Policy ID: POL-29244773
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2024-10-23
+Claim Filed Date: 2024-11-16
+Claim Amount: $2,040.69
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000004105 for renters policy in TX. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $2040.69 (deductible $1000.0). Filed on 2024-11-16 following incident on 2024-10-23. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004105 is covered by Policy POL-29244773.
+- Claim CLM-C000004105 concerns an incident in TX on 2024-10-23.
+- Claim CLM-C000004105 has outcome Denied.
+- Claim CLM-C000004105 has claim type Renters.

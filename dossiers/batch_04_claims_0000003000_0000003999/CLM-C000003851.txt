@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003851
+Policy ID: POL-73796939
+Claim Type: Property
+State: TX
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2023-02-17
+Claim Filed Date: 2023-03-29
+Claim Amount: $21,606.17
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000003851 for property policy in TX. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $21606.17 (deductible $250.0). Filed on 2023-03-29 following incident on 2023-02-17. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003851 is covered by Policy POL-73796939.
+- Claim CLM-C000003851 concerns an incident in TX on 2023-02-17.
+- Claim CLM-C000003851 has outcome Denied.
+- Claim CLM-C000003851 has claim type Property.

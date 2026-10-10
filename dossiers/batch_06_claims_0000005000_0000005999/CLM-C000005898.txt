@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005898
+Policy ID: POL-52062218
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 11.8 years
+Previous Claims: 1
+Incident Date: 2023-04-15
+Claim Filed Date: 2023-05-17
+Claim Amount: $3,395.81
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000005898 for auto policy in CO. Policyholder tenure: 11.8 yrs with 1 prior claims. Amount claimed: $3395.81 (deductible $500.0). Filed on 2023-05-17 following incident on 2023-04-15. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005898 is covered by Policy POL-52062218.
+- Claim CLM-C000005898 concerns an incident in CO on 2023-04-15.
+- Claim CLM-C000005898 has outcome Under Review.
+- Claim CLM-C000005898 has claim type Auto.

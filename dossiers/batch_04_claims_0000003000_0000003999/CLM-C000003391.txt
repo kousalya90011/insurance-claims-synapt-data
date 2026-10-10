@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003391
+Policy ID: POL-88056601
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2024-12-22
+Claim Filed Date: 2024-12-29
+Claim Amount: $10,216.84
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000003391 for auto policy in WA. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $10216.84 (deductible $250.0). Filed on 2024-12-29 following incident on 2024-12-22. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003391 is covered by Policy POL-88056601.
+- Claim CLM-C000003391 concerns an incident in WA on 2024-12-22.
+- Claim CLM-C000003391 has outcome Under Review.
+- Claim CLM-C000003391 has claim type Auto.

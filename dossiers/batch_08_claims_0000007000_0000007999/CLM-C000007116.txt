@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007116
+Policy ID: POL-35596093
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 19.8 years
+Previous Claims: 1
+Incident Date: 2023-01-04
+Claim Filed Date: 2023-01-20
+Claim Amount: $1,147.28
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 56 days
+Claim Narrative: Claim CLM-C000007116 for renters policy in NY. Policyholder tenure: 19.8 yrs with 1 prior claims. Amount claimed: $1147.28 (deductible $250.0). Filed on 2023-01-20 following incident on 2023-01-04. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007116 is covered by Policy POL-35596093.
+- Claim CLM-C000007116 concerns an incident in NY on 2023-01-04.
+- Claim CLM-C000007116 has outcome Under Review.
+- Claim CLM-C000007116 has claim type Renters.

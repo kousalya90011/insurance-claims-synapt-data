@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000763
+Policy ID: POL-89014141
+Claim Type: Business
+State: NY
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2023-10-03
+Claim Filed Date: 2023-10-21
+Claim Amount: $17,993.65
+Deductible: $5,000.00
+Claim Status: Under Review
+Resolution Time: 67 days
+Claim Narrative: Claim CLM-C000000763 for business policy in NY. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $17993.65 (deductible $5000.0). Filed on 2023-10-21 following incident on 2023-10-03. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000763 is covered by Policy POL-89014141.
+- Claim CLM-C000000763 concerns an incident in NY on 2023-10-03.
+- Claim CLM-C000000763 has outcome Under Review.
+- Claim CLM-C000000763 has claim type Business.

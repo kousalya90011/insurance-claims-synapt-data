@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002794
+Policy ID: POL-27539447
+Claim Type: Renters
+State: GA
+Policyholder Tenure: 0.9 years
+Previous Claims: 1
+Incident Date: 2024-02-12
+Claim Filed Date: 2024-02-15
+Claim Amount: $986.84
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000002794 for renters policy in GA. Policyholder tenure: 0.9 yrs with 1 prior claims. Amount claimed: $986.84 (deductible $250.0). Filed on 2024-02-15 following incident on 2024-02-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002794 is covered by Policy POL-27539447.
+- Claim CLM-C000002794 concerns an incident in GA on 2024-02-12.
+- Claim CLM-C000002794 has outcome Approved.
+- Claim CLM-C000002794 has claim type Renters.

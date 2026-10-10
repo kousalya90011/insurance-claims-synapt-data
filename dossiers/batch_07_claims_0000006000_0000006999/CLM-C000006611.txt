@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006611
+Policy ID: POL-87736229
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 0.1 years
+Previous Claims: 1
+Incident Date: 2023-10-01
+Claim Filed Date: 2023-11-10
+Claim Amount: $9,150.02
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000006611 for auto policy in NJ. Policyholder tenure: 0.1 yrs with 1 prior claims. Amount claimed: $9150.02 (deductible $250.0). Filed on 2023-11-10 following incident on 2023-10-01. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006611 is covered by Policy POL-87736229.
+- Claim CLM-C000006611 concerns an incident in NJ on 2023-10-01.
+- Claim CLM-C000006611 has outcome Under Review.
+- Claim CLM-C000006611 has claim type Auto.

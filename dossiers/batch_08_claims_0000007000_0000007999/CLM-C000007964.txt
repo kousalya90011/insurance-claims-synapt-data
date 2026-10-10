@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007964
+Policy ID: POL-74576757
+Claim Type: Home
+State: GA
+Policyholder Tenure: 11.6 years
+Previous Claims: 2
+Incident Date: 2023-02-28
+Claim Filed Date: 2023-03-14
+Claim Amount: $16,051.37
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 44 days
+Claim Narrative: Claim CLM-C000007964 for home policy in GA. Policyholder tenure: 11.6 yrs with 2 prior claims. Amount claimed: $16051.37 (deductible $1000.0). Filed on 2023-03-14 following incident on 2023-02-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007964 is covered by Policy POL-74576757.
+- Claim CLM-C000007964 concerns an incident in GA on 2023-02-28.
+- Claim CLM-C000007964 has outcome Under Review.
+- Claim CLM-C000007964 has claim type Home.

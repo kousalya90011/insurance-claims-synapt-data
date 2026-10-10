@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000782
+Policy ID: POL-49808270
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2023-06-24
+Claim Filed Date: 2023-07-05
+Claim Amount: $6,656.97
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000000782 for auto policy in MD. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $6656.97 (deductible $500.0). Filed on 2023-07-05 following incident on 2023-06-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000782 is covered by Policy POL-49808270.
+- Claim CLM-C000000782 concerns an incident in MD on 2023-06-24.
+- Claim CLM-C000000782 has outcome Approved.
+- Claim CLM-C000000782 has claim type Auto.

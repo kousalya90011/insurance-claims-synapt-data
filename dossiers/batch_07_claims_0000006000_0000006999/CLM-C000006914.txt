@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006914
+Policy ID: POL-86389711
+Claim Type: Home
+State: IL
+Policyholder Tenure: 6.7 years
+Previous Claims: 0
+Incident Date: 2024-03-05
+Claim Filed Date: 2024-04-18
+Claim Amount: $92,412.15
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000006914 for home policy in IL. Policyholder tenure: 6.7 yrs with 0 prior claims. Amount claimed: $92412.15 (deductible $500.0). Filed on 2024-04-18 following incident on 2024-03-05. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006914 is covered by Policy POL-86389711.
+- Claim CLM-C000006914 concerns an incident in IL on 2024-03-05.
+- Claim CLM-C000006914 has outcome Denied.
+- Claim CLM-C000006914 has claim type Home.

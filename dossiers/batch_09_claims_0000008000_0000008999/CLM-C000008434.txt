@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008434
+Policy ID: POL-29475037
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 1.8 years
+Previous Claims: 2
+Incident Date: 2024-06-14
+Claim Filed Date: 2024-07-23
+Claim Amount: $663.93
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 3 days
+Claim Narrative: Claim CLM-C000008434 for auto policy in MD. Policyholder tenure: 1.8 yrs with 2 prior claims. Amount claimed: $663.93 (deductible $250.0). Filed on 2024-07-23 following incident on 2024-06-14. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008434 is covered by Policy POL-29475037.
+- Claim CLM-C000008434 concerns an incident in MD on 2024-06-14.
+- Claim CLM-C000008434 has outcome Denied.
+- Claim CLM-C000008434 has claim type Auto.

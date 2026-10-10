@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000722
+Policy ID: POL-76440818
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 4.9 years
+Previous Claims: 0
+Incident Date: 2024-05-08
+Claim Filed Date: 2024-05-25
+Claim Amount: $5,636.84
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000000722 for renters policy in PA. Policyholder tenure: 4.9 yrs with 0 prior claims. Amount claimed: $5636.84 (deductible $500.0). Filed on 2024-05-25 following incident on 2024-05-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000722 is covered by Policy POL-76440818.
+- Claim CLM-C000000722 concerns an incident in PA on 2024-05-08.
+- Claim CLM-C000000722 has outcome Approved.
+- Claim CLM-C000000722 has claim type Renters.

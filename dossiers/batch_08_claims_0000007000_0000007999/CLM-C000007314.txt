@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007314
+Policy ID: POL-24899023
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 11.7 years
+Previous Claims: 0
+Incident Date: 2023-06-17
+Claim Filed Date: 2023-07-20
+Claim Amount: $2,453.53
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000007314 for auto policy in CA. Policyholder tenure: 11.7 yrs with 0 prior claims. Amount claimed: $2453.53 (deductible $250.0). Filed on 2023-07-20 following incident on 2023-06-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007314 is covered by Policy POL-24899023.
+- Claim CLM-C000007314 concerns an incident in CA on 2023-06-17.
+- Claim CLM-C000007314 has outcome Approved.
+- Claim CLM-C000007314 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008126
+Policy ID: POL-66413460
+Claim Type: Property
+State: MD
+Policyholder Tenure: 15.8 years
+Previous Claims: 1
+Incident Date: 2023-10-12
+Claim Filed Date: 2023-10-25
+Claim Amount: $6,455.74
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000008126 for property policy in MD. Policyholder tenure: 15.8 yrs with 1 prior claims. Amount claimed: $6455.74 (deductible $1000.0). Filed on 2023-10-25 following incident on 2023-10-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008126 is covered by Policy POL-66413460.
+- Claim CLM-C000008126 concerns an incident in MD on 2023-10-12.
+- Claim CLM-C000008126 has outcome Approved.
+- Claim CLM-C000008126 has claim type Property.

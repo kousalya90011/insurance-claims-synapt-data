@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003125
+Policy ID: POL-78899734
+Claim Type: Home
+State: GA
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2024-05-10
+Claim Filed Date: 2024-06-04
+Claim Amount: $7,624.51
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000003125 for home policy in GA. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed: $7624.51 (deductible $250.0). Filed on 2024-06-04 following incident on 2024-05-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003125 is covered by Policy POL-78899734.
+- Claim CLM-C000003125 concerns an incident in GA on 2024-05-10.
+- Claim CLM-C000003125 has outcome Approved.
+- Claim CLM-C000003125 has claim type Home.

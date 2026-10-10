@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005947
+Policy ID: POL-87371226
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 2.6 years
+Previous Claims: 2
+Incident Date: 2024-07-12
+Claim Filed Date: 2024-07-22
+Claim Amount: $2,757.97
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000005947 for auto policy in PA. Policyholder tenure: 2.6 yrs with 2 prior claims. Amount claimed: $2757.97 (deductible $250.0). Filed on 2024-07-22 following incident on 2024-07-12. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005947 is covered by Policy POL-87371226.
+- Claim CLM-C000005947 concerns an incident in PA on 2024-07-12.
+- Claim CLM-C000005947 has outcome Under Review.
+- Claim CLM-C000005947 has claim type Auto.

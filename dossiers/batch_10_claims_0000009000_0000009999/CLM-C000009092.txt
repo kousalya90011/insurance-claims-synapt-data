@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009092
+Policy ID: POL-19834404
+Claim Type: Home
+State: OH
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2024-04-17
+Claim Filed Date: 2024-04-27
+Claim Amount: $24,257.74
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000009092 for home policy in OH. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $24257.74 (deductible $500.0). Filed on 2024-04-27 following incident on 2024-04-17. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009092 is covered by Policy POL-19834404.
+- Claim CLM-C000009092 concerns an incident in OH on 2024-04-17.
+- Claim CLM-C000009092 has outcome Pending.
+- Claim CLM-C000009092 has claim type Home.

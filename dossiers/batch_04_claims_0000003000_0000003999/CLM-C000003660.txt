@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003660
+Policy ID: POL-28347456
+Claim Type: Renters
+State: NC
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2025-01-18
+Claim Filed Date: 2025-02-14
+Claim Amount: $1,758.38
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000003660 for renters policy in NC. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $1758.38 (deductible $2000.0). Filed on 2025-02-14 following incident on 2025-01-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003660 is covered by Policy POL-28347456.
+- Claim CLM-C000003660 concerns an incident in NC on 2025-01-18.
+- Claim CLM-C000003660 has outcome Approved.
+- Claim CLM-C000003660 has claim type Renters.

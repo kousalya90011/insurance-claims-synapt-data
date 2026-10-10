@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005176
+Policy ID: POL-56887806
+Claim Type: Property
+State: VA
+Policyholder Tenure: 2.0 years
+Previous Claims: 0
+Incident Date: 2023-06-05
+Claim Filed Date: 2023-07-04
+Claim Amount: $11,161.45
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000005176 for property policy in VA. Policyholder tenure: 2.0 yrs with 0 prior claims. Amount claimed: $11161.45 (deductible $500.0). Filed on 2023-07-04 following incident on 2023-06-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005176 is covered by Policy POL-56887806.
+- Claim CLM-C000005176 concerns an incident in VA on 2023-06-05.
+- Claim CLM-C000005176 has outcome Approved.
+- Claim CLM-C000005176 has claim type Property.

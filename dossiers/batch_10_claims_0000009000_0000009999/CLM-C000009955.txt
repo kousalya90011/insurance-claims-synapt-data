@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009955
+Policy ID: POL-60273758
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 3.3 years
+Previous Claims: 0
+Incident Date: 2025-01-11
+Claim Filed Date: 2025-02-05
+Claim Amount: $4,356.18
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000009955 for home policy in NJ. Policyholder tenure: 3.3 yrs with 0 prior claims. Amount claimed: $4356.18 (deductible $500.0). Filed on 2025-02-05 following incident on 2025-01-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009955 is covered by Policy POL-60273758.
+- Claim CLM-C000009955 concerns an incident in NJ on 2025-01-11.
+- Claim CLM-C000009955 has outcome Approved.
+- Claim CLM-C000009955 has claim type Home.

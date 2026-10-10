@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001394
+Policy ID: POL-87487033
+Claim Type: Home
+State: GA
+Policyholder Tenure: 16.0 years
+Previous Claims: 0
+Incident Date: 2023-08-17
+Claim Filed Date: 2023-08-18
+Claim Amount: $16,806.68
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000001394 for home policy in GA. Policyholder tenure: 16.0 yrs with 0 prior claims. Amount claimed: $16806.68 (deductible $250.0). Filed on 2023-08-18 following incident on 2023-08-17. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001394 is covered by Policy POL-87487033.
+- Claim CLM-C000001394 concerns an incident in GA on 2023-08-17.
+- Claim CLM-C000001394 has outcome Denied.
+- Claim CLM-C000001394 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002201
+Policy ID: POL-73978912
+Claim Type: Business
+State: MD
+Policyholder Tenure: 13.3 years
+Previous Claims: 2
+Incident Date: 2023-01-21
+Claim Filed Date: 2023-03-06
+Claim Amount: $67,477.52
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 47 days
+Claim Narrative: Claim CLM-C000002201 for business policy in MD. Policyholder tenure: 13.3 yrs with 2 prior claims. Amount claimed: $67477.52 (deductible $500.0). Filed on 2023-03-06 following incident on 2023-01-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002201 is covered by Policy POL-73978912.
+- Claim CLM-C000002201 concerns an incident in MD on 2023-01-21.
+- Claim CLM-C000002201 has outcome Approved.
+- Claim CLM-C000002201 has claim type Business.

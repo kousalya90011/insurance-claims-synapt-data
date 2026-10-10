@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008354
+Policy ID: POL-38028890
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2023-06-07
+Claim Filed Date: 2023-07-09
+Claim Amount: $1,663.22
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000008354 for auto policy in IL. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $1663.22 (deductible $1000.0). Filed on 2023-07-09 following incident on 2023-06-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008354 is covered by Policy POL-38028890.
+- Claim CLM-C000008354 concerns an incident in IL on 2023-06-07.
+- Claim CLM-C000008354 has outcome Approved.
+- Claim CLM-C000008354 has claim type Auto.

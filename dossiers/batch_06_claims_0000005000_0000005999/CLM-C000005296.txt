@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005296
+Policy ID: POL-83769238
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2023-11-09
+Claim Filed Date: 2023-12-04
+Claim Amount: $6,268.32
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000005296 for auto policy in NC. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $6268.32 (deductible $500.0). Filed on 2023-12-04 following incident on 2023-11-09. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005296 is covered by Policy POL-83769238.
+- Claim CLM-C000005296 concerns an incident in NC on 2023-11-09.
+- Claim CLM-C000005296 has outcome Denied.
+- Claim CLM-C000005296 has claim type Auto.

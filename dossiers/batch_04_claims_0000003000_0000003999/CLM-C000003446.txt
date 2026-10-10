@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003446
+Policy ID: POL-91260340
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 9.6 years
+Previous Claims: 4
+Incident Date: 2024-09-06
+Claim Filed Date: 2024-09-14
+Claim Amount: $2,029.96
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000003446 for auto policy in WI. Policyholder tenure: 9.6 yrs with 4 prior claims. Amount claimed: $2029.96 (deductible $500.0). Filed on 2024-09-14 following incident on 2024-09-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003446 is covered by Policy POL-91260340.
+- Claim CLM-C000003446 concerns an incident in WI on 2024-09-06.
+- Claim CLM-C000003446 has outcome Denied.
+- Claim CLM-C000003446 has claim type Auto.

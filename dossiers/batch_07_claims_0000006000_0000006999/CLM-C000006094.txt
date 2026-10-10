@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006094
+Policy ID: POL-14877604
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2024-01-30
+Claim Filed Date: 2024-03-09
+Claim Amount: $2,448.89
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000006094 for renters policy in NJ. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $2448.89 (deductible $250.0). Filed on 2024-03-09 following incident on 2024-01-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006094 is covered by Policy POL-14877604.
+- Claim CLM-C000006094 concerns an incident in NJ on 2024-01-30.
+- Claim CLM-C000006094 has outcome Approved.
+- Claim CLM-C000006094 has claim type Renters.

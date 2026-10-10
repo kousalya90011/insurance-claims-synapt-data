@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006852
+Policy ID: POL-77475640
+Claim Type: Home
+State: NC
+Policyholder Tenure: 11.2 years
+Previous Claims: 0
+Incident Date: 2023-11-13
+Claim Filed Date: 2023-12-17
+Claim Amount: $7,700.72
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000006852 for home policy in NC. Policyholder tenure: 11.2 yrs with 0 prior claims. Amount claimed: $7700.72 (deductible $1000.0). Filed on 2023-12-17 following incident on 2023-11-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006852 is covered by Policy POL-77475640.
+- Claim CLM-C000006852 concerns an incident in NC on 2023-11-13.
+- Claim CLM-C000006852 has outcome Approved.
+- Claim CLM-C000006852 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008282
+Policy ID: POL-28223680
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 0.6 years
+Previous Claims: 1
+Incident Date: 2024-07-09
+Claim Filed Date: 2024-08-17
+Claim Amount: $3,410.44
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 55 days
+Claim Narrative: Claim CLM-C000008282 for auto policy in WA. Policyholder tenure: 0.6 yrs with 1 prior claims. Amount claimed: $3410.44 (deductible $1000.0). Filed on 2024-08-17 following incident on 2024-07-09. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008282 is covered by Policy POL-28223680.
+- Claim CLM-C000008282 concerns an incident in WA on 2024-07-09.
+- Claim CLM-C000008282 has outcome Under Review.
+- Claim CLM-C000008282 has claim type Auto.

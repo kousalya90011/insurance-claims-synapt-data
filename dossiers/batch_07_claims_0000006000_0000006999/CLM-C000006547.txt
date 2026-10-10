@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006547
+Policy ID: POL-53466181
+Claim Type: Renters
+State: NC
+Policyholder Tenure: 7.9 years
+Previous Claims: 1
+Incident Date: 2023-09-24
+Claim Filed Date: 2023-11-01
+Claim Amount: $5,164.43
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000006547 for renters policy in NC. Policyholder tenure: 7.9 yrs with 1 prior claims. Amount claimed: $5164.43 (deductible $500.0). Filed on 2023-11-01 following incident on 2023-09-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006547 is covered by Policy POL-53466181.
+- Claim CLM-C000006547 concerns an incident in NC on 2023-09-24.
+- Claim CLM-C000006547 has outcome Approved.
+- Claim CLM-C000006547 has claim type Renters.

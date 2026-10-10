@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002966
+Policy ID: POL-43654529
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 5.3 years
+Previous Claims: 0
+Incident Date: 2023-12-14
+Claim Filed Date: 2024-01-11
+Claim Amount: $1,917.17
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000002966 for renters policy in AZ. Policyholder tenure: 5.3 yrs with 0 prior claims. Amount claimed: $1917.17 (deductible $500.0). Filed on 2024-01-11 following incident on 2023-12-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002966 is covered by Policy POL-43654529.
+- Claim CLM-C000002966 concerns an incident in AZ on 2023-12-14.
+- Claim CLM-C000002966 has outcome Approved.
+- Claim CLM-C000002966 has claim type Renters.

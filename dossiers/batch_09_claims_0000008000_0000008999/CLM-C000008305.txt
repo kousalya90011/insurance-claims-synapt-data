@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008305
+Policy ID: POL-37664727
+Claim Type: Home
+State: NY
+Policyholder Tenure: 8.0 years
+Previous Claims: 2
+Incident Date: 2024-09-16
+Claim Filed Date: 2024-10-08
+Claim Amount: $5,825.17
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000008305 for home policy in NY. Policyholder tenure: 8.0 yrs with 2 prior claims. Amount claimed: $5825.17 (deductible $1000.0). Filed on 2024-10-08 following incident on 2024-09-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008305 is covered by Policy POL-37664727.
+- Claim CLM-C000008305 concerns an incident in NY on 2024-09-16.
+- Claim CLM-C000008305 has outcome Approved.
+- Claim CLM-C000008305 has claim type Home.

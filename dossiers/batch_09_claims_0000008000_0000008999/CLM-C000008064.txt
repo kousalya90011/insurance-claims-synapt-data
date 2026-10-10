@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008064
+Policy ID: POL-36553612
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2023-10-29
+Claim Filed Date: 2023-11-17
+Claim Amount: $10,465.36
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000008064 for auto policy in CA. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $10465.36 (deductible $2500.0). Filed on 2023-11-17 following incident on 2023-10-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008064 is covered by Policy POL-36553612.
+- Claim CLM-C000008064 concerns an incident in CA on 2023-10-29.
+- Claim CLM-C000008064 has outcome Approved.
+- Claim CLM-C000008064 has claim type Auto.

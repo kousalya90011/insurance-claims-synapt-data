@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006683
+Policy ID: POL-68316703
+Claim Type: Home
+State: CA
+Policyholder Tenure: 3.3 years
+Previous Claims: 1
+Incident Date: 2024-11-20
+Claim Filed Date: 2024-12-22
+Claim Amount: $20,079.16
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000006683 for home policy in CA. Policyholder tenure: 3.3 yrs with 1 prior claims. Amount claimed: $20079.16 (deductible $1000.0). Filed on 2024-12-22 following incident on 2024-11-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006683 is covered by Policy POL-68316703.
+- Claim CLM-C000006683 concerns an incident in CA on 2024-11-20.
+- Claim CLM-C000006683 has outcome Approved.
+- Claim CLM-C000006683 has claim type Home.

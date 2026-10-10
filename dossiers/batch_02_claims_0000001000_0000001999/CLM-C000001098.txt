@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001098
+Policy ID: POL-54396097
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 3.8 years
+Previous Claims: 3
+Incident Date: 2023-05-08
+Claim Filed Date: 2023-06-19
+Claim Amount: $45,075.70
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 48 days
+Claim Narrative: Claim CLM-C000001098 for home policy in NJ. Policyholder tenure: 3.8 yrs with 3 prior claims. Amount claimed: $45075.7 (deductible $500.0). Filed on 2023-06-19 following incident on 2023-05-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001098 is covered by Policy POL-54396097.
+- Claim CLM-C000001098 concerns an incident in NJ on 2023-05-08.
+- Claim CLM-C000001098 has outcome Denied.
+- Claim CLM-C000001098 has claim type Home.

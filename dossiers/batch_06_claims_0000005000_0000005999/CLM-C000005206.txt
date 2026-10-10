@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005206
+Policy ID: POL-16033622
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 29.8 years
+Previous Claims: 3
+Incident Date: 2024-10-30
+Claim Filed Date: 2024-11-10
+Claim Amount: $8,515.24
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000005206 for auto policy in NC. Policyholder tenure: 29.8 yrs with 3 prior claims. Amount claimed: $8515.24 (deductible $500.0). Filed on 2024-11-10 following incident on 2024-10-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005206 is covered by Policy POL-16033622.
+- Claim CLM-C000005206 concerns an incident in NC on 2024-10-30.
+- Claim CLM-C000005206 has outcome Approved.
+- Claim CLM-C000005206 has claim type Auto.

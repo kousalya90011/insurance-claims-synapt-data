@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007643
+Policy ID: POL-17779454
+Claim Type: Property
+State: TX
+Policyholder Tenure: 2.5 years
+Previous Claims: 1
+Incident Date: 2023-12-14
+Claim Filed Date: 2024-01-04
+Claim Amount: $6,646.51
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000007643 for property policy in TX. Policyholder tenure: 2.5 yrs with 1 prior claims. Amount claimed: $6646.51 (deductible $2000.0). Filed on 2024-01-04 following incident on 2023-12-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007643 is covered by Policy POL-17779454.
+- Claim CLM-C000007643 concerns an incident in TX on 2023-12-14.
+- Claim CLM-C000007643 has outcome Approved.
+- Claim CLM-C000007643 has claim type Property.

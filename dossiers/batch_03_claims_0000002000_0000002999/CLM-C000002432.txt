@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002432
+Policy ID: POL-42468281
+Claim Type: Home
+State: IL
+Policyholder Tenure: 1.4 years
+Previous Claims: 0
+Incident Date: 2024-06-27
+Claim Filed Date: 2024-07-02
+Claim Amount: $30,655.81
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000002432 for home policy in IL. Policyholder tenure: 1.4 yrs with 0 prior claims. Amount claimed: $30655.81 (deductible $1000.0). Filed on 2024-07-02 following incident on 2024-06-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002432 is covered by Policy POL-42468281.
+- Claim CLM-C000002432 concerns an incident in IL on 2024-06-27.
+- Claim CLM-C000002432 has outcome Approved.
+- Claim CLM-C000002432 has claim type Home.

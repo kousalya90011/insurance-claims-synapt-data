@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008851
+Policy ID: POL-65626644
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 2.6 years
+Previous Claims: 1
+Incident Date: 2024-12-29
+Claim Filed Date: 2025-01-20
+Claim Amount: $1,460.38
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000008851 for renters policy in WI. Policyholder tenure: 2.6 yrs with 1 prior claims. Amount claimed: $1460.38 (deductible $500.0). Filed on 2025-01-20 following incident on 2024-12-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008851 is covered by Policy POL-65626644.
+- Claim CLM-C000008851 concerns an incident in WI on 2024-12-29.
+- Claim CLM-C000008851 has outcome Approved.
+- Claim CLM-C000008851 has claim type Renters.

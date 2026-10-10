@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001485
+Policy ID: POL-30542758
+Claim Type: Home
+State: MI
+Policyholder Tenure: 2.7 years
+Previous Claims: 1
+Incident Date: 2023-05-08
+Claim Filed Date: 2023-05-29
+Claim Amount: $5,115.43
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000001485 for home policy in MI. Policyholder tenure: 2.7 yrs with 1 prior claims. Amount claimed: $5115.43 (deductible $1000.0). Filed on 2023-05-29 following incident on 2023-05-08. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001485 is covered by Policy POL-30542758.
+- Claim CLM-C000001485 concerns an incident in MI on 2023-05-08.
+- Claim CLM-C000001485 has outcome Under Review.
+- Claim CLM-C000001485 has claim type Home.

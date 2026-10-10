@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007107
+Policy ID: POL-64230108
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 22.0 years
+Previous Claims: 2
+Incident Date: 2024-05-14
+Claim Filed Date: 2024-06-14
+Claim Amount: $4,623.74
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 53 days
+Claim Narrative: Claim CLM-C000007107 for home policy in AZ. Policyholder tenure: 22.0 yrs with 2 prior claims. Amount claimed: $4623.74 (deductible $500.0). Filed on 2024-06-14 following incident on 2024-05-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007107 is covered by Policy POL-64230108.
+- Claim CLM-C000007107 concerns an incident in AZ on 2024-05-14.
+- Claim CLM-C000007107 has outcome Under Review.
+- Claim CLM-C000007107 has claim type Home.

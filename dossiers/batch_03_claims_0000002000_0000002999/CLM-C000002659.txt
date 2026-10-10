@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002659
+Policy ID: POL-94600180
+Claim Type: Property
+State: WI
+Policyholder Tenure: 6.2 years
+Previous Claims: 1
+Incident Date: 2024-04-29
+Claim Filed Date: 2024-06-12
+Claim Amount: $9,878.87
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000002659 for property policy in WI. Policyholder tenure: 6.2 yrs with 1 prior claims. Amount claimed: $9878.87 (deductible $250.0). Filed on 2024-06-12 following incident on 2024-04-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002659 is covered by Policy POL-94600180.
+- Claim CLM-C000002659 concerns an incident in WI on 2024-04-29.
+- Claim CLM-C000002659 has outcome Approved.
+- Claim CLM-C000002659 has claim type Property.

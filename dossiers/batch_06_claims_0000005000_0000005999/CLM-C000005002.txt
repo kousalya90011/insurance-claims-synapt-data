@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005002
+Policy ID: POL-49986788
+Claim Type: Property
+State: OH
+Policyholder Tenure: 8.1 years
+Previous Claims: 1
+Incident Date: 2023-08-02
+Claim Filed Date: 2023-08-20
+Claim Amount: $9,332.03
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000005002 for property policy in OH. Policyholder tenure: 8.1 yrs with 1 prior claims. Amount claimed: $9332.03 (deductible $250.0). Filed on 2023-08-20 following incident on 2023-08-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005002 is covered by Policy POL-49986788.
+- Claim CLM-C000005002 concerns an incident in OH on 2023-08-02.
+- Claim CLM-C000005002 has outcome Approved.
+- Claim CLM-C000005002 has claim type Property.

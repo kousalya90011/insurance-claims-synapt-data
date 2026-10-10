@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001383
+Policy ID: POL-88688291
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 3.3 years
+Previous Claims: 3
+Incident Date: 2024-02-13
+Claim Filed Date: 2024-03-28
+Claim Amount: $6,987.13
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000001383 for auto policy in MI. Policyholder tenure: 3.3 yrs with 3 prior claims. Amount claimed: $6987.13 (deductible $500.0). Filed on 2024-03-28 following incident on 2024-02-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001383 is covered by Policy POL-88688291.
+- Claim CLM-C000001383 concerns an incident in MI on 2024-02-13.
+- Claim CLM-C000001383 has outcome Under Review.
+- Claim CLM-C000001383 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004460
+Policy ID: POL-85820949
+Claim Type: Home
+State: NY
+Policyholder Tenure: 0.5 years
+Previous Claims: 2
+Incident Date: 2024-01-21
+Claim Filed Date: 2024-02-13
+Claim Amount: $5,308.38
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000004460 for home policy in NY. Policyholder tenure: 0.5 yrs with 2 prior claims. Amount claimed: $5308.38 (deductible $500.0). Filed on 2024-02-13 following incident on 2024-01-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004460 is covered by Policy POL-85820949.
+- Claim CLM-C000004460 concerns an incident in NY on 2024-01-21.
+- Claim CLM-C000004460 has outcome Approved.
+- Claim CLM-C000004460 has claim type Home.

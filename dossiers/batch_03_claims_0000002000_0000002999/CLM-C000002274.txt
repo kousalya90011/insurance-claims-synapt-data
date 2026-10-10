@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002274
+Policy ID: POL-40427854
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 5.8 years
+Previous Claims: 2
+Incident Date: 2024-01-18
+Claim Filed Date: 2024-02-02
+Claim Amount: $17,409.10
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000002274 for auto policy in VA. Policyholder tenure: 5.8 yrs with 2 prior claims. Amount claimed: $17409.1 (deductible $500.0). Filed on 2024-02-02 following incident on 2024-01-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002274 is covered by Policy POL-40427854.
+- Claim CLM-C000002274 concerns an incident in VA on 2024-01-18.
+- Claim CLM-C000002274 has outcome Approved.
+- Claim CLM-C000002274 has claim type Auto.

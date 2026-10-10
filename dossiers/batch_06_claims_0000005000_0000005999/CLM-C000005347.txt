@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005347
+Policy ID: POL-32653686
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2023-01-31
+Claim Filed Date: 2023-02-25
+Claim Amount: $5,611.38
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000005347 for auto policy in MI. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $5611.38 (deductible $250.0). Filed on 2023-02-25 following incident on 2023-01-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005347 is covered by Policy POL-32653686.
+- Claim CLM-C000005347 concerns an incident in MI on 2023-01-31.
+- Claim CLM-C000005347 has outcome Approved.
+- Claim CLM-C000005347 has claim type Auto.

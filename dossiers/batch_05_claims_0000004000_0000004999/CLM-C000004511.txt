@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004511
+Policy ID: POL-75654557
+Claim Type: Home
+State: MI
+Policyholder Tenure: 17.5 years
+Previous Claims: 0
+Incident Date: 2023-12-15
+Claim Filed Date: 2024-01-04
+Claim Amount: $10,907.42
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000004511 for home policy in MI. Policyholder tenure: 17.5 yrs with 0 prior claims. Amount claimed: $10907.42 (deductible $500.0). Filed on 2024-01-04 following incident on 2023-12-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004511 is covered by Policy POL-75654557.
+- Claim CLM-C000004511 concerns an incident in MI on 2023-12-15.
+- Claim CLM-C000004511 has outcome Approved.
+- Claim CLM-C000004511 has claim type Home.

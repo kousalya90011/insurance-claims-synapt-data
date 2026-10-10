@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005719
+Policy ID: POL-56507121
+Claim Type: Home
+State: NY
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2023-01-14
+Claim Filed Date: 2023-02-15
+Claim Amount: $15,495.89
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000005719 for home policy in NY. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $15495.89 (deductible $250.0). Filed on 2023-02-15 following incident on 2023-01-14. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005719 is covered by Policy POL-56507121.
+- Claim CLM-C000005719 concerns an incident in NY on 2023-01-14.
+- Claim CLM-C000005719 has outcome Denied.
+- Claim CLM-C000005719 has claim type Home.

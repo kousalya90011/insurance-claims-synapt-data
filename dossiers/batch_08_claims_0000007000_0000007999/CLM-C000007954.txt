@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007954
+Policy ID: POL-53250389
+Claim Type: Home
+State: OH
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2024-05-17
+Claim Filed Date: 2024-06-05
+Claim Amount: $157,052.99
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000007954 for home policy in OH. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $157052.99 (deductible $500.0). Filed on 2024-06-05 following incident on 2024-05-17. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007954 is covered by Policy POL-53250389.
+- Claim CLM-C000007954 concerns an incident in OH on 2024-05-17.
+- Claim CLM-C000007954 has outcome Pending.
+- Claim CLM-C000007954 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009492
+Policy ID: POL-46195218
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 16.6 years
+Previous Claims: 1
+Incident Date: 2024-12-05
+Claim Filed Date: 2025-01-09
+Claim Amount: $8,552.96
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000009492 for auto policy in GA. Policyholder tenure: 16.6 yrs with 1 prior claims. Amount claimed: $8552.96 (deductible $250.0). Filed on 2025-01-09 following incident on 2024-12-05. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009492 is covered by Policy POL-46195218.
+- Claim CLM-C000009492 concerns an incident in GA on 2024-12-05.
+- Claim CLM-C000009492 has outcome Under Review.
+- Claim CLM-C000009492 has claim type Auto.

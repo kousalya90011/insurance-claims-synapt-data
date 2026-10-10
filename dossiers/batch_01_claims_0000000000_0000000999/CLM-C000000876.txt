@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000876
+Policy ID: POL-14905028
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 5.3 years
+Previous Claims: 0
+Incident Date: 2023-01-27
+Claim Filed Date: 2023-02-05
+Claim Amount: $7,483.90
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000000876 for auto policy in CA. Policyholder tenure: 5.3 yrs with 0 prior claims. Amount claimed: $7483.9 (deductible $500.0). Filed on 2023-02-05 following incident on 2023-01-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000876 is covered by Policy POL-14905028.
+- Claim CLM-C000000876 concerns an incident in CA on 2023-01-27.
+- Claim CLM-C000000876 has outcome Approved.
+- Claim CLM-C000000876 has claim type Auto.

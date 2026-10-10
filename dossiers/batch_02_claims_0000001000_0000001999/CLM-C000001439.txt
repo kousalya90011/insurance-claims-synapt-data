@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001439
+Policy ID: POL-14586443
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 6.6 years
+Previous Claims: 0
+Incident Date: 2024-05-02
+Claim Filed Date: 2024-05-27
+Claim Amount: $8,253.36
+Deductible: $2,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001439 for auto policy in PA. Policyholder tenure: 6.6 yrs with 0 prior claims. Amount claimed: $8253.36 (deductible $2000.0). Filed on 2024-05-27 following incident on 2024-05-02. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001439 is covered by Policy POL-14586443.
+- Claim CLM-C000001439 concerns an incident in PA on 2024-05-02.
+- Claim CLM-C000001439 has outcome Pending.
+- Claim CLM-C000001439 has claim type Auto.

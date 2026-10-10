@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006137
+Policy ID: POL-50876110
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 3.4 years
+Previous Claims: 0
+Incident Date: 2023-04-01
+Claim Filed Date: 2023-04-13
+Claim Amount: $1,383.32
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000006137 for auto policy in CO. Policyholder tenure: 3.4 yrs with 0 prior claims. Amount claimed: $1383.32 (deductible $2500.0). Filed on 2023-04-13 following incident on 2023-04-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006137 is covered by Policy POL-50876110.
+- Claim CLM-C000006137 concerns an incident in CO on 2023-04-01.
+- Claim CLM-C000006137 has outcome Approved.
+- Claim CLM-C000006137 has claim type Auto.

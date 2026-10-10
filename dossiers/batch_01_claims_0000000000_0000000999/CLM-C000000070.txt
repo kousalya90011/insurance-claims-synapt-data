@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000070
+Policy ID: POL-21692935
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 9.7 years
+Previous Claims: 1
+Incident Date: 2024-06-05
+Claim Filed Date: 2024-06-13
+Claim Amount: $5,625.82
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000000070 for auto policy in WI. Policyholder tenure: 9.7 yrs with 1 prior claims. Amount claimed: $5625.82 (deductible $2500.0). Filed on 2024-06-13 following incident on 2024-06-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000070 is covered by Policy POL-21692935.
+- Claim CLM-C000000070 concerns an incident in WI on 2024-06-05.
+- Claim CLM-C000000070 has outcome Approved.
+- Claim CLM-C000000070 has claim type Auto.

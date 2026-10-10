@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002719
+Policy ID: POL-73521729
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 4.4 years
+Previous Claims: 1
+Incident Date: 2023-12-19
+Claim Filed Date: 2024-01-10
+Claim Amount: $2,703.33
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000002719 for auto policy in NY. Policyholder tenure: 4.4 yrs with 1 prior claims. Amount claimed: $2703.33 (deductible $1000.0). Filed on 2024-01-10 following incident on 2023-12-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002719 is covered by Policy POL-73521729.
+- Claim CLM-C000002719 concerns an incident in NY on 2023-12-19.
+- Claim CLM-C000002719 has outcome Approved.
+- Claim CLM-C000002719 has claim type Auto.

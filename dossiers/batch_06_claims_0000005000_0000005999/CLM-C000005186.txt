@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005186
+Policy ID: POL-27854466
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 17.1 years
+Previous Claims: 1
+Incident Date: 2023-12-06
+Claim Filed Date: 2023-12-19
+Claim Amount: $13,865.60
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000005186 for auto policy in OH. Policyholder tenure: 17.1 yrs with 1 prior claims. Amount claimed: $13865.6 (deductible $500.0). Filed on 2023-12-19 following incident on 2023-12-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005186 is covered by Policy POL-27854466.
+- Claim CLM-C000005186 concerns an incident in OH on 2023-12-06.
+- Claim CLM-C000005186 has outcome Approved.
+- Claim CLM-C000005186 has claim type Auto.

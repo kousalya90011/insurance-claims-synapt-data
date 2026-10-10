@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004346
+Policy ID: POL-92886043
+Claim Type: Property
+State: MI
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2024-09-11
+Claim Filed Date: 2024-10-08
+Claim Amount: $6,583.11
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000004346 for property policy in MI. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $6583.11 (deductible $250.0). Filed on 2024-10-08 following incident on 2024-09-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004346 is covered by Policy POL-92886043.
+- Claim CLM-C000004346 concerns an incident in MI on 2024-09-11.
+- Claim CLM-C000004346 has outcome Under Review.
+- Claim CLM-C000004346 has claim type Property.

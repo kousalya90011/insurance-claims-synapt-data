@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001760
+Policy ID: POL-62578916
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 4.0 years
+Previous Claims: 0
+Incident Date: 2023-04-19
+Claim Filed Date: 2023-04-30
+Claim Amount: $2,097.13
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000001760 for auto policy in WA. Policyholder tenure: 4.0 yrs with 0 prior claims. Amount claimed: $2097.13 (deductible $500.0). Filed on 2023-04-30 following incident on 2023-04-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001760 is covered by Policy POL-62578916.
+- Claim CLM-C000001760 concerns an incident in WA on 2023-04-19.
+- Claim CLM-C000001760 has outcome Approved.
+- Claim CLM-C000001760 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004265
+Policy ID: POL-41673694
+Claim Type: Renters
+State: NC
+Policyholder Tenure: 7.4 years
+Previous Claims: 0
+Incident Date: 2024-05-18
+Claim Filed Date: 2024-06-16
+Claim Amount: $798.41
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000004265 for renters policy in NC. Policyholder tenure: 7.4 yrs with 0 prior claims. Amount claimed: $798.41 (deductible $2500.0). Filed on 2024-06-16 following incident on 2024-05-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004265 is covered by Policy POL-41673694.
+- Claim CLM-C000004265 concerns an incident in NC on 2024-05-18.
+- Claim CLM-C000004265 has outcome Approved.
+- Claim CLM-C000004265 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002715
+Policy ID: POL-96283676
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-08-24
+Claim Filed Date: 2023-10-07
+Claim Amount: $5,638.47
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000002715 for auto policy in TN. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $5638.47 (deductible $500.0). Filed on 2023-10-07 following incident on 2023-08-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002715 is covered by Policy POL-96283676.
+- Claim CLM-C000002715 concerns an incident in TN on 2023-08-24.
+- Claim CLM-C000002715 has outcome Approved.
+- Claim CLM-C000002715 has claim type Auto.

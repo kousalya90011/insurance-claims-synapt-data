@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000478
+Policy ID: POL-88096504
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 2.7 years
+Previous Claims: 0
+Incident Date: 2023-01-02
+Claim Filed Date: 2023-01-30
+Claim Amount: $629.72
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000000478 for auto policy in WA. Policyholder tenure: 2.7 yrs with 0 prior claims. Amount claimed: $629.72 (deductible $2000.0). Filed on 2023-01-30 following incident on 2023-01-02. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000478 is covered by Policy POL-88096504.
+- Claim CLM-C000000478 concerns an incident in WA on 2023-01-02.
+- Claim CLM-C000000478 has outcome Denied.
+- Claim CLM-C000000478 has claim type Auto.

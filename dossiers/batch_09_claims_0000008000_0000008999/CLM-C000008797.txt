@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008797
+Policy ID: POL-94343271
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 6.1 years
+Previous Claims: 0
+Incident Date: 2024-08-28
+Claim Filed Date: 2024-10-02
+Claim Amount: $1,968.93
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000008797 for renters policy in WI. Policyholder tenure: 6.1 yrs with 0 prior claims. Amount claimed: $1968.93 (deductible $1000.0). Filed on 2024-10-02 following incident on 2024-08-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008797 is covered by Policy POL-94343271.
+- Claim CLM-C000008797 concerns an incident in WI on 2024-08-28.
+- Claim CLM-C000008797 has outcome Under Review.
+- Claim CLM-C000008797 has claim type Renters.

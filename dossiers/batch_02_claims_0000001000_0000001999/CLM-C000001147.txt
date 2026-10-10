@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001147
+Policy ID: POL-92560389
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 10.7 years
+Previous Claims: 0
+Incident Date: 2023-06-27
+Claim Filed Date: 2023-07-10
+Claim Amount: $12,023.45
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000001147 for property policy in NJ. Policyholder tenure: 10.7 yrs with 0 prior claims. Amount claimed: $12023.45 (deductible $500.0). Filed on 2023-07-10 following incident on 2023-06-27. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001147 is covered by Policy POL-92560389.
+- Claim CLM-C000001147 concerns an incident in NJ on 2023-06-27.
+- Claim CLM-C000001147 has outcome Denied.
+- Claim CLM-C000001147 has claim type Property.

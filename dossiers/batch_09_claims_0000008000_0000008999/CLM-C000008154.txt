@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008154
+Policy ID: POL-32968800
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 0.2 years
+Previous Claims: 1
+Incident Date: 2024-10-31
+Claim Filed Date: 2024-12-07
+Claim Amount: $14,342.21
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000008154 for renters policy in MI. Policyholder tenure: 0.2 yrs with 1 prior claims. Amount claimed: $14342.21 (deductible $500.0). Filed on 2024-12-07 following incident on 2024-10-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008154 is covered by Policy POL-32968800.
+- Claim CLM-C000008154 concerns an incident in MI on 2024-10-31.
+- Claim CLM-C000008154 has outcome Approved.
+- Claim CLM-C000008154 has claim type Renters.

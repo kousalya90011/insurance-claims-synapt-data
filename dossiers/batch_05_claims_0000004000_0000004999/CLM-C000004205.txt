@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004205
+Policy ID: POL-37761365
+Claim Type: Home
+State: NY
+Policyholder Tenure: 4.8 years
+Previous Claims: 2
+Incident Date: 2024-11-02
+Claim Filed Date: 2024-12-08
+Claim Amount: $18,025.30
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004205 for home policy in NY. Policyholder tenure: 4.8 yrs with 2 prior claims. Amount claimed: $18025.3 (deductible $250.0). Filed on 2024-12-08 following incident on 2024-11-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004205 is covered by Policy POL-37761365.
+- Claim CLM-C000004205 concerns an incident in NY on 2024-11-02.
+- Claim CLM-C000004205 has outcome Under Review.
+- Claim CLM-C000004205 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006443
+Policy ID: POL-39144429
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2023-09-21
+Claim Filed Date: 2023-11-03
+Claim Amount: $9,914.47
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000006443 for auto policy in GA. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $9914.47 (deductible $250.0). Filed on 2023-11-03 following incident on 2023-09-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006443 is covered by Policy POL-39144429.
+- Claim CLM-C000006443 concerns an incident in GA on 2023-09-21.
+- Claim CLM-C000006443 has outcome Under Review.
+- Claim CLM-C000006443 has claim type Auto.

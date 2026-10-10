@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008775
+Policy ID: POL-39445376
+Claim Type: Home
+State: NC
+Policyholder Tenure: 6.9 years
+Previous Claims: 0
+Incident Date: 2024-06-08
+Claim Filed Date: 2024-06-19
+Claim Amount: $36,381.72
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000008775 for home policy in NC. Policyholder tenure: 6.9 yrs with 0 prior claims. Amount claimed: $36381.72 (deductible $250.0). Filed on 2024-06-19 following incident on 2024-06-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008775 is covered by Policy POL-39445376.
+- Claim CLM-C000008775 concerns an incident in NC on 2024-06-08.
+- Claim CLM-C000008775 has outcome Approved.
+- Claim CLM-C000008775 has claim type Home.

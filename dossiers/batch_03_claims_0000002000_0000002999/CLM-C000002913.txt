@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002913
+Policy ID: POL-65005293
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2024-03-05
+Claim Filed Date: 2024-03-16
+Claim Amount: $3,329.05
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000002913 for auto policy in OH. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed: $3329.05 (deductible $1000.0). Filed on 2024-03-16 following incident on 2024-03-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002913 is covered by Policy POL-65005293.
+- Claim CLM-C000002913 concerns an incident in OH on 2024-03-05.
+- Claim CLM-C000002913 has outcome Approved.
+- Claim CLM-C000002913 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001786
+Policy ID: POL-31062845
+Claim Type: Home
+State: WA
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2024-02-17
+Claim Filed Date: 2024-03-31
+Claim Amount: $2,040.45
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000001786 for home policy in WA. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $2040.45 (deductible $500.0). Filed on 2024-03-31 following incident on 2024-02-17. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001786 is covered by Policy POL-31062845.
+- Claim CLM-C000001786 concerns an incident in WA on 2024-02-17.
+- Claim CLM-C000001786 has outcome Under Review.
+- Claim CLM-C000001786 has claim type Home.

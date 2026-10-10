@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004537
+Policy ID: POL-44621512
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2023-03-27
+Claim Filed Date: 2023-04-11
+Claim Amount: $14,544.61
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000004537 for auto policy in WA. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $14544.61 (deductible $500.0). Filed on 2023-04-11 following incident on 2023-03-27. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004537 is covered by Policy POL-44621512.
+- Claim CLM-C000004537 concerns an incident in WA on 2023-03-27.
+- Claim CLM-C000004537 has outcome Denied.
+- Claim CLM-C000004537 has claim type Auto.

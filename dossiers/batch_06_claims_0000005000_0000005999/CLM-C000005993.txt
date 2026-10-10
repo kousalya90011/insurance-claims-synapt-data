@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005993
+Policy ID: POL-89790211
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 4.4 years
+Previous Claims: 1
+Incident Date: 2024-07-28
+Claim Filed Date: 2024-08-17
+Claim Amount: $1,681.44
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 3 days
+Claim Narrative: Claim CLM-C000005993 for auto policy in MD. Policyholder tenure: 4.4 yrs with 1 prior claims. Amount claimed: $1681.44 (deductible $500.0). Filed on 2024-08-17 following incident on 2024-07-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005993 is covered by Policy POL-89790211.
+- Claim CLM-C000005993 concerns an incident in MD on 2024-07-28.
+- Claim CLM-C000005993 has outcome Approved.
+- Claim CLM-C000005993 has claim type Auto.

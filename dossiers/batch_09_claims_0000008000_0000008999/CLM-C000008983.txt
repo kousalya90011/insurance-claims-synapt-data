@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008983
+Policy ID: POL-61828952
+Claim Type: Business
+State: CO
+Policyholder Tenure: 1.6 years
+Previous Claims: 1
+Incident Date: 2024-04-22
+Claim Filed Date: 2024-06-03
+Claim Amount: $22,618.78
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000008983 for business policy in CO. Policyholder tenure: 1.6 yrs with 1 prior claims. Amount claimed: $22618.78 (deductible $500.0). Filed on 2024-06-03 following incident on 2024-04-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008983 is covered by Policy POL-61828952.
+- Claim CLM-C000008983 concerns an incident in CO on 2024-04-22.
+- Claim CLM-C000008983 has outcome Approved.
+- Claim CLM-C000008983 has claim type Business.

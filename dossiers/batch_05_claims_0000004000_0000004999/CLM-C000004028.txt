@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004028
+Policy ID: POL-10283485
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 3.0 years
+Previous Claims: 0
+Incident Date: 2023-09-09
+Claim Filed Date: 2023-09-27
+Claim Amount: $4,650.48
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000004028 for auto policy in OH. Policyholder tenure: 3.0 yrs with 0 prior claims. Amount claimed: $4650.48 (deductible $500.0). Filed on 2023-09-27 following incident on 2023-09-09. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004028 is covered by Policy POL-10283485.
+- Claim CLM-C000004028 concerns an incident in OH on 2023-09-09.
+- Claim CLM-C000004028 has outcome Pending.
+- Claim CLM-C000004028 has claim type Auto.

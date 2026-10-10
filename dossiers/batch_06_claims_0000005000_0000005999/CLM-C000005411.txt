@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005411
+Policy ID: POL-46518678
+Claim Type: Property
+State: MI
+Policyholder Tenure: 8.7 years
+Previous Claims: 1
+Incident Date: 2024-04-21
+Claim Filed Date: 2024-05-20
+Claim Amount: $3,826.12
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000005411 for property policy in MI. Policyholder tenure: 8.7 yrs with 1 prior claims. Amount claimed: $3826.12 (deductible $2000.0). Filed on 2024-05-20 following incident on 2024-04-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005411 is covered by Policy POL-46518678.
+- Claim CLM-C000005411 concerns an incident in MI on 2024-04-21.
+- Claim CLM-C000005411 has outcome Under Review.
+- Claim CLM-C000005411 has claim type Property.

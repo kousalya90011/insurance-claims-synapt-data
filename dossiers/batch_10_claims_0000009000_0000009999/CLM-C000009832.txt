@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009832
+Policy ID: POL-99706930
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 1.8 years
+Previous Claims: 0
+Incident Date: 2023-08-06
+Claim Filed Date: 2023-09-11
+Claim Amount: $17,870.86
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000009832 for auto policy in AZ. Policyholder tenure: 1.8 yrs with 0 prior claims. Amount claimed: $17870.86 (deductible $500.0). Filed on 2023-09-11 following incident on 2023-08-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009832 is covered by Policy POL-99706930.
+- Claim CLM-C000009832 concerns an incident in AZ on 2023-08-06.
+- Claim CLM-C000009832 has outcome Approved.
+- Claim CLM-C000009832 has claim type Auto.

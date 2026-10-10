@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003542
+Policy ID: POL-14630571
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 6.6 years
+Previous Claims: 0
+Incident Date: 2023-03-04
+Claim Filed Date: 2023-03-08
+Claim Amount: $8,907.34
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000003542 for auto policy in WA. Policyholder tenure: 6.6 yrs with 0 prior claims. Amount claimed: $8907.34 (deductible $250.0). Filed on 2023-03-08 following incident on 2023-03-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003542 is covered by Policy POL-14630571.
+- Claim CLM-C000003542 concerns an incident in WA on 2023-03-04.
+- Claim CLM-C000003542 has outcome Approved.
+- Claim CLM-C000003542 has claim type Auto.

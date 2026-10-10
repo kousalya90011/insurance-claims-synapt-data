@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007002
+Policy ID: POL-55353966
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 3.6 years
+Previous Claims: 2
+Incident Date: 2024-02-26
+Claim Filed Date: 2024-04-02
+Claim Amount: $1,844.50
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000007002 for renters policy in CO. Policyholder tenure: 3.6 yrs with 2 prior claims. Amount claimed: $1844.5 (deductible $1000.0). Filed on 2024-04-02 following incident on 2024-02-26. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007002 is covered by Policy POL-55353966.
+- Claim CLM-C000007002 concerns an incident in CO on 2024-02-26.
+- Claim CLM-C000007002 has outcome Denied.
+- Claim CLM-C000007002 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000308
+Policy ID: POL-75726602
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 2.4 years
+Previous Claims: 2
+Incident Date: 2024-11-13
+Claim Filed Date: 2024-12-11
+Claim Amount: $2,555.13
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000000308 for home policy in AZ. Policyholder tenure: 2.4 yrs with 2 prior claims. Amount claimed: $2555.13 (deductible $250.0). Filed on 2024-12-11 following incident on 2024-11-13. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000308 is covered by Policy POL-75726602.
+- Claim CLM-C000000308 concerns an incident in AZ on 2024-11-13.
+- Claim CLM-C000000308 has outcome Under Review.
+- Claim CLM-C000000308 has claim type Home.

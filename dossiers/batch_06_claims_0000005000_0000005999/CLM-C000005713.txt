@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005713
+Policy ID: POL-45402204
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 7.9 years
+Previous Claims: 0
+Incident Date: 2023-07-29
+Claim Filed Date: 2023-09-10
+Claim Amount: $8,344.18
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000005713 for auto policy in WA. Policyholder tenure: 7.9 yrs with 0 prior claims. Amount claimed: $8344.18 (deductible $500.0). Filed on 2023-09-10 following incident on 2023-07-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005713 is covered by Policy POL-45402204.
+- Claim CLM-C000005713 concerns an incident in WA on 2023-07-29.
+- Claim CLM-C000005713 has outcome Approved.
+- Claim CLM-C000005713 has claim type Auto.

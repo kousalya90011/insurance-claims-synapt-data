@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008074
+Policy ID: POL-18593506
+Claim Type: Home
+State: PA
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2023-01-11
+Claim Filed Date: 2023-02-08
+Claim Amount: $6,480.99
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000008074 for home policy in PA. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $6480.99 (deductible $250.0). Filed on 2023-02-08 following incident on 2023-01-11. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008074 is covered by Policy POL-18593506.
+- Claim CLM-C000008074 concerns an incident in PA on 2023-01-11.
+- Claim CLM-C000008074 has outcome Denied.
+- Claim CLM-C000008074 has claim type Home.

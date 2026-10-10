@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001926
+Policy ID: POL-26851504
+Claim Type: Home
+State: WA
+Policyholder Tenure: 10.3 years
+Previous Claims: 2
+Incident Date: 2024-01-27
+Claim Filed Date: 2024-03-02
+Claim Amount: $41,687.42
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000001926 for home policy in WA. Policyholder tenure: 10.3 yrs with 2 prior claims. Amount claimed: $41687.42 (deductible $500.0). Filed on 2024-03-02 following incident on 2024-01-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001926 is covered by Policy POL-26851504.
+- Claim CLM-C000001926 concerns an incident in WA on 2024-01-27.
+- Claim CLM-C000001926 has outcome Approved.
+- Claim CLM-C000001926 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003283
+Policy ID: POL-94466030
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 1.3 years
+Previous Claims: 2
+Incident Date: 2024-10-14
+Claim Filed Date: 2024-10-27
+Claim Amount: $3,979.16
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000003283 for auto policy in AZ. Policyholder tenure: 1.3 yrs with 2 prior claims. Amount claimed: $3979.16 (deductible $500.0). Filed on 2024-10-27 following incident on 2024-10-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003283 is covered by Policy POL-94466030.
+- Claim CLM-C000003283 concerns an incident in AZ on 2024-10-14.
+- Claim CLM-C000003283 has outcome Approved.
+- Claim CLM-C000003283 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005275
+Policy ID: POL-42412020
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2023-05-13
+Claim Filed Date: 2023-06-15
+Claim Amount: $4,793.28
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000005275 for renters policy in AZ. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $4793.28 (deductible $2000.0). Filed on 2023-06-15 following incident on 2023-05-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005275 is covered by Policy POL-42412020.
+- Claim CLM-C000005275 concerns an incident in AZ on 2023-05-13.
+- Claim CLM-C000005275 has outcome Approved.
+- Claim CLM-C000005275 has claim type Renters.

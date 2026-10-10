@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001544
+Policy ID: POL-76072536
+Claim Type: Home
+State: CO
+Policyholder Tenure: 21.9 years
+Previous Claims: 3
+Incident Date: 2023-08-10
+Claim Filed Date: 2023-09-09
+Claim Amount: $1,661.05
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000001544 for home policy in CO. Policyholder tenure: 21.9 yrs with 3 prior claims. Amount claimed: $1661.05 (deductible $5000.0). Filed on 2023-09-09 following incident on 2023-08-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001544 is covered by Policy POL-76072536.
+- Claim CLM-C000001544 concerns an incident in CO on 2023-08-10.
+- Claim CLM-C000001544 has outcome Approved.
+- Claim CLM-C000001544 has claim type Home.

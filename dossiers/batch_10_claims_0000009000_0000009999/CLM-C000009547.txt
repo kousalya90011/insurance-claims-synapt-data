@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009547
+Policy ID: POL-21279340
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2024-12-10
+Claim Filed Date: 2025-01-05
+Claim Amount: $1,473.14
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000009547 for auto policy in VA. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $1473.14 (deductible $250.0). Filed on 2025-01-05 following incident on 2024-12-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009547 is covered by Policy POL-21279340.
+- Claim CLM-C000009547 concerns an incident in VA on 2024-12-10.
+- Claim CLM-C000009547 has outcome Approved.
+- Claim CLM-C000009547 has claim type Auto.

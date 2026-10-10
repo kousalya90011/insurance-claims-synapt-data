@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005113
+Policy ID: POL-51107103
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 9.8 years
+Previous Claims: 2
+Incident Date: 2023-08-07
+Claim Filed Date: 2023-08-30
+Claim Amount: $2,683.05
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 56 days
+Claim Narrative: Claim CLM-C000005113 for auto policy in CA. Policyholder tenure: 9.8 yrs with 2 prior claims. Amount claimed: $2683.05 (deductible $1000.0). Filed on 2023-08-30 following incident on 2023-08-07. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005113 is covered by Policy POL-51107103.
+- Claim CLM-C000005113 concerns an incident in CA on 2023-08-07.
+- Claim CLM-C000005113 has outcome Denied.
+- Claim CLM-C000005113 has claim type Auto.

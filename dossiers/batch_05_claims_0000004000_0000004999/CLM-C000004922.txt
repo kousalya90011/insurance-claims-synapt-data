@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004922
+Policy ID: POL-94631626
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2024-02-20
+Claim Filed Date: 2024-02-25
+Claim Amount: $6,809.90
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000004922 for auto policy in OH. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $6809.9 (deductible $500.0). Filed on 2024-02-25 following incident on 2024-02-20. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004922 is covered by Policy POL-94631626.
+- Claim CLM-C000004922 concerns an incident in OH on 2024-02-20.
+- Claim CLM-C000004922 has outcome Denied.
+- Claim CLM-C000004922 has claim type Auto.

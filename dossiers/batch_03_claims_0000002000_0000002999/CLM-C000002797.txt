@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002797
+Policy ID: POL-18077791
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2025-01-11
+Claim Filed Date: 2025-01-22
+Claim Amount: $587.30
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000002797 for auto policy in CA. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $587.3 (deductible $1000.0). Filed on 2025-01-22 following incident on 2025-01-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002797 is covered by Policy POL-18077791.
+- Claim CLM-C000002797 concerns an incident in CA on 2025-01-11.
+- Claim CLM-C000002797 has outcome Under Review.
+- Claim CLM-C000002797 has claim type Auto.

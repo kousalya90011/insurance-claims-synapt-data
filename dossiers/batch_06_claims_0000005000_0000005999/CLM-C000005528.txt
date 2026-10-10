@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005528
+Policy ID: POL-12546307
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 4.7 years
+Previous Claims: 1
+Incident Date: 2024-11-06
+Claim Filed Date: 2024-11-24
+Claim Amount: $3,203.41
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000005528 for auto policy in WI. Policyholder tenure: 4.7 yrs with 1 prior claims. Amount claimed: $3203.41 (deductible $500.0). Filed on 2024-11-24 following incident on 2024-11-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005528 is covered by Policy POL-12546307.
+- Claim CLM-C000005528 concerns an incident in WI on 2024-11-06.
+- Claim CLM-C000005528 has outcome Approved.
+- Claim CLM-C000005528 has claim type Auto.

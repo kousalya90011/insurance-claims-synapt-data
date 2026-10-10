@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009589
+Policy ID: POL-56738251
+Claim Type: Home
+State: PA
+Policyholder Tenure: 3.8 years
+Previous Claims: 1
+Incident Date: 2024-09-24
+Claim Filed Date: 2024-10-25
+Claim Amount: $10,846.59
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000009589 for home policy in PA. Policyholder tenure: 3.8 yrs with 1 prior claims. Amount claimed: $10846.59 (deductible $500.0). Filed on 2024-10-25 following incident on 2024-09-24. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009589 is covered by Policy POL-56738251.
+- Claim CLM-C000009589 concerns an incident in PA on 2024-09-24.
+- Claim CLM-C000009589 has outcome Under Review.
+- Claim CLM-C000009589 has claim type Home.

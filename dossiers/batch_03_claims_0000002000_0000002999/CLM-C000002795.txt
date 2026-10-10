@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002795
+Policy ID: POL-45235615
+Claim Type: Business
+State: MA
+Policyholder Tenure: 3.5 years
+Previous Claims: 2
+Incident Date: 2023-03-28
+Claim Filed Date: 2023-04-13
+Claim Amount: $85,796.26
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000002795 for business policy in MA. Policyholder tenure: 3.5 yrs with 2 prior claims. Amount claimed: $85796.26 (deductible $500.0). Filed on 2023-04-13 following incident on 2023-03-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002795 is covered by Policy POL-45235615.
+- Claim CLM-C000002795 concerns an incident in MA on 2023-03-28.
+- Claim CLM-C000002795 has outcome Approved.
+- Claim CLM-C000002795 has claim type Business.

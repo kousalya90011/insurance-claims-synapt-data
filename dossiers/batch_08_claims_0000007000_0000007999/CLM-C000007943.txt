@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007943
+Policy ID: POL-13754442
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 9.0 years
+Previous Claims: 0
+Incident Date: 2023-12-26
+Claim Filed Date: 2024-01-06
+Claim Amount: $9,355.42
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000007943 for auto policy in MI. Policyholder tenure: 9.0 yrs with 0 prior claims. Amount claimed: $9355.42 (deductible $1000.0). Filed on 2024-01-06 following incident on 2023-12-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007943 is covered by Policy POL-13754442.
+- Claim CLM-C000007943 concerns an incident in MI on 2023-12-26.
+- Claim CLM-C000007943 has outcome Approved.
+- Claim CLM-C000007943 has claim type Auto.

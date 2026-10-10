@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005004
+Policy ID: POL-65405341
+Claim Type: Property
+State: NY
+Policyholder Tenure: 1.8 years
+Previous Claims: 1
+Incident Date: 2024-06-09
+Claim Filed Date: 2024-06-12
+Claim Amount: $1,986.26
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000005004 for property policy in NY. Policyholder tenure: 1.8 yrs with 1 prior claims. Amount claimed: $1986.26 (deductible $2000.0). Filed on 2024-06-12 following incident on 2024-06-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005004 is covered by Policy POL-65405341.
+- Claim CLM-C000005004 concerns an incident in NY on 2024-06-09.
+- Claim CLM-C000005004 has outcome Approved.
+- Claim CLM-C000005004 has claim type Property.

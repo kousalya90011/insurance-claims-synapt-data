@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002759
+Policy ID: POL-27990737
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 2.3 years
+Previous Claims: 3
+Incident Date: 2023-10-05
+Claim Filed Date: 2023-10-28
+Claim Amount: $352.82
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000002759 for auto policy in MO. Policyholder tenure: 2.3 yrs with 3 prior claims. Amount claimed: $352.82 (deductible $1000.0). Filed on 2023-10-28 following incident on 2023-10-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002759 is covered by Policy POL-27990737.
+- Claim CLM-C000002759 concerns an incident in MO on 2023-10-05.
+- Claim CLM-C000002759 has outcome Approved.
+- Claim CLM-C000002759 has claim type Auto.

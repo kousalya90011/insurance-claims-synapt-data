@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004298
+Policy ID: POL-41792556
+Claim Type: Home
+State: MD
+Policyholder Tenure: 9.3 years
+Previous Claims: 1
+Incident Date: 2024-03-27
+Claim Filed Date: 2024-04-03
+Claim Amount: $3,477.43
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004298 for home policy in MD. Policyholder tenure: 9.3 yrs with 1 prior claims. Amount claimed: $3477.43 (deductible $250.0). Filed on 2024-04-03 following incident on 2024-03-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004298 is covered by Policy POL-41792556.
+- Claim CLM-C000004298 concerns an incident in MD on 2024-03-27.
+- Claim CLM-C000004298 has outcome Approved.
+- Claim CLM-C000004298 has claim type Home.

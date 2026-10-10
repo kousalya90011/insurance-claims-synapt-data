@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008236
+Policy ID: POL-19372121
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 5.1 years
+Previous Claims: 2
+Incident Date: 2024-12-18
+Claim Filed Date: 2025-01-15
+Claim Amount: $3,611.16
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000008236 for auto policy in MA. Policyholder tenure: 5.1 yrs with 2 prior claims. Amount claimed: $3611.16 (deductible $500.0). Filed on 2025-01-15 following incident on 2024-12-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008236 is covered by Policy POL-19372121.
+- Claim CLM-C000008236 concerns an incident in MA on 2024-12-18.
+- Claim CLM-C000008236 has outcome Approved.
+- Claim CLM-C000008236 has claim type Auto.

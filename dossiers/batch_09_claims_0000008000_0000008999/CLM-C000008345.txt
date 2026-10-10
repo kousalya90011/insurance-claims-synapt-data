@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008345
+Policy ID: POL-22124216
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 3.7 years
+Previous Claims: 0
+Incident Date: 2024-07-09
+Claim Filed Date: 2024-08-06
+Claim Amount: $2,175.39
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000008345 for auto policy in MD. Policyholder tenure: 3.7 yrs with 0 prior claims. Amount claimed: $2175.39 (deductible $5000.0). Filed on 2024-08-06 following incident on 2024-07-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008345 is covered by Policy POL-22124216.
+- Claim CLM-C000008345 concerns an incident in MD on 2024-07-09.
+- Claim CLM-C000008345 has outcome Approved.
+- Claim CLM-C000008345 has claim type Auto.

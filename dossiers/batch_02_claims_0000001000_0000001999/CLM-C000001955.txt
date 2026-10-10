@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001955
+Policy ID: POL-93140497
+Claim Type: Property
+State: MA
+Policyholder Tenure: 5.8 years
+Previous Claims: 1
+Incident Date: 2023-01-30
+Claim Filed Date: 2023-02-09
+Claim Amount: $6,378.44
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000001955 for property policy in MA. Policyholder tenure: 5.8 yrs with 1 prior claims. Amount claimed: $6378.44 (deductible $250.0). Filed on 2023-02-09 following incident on 2023-01-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001955 is covered by Policy POL-93140497.
+- Claim CLM-C000001955 concerns an incident in MA on 2023-01-30.
+- Claim CLM-C000001955 has outcome Approved.
+- Claim CLM-C000001955 has claim type Property.

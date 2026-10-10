@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006525
+Policy ID: POL-39408784
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2024-09-10
+Claim Filed Date: 2024-09-29
+Claim Amount: $6,913.45
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000006525 for auto policy in AZ. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $6913.45 (deductible $1000.0). Filed on 2024-09-29 following incident on 2024-09-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006525 is covered by Policy POL-39408784.
+- Claim CLM-C000006525 concerns an incident in AZ on 2024-09-10.
+- Claim CLM-C000006525 has outcome Approved.
+- Claim CLM-C000006525 has claim type Auto.

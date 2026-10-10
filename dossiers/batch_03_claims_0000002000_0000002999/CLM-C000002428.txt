@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002428
+Policy ID: POL-87425368
+Claim Type: Home
+State: NY
+Policyholder Tenure: 0.2 years
+Previous Claims: 1
+Incident Date: 2024-10-30
+Claim Filed Date: 2024-11-07
+Claim Amount: $6,239.46
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000002428 for home policy in NY. Policyholder tenure: 0.2 yrs with 1 prior claims. Amount claimed: $6239.46 (deductible $250.0). Filed on 2024-11-07 following incident on 2024-10-30. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002428 is covered by Policy POL-87425368.
+- Claim CLM-C000002428 concerns an incident in NY on 2024-10-30.
+- Claim CLM-C000002428 has outcome Denied.
+- Claim CLM-C000002428 has claim type Home.

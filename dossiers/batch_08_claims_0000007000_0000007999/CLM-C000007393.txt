@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007393
+Policy ID: POL-24857074
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 0.6 years
+Previous Claims: 2
+Incident Date: 2023-03-21
+Claim Filed Date: 2023-05-04
+Claim Amount: $4,317.42
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000007393 for home policy in AZ. Policyholder tenure: 0.6 yrs with 2 prior claims. Amount claimed: $4317.42 (deductible $1000.0). Filed on 2023-05-04 following incident on 2023-03-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007393 is covered by Policy POL-24857074.
+- Claim CLM-C000007393 concerns an incident in AZ on 2023-03-21.
+- Claim CLM-C000007393 has outcome Under Review.
+- Claim CLM-C000007393 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009650
+Policy ID: POL-99070140
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 0.1 years
+Previous Claims: 1
+Incident Date: 2023-05-20
+Claim Filed Date: 2023-06-20
+Claim Amount: $1,684.15
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 59 days
+Claim Narrative: Claim CLM-C000009650 for renters policy in IL. Policyholder tenure: 0.1 yrs with 1 prior claims. Amount claimed: $1684.15 (deductible $2000.0). Filed on 2023-06-20 following incident on 2023-05-20. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009650 is covered by Policy POL-99070140.
+- Claim CLM-C000009650 concerns an incident in IL on 2023-05-20.
+- Claim CLM-C000009650 has outcome Under Review.
+- Claim CLM-C000009650 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006197
+Policy ID: POL-21140859
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2024-04-08
+Claim Filed Date: 2024-04-24
+Claim Amount: $3,172.35
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000006197 for auto policy in CO. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $3172.35 (deductible $500.0). Filed on 2024-04-24 following incident on 2024-04-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006197 is covered by Policy POL-21140859.
+- Claim CLM-C000006197 concerns an incident in CO on 2024-04-08.
+- Claim CLM-C000006197 has outcome Approved.
+- Claim CLM-C000006197 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009011
+Policy ID: POL-98313601
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 1.9 years
+Previous Claims: 0
+Incident Date: 2024-08-21
+Claim Filed Date: 2024-08-30
+Claim Amount: $9,992.46
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000009011 for auto policy in MD. Policyholder tenure: 1.9 yrs with 0 prior claims. Amount claimed: $9992.46 (deductible $500.0). Filed on 2024-08-30 following incident on 2024-08-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009011 is covered by Policy POL-98313601.
+- Claim CLM-C000009011 concerns an incident in MD on 2024-08-21.
+- Claim CLM-C000009011 has outcome Under Review.
+- Claim CLM-C000009011 has claim type Auto.

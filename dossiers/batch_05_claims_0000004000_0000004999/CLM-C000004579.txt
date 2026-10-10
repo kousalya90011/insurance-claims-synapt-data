@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004579
+Policy ID: POL-22472249
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2024-08-10
+Claim Filed Date: 2024-08-26
+Claim Amount: $2,494.99
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000004579 for auto policy in CO. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $2494.99 (deductible $1000.0). Filed on 2024-08-26 following incident on 2024-08-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004579 is covered by Policy POL-22472249.
+- Claim CLM-C000004579 concerns an incident in CO on 2024-08-10.
+- Claim CLM-C000004579 has outcome Approved.
+- Claim CLM-C000004579 has claim type Auto.

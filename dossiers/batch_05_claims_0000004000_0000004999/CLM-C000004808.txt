@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004808
+Policy ID: POL-78117573
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 5.0 years
+Previous Claims: 0
+Incident Date: 2024-11-29
+Claim Filed Date: 2024-12-31
+Claim Amount: $28,726.09
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000004808 for home policy in NJ. Policyholder tenure: 5.0 yrs with 0 prior claims. Amount claimed: $28726.09 (deductible $500.0). Filed on 2024-12-31 following incident on 2024-11-29. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004808 is covered by Policy POL-78117573.
+- Claim CLM-C000004808 concerns an incident in NJ on 2024-11-29.
+- Claim CLM-C000004808 has outcome Denied.
+- Claim CLM-C000004808 has claim type Home.

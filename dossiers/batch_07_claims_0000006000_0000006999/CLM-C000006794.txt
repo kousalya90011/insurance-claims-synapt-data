@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006794
+Policy ID: POL-94380872
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 4.9 years
+Previous Claims: 0
+Incident Date: 2024-02-13
+Claim Filed Date: 2024-03-08
+Claim Amount: $4,230.62
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000006794 for auto policy in FL. Policyholder tenure: 4.9 yrs with 0 prior claims. Amount claimed: $4230.62 (deductible $250.0). Filed on 2024-03-08 following incident on 2024-02-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006794 is covered by Policy POL-94380872.
+- Claim CLM-C000006794 concerns an incident in FL on 2024-02-13.
+- Claim CLM-C000006794 has outcome Approved.
+- Claim CLM-C000006794 has claim type Auto.

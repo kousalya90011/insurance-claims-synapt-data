@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008999
+Policy ID: POL-17116225
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 3.3 years
+Previous Claims: 0
+Incident Date: 2023-01-13
+Claim Filed Date: 2023-02-23
+Claim Amount: $3,900.23
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000008999 for auto policy in MD. Policyholder tenure: 3.3 yrs with 0 prior claims. Amount claimed: $3900.23 (deductible $1000.0). Filed on 2023-02-23 following incident on 2023-01-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008999 is covered by Policy POL-17116225.
+- Claim CLM-C000008999 concerns an incident in MD on 2023-01-13.
+- Claim CLM-C000008999 has outcome Approved.
+- Claim CLM-C000008999 has claim type Auto.

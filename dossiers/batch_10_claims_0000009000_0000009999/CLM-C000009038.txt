@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009038
+Policy ID: POL-26363390
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 6.4 years
+Previous Claims: 2
+Incident Date: 2024-06-05
+Claim Filed Date: 2024-06-27
+Claim Amount: $6,126.25
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000009038 for auto policy in CO. Policyholder tenure: 6.4 yrs with 2 prior claims. Amount claimed: $6126.25 (deductible $500.0). Filed on 2024-06-27 following incident on 2024-06-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009038 is covered by Policy POL-26363390.
+- Claim CLM-C000009038 concerns an incident in CO on 2024-06-05.
+- Claim CLM-C000009038 has outcome Approved.
+- Claim CLM-C000009038 has claim type Auto.

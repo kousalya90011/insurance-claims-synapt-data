@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001171
+Policy ID: POL-57324353
+Claim Type: Property
+State: OH
+Policyholder Tenure: 4.1 years
+Previous Claims: 0
+Incident Date: 2023-03-07
+Claim Filed Date: 2023-04-20
+Claim Amount: $9,937.57
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000001171 for property policy in OH. Policyholder tenure: 4.1 yrs with 0 prior claims. Amount claimed: $9937.57 (deductible $5000.0). Filed on 2023-04-20 following incident on 2023-03-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001171 is covered by Policy POL-57324353.
+- Claim CLM-C000001171 concerns an incident in OH on 2023-03-07.
+- Claim CLM-C000001171 has outcome Approved.
+- Claim CLM-C000001171 has claim type Property.

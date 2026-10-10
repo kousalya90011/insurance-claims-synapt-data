@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004750
+Policy ID: POL-78670307
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 6.0 years
+Previous Claims: 2
+Incident Date: 2024-11-07
+Claim Filed Date: 2024-11-16
+Claim Amount: $3,648.72
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000004750 for renters policy in VA. Policyholder tenure: 6.0 yrs with 2 prior claims. Amount claimed: $3648.72 (deductible $500.0). Filed on 2024-11-16 following incident on 2024-11-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004750 is covered by Policy POL-78670307.
+- Claim CLM-C000004750 concerns an incident in VA on 2024-11-07.
+- Claim CLM-C000004750 has outcome Approved.
+- Claim CLM-C000004750 has claim type Renters.

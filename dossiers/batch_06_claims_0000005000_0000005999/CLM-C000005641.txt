@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005641
+Policy ID: POL-11823501
+Claim Type: Business
+State: NJ
+Policyholder Tenure: 2.9 years
+Previous Claims: 1
+Incident Date: 2024-01-01
+Claim Filed Date: 2024-01-24
+Claim Amount: $36,732.28
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000005641 for business policy in NJ. Policyholder tenure: 2.9 yrs with 1 prior claims. Amount claimed: $36732.28 (deductible $2500.0). Filed on 2024-01-24 following incident on 2024-01-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005641 is covered by Policy POL-11823501.
+- Claim CLM-C000005641 concerns an incident in NJ on 2024-01-01.
+- Claim CLM-C000005641 has outcome Approved.
+- Claim CLM-C000005641 has claim type Business.

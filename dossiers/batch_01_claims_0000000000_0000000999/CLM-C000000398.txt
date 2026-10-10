@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000398
+Policy ID: POL-25685067
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 10.0 years
+Previous Claims: 0
+Incident Date: 2024-10-27
+Claim Filed Date: 2024-11-24
+Claim Amount: $1,866.86
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000000398 for auto policy in FL. Policyholder tenure: 10.0 yrs with 0 prior claims. Amount claimed: $1866.86 (deductible $2000.0). Filed on 2024-11-24 following incident on 2024-10-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000398 is covered by Policy POL-25685067.
+- Claim CLM-C000000398 concerns an incident in FL on 2024-10-27.
+- Claim CLM-C000000398 has outcome Approved.
+- Claim CLM-C000000398 has claim type Auto.

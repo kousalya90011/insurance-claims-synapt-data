@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005702
+Policy ID: POL-99736209
+Claim Type: Property
+State: CO
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2024-08-31
+Claim Filed Date: 2024-09-17
+Claim Amount: $7,405.83
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000005702 for property policy in CO. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $7405.83 (deductible $2500.0). Filed on 2024-09-17 following incident on 2024-08-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005702 is covered by Policy POL-99736209.
+- Claim CLM-C000005702 concerns an incident in CO on 2024-08-31.
+- Claim CLM-C000005702 has outcome Approved.
+- Claim CLM-C000005702 has claim type Property.

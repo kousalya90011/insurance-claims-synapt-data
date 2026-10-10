@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006654
+Policy ID: POL-28241000
+Claim Type: Property
+State: WA
+Policyholder Tenure: 11.4 years
+Previous Claims: 2
+Incident Date: 2024-12-25
+Claim Filed Date: 2025-01-04
+Claim Amount: $5,798.81
+Deductible: $2,500.00
+Claim Status: Under Review
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000006654 for property policy in WA. Policyholder tenure: 11.4 yrs with 2 prior claims. Amount claimed: $5798.81 (deductible $2500.0). Filed on 2025-01-04 following incident on 2024-12-25. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006654 is covered by Policy POL-28241000.
+- Claim CLM-C000006654 concerns an incident in WA on 2024-12-25.
+- Claim CLM-C000006654 has outcome Under Review.
+- Claim CLM-C000006654 has claim type Property.

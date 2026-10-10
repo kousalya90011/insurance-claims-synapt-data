@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008411
+Policy ID: POL-55738413
+Claim Type: Home
+State: MO
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2024-10-29
+Claim Filed Date: 2024-12-10
+Claim Amount: $15,229.13
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000008411 for home policy in MO. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $15229.13 (deductible $500.0). Filed on 2024-12-10 following incident on 2024-10-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008411 is covered by Policy POL-55738413.
+- Claim CLM-C000008411 concerns an incident in MO on 2024-10-29.
+- Claim CLM-C000008411 has outcome Approved.
+- Claim CLM-C000008411 has claim type Home.

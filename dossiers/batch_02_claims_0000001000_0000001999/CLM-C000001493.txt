@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001493
+Policy ID: POL-87757163
+Claim Type: Home
+State: MO
+Policyholder Tenure: 10.8 years
+Previous Claims: 1
+Incident Date: 2024-05-07
+Claim Filed Date: 2024-06-08
+Claim Amount: $14,710.70
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000001493 for home policy in MO. Policyholder tenure: 10.8 yrs with 1 prior claims. Amount claimed: $14710.7 (deductible $2500.0). Filed on 2024-06-08 following incident on 2024-05-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001493 is covered by Policy POL-87757163.
+- Claim CLM-C000001493 concerns an incident in MO on 2024-05-07.
+- Claim CLM-C000001493 has outcome Approved.
+- Claim CLM-C000001493 has claim type Home.

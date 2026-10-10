@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004747
+Policy ID: POL-16063687
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 3.8 years
+Previous Claims: 0
+Incident Date: 2024-07-21
+Claim Filed Date: 2024-08-04
+Claim Amount: $3,070.80
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000004747 for renters policy in MO. Policyholder tenure: 3.8 yrs with 0 prior claims. Amount claimed: $3070.8 (deductible $1000.0). Filed on 2024-08-04 following incident on 2024-07-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004747 is covered by Policy POL-16063687.
+- Claim CLM-C000004747 concerns an incident in MO on 2024-07-21.
+- Claim CLM-C000004747 has outcome Approved.
+- Claim CLM-C000004747 has claim type Renters.

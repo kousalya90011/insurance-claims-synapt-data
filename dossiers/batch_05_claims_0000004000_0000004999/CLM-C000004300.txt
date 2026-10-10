@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004300
+Policy ID: POL-44495756
+Claim Type: Business
+State: MO
+Policyholder Tenure: 8.3 years
+Previous Claims: 1
+Incident Date: 2024-03-16
+Claim Filed Date: 2024-03-20
+Claim Amount: $7,901.01
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000004300 for business policy in MO. Policyholder tenure: 8.3 yrs with 1 prior claims. Amount claimed: $7901.01 (deductible $1000.0). Filed on 2024-03-20 following incident on 2024-03-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004300 is covered by Policy POL-44495756.
+- Claim CLM-C000004300 concerns an incident in MO on 2024-03-16.
+- Claim CLM-C000004300 has outcome Denied.
+- Claim CLM-C000004300 has claim type Business.

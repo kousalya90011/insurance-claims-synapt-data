@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002235
+Policy ID: POL-41800392
+Claim Type: Home
+State: MI
+Policyholder Tenure: 1.6 years
+Previous Claims: 0
+Incident Date: 2023-05-19
+Claim Filed Date: 2023-06-13
+Claim Amount: $289,275.09
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 115 days
+Claim Narrative: Claim CLM-C000002235 for home policy in MI. Policyholder tenure: 1.6 yrs with 0 prior claims. Amount claimed: $289275.09 (deductible $1000.0). Filed on 2023-06-13 following incident on 2023-05-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002235 is covered by Policy POL-41800392.
+- Claim CLM-C000002235 concerns an incident in MI on 2023-05-19.
+- Claim CLM-C000002235 has outcome Approved.
+- Claim CLM-C000002235 has claim type Home.

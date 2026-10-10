@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003510
+Policy ID: POL-77739865
+Claim Type: Home
+State: NC
+Policyholder Tenure: 8.9 years
+Previous Claims: 0
+Incident Date: 2024-12-02
+Claim Filed Date: 2024-12-21
+Claim Amount: $2,005.92
+Deductible: $2,500.00
+Claim Status: Denied
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000003510 for home policy in NC. Policyholder tenure: 8.9 yrs with 0 prior claims. Amount claimed: $2005.92 (deductible $2500.0). Filed on 2024-12-21 following incident on 2024-12-02. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003510 is covered by Policy POL-77739865.
+- Claim CLM-C000003510 concerns an incident in NC on 2024-12-02.
+- Claim CLM-C000003510 has outcome Denied.
+- Claim CLM-C000003510 has claim type Home.

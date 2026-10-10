@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005414
+Policy ID: POL-88271585
+Claim Type: Renters
+State: FL
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2024-01-16
+Claim Filed Date: 2024-01-31
+Claim Amount: $5,174.28
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000005414 for renters policy in FL. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $5174.28 (deductible $1000.0). Filed on 2024-01-31 following incident on 2024-01-16. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005414 is covered by Policy POL-88271585.
+- Claim CLM-C000005414 concerns an incident in FL on 2024-01-16.
+- Claim CLM-C000005414 has outcome Under Review.
+- Claim CLM-C000005414 has claim type Renters.

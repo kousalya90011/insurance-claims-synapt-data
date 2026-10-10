@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003809
+Policy ID: POL-25900028
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 4.5 years
+Previous Claims: 1
+Incident Date: 2025-01-10
+Claim Filed Date: 2025-01-15
+Claim Amount: $5,664.66
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000003809 for renters policy in CO. Policyholder tenure: 4.5 yrs with 1 prior claims. Amount claimed: $5664.66 (deductible $250.0). Filed on 2025-01-15 following incident on 2025-01-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003809 is covered by Policy POL-25900028.
+- Claim CLM-C000003809 concerns an incident in CO on 2025-01-10.
+- Claim CLM-C000003809 has outcome Approved.
+- Claim CLM-C000003809 has claim type Renters.

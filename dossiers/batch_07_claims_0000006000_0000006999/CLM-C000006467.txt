@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006467
+Policy ID: POL-41747038
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2024-11-20
+Claim Filed Date: 2024-11-22
+Claim Amount: $8,903.82
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000006467 for auto policy in NC. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $8903.82 (deductible $500.0). Filed on 2024-11-22 following incident on 2024-11-20. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006467 is covered by Policy POL-41747038.
+- Claim CLM-C000006467 concerns an incident in NC on 2024-11-20.
+- Claim CLM-C000006467 has outcome Under Review.
+- Claim CLM-C000006467 has claim type Auto.

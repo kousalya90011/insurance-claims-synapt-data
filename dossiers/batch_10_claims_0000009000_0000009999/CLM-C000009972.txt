@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009972
+Policy ID: POL-34862152
+Claim Type: Property
+State: NC
+Policyholder Tenure: 0.8 years
+Previous Claims: 3
+Incident Date: 2023-06-13
+Claim Filed Date: 2023-07-14
+Claim Amount: $81,669.89
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 65 days
+Claim Narrative: Claim CLM-C000009972 for property policy in NC. Policyholder tenure: 0.8 yrs with 3 prior claims. Amount claimed: $81669.89 (deductible $500.0). Filed on 2023-07-14 following incident on 2023-06-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009972 is covered by Policy POL-34862152.
+- Claim CLM-C000009972 concerns an incident in NC on 2023-06-13.
+- Claim CLM-C000009972 has outcome Approved.
+- Claim CLM-C000009972 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003488
+Policy ID: POL-16140257
+Claim Type: Business
+State: MA
+Policyholder Tenure: 16.0 years
+Previous Claims: 0
+Incident Date: 2023-10-13
+Claim Filed Date: 2023-11-07
+Claim Amount: $93,563.26
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 56 days
+Claim Narrative: Claim CLM-C000003488 for business policy in MA. Policyholder tenure: 16.0 yrs with 0 prior claims. Amount claimed: $93563.26 (deductible $1000.0). Filed on 2023-11-07 following incident on 2023-10-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003488 is covered by Policy POL-16140257.
+- Claim CLM-C000003488 concerns an incident in MA on 2023-10-13.
+- Claim CLM-C000003488 has outcome Approved.
+- Claim CLM-C000003488 has claim type Business.

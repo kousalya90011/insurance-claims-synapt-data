@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001636
+Policy ID: POL-45654984
+Claim Type: Home
+State: FL
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-06-16
+Claim Filed Date: 2023-07-10
+Claim Amount: $39,667.83
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000001636 for home policy in FL. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $39667.83 (deductible $1000.0). Filed on 2023-07-10 following incident on 2023-06-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001636 is covered by Policy POL-45654984.
+- Claim CLM-C000001636 concerns an incident in FL on 2023-06-16.
+- Claim CLM-C000001636 has outcome Approved.
+- Claim CLM-C000001636 has claim type Home.

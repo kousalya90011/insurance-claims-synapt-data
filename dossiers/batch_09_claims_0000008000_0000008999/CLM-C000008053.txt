@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008053
+Policy ID: POL-28027654
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 3.0 years
+Previous Claims: 0
+Incident Date: 2023-06-27
+Claim Filed Date: 2023-08-06
+Claim Amount: $13,050.32
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000008053 for auto policy in IL. Policyholder tenure: 3.0 yrs with 0 prior claims. Amount claimed: $13050.32 (deductible $500.0). Filed on 2023-08-06 following incident on 2023-06-27. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008053 is covered by Policy POL-28027654.
+- Claim CLM-C000008053 concerns an incident in IL on 2023-06-27.
+- Claim CLM-C000008053 has outcome Denied.
+- Claim CLM-C000008053 has claim type Auto.

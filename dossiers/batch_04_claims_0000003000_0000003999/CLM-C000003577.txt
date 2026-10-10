@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003577
+Policy ID: POL-46889268
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 14.4 years
+Previous Claims: 0
+Incident Date: 2023-06-27
+Claim Filed Date: 2023-06-30
+Claim Amount: $5,203.98
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000003577 for auto policy in MA. Policyholder tenure: 14.4 yrs with 0 prior claims. Amount claimed: $5203.98 (deductible $250.0). Filed on 2023-06-30 following incident on 2023-06-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003577 is covered by Policy POL-46889268.
+- Claim CLM-C000003577 concerns an incident in MA on 2023-06-27.
+- Claim CLM-C000003577 has outcome Approved.
+- Claim CLM-C000003577 has claim type Auto.

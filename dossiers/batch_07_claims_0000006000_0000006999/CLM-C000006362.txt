@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006362
+Policy ID: POL-95869744
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 0.8 years
+Previous Claims: 0
+Incident Date: 2023-01-20
+Claim Filed Date: 2023-02-07
+Claim Amount: $1,948.75
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000006362 for auto policy in MI. Policyholder tenure: 0.8 yrs with 0 prior claims. Amount claimed: $1948.75 (deductible $500.0). Filed on 2023-02-07 following incident on 2023-01-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006362 is covered by Policy POL-95869744.
+- Claim CLM-C000006362 concerns an incident in MI on 2023-01-20.
+- Claim CLM-C000006362 has outcome Approved.
+- Claim CLM-C000006362 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002246
+Policy ID: POL-31170034
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 3.8 years
+Previous Claims: 1
+Incident Date: 2024-06-14
+Claim Filed Date: 2024-07-14
+Claim Amount: $91,263.47
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 53 days
+Claim Narrative: Claim CLM-C000002246 for home policy in NJ. Policyholder tenure: 3.8 yrs with 1 prior claims. Amount claimed: $91263.47 (deductible $1000.0). Filed on 2024-07-14 following incident on 2024-06-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002246 is covered by Policy POL-31170034.
+- Claim CLM-C000002246 concerns an incident in NJ on 2024-06-14.
+- Claim CLM-C000002246 has outcome Approved.
+- Claim CLM-C000002246 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007937
+Policy ID: POL-45345286
+Claim Type: Property
+State: TN
+Policyholder Tenure: 2.0 years
+Previous Claims: 2
+Incident Date: 2024-06-01
+Claim Filed Date: 2024-06-30
+Claim Amount: $18,369.29
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000007937 for property policy in TN. Policyholder tenure: 2.0 yrs with 2 prior claims. Amount claimed: $18369.29 (deductible $250.0). Filed on 2024-06-30 following incident on 2024-06-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007937 is covered by Policy POL-45345286.
+- Claim CLM-C000007937 concerns an incident in TN on 2024-06-01.
+- Claim CLM-C000007937 has outcome Approved.
+- Claim CLM-C000007937 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007442
+Policy ID: POL-42080555
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 2.6 years
+Previous Claims: 1
+Incident Date: 2024-05-15
+Claim Filed Date: 2024-06-22
+Claim Amount: $14,549.06
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000007442 for auto policy in GA. Policyholder tenure: 2.6 yrs with 1 prior claims. Amount claimed: $14549.06 (deductible $500.0). Filed on 2024-06-22 following incident on 2024-05-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007442 is covered by Policy POL-42080555.
+- Claim CLM-C000007442 concerns an incident in GA on 2024-05-15.
+- Claim CLM-C000007442 has outcome Approved.
+- Claim CLM-C000007442 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009172
+Policy ID: POL-19388453
+Claim Type: Business
+State: MA
+Policyholder Tenure: 2.4 years
+Previous Claims: 1
+Incident Date: 2024-10-26
+Claim Filed Date: 2024-10-28
+Claim Amount: $80,868.52
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000009172 for business policy in MA. Policyholder tenure: 2.4 yrs with 1 prior claims. Amount claimed: $80868.52 (deductible $500.0). Filed on 2024-10-28 following incident on 2024-10-26. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009172 is covered by Policy POL-19388453.
+- Claim CLM-C000009172 concerns an incident in MA on 2024-10-26.
+- Claim CLM-C000009172 has outcome Under Review.
+- Claim CLM-C000009172 has claim type Business.

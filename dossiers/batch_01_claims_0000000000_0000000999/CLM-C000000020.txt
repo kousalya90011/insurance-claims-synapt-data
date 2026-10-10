@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000020
+Policy ID: POL-26429467
+Claim Type: Home
+State: IL
+Policyholder Tenure: 6.1 years
+Previous Claims: 0
+Incident Date: 2023-07-03
+Claim Filed Date: 2023-08-01
+Claim Amount: $13,282.68
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000000020 for home policy in IL. Policyholder tenure: 6.1 yrs with 0 prior claims. Amount claimed: $13282.68 (deductible $500.0). Filed on 2023-08-01 following incident on 2023-07-03. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000020 is covered by Policy POL-26429467.
+- Claim CLM-C000000020 concerns an incident in IL on 2023-07-03.
+- Claim CLM-C000000020 has outcome Under Review.
+- Claim CLM-C000000020 has claim type Home.

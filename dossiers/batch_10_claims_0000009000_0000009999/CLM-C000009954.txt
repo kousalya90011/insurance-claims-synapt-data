@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009954
+Policy ID: POL-14993738
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 3.8 years
+Previous Claims: 0
+Incident Date: 2023-06-18
+Claim Filed Date: 2023-07-11
+Claim Amount: $2,594.86
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000009954 for auto policy in CO. Policyholder tenure: 3.8 yrs with 0 prior claims. Amount claimed: $2594.86 (deductible $2000.0). Filed on 2023-07-11 following incident on 2023-06-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009954 is covered by Policy POL-14993738.
+- Claim CLM-C000009954 concerns an incident in CO on 2023-06-18.
+- Claim CLM-C000009954 has outcome Approved.
+- Claim CLM-C000009954 has claim type Auto.

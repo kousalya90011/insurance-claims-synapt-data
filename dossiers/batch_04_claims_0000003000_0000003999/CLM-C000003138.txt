@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003138
+Policy ID: POL-92920433
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 1.6 years
+Previous Claims: 2
+Incident Date: 2024-03-27
+Claim Filed Date: 2024-04-01
+Claim Amount: $1,365.78
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000003138 for renters policy in TN. Policyholder tenure: 1.6 yrs with 2 prior claims. Amount claimed: $1365.78 (deductible $500.0). Filed on 2024-04-01 following incident on 2024-03-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003138 is covered by Policy POL-92920433.
+- Claim CLM-C000003138 concerns an incident in TN on 2024-03-27.
+- Claim CLM-C000003138 has outcome Under Review.
+- Claim CLM-C000003138 has claim type Renters.

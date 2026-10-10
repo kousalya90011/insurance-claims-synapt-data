@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008009
+Policy ID: POL-99953664
+Claim Type: Home
+State: MI
+Policyholder Tenure: 19.5 years
+Previous Claims: 1
+Incident Date: 2023-08-27
+Claim Filed Date: 2023-10-06
+Claim Amount: $34,867.56
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000008009 for home policy in MI. Policyholder tenure: 19.5 yrs with 1 prior claims. Amount claimed: $34867.56 (deductible $250.0). Filed on 2023-10-06 following incident on 2023-08-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008009 is covered by Policy POL-99953664.
+- Claim CLM-C000008009 concerns an incident in MI on 2023-08-27.
+- Claim CLM-C000008009 has outcome Under Review.
+- Claim CLM-C000008009 has claim type Home.

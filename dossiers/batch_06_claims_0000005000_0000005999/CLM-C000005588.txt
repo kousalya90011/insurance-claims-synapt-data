@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005588
+Policy ID: POL-62903973
+Claim Type: Renters
+State: CA
+Policyholder Tenure: 10.2 years
+Previous Claims: 0
+Incident Date: 2024-11-21
+Claim Filed Date: 2024-12-07
+Claim Amount: $907.07
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000005588 for renters policy in CA. Policyholder tenure: 10.2 yrs with 0 prior claims. Amount claimed: $907.07 (deductible $2000.0). Filed on 2024-12-07 following incident on 2024-11-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005588 is covered by Policy POL-62903973.
+- Claim CLM-C000005588 concerns an incident in CA on 2024-11-21.
+- Claim CLM-C000005588 has outcome Under Review.
+- Claim CLM-C000005588 has claim type Renters.

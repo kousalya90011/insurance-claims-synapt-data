@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000152
+Policy ID: POL-55451394
+Claim Type: Home
+State: WA
+Policyholder Tenure: 8.4 years
+Previous Claims: 2
+Incident Date: 2023-05-24
+Claim Filed Date: 2023-06-26
+Claim Amount: $13,801.66
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000000152 for home policy in WA. Policyholder tenure: 8.4 yrs with 2 prior claims. Amount claimed: $13801.66 (deductible $500.0). Filed on 2023-06-26 following incident on 2023-05-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000152 is covered by Policy POL-55451394.
+- Claim CLM-C000000152 concerns an incident in WA on 2023-05-24.
+- Claim CLM-C000000152 has outcome Approved.
+- Claim CLM-C000000152 has claim type Home.

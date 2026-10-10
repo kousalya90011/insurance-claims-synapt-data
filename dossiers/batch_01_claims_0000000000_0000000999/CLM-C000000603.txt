@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000603
+Policy ID: POL-15501982
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 1.5 years
+Previous Claims: 1
+Incident Date: 2024-09-14
+Claim Filed Date: 2024-09-16
+Claim Amount: $25,387.35
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000000603 for auto policy in AZ. Policyholder tenure: 1.5 yrs with 1 prior claims. Amount claimed: $25387.35 (deductible $500.0). Filed on 2024-09-16 following incident on 2024-09-14. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000603 is covered by Policy POL-15501982.
+- Claim CLM-C000000603 concerns an incident in AZ on 2024-09-14.
+- Claim CLM-C000000603 has outcome Denied.
+- Claim CLM-C000000603 has claim type Auto.

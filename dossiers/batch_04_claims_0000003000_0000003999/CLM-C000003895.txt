@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003895
+Policy ID: POL-18552576
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 0.2 years
+Previous Claims: 1
+Incident Date: 2024-10-16
+Claim Filed Date: 2024-10-24
+Claim Amount: $3,809.37
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000003895 for renters policy in CO. Policyholder tenure: 0.2 yrs with 1 prior claims. Amount claimed: $3809.37 (deductible $500.0). Filed on 2024-10-24 following incident on 2024-10-16. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000003895 is covered by Policy POL-18552576.
+- Claim CLM-C000003895 concerns an incident in CO on 2024-10-16.
+- Claim CLM-C000003895 has outcome Pending.
+- Claim CLM-C000003895 has claim type Renters.

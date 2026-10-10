@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005638
+Policy ID: POL-90148438
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 1.9 years
+Previous Claims: 1
+Incident Date: 2024-01-21
+Claim Filed Date: 2024-02-23
+Claim Amount: $21,199.42
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000005638 for auto policy in MI. Policyholder tenure: 1.9 yrs with 1 prior claims. Amount claimed: $21199.42 (deductible $1000.0). Filed on 2024-02-23 following incident on 2024-01-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005638 is covered by Policy POL-90148438.
+- Claim CLM-C000005638 concerns an incident in MI on 2024-01-21.
+- Claim CLM-C000005638 has outcome Approved.
+- Claim CLM-C000005638 has claim type Auto.

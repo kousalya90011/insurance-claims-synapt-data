@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001128
+Policy ID: POL-43288100
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 0.9 years
+Previous Claims: 4
+Incident Date: 2023-06-08
+Claim Filed Date: 2023-07-10
+Claim Amount: $3,385.32
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000001128 for renters policy in NJ. Policyholder tenure: 0.9 yrs with 4 prior claims. Amount claimed: $3385.32 (deductible $500.0). Filed on 2023-07-10 following incident on 2023-06-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001128 is covered by Policy POL-43288100.
+- Claim CLM-C000001128 concerns an incident in NJ on 2023-06-08.
+- Claim CLM-C000001128 has outcome Denied.
+- Claim CLM-C000001128 has claim type Renters.

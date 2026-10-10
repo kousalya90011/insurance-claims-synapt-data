@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001346
+Policy ID: POL-67108623
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 16.4 years
+Previous Claims: 2
+Incident Date: 2023-03-05
+Claim Filed Date: 2023-03-06
+Claim Amount: $3,169.30
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001346 for auto policy in PA. Policyholder tenure: 16.4 yrs with 2 prior claims. Amount claimed: $3169.3 (deductible $1000.0). Filed on 2023-03-06 following incident on 2023-03-05. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001346 is covered by Policy POL-67108623.
+- Claim CLM-C000001346 concerns an incident in PA on 2023-03-05.
+- Claim CLM-C000001346 has outcome Pending.
+- Claim CLM-C000001346 has claim type Auto.

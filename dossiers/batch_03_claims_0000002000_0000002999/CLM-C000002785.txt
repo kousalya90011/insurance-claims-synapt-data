@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002785
+Policy ID: POL-73435448
+Claim Type: Home
+State: MD
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-06-27
+Claim Filed Date: 2023-08-10
+Claim Amount: $32,049.86
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 45 days
+Claim Narrative: Claim CLM-C000002785 for home policy in MD. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $32049.86 (deductible $1000.0). Filed on 2023-08-10 following incident on 2023-06-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002785 is covered by Policy POL-73435448.
+- Claim CLM-C000002785 concerns an incident in MD on 2023-06-27.
+- Claim CLM-C000002785 has outcome Approved.
+- Claim CLM-C000002785 has claim type Home.

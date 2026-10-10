@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004680
+Policy ID: POL-14252530
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2024-12-24
+Claim Filed Date: 2025-01-13
+Claim Amount: $1,597.58
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000004680 for auto policy in OH. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $1597.58 (deductible $250.0). Filed on 2025-01-13 following incident on 2024-12-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004680 is covered by Policy POL-14252530.
+- Claim CLM-C000004680 concerns an incident in OH on 2024-12-24.
+- Claim CLM-C000004680 has outcome Approved.
+- Claim CLM-C000004680 has claim type Auto.

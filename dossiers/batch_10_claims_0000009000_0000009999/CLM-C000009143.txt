@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009143
+Policy ID: POL-85997218
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 11.7 years
+Previous Claims: 1
+Incident Date: 2024-10-05
+Claim Filed Date: 2024-11-16
+Claim Amount: $7,894.02
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000009143 for auto policy in NY. Policyholder tenure: 11.7 yrs with 1 prior claims. Amount claimed: $7894.02 (deductible $500.0). Filed on 2024-11-16 following incident on 2024-10-05. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009143 is covered by Policy POL-85997218.
+- Claim CLM-C000009143 concerns an incident in NY on 2024-10-05.
+- Claim CLM-C000009143 has outcome Under Review.
+- Claim CLM-C000009143 has claim type Auto.

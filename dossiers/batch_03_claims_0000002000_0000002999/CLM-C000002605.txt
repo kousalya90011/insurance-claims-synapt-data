@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002605
+Policy ID: POL-70484625
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 7.0 years
+Previous Claims: 1
+Incident Date: 2025-01-14
+Claim Filed Date: 2025-01-27
+Claim Amount: $8,167.99
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000002605 for auto policy in VA. Policyholder tenure: 7.0 yrs with 1 prior claims. Amount claimed: $8167.99 (deductible $2500.0). Filed on 2025-01-27 following incident on 2025-01-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002605 is covered by Policy POL-70484625.
+- Claim CLM-C000002605 concerns an incident in VA on 2025-01-14.
+- Claim CLM-C000002605 has outcome Approved.
+- Claim CLM-C000002605 has claim type Auto.

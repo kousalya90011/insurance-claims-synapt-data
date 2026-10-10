@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009569
+Policy ID: POL-69599162
+Claim Type: Home
+State: OH
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2023-02-16
+Claim Filed Date: 2023-03-14
+Claim Amount: $12,527.60
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000009569 for home policy in OH. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $12527.6 (deductible $1000.0). Filed on 2023-03-14 following incident on 2023-02-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009569 is covered by Policy POL-69599162.
+- Claim CLM-C000009569 concerns an incident in OH on 2023-02-16.
+- Claim CLM-C000009569 has outcome Approved.
+- Claim CLM-C000009569 has claim type Home.

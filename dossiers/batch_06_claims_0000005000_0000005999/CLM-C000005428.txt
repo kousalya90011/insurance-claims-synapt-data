@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005428
+Policy ID: POL-12413185
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 10.0 years
+Previous Claims: 1
+Incident Date: 2024-11-17
+Claim Filed Date: 2024-11-26
+Claim Amount: $7,455.40
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000005428 for renters policy in WI. Policyholder tenure: 10.0 yrs with 1 prior claims. Amount claimed: $7455.4 (deductible $250.0). Filed on 2024-11-26 following incident on 2024-11-17. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005428 is covered by Policy POL-12413185.
+- Claim CLM-C000005428 concerns an incident in WI on 2024-11-17.
+- Claim CLM-C000005428 has outcome Denied.
+- Claim CLM-C000005428 has claim type Renters.

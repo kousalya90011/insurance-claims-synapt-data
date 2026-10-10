@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004899
+Policy ID: POL-68389624
+Claim Type: Business
+State: NY
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2024-05-25
+Claim Filed Date: 2024-06-16
+Claim Amount: $16,439.11
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000004899 for business policy in NY. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $16439.11 (deductible $250.0). Filed on 2024-06-16 following incident on 2024-05-25. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004899 is covered by Policy POL-68389624.
+- Claim CLM-C000004899 concerns an incident in NY on 2024-05-25.
+- Claim CLM-C000004899 has outcome Denied.
+- Claim CLM-C000004899 has claim type Business.

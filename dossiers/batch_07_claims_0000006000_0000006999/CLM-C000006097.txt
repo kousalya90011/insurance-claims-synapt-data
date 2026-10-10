@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006097
+Policy ID: POL-78475494
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 0.6 years
+Previous Claims: 3
+Incident Date: 2024-11-19
+Claim Filed Date: 2024-12-11
+Claim Amount: $1,155.59
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 64 days
+Claim Narrative: Claim CLM-C000006097 for auto policy in IL. Policyholder tenure: 0.6 yrs with 3 prior claims. Amount claimed: $1155.59 (deductible $1000.0). Filed on 2024-12-11 following incident on 2024-11-19. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006097 is covered by Policy POL-78475494.
+- Claim CLM-C000006097 concerns an incident in IL on 2024-11-19.
+- Claim CLM-C000006097 has outcome Denied.
+- Claim CLM-C000006097 has claim type Auto.

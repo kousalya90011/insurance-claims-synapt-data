@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003181
+Policy ID: POL-79085781
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 4.0 years
+Previous Claims: 2
+Incident Date: 2024-05-16
+Claim Filed Date: 2024-06-19
+Claim Amount: $1,353.12
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000003181 for renters policy in PA. Policyholder tenure: 4.0 yrs with 2 prior claims. Amount claimed: $1353.12 (deductible $250.0). Filed on 2024-06-19 following incident on 2024-05-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003181 is covered by Policy POL-79085781.
+- Claim CLM-C000003181 concerns an incident in PA on 2024-05-16.
+- Claim CLM-C000003181 has outcome Denied.
+- Claim CLM-C000003181 has claim type Renters.

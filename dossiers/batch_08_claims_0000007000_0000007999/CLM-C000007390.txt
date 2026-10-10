@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007390
+Policy ID: POL-11141163
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 3.2 years
+Previous Claims: 3
+Incident Date: 2024-10-23
+Claim Filed Date: 2024-10-25
+Claim Amount: $2,084.87
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000007390 for auto policy in PA. Policyholder tenure: 3.2 yrs with 3 prior claims. Amount claimed: $2084.87 (deductible $250.0). Filed on 2024-10-25 following incident on 2024-10-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007390 is covered by Policy POL-11141163.
+- Claim CLM-C000007390 concerns an incident in PA on 2024-10-23.
+- Claim CLM-C000007390 has outcome Approved.
+- Claim CLM-C000007390 has claim type Auto.

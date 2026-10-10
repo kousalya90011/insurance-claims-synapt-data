@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003435
+Policy ID: POL-85347623
+Claim Type: Home
+State: CO
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2023-02-08
+Claim Filed Date: 2023-03-01
+Claim Amount: $19,155.20
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000003435 for home policy in CO. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $19155.2 (deductible $1000.0). Filed on 2023-03-01 following incident on 2023-02-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003435 is covered by Policy POL-85347623.
+- Claim CLM-C000003435 concerns an incident in CO on 2023-02-08.
+- Claim CLM-C000003435 has outcome Approved.
+- Claim CLM-C000003435 has claim type Home.

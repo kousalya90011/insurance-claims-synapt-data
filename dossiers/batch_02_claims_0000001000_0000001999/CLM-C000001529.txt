@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001529
+Policy ID: POL-79564364
+Claim Type: Home
+State: FL
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2023-02-16
+Claim Filed Date: 2023-02-22
+Claim Amount: $16,483.89
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000001529 for home policy in FL. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $16483.89 (deductible $250.0). Filed on 2023-02-22 following incident on 2023-02-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001529 is covered by Policy POL-79564364.
+- Claim CLM-C000001529 concerns an incident in FL on 2023-02-16.
+- Claim CLM-C000001529 has outcome Approved.
+- Claim CLM-C000001529 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006231
+Policy ID: POL-69268533
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2023-02-10
+Claim Filed Date: 2023-02-19
+Claim Amount: $6,352.59
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000006231 for auto policy in CO. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $6352.59 (deductible $2000.0). Filed on 2023-02-19 following incident on 2023-02-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006231 is covered by Policy POL-69268533.
+- Claim CLM-C000006231 concerns an incident in CO on 2023-02-10.
+- Claim CLM-C000006231 has outcome Approved.
+- Claim CLM-C000006231 has claim type Auto.

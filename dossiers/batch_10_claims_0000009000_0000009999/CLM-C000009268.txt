@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009268
+Policy ID: POL-49209172
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 4.0 years
+Previous Claims: 1
+Incident Date: 2024-08-10
+Claim Filed Date: 2024-09-13
+Claim Amount: $1,361.94
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000009268 for renters policy in MO. Policyholder tenure: 4.0 yrs with 1 prior claims. Amount claimed: $1361.94 (deductible $250.0). Filed on 2024-09-13 following incident on 2024-08-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009268 is covered by Policy POL-49209172.
+- Claim CLM-C000009268 concerns an incident in MO on 2024-08-10.
+- Claim CLM-C000009268 has outcome Approved.
+- Claim CLM-C000009268 has claim type Renters.

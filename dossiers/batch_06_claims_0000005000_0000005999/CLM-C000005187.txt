@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005187
+Policy ID: POL-74185638
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2023-12-14
+Claim Filed Date: 2024-01-25
+Claim Amount: $935.11
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000005187 for renters policy in MI. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $935.11 (deductible $500.0). Filed on 2024-01-25 following incident on 2023-12-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005187 is covered by Policy POL-74185638.
+- Claim CLM-C000005187 concerns an incident in MI on 2023-12-14.
+- Claim CLM-C000005187 has outcome Approved.
+- Claim CLM-C000005187 has claim type Renters.

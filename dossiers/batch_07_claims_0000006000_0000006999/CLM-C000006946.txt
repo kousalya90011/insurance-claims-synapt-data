@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006946
+Policy ID: POL-10326976
+Claim Type: Home
+State: MO
+Policyholder Tenure: 0.6 years
+Previous Claims: 2
+Incident Date: 2024-10-18
+Claim Filed Date: 2024-11-05
+Claim Amount: $17,316.43
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000006946 for home policy in MO. Policyholder tenure: 0.6 yrs with 2 prior claims. Amount claimed: $17316.43 (deductible $250.0). Filed on 2024-11-05 following incident on 2024-10-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006946 is covered by Policy POL-10326976.
+- Claim CLM-C000006946 concerns an incident in MO on 2024-10-18.
+- Claim CLM-C000006946 has outcome Approved.
+- Claim CLM-C000006946 has claim type Home.

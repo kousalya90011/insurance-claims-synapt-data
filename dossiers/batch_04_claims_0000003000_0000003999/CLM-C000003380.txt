@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003380
+Policy ID: POL-14968896
+Claim Type: Property
+State: CO
+Policyholder Tenure: 2.1 years
+Previous Claims: 0
+Incident Date: 2023-08-06
+Claim Filed Date: 2023-09-19
+Claim Amount: $8,202.29
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000003380 for property policy in CO. Policyholder tenure: 2.1 yrs with 0 prior claims. Amount claimed: $8202.29 (deductible $250.0). Filed on 2023-09-19 following incident on 2023-08-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003380 is covered by Policy POL-14968896.
+- Claim CLM-C000003380 concerns an incident in CO on 2023-08-06.
+- Claim CLM-C000003380 has outcome Approved.
+- Claim CLM-C000003380 has claim type Property.

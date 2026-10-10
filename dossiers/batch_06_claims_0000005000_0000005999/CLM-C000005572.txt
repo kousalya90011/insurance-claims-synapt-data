@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005572
+Policy ID: POL-54484414
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 5.1 years
+Previous Claims: 1
+Incident Date: 2023-02-16
+Claim Filed Date: 2023-02-22
+Claim Amount: $10,720.41
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000005572 for auto policy in AZ. Policyholder tenure: 5.1 yrs with 1 prior claims. Amount claimed: $10720.41 (deductible $2000.0). Filed on 2023-02-22 following incident on 2023-02-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005572 is covered by Policy POL-54484414.
+- Claim CLM-C000005572 concerns an incident in AZ on 2023-02-16.
+- Claim CLM-C000005572 has outcome Denied.
+- Claim CLM-C000005572 has claim type Auto.

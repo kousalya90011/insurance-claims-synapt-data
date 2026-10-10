@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009205
+Policy ID: POL-14190503
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 3.0 years
+Previous Claims: 0
+Incident Date: 2024-07-31
+Claim Filed Date: 2024-09-09
+Claim Amount: $1,650.84
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000009205 for auto policy in CO. Policyholder tenure: 3.0 yrs with 0 prior claims. Amount claimed: $1650.84 (deductible $1000.0). Filed on 2024-09-09 following incident on 2024-07-31. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009205 is covered by Policy POL-14190503.
+- Claim CLM-C000009205 concerns an incident in CO on 2024-07-31.
+- Claim CLM-C000009205 has outcome Under Review.
+- Claim CLM-C000009205 has claim type Auto.

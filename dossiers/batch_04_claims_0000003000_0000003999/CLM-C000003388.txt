@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003388
+Policy ID: POL-45679260
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 4.6 years
+Previous Claims: 1
+Incident Date: 2023-06-07
+Claim Filed Date: 2023-06-20
+Claim Amount: $36,649.33
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000003388 for property policy in AZ. Policyholder tenure: 4.6 yrs with 1 prior claims. Amount claimed: $36649.33 (deductible $1000.0). Filed on 2023-06-20 following incident on 2023-06-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003388 is covered by Policy POL-45679260.
+- Claim CLM-C000003388 concerns an incident in AZ on 2023-06-07.
+- Claim CLM-C000003388 has outcome Approved.
+- Claim CLM-C000003388 has claim type Property.

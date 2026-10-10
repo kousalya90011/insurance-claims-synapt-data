@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007004
+Policy ID: POL-91405570
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2025-01-10
+Claim Filed Date: 2025-02-17
+Claim Amount: $13,097.07
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000007004 for auto policy in NC. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $13097.07 (deductible $500.0). Filed on 2025-02-17 following incident on 2025-01-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007004 is covered by Policy POL-91405570.
+- Claim CLM-C000007004 concerns an incident in NC on 2025-01-10.
+- Claim CLM-C000007004 has outcome Approved.
+- Claim CLM-C000007004 has claim type Auto.

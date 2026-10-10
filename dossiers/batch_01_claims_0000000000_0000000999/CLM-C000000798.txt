@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000798
+Policy ID: POL-85320691
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 7.4 years
+Previous Claims: 1
+Incident Date: 2023-11-11
+Claim Filed Date: 2023-12-17
+Claim Amount: $3,694.51
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 81 days
+Claim Narrative: Claim CLM-C000000798 for auto policy in IL. Policyholder tenure: 7.4 yrs with 1 prior claims. Amount claimed: $3694.51 (deductible $1000.0). Filed on 2023-12-17 following incident on 2023-11-11. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000798 is covered by Policy POL-85320691.
+- Claim CLM-C000000798 concerns an incident in IL on 2023-11-11.
+- Claim CLM-C000000798 has outcome Denied.
+- Claim CLM-C000000798 has claim type Auto.

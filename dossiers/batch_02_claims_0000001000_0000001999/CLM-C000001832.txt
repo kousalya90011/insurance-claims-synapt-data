@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001832
+Policy ID: POL-43412736
+Claim Type: Property
+State: MA
+Policyholder Tenure: 4.5 years
+Previous Claims: 2
+Incident Date: 2023-11-17
+Claim Filed Date: 2023-11-19
+Claim Amount: $1,735.78
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000001832 for property policy in MA. Policyholder tenure: 4.5 yrs with 2 prior claims. Amount claimed: $1735.78 (deductible $250.0). Filed on 2023-11-19 following incident on 2023-11-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001832 is covered by Policy POL-43412736.
+- Claim CLM-C000001832 concerns an incident in MA on 2023-11-17.
+- Claim CLM-C000001832 has outcome Approved.
+- Claim CLM-C000001832 has claim type Property.

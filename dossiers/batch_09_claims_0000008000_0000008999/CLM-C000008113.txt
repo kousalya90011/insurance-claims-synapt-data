@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008113
+Policy ID: POL-65029711
+Claim Type: Property
+State: MO
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2024-06-08
+Claim Filed Date: 2024-07-12
+Claim Amount: $7,905.03
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000008113 for property policy in MO. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $7905.03 (deductible $2000.0). Filed on 2024-07-12 following incident on 2024-06-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008113 is covered by Policy POL-65029711.
+- Claim CLM-C000008113 concerns an incident in MO on 2024-06-08.
+- Claim CLM-C000008113 has outcome Approved.
+- Claim CLM-C000008113 has claim type Property.

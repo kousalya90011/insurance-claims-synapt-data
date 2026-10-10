@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006527
+Policy ID: POL-97533977
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 5.3 years
+Previous Claims: 0
+Incident Date: 2024-03-20
+Claim Filed Date: 2024-04-25
+Claim Amount: $29,298.21
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 47 days
+Claim Narrative: Claim CLM-C000006527 for auto policy in TN. Policyholder tenure: 5.3 yrs with 0 prior claims. Amount claimed: $29298.21 (deductible $2000.0). Filed on 2024-04-25 following incident on 2024-03-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006527 is covered by Policy POL-97533977.
+- Claim CLM-C000006527 concerns an incident in TN on 2024-03-20.
+- Claim CLM-C000006527 has outcome Approved.
+- Claim CLM-C000006527 has claim type Auto.

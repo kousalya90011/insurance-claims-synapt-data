@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009965
+Policy ID: POL-35531848
+Claim Type: Home
+State: WA
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2024-09-14
+Claim Filed Date: 2024-09-18
+Claim Amount: $27,001.94
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000009965 for home policy in WA. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $27001.94 (deductible $500.0). Filed on 2024-09-18 following incident on 2024-09-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009965 is covered by Policy POL-35531848.
+- Claim CLM-C000009965 concerns an incident in WA on 2024-09-14.
+- Claim CLM-C000009965 has outcome Under Review.
+- Claim CLM-C000009965 has claim type Home.

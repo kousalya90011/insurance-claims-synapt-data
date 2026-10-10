@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006287
+Policy ID: POL-61194337
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 8.6 years
+Previous Claims: 3
+Incident Date: 2023-07-12
+Claim Filed Date: 2023-08-19
+Claim Amount: $14,444.15
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000006287 for auto policy in WI. Policyholder tenure: 8.6 yrs with 3 prior claims. Amount claimed: $14444.15 (deductible $500.0). Filed on 2023-08-19 following incident on 2023-07-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006287 is covered by Policy POL-61194337.
+- Claim CLM-C000006287 concerns an incident in WI on 2023-07-12.
+- Claim CLM-C000006287 has outcome Approved.
+- Claim CLM-C000006287 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001409
+Policy ID: POL-60595365
+Claim Type: Property
+State: OH
+Policyholder Tenure: 18.5 years
+Previous Claims: 1
+Incident Date: 2023-06-28
+Claim Filed Date: 2023-07-01
+Claim Amount: $3,328.95
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000001409 for property policy in OH. Policyholder tenure: 18.5 yrs with 1 prior claims. Amount claimed: $3328.95 (deductible $250.0). Filed on 2023-07-01 following incident on 2023-06-28. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001409 is covered by Policy POL-60595365.
+- Claim CLM-C000001409 concerns an incident in OH on 2023-06-28.
+- Claim CLM-C000001409 has outcome Denied.
+- Claim CLM-C000001409 has claim type Property.

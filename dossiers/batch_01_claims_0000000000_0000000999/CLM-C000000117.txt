@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000117
+Policy ID: POL-68898596
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 5.6 years
+Previous Claims: 3
+Incident Date: 2025-01-16
+Claim Filed Date: 2025-02-28
+Claim Amount: $2,144.47
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000000117 for auto policy in WA. Policyholder tenure: 5.6 yrs with 3 prior claims. Amount claimed: $2144.47 (deductible $500.0). Filed on 2025-02-28 following incident on 2025-01-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000117 is covered by Policy POL-68898596.
+- Claim CLM-C000000117 concerns an incident in WA on 2025-01-16.
+- Claim CLM-C000000117 has outcome Approved.
+- Claim CLM-C000000117 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009964
+Policy ID: POL-92972917
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 7.3 years
+Previous Claims: 0
+Incident Date: 2023-02-23
+Claim Filed Date: 2023-03-17
+Claim Amount: $17,122.71
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000009964 for auto policy in MI. Policyholder tenure: 7.3 yrs with 0 prior claims. Amount claimed: $17122.71 (deductible $1000.0). Filed on 2023-03-17 following incident on 2023-02-23. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009964 is covered by Policy POL-92972917.
+- Claim CLM-C000009964 concerns an incident in MI on 2023-02-23.
+- Claim CLM-C000009964 has outcome Denied.
+- Claim CLM-C000009964 has claim type Auto.

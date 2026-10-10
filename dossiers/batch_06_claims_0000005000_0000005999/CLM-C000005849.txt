@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005849
+Policy ID: POL-73900083
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 5.7 years
+Previous Claims: 0
+Incident Date: 2024-12-31
+Claim Filed Date: 2025-01-16
+Claim Amount: $2,636.51
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 69 days
+Claim Narrative: Claim CLM-C000005849 for renters policy in IL. Policyholder tenure: 5.7 yrs with 0 prior claims. Amount claimed: $2636.51 (deductible $1000.0). Filed on 2025-01-16 following incident on 2024-12-31. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005849 is covered by Policy POL-73900083.
+- Claim CLM-C000005849 concerns an incident in IL on 2024-12-31.
+- Claim CLM-C000005849 has outcome Denied.
+- Claim CLM-C000005849 has claim type Renters.

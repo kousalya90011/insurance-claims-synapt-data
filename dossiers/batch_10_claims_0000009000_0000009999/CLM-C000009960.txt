@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009960
+Policy ID: POL-37184613
+Claim Type: Home
+State: TX
+Policyholder Tenure: 5.1 years
+Previous Claims: 0
+Incident Date: 2023-07-29
+Claim Filed Date: 2023-09-01
+Claim Amount: $9,700.37
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000009960 for home policy in TX. Policyholder tenure: 5.1 yrs with 0 prior claims. Amount claimed: $9700.37 (deductible $250.0). Filed on 2023-09-01 following incident on 2023-07-29. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009960 is covered by Policy POL-37184613.
+- Claim CLM-C000009960 concerns an incident in TX on 2023-07-29.
+- Claim CLM-C000009960 has outcome Pending.
+- Claim CLM-C000009960 has claim type Home.

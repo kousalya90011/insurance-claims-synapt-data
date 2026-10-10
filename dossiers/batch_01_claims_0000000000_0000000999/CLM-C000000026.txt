@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000026
+Policy ID: POL-59088620
+Claim Type: Property
+State: CO
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2024-09-23
+Claim Filed Date: 2024-10-22
+Claim Amount: $22,938.15
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000000026 for property policy in CO. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $22938.15 (deductible $250.0). Filed on 2024-10-22 following incident on 2024-09-23. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000026 is covered by Policy POL-59088620.
+- Claim CLM-C000000026 concerns an incident in CO on 2024-09-23.
+- Claim CLM-C000000026 has outcome Pending.
+- Claim CLM-C000000026 has claim type Property.

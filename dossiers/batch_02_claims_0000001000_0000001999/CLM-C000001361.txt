@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001361
+Policy ID: POL-31158740
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 8.6 years
+Previous Claims: 1
+Incident Date: 2023-01-30
+Claim Filed Date: 2023-02-01
+Claim Amount: $2,337.32
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000001361 for auto policy in MI. Policyholder tenure: 8.6 yrs with 1 prior claims. Amount claimed: $2337.32 (deductible $500.0). Filed on 2023-02-01 following incident on 2023-01-30. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001361 is covered by Policy POL-31158740.
+- Claim CLM-C000001361 concerns an incident in MI on 2023-01-30.
+- Claim CLM-C000001361 has outcome Under Review.
+- Claim CLM-C000001361 has claim type Auto.

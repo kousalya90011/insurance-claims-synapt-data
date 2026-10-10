@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009571
+Policy ID: POL-20374368
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 5.5 years
+Previous Claims: 1
+Incident Date: 2024-09-16
+Claim Filed Date: 2024-10-14
+Claim Amount: $12,436.15
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000009571 for auto policy in FL. Policyholder tenure: 5.5 yrs with 1 prior claims. Amount claimed: $12436.15 (deductible $500.0). Filed on 2024-10-14 following incident on 2024-09-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009571 is covered by Policy POL-20374368.
+- Claim CLM-C000009571 concerns an incident in FL on 2024-09-16.
+- Claim CLM-C000009571 has outcome Approved.
+- Claim CLM-C000009571 has claim type Auto.

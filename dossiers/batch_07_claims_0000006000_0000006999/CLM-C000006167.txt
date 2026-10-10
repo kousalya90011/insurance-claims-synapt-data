@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006167
+Policy ID: POL-79921634
+Claim Type: Home
+State: VA
+Policyholder Tenure: 0.9 years
+Previous Claims: 0
+Incident Date: 2023-03-16
+Claim Filed Date: 2023-04-16
+Claim Amount: $11,336.16
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 58 days
+Claim Narrative: Claim CLM-C000006167 for home policy in VA. Policyholder tenure: 0.9 yrs with 0 prior claims. Amount claimed: $11336.16 (deductible $1000.0). Filed on 2023-04-16 following incident on 2023-03-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006167 is covered by Policy POL-79921634.
+- Claim CLM-C000006167 concerns an incident in VA on 2023-03-16.
+- Claim CLM-C000006167 has outcome Denied.
+- Claim CLM-C000006167 has claim type Home.

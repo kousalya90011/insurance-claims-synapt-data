@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007205
+Policy ID: POL-45274070
+Claim Type: Business
+State: AZ
+Policyholder Tenure: 1.6 years
+Previous Claims: 3
+Incident Date: 2024-11-28
+Claim Filed Date: 2024-12-24
+Claim Amount: $53,816.00
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 44 days
+Claim Narrative: Claim CLM-C000007205 for business policy in AZ. Policyholder tenure: 1.6 yrs with 3 prior claims. Amount claimed: $53816.0 (deductible $500.0). Filed on 2024-12-24 following incident on 2024-11-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007205 is covered by Policy POL-45274070.
+- Claim CLM-C000007205 concerns an incident in AZ on 2024-11-28.
+- Claim CLM-C000007205 has outcome Under Review.
+- Claim CLM-C000007205 has claim type Business.

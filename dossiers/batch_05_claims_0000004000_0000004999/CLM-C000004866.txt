@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004866
+Policy ID: POL-24454846
+Claim Type: Home
+State: PA
+Policyholder Tenure: 2.3 years
+Previous Claims: 2
+Incident Date: 2024-12-07
+Claim Filed Date: 2024-12-21
+Claim Amount: $8,850.13
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004866 for home policy in PA. Policyholder tenure: 2.3 yrs with 2 prior claims. Amount claimed: $8850.13 (deductible $1000.0). Filed on 2024-12-21 following incident on 2024-12-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004866 is covered by Policy POL-24454846.
+- Claim CLM-C000004866 concerns an incident in PA on 2024-12-07.
+- Claim CLM-C000004866 has outcome Approved.
+- Claim CLM-C000004866 has claim type Home.

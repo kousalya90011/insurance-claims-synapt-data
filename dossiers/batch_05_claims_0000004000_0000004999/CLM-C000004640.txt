@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004640
+Policy ID: POL-69869256
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 2.4 years
+Previous Claims: 1
+Incident Date: 2024-06-03
+Claim Filed Date: 2024-06-18
+Claim Amount: $1,342.08
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000004640 for auto policy in MI. Policyholder tenure: 2.4 yrs with 1 prior claims. Amount claimed: $1342.08 (deductible $1000.0). Filed on 2024-06-18 following incident on 2024-06-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004640 is covered by Policy POL-69869256.
+- Claim CLM-C000004640 concerns an incident in MI on 2024-06-03.
+- Claim CLM-C000004640 has outcome Approved.
+- Claim CLM-C000004640 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006477
+Policy ID: POL-96966718
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 1.2 years
+Previous Claims: 1
+Incident Date: 2023-05-23
+Claim Filed Date: 2023-07-02
+Claim Amount: $5,704.49
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000006477 for property policy in AZ. Policyholder tenure: 1.2 yrs with 1 prior claims. Amount claimed: $5704.49 (deductible $250.0). Filed on 2023-07-02 following incident on 2023-05-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006477 is covered by Policy POL-96966718.
+- Claim CLM-C000006477 concerns an incident in AZ on 2023-05-23.
+- Claim CLM-C000006477 has outcome Approved.
+- Claim CLM-C000006477 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008542
+Policy ID: POL-21214922
+Claim Type: Home
+State: NY
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2023-07-28
+Claim Filed Date: 2023-07-31
+Claim Amount: $3,073.64
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000008542 for home policy in NY. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed: $3073.64 (deductible $1000.0). Filed on 2023-07-31 following incident on 2023-07-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008542 is covered by Policy POL-21214922.
+- Claim CLM-C000008542 concerns an incident in NY on 2023-07-28.
+- Claim CLM-C000008542 has outcome Under Review.
+- Claim CLM-C000008542 has claim type Home.

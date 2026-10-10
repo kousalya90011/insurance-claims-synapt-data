@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001711
+Policy ID: POL-76924032
+Claim Type: Home
+State: MD
+Policyholder Tenure: 1.9 years
+Previous Claims: 0
+Incident Date: 2024-01-01
+Claim Filed Date: 2024-01-31
+Claim Amount: $36,509.75
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 44 days
+Claim Narrative: Claim CLM-C000001711 for home policy in MD. Policyholder tenure: 1.9 yrs with 0 prior claims. Amount claimed: $36509.75 (deductible $1000.0). Filed on 2024-01-31 following incident on 2024-01-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001711 is covered by Policy POL-76924032.
+- Claim CLM-C000001711 concerns an incident in MD on 2024-01-01.
+- Claim CLM-C000001711 has outcome Approved.
+- Claim CLM-C000001711 has claim type Home.

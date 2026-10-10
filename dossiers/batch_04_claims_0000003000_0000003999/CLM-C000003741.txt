@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003741
+Policy ID: POL-90374722
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 0.6 years
+Previous Claims: 3
+Incident Date: 2024-05-10
+Claim Filed Date: 2024-06-14
+Claim Amount: $7,854.68
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000003741 for property policy in NJ. Policyholder tenure: 0.6 yrs with 3 prior claims. Amount claimed: $7854.68 (deductible $500.0). Filed on 2024-06-14 following incident on 2024-05-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003741 is covered by Policy POL-90374722.
+- Claim CLM-C000003741 concerns an incident in NJ on 2024-05-10.
+- Claim CLM-C000003741 has outcome Approved.
+- Claim CLM-C000003741 has claim type Property.

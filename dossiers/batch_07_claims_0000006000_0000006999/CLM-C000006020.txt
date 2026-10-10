@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006020
+Policy ID: POL-43652965
+Claim Type: Home
+State: OH
+Policyholder Tenure: 0.1 years
+Previous Claims: 1
+Incident Date: 2023-03-31
+Claim Filed Date: 2023-03-31
+Claim Amount: $13,625.27
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000006020 for home policy in OH. Policyholder tenure: 0.1 yrs with 1 prior claims. Amount claimed: $13625.27 (deductible $250.0). Filed on 2023-03-31 following incident on 2023-03-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006020 is covered by Policy POL-43652965.
+- Claim CLM-C000006020 concerns an incident in OH on 2023-03-31.
+- Claim CLM-C000006020 has outcome Approved.
+- Claim CLM-C000006020 has claim type Home.

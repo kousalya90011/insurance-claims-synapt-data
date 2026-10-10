@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003102
+Policy ID: POL-38291314
+Claim Type: Business
+State: FL
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2024-12-19
+Claim Filed Date: 2025-01-08
+Claim Amount: $162,154.17
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 82 days
+Claim Narrative: Claim CLM-C000003102 for business policy in FL. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $162154.17 (deductible $500.0). Filed on 2025-01-08 following incident on 2024-12-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003102 is covered by Policy POL-38291314.
+- Claim CLM-C000003102 concerns an incident in FL on 2024-12-19.
+- Claim CLM-C000003102 has outcome Approved.
+- Claim CLM-C000003102 has claim type Business.

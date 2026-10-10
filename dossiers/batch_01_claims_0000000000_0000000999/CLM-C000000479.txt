@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000479
+Policy ID: POL-77801817
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 2.1 years
+Previous Claims: 2
+Incident Date: 2024-03-28
+Claim Filed Date: 2024-05-05
+Claim Amount: $17,712.33
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000000479 for auto policy in MI. Policyholder tenure: 2.1 yrs with 2 prior claims. Amount claimed: $17712.33 (deductible $250.0). Filed on 2024-05-05 following incident on 2024-03-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000479 is covered by Policy POL-77801817.
+- Claim CLM-C000000479 concerns an incident in MI on 2024-03-28.
+- Claim CLM-C000000479 has outcome Approved.
+- Claim CLM-C000000479 has claim type Auto.

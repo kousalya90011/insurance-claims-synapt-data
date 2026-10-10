@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002941
+Policy ID: POL-69627662
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 0.3 years
+Previous Claims: 0
+Incident Date: 2024-01-15
+Claim Filed Date: 2024-01-23
+Claim Amount: $1,302.82
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000002941 for auto policy in MI. Policyholder tenure: 0.3 yrs with 0 prior claims. Amount claimed: $1302.82 (deductible $1000.0). Filed on 2024-01-23 following incident on 2024-01-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002941 is covered by Policy POL-69627662.
+- Claim CLM-C000002941 concerns an incident in MI on 2024-01-15.
+- Claim CLM-C000002941 has outcome Approved.
+- Claim CLM-C000002941 has claim type Auto.

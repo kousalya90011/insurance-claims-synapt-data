@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006034
+Policy ID: POL-96761232
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 9.1 years
+Previous Claims: 1
+Incident Date: 2023-05-03
+Claim Filed Date: 2023-05-21
+Claim Amount: $12,628.18
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000006034 for auto policy in NC. Policyholder tenure: 9.1 yrs with 1 prior claims. Amount claimed: $12628.18 (deductible $250.0). Filed on 2023-05-21 following incident on 2023-05-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006034 is covered by Policy POL-96761232.
+- Claim CLM-C000006034 concerns an incident in NC on 2023-05-03.
+- Claim CLM-C000006034 has outcome Approved.
+- Claim CLM-C000006034 has claim type Auto.

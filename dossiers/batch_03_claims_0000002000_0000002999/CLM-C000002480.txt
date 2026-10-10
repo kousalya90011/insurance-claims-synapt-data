@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002480
+Policy ID: POL-25330707
+Claim Type: Home
+State: IL
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2024-03-26
+Claim Filed Date: 2024-04-24
+Claim Amount: $5,917.89
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000002480 for home policy in IL. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $5917.89 (deductible $1000.0). Filed on 2024-04-24 following incident on 2024-03-26. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002480 is covered by Policy POL-25330707.
+- Claim CLM-C000002480 concerns an incident in IL on 2024-03-26.
+- Claim CLM-C000002480 has outcome Under Review.
+- Claim CLM-C000002480 has claim type Home.

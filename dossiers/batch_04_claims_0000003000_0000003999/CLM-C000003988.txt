@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003988
+Policy ID: POL-18743703
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 4.4 years
+Previous Claims: 0
+Incident Date: 2024-07-03
+Claim Filed Date: 2024-08-16
+Claim Amount: $19,359.27
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000003988 for auto policy in CA. Policyholder tenure: 4.4 yrs with 0 prior claims. Amount claimed: $19359.27 (deductible $500.0). Filed on 2024-08-16 following incident on 2024-07-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003988 is covered by Policy POL-18743703.
+- Claim CLM-C000003988 concerns an incident in CA on 2024-07-03.
+- Claim CLM-C000003988 has outcome Approved.
+- Claim CLM-C000003988 has claim type Auto.

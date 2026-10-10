@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006045
+Policy ID: POL-10639169
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 3.4 years
+Previous Claims: 1
+Incident Date: 2024-10-03
+Claim Filed Date: 2024-10-06
+Claim Amount: $2,850.30
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000006045 for auto policy in CO. Policyholder tenure: 3.4 yrs with 1 prior claims. Amount claimed: $2850.3 (deductible $500.0). Filed on 2024-10-06 following incident on 2024-10-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006045 is covered by Policy POL-10639169.
+- Claim CLM-C000006045 concerns an incident in CO on 2024-10-03.
+- Claim CLM-C000006045 has outcome Denied.
+- Claim CLM-C000006045 has claim type Auto.

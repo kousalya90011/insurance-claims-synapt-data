@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007047
+Policy ID: POL-92362455
+Claim Type: Home
+State: WI
+Policyholder Tenure: 10.9 years
+Previous Claims: 0
+Incident Date: 2023-12-10
+Claim Filed Date: 2023-12-15
+Claim Amount: $6,941.37
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000007047 for home policy in WI. Policyholder tenure: 10.9 yrs with 0 prior claims. Amount claimed: $6941.37 (deductible $2000.0). Filed on 2023-12-15 following incident on 2023-12-10. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007047 is covered by Policy POL-92362455.
+- Claim CLM-C000007047 concerns an incident in WI on 2023-12-10.
+- Claim CLM-C000007047 has outcome Denied.
+- Claim CLM-C000007047 has claim type Home.

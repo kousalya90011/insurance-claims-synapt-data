@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006617
+Policy ID: POL-62775185
+Claim Type: Home
+State: NC
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2025-01-10
+Claim Filed Date: 2025-02-03
+Claim Amount: $22,628.22
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000006617 for home policy in NC. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $22628.22 (deductible $250.0). Filed on 2025-02-03 following incident on 2025-01-10. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006617 is covered by Policy POL-62775185.
+- Claim CLM-C000006617 concerns an incident in NC on 2025-01-10.
+- Claim CLM-C000006617 has outcome Denied.
+- Claim CLM-C000006617 has claim type Home.

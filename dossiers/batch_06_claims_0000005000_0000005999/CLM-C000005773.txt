@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005773
+Policy ID: POL-69090718
+Claim Type: Home
+State: MI
+Policyholder Tenure: 1.2 years
+Previous Claims: 4
+Incident Date: 2024-02-07
+Claim Filed Date: 2024-03-21
+Claim Amount: $18,852.18
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000005773 for home policy in MI. Policyholder tenure: 1.2 yrs with 4 prior claims. Amount claimed: $18852.18 (deductible $2500.0). Filed on 2024-03-21 following incident on 2024-02-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005773 is covered by Policy POL-69090718.
+- Claim CLM-C000005773 concerns an incident in MI on 2024-02-07.
+- Claim CLM-C000005773 has outcome Approved.
+- Claim CLM-C000005773 has claim type Home.

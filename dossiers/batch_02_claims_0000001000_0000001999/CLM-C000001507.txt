@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001507
+Policy ID: POL-12815516
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 6.8 years
+Previous Claims: 1
+Incident Date: 2023-06-05
+Claim Filed Date: 2023-06-30
+Claim Amount: $12,228.40
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000001507 for auto policy in NY. Policyholder tenure: 6.8 yrs with 1 prior claims. Amount claimed: $12228.4 (deductible $2500.0). Filed on 2023-06-30 following incident on 2023-06-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001507 is covered by Policy POL-12815516.
+- Claim CLM-C000001507 concerns an incident in NY on 2023-06-05.
+- Claim CLM-C000001507 has outcome Approved.
+- Claim CLM-C000001507 has claim type Auto.

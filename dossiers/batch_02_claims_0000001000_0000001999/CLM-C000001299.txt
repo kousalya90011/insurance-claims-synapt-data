@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001299
+Policy ID: POL-59469867
+Claim Type: Home
+State: TX
+Policyholder Tenure: 7.5 years
+Previous Claims: 2
+Incident Date: 2023-01-25
+Claim Filed Date: 2023-02-18
+Claim Amount: $13,245.49
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000001299 for home policy in TX. Policyholder tenure: 7.5 yrs with 2 prior claims. Amount claimed: $13245.49 (deductible $1000.0). Filed on 2023-02-18 following incident on 2023-01-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001299 is covered by Policy POL-59469867.
+- Claim CLM-C000001299 concerns an incident in TX on 2023-01-25.
+- Claim CLM-C000001299 has outcome Approved.
+- Claim CLM-C000001299 has claim type Home.

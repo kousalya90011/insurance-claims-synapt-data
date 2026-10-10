@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007300
+Policy ID: POL-62023934
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 4.6 years
+Previous Claims: 0
+Incident Date: 2023-01-27
+Claim Filed Date: 2023-02-21
+Claim Amount: $1,186.03
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000007300 for auto policy in MD. Policyholder tenure: 4.6 yrs with 0 prior claims. Amount claimed: $1186.03 (deductible $2500.0). Filed on 2023-02-21 following incident on 2023-01-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007300 is covered by Policy POL-62023934.
+- Claim CLM-C000007300 concerns an incident in MD on 2023-01-27.
+- Claim CLM-C000007300 has outcome Approved.
+- Claim CLM-C000007300 has claim type Auto.

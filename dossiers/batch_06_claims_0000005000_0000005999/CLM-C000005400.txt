@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005400
+Policy ID: POL-12964241
+Claim Type: Home
+State: PA
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2025-01-04
+Claim Filed Date: 2025-01-23
+Claim Amount: $3,940.50
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000005400 for home policy in PA. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $3940.5 (deductible $250.0). Filed on 2025-01-23 following incident on 2025-01-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005400 is covered by Policy POL-12964241.
+- Claim CLM-C000005400 concerns an incident in PA on 2025-01-04.
+- Claim CLM-C000005400 has outcome Approved.
+- Claim CLM-C000005400 has claim type Home.

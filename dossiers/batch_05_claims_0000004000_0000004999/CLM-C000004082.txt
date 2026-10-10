@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004082
+Policy ID: POL-74292942
+Claim Type: Home
+State: CO
+Policyholder Tenure: 6.6 years
+Previous Claims: 0
+Incident Date: 2024-07-03
+Claim Filed Date: 2024-07-17
+Claim Amount: $13,350.49
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000004082 for home policy in CO. Policyholder tenure: 6.6 yrs with 0 prior claims. Amount claimed: $13350.49 (deductible $1000.0). Filed on 2024-07-17 following incident on 2024-07-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004082 is covered by Policy POL-74292942.
+- Claim CLM-C000004082 concerns an incident in CO on 2024-07-03.
+- Claim CLM-C000004082 has outcome Denied.
+- Claim CLM-C000004082 has claim type Home.

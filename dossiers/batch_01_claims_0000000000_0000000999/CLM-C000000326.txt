@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000326
+Policy ID: POL-82742631
+Claim Type: Property
+State: CO
+Policyholder Tenure: 7.3 years
+Previous Claims: 0
+Incident Date: 2023-09-16
+Claim Filed Date: 2023-10-21
+Claim Amount: $1,677.16
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000000326 for property policy in CO. Policyholder tenure: 7.3 yrs with 0 prior claims. Amount claimed: $1677.16 (deductible $2000.0). Filed on 2023-10-21 following incident on 2023-09-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000326 is covered by Policy POL-82742631.
+- Claim CLM-C000000326 concerns an incident in CO on 2023-09-16.
+- Claim CLM-C000000326 has outcome Denied.
+- Claim CLM-C000000326 has claim type Property.

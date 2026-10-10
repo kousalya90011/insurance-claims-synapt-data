@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000633
+Policy ID: POL-96444370
+Claim Type: Property
+State: CO
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2024-07-09
+Claim Filed Date: 2024-07-16
+Claim Amount: $1,696.06
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000000633 for property policy in CO. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $1696.06 (deductible $1000.0). Filed on 2024-07-16 following incident on 2024-07-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000633 is covered by Policy POL-96444370.
+- Claim CLM-C000000633 concerns an incident in CO on 2024-07-09.
+- Claim CLM-C000000633 has outcome Approved.
+- Claim CLM-C000000633 has claim type Property.

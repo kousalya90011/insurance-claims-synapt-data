@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009042
+Policy ID: POL-45763852
+Claim Type: Business
+State: VA
+Policyholder Tenure: 7.5 years
+Previous Claims: 2
+Incident Date: 2024-11-26
+Claim Filed Date: 2024-12-26
+Claim Amount: $15,330.15
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000009042 for business policy in VA. Policyholder tenure: 7.5 yrs with 2 prior claims. Amount claimed: $15330.15 (deductible $250.0). Filed on 2024-12-26 following incident on 2024-11-26. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009042 is covered by Policy POL-45763852.
+- Claim CLM-C000009042 concerns an incident in VA on 2024-11-26.
+- Claim CLM-C000009042 has outcome Under Review.
+- Claim CLM-C000009042 has claim type Business.

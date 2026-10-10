@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005120
+Policy ID: POL-51587922
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 2.5 years
+Previous Claims: 1
+Incident Date: 2023-07-24
+Claim Filed Date: 2023-08-10
+Claim Amount: $13,564.08
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000005120 for home policy in NJ. Policyholder tenure: 2.5 yrs with 1 prior claims. Amount claimed: $13564.08 (deductible $500.0). Filed on 2023-08-10 following incident on 2023-07-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005120 is covered by Policy POL-51587922.
+- Claim CLM-C000005120 concerns an incident in NJ on 2023-07-24.
+- Claim CLM-C000005120 has outcome Approved.
+- Claim CLM-C000005120 has claim type Home.

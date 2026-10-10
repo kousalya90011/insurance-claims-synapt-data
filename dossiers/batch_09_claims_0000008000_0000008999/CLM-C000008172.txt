@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008172
+Policy ID: POL-62278420
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 4.9 years
+Previous Claims: 1
+Incident Date: 2024-12-22
+Claim Filed Date: 2025-01-19
+Claim Amount: $16,585.16
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000008172 for auto policy in MO. Policyholder tenure: 4.9 yrs with 1 prior claims. Amount claimed: $16585.16 (deductible $500.0). Filed on 2025-01-19 following incident on 2024-12-22. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008172 is covered by Policy POL-62278420.
+- Claim CLM-C000008172 concerns an incident in MO on 2024-12-22.
+- Claim CLM-C000008172 has outcome Denied.
+- Claim CLM-C000008172 has claim type Auto.

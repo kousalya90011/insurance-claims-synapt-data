@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001973
+Policy ID: POL-80887187
+Claim Type: Property
+State: MI
+Policyholder Tenure: 4.5 years
+Previous Claims: 2
+Incident Date: 2024-12-06
+Claim Filed Date: 2024-12-28
+Claim Amount: $3,598.72
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001973 for property policy in MI. Policyholder tenure: 4.5 yrs with 2 prior claims. Amount claimed: $3598.72 (deductible $1000.0). Filed on 2024-12-28 following incident on 2024-12-06. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001973 is covered by Policy POL-80887187.
+- Claim CLM-C000001973 concerns an incident in MI on 2024-12-06.
+- Claim CLM-C000001973 has outcome Pending.
+- Claim CLM-C000001973 has claim type Property.

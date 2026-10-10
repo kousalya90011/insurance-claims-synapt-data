@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009026
+Policy ID: POL-88453532
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 4.2 years
+Previous Claims: 1
+Incident Date: 2023-03-23
+Claim Filed Date: 2023-04-06
+Claim Amount: $7,219.18
+Deductible: $2,000.00
+Claim Status: Pending
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000009026 for renters policy in MD. Policyholder tenure: 4.2 yrs with 1 prior claims. Amount claimed: $7219.18 (deductible $2000.0). Filed on 2023-04-06 following incident on 2023-03-23. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009026 is covered by Policy POL-88453532.
+- Claim CLM-C000009026 concerns an incident in MD on 2023-03-23.
+- Claim CLM-C000009026 has outcome Pending.
+- Claim CLM-C000009026 has claim type Renters.

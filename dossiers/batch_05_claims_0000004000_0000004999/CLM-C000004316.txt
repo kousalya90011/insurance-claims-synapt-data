@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004316
+Policy ID: POL-44112372
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 2.4 years
+Previous Claims: 1
+Incident Date: 2024-08-31
+Claim Filed Date: 2024-10-03
+Claim Amount: $1,810.50
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000004316 for renters policy in IL. Policyholder tenure: 2.4 yrs with 1 prior claims. Amount claimed: $1810.5 (deductible $1000.0). Filed on 2024-10-03 following incident on 2024-08-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004316 is covered by Policy POL-44112372.
+- Claim CLM-C000004316 concerns an incident in IL on 2024-08-31.
+- Claim CLM-C000004316 has outcome Approved.
+- Claim CLM-C000004316 has claim type Renters.

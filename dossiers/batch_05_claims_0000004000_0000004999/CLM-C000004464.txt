@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004464
+Policy ID: POL-13278717
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 8.5 years
+Previous Claims: 1
+Incident Date: 2023-11-14
+Claim Filed Date: 2023-12-02
+Claim Amount: $6,370.36
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000004464 for renters policy in NJ. Policyholder tenure: 8.5 yrs with 1 prior claims. Amount claimed: $6370.36 (deductible $1000.0). Filed on 2023-12-02 following incident on 2023-11-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004464 is covered by Policy POL-13278717.
+- Claim CLM-C000004464 concerns an incident in NJ on 2023-11-14.
+- Claim CLM-C000004464 has outcome Under Review.
+- Claim CLM-C000004464 has claim type Renters.

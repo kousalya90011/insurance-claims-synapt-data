@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009035
+Policy ID: POL-98023845
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-02-28
+Claim Filed Date: 2023-03-22
+Claim Amount: $594.67
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000009035 for renters policy in MO. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $594.67 (deductible $250.0). Filed on 2023-03-22 following incident on 2023-02-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009035 is covered by Policy POL-98023845.
+- Claim CLM-C000009035 concerns an incident in MO on 2023-02-28.
+- Claim CLM-C000009035 has outcome Approved.
+- Claim CLM-C000009035 has claim type Renters.

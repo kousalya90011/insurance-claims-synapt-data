@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006358
+Policy ID: POL-24782804
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 0.3 years
+Previous Claims: 0
+Incident Date: 2023-12-19
+Claim Filed Date: 2024-01-06
+Claim Amount: $5,483.35
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000006358 for auto policy in TN. Policyholder tenure: 0.3 yrs with 0 prior claims. Amount claimed: $5483.35 (deductible $250.0). Filed on 2024-01-06 following incident on 2023-12-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006358 is covered by Policy POL-24782804.
+- Claim CLM-C000006358 concerns an incident in TN on 2023-12-19.
+- Claim CLM-C000006358 has outcome Under Review.
+- Claim CLM-C000006358 has claim type Auto.

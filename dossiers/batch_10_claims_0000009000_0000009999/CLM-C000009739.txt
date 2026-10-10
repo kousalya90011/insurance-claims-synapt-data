@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009739
+Policy ID: POL-30503003
+Claim Type: Home
+State: FL
+Policyholder Tenure: 1.8 years
+Previous Claims: 2
+Incident Date: 2023-04-04
+Claim Filed Date: 2023-05-07
+Claim Amount: $38,150.77
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000009739 for home policy in FL. Policyholder tenure: 1.8 yrs with 2 prior claims. Amount claimed: $38150.77 (deductible $2000.0). Filed on 2023-05-07 following incident on 2023-04-04. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009739 is covered by Policy POL-30503003.
+- Claim CLM-C000009739 concerns an incident in FL on 2023-04-04.
+- Claim CLM-C000009739 has outcome Under Review.
+- Claim CLM-C000009739 has claim type Home.

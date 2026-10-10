@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006039
+Policy ID: POL-18689410
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 4.1 years
+Previous Claims: 1
+Incident Date: 2024-05-05
+Claim Filed Date: 2024-05-26
+Claim Amount: $9,232.38
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000006039 for renters policy in NJ. Policyholder tenure: 4.1 yrs with 1 prior claims. Amount claimed: $9232.38 (deductible $500.0). Filed on 2024-05-26 following incident on 2024-05-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006039 is covered by Policy POL-18689410.
+- Claim CLM-C000006039 concerns an incident in NJ on 2024-05-05.
+- Claim CLM-C000006039 has outcome Approved.
+- Claim CLM-C000006039 has claim type Renters.

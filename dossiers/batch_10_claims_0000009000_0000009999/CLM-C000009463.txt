@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009463
+Policy ID: POL-28528096
+Claim Type: Home
+State: CA
+Policyholder Tenure: 15.9 years
+Previous Claims: 0
+Incident Date: 2024-02-23
+Claim Filed Date: 2024-03-08
+Claim Amount: $8,939.46
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000009463 for home policy in CA. Policyholder tenure: 15.9 yrs with 0 prior claims. Amount claimed: $8939.46 (deductible $1000.0). Filed on 2024-03-08 following incident on 2024-02-23. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009463 is covered by Policy POL-28528096.
+- Claim CLM-C000009463 concerns an incident in CA on 2024-02-23.
+- Claim CLM-C000009463 has outcome Pending.
+- Claim CLM-C000009463 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009621
+Policy ID: POL-30252126
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 5.0 years
+Previous Claims: 0
+Incident Date: 2023-08-23
+Claim Filed Date: 2023-08-30
+Claim Amount: $13,188.77
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000009621 for auto policy in GA. Policyholder tenure: 5.0 yrs with 0 prior claims. Amount claimed: $13188.77 (deductible $500.0). Filed on 2023-08-30 following incident on 2023-08-23. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009621 is covered by Policy POL-30252126.
+- Claim CLM-C000009621 concerns an incident in GA on 2023-08-23.
+- Claim CLM-C000009621 has outcome Under Review.
+- Claim CLM-C000009621 has claim type Auto.

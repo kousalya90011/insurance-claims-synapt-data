@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008662
+Policy ID: POL-11748050
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2024-02-27
+Claim Filed Date: 2024-03-07
+Claim Amount: $9,585.35
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000008662 for property policy in NJ. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $9585.35 (deductible $500.0). Filed on 2024-03-07 following incident on 2024-02-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008662 is covered by Policy POL-11748050.
+- Claim CLM-C000008662 concerns an incident in NJ on 2024-02-27.
+- Claim CLM-C000008662 has outcome Under Review.
+- Claim CLM-C000008662 has claim type Property.

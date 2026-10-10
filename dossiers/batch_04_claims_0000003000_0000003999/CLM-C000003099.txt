@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003099
+Policy ID: POL-20668131
+Claim Type: Home
+State: OH
+Policyholder Tenure: 4.4 years
+Previous Claims: 2
+Incident Date: 2023-02-14
+Claim Filed Date: 2023-02-25
+Claim Amount: $23,414.89
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 89 days
+Claim Narrative: Claim CLM-C000003099 for home policy in OH. Policyholder tenure: 4.4 yrs with 2 prior claims. Amount claimed: $23414.89 (deductible $250.0). Filed on 2023-02-25 following incident on 2023-02-14. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003099 is covered by Policy POL-20668131.
+- Claim CLM-C000003099 concerns an incident in OH on 2023-02-14.
+- Claim CLM-C000003099 has outcome Denied.
+- Claim CLM-C000003099 has claim type Home.

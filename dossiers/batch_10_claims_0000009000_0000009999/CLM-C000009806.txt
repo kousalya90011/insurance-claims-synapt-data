@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009806
+Policy ID: POL-27971097
+Claim Type: Home
+State: NC
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2023-10-22
+Claim Filed Date: 2023-11-11
+Claim Amount: $17,857.17
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000009806 for home policy in NC. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $17857.17 (deductible $500.0). Filed on 2023-11-11 following incident on 2023-10-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009806 is covered by Policy POL-27971097.
+- Claim CLM-C000009806 concerns an incident in NC on 2023-10-22.
+- Claim CLM-C000009806 has outcome Approved.
+- Claim CLM-C000009806 has claim type Home.

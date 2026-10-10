@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009190
+Policy ID: POL-13260131
+Claim Type: Business
+State: VA
+Policyholder Tenure: 11.1 years
+Previous Claims: 1
+Incident Date: 2023-02-21
+Claim Filed Date: 2023-03-25
+Claim Amount: $18,160.50
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000009190 for business policy in VA. Policyholder tenure: 11.1 yrs with 1 prior claims. Amount claimed: $18160.5 (deductible $500.0). Filed on 2023-03-25 following incident on 2023-02-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009190 is covered by Policy POL-13260131.
+- Claim CLM-C000009190 concerns an incident in VA on 2023-02-21.
+- Claim CLM-C000009190 has outcome Approved.
+- Claim CLM-C000009190 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007416
+Policy ID: POL-43331583
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 0.8 years
+Previous Claims: 0
+Incident Date: 2023-01-25
+Claim Filed Date: 2023-02-15
+Claim Amount: $5,000.66
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000007416 for auto policy in MI. Policyholder tenure: 0.8 yrs with 0 prior claims. Amount claimed: $5000.66 (deductible $500.0). Filed on 2023-02-15 following incident on 2023-01-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007416 is covered by Policy POL-43331583.
+- Claim CLM-C000007416 concerns an incident in MI on 2023-01-25.
+- Claim CLM-C000007416 has outcome Approved.
+- Claim CLM-C000007416 has claim type Auto.

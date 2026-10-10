@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000750
+Policy ID: POL-65140821
+Claim Type: Home
+State: OH
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2024-11-20
+Claim Filed Date: 2024-11-29
+Claim Amount: $67,812.41
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 54 days
+Claim Narrative: Claim CLM-C000000750 for home policy in OH. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $67812.41 (deductible $500.0). Filed on 2024-11-29 following incident on 2024-11-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000750 is covered by Policy POL-65140821.
+- Claim CLM-C000000750 concerns an incident in OH on 2024-11-20.
+- Claim CLM-C000000750 has outcome Approved.
+- Claim CLM-C000000750 has claim type Home.

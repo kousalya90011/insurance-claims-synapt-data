@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005698
+Policy ID: POL-93811898
+Claim Type: Home
+State: NC
+Policyholder Tenure: 6.0 years
+Previous Claims: 0
+Incident Date: 2023-07-11
+Claim Filed Date: 2023-07-22
+Claim Amount: $4,935.41
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000005698 for home policy in NC. Policyholder tenure: 6.0 yrs with 0 prior claims. Amount claimed: $4935.41 (deductible $500.0). Filed on 2023-07-22 following incident on 2023-07-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005698 is covered by Policy POL-93811898.
+- Claim CLM-C000005698 concerns an incident in NC on 2023-07-11.
+- Claim CLM-C000005698 has outcome Approved.
+- Claim CLM-C000005698 has claim type Home.

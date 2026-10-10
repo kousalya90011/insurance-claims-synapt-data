@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004164
+Policy ID: POL-92120201
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 1.9 years
+Previous Claims: 1
+Incident Date: 2023-03-15
+Claim Filed Date: 2023-03-16
+Claim Amount: $7,280.59
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000004164 for auto policy in MA. Policyholder tenure: 1.9 yrs with 1 prior claims. Amount claimed: $7280.59 (deductible $2500.0). Filed on 2023-03-16 following incident on 2023-03-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004164 is covered by Policy POL-92120201.
+- Claim CLM-C000004164 concerns an incident in MA on 2023-03-15.
+- Claim CLM-C000004164 has outcome Approved.
+- Claim CLM-C000004164 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007899
+Policy ID: POL-68366234
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 0.9 years
+Previous Claims: 2
+Incident Date: 2023-05-09
+Claim Filed Date: 2023-05-23
+Claim Amount: $568.80
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000007899 for renters policy in CO. Policyholder tenure: 0.9 yrs with 2 prior claims. Amount claimed: $568.8 (deductible $250.0). Filed on 2023-05-23 following incident on 2023-05-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007899 is covered by Policy POL-68366234.
+- Claim CLM-C000007899 concerns an incident in CO on 2023-05-09.
+- Claim CLM-C000007899 has outcome Approved.
+- Claim CLM-C000007899 has claim type Renters.

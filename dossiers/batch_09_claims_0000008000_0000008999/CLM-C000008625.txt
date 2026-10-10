@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008625
+Policy ID: POL-29531913
+Claim Type: Business
+State: TX
+Policyholder Tenure: 7.3 years
+Previous Claims: 1
+Incident Date: 2023-06-05
+Claim Filed Date: 2023-06-21
+Claim Amount: $89,310.27
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: 50 days
+Claim Narrative: Claim CLM-C000008625 for business policy in TX. Policyholder tenure: 7.3 yrs with 1 prior claims. Amount claimed: $89310.27 (deductible $250.0). Filed on 2023-06-21 following incident on 2023-06-05. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008625 is covered by Policy POL-29531913.
+- Claim CLM-C000008625 concerns an incident in TX on 2023-06-05.
+- Claim CLM-C000008625 has outcome Pending.
+- Claim CLM-C000008625 has claim type Business.

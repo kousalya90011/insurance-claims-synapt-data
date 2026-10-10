@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009782
+Policy ID: POL-25194483
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 4.5 years
+Previous Claims: 1
+Incident Date: 2023-07-07
+Claim Filed Date: 2023-07-31
+Claim Amount: $17,655.19
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000009782 for auto policy in TN. Policyholder tenure: 4.5 yrs with 1 prior claims. Amount claimed: $17655.19 (deductible $1000.0). Filed on 2023-07-31 following incident on 2023-07-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009782 is covered by Policy POL-25194483.
+- Claim CLM-C000009782 concerns an incident in TN on 2023-07-07.
+- Claim CLM-C000009782 has outcome Approved.
+- Claim CLM-C000009782 has claim type Auto.

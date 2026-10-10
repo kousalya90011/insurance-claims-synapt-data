@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002553
+Policy ID: POL-57918906
+Claim Type: Home
+State: CO
+Policyholder Tenure: 36.7 years
+Previous Claims: 2
+Incident Date: 2024-04-27
+Claim Filed Date: 2024-04-28
+Claim Amount: $74,307.86
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 57 days
+Claim Narrative: Claim CLM-C000002553 for home policy in CO. Policyholder tenure: 36.7 yrs with 2 prior claims. Amount claimed: $74307.86 (deductible $500.0). Filed on 2024-04-28 following incident on 2024-04-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002553 is covered by Policy POL-57918906.
+- Claim CLM-C000002553 concerns an incident in CO on 2024-04-27.
+- Claim CLM-C000002553 has outcome Under Review.
+- Claim CLM-C000002553 has claim type Home.

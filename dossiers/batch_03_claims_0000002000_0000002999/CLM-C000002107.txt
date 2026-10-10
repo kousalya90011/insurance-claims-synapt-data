@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002107
+Policy ID: POL-86258045
+Claim Type: Home
+State: CA
+Policyholder Tenure: 4.4 years
+Previous Claims: 1
+Incident Date: 2023-04-10
+Claim Filed Date: 2023-04-25
+Claim Amount: $8,288.13
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000002107 for home policy in CA. Policyholder tenure: 4.4 yrs with 1 prior claims. Amount claimed: $8288.13 (deductible $500.0). Filed on 2023-04-25 following incident on 2023-04-10. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002107 is covered by Policy POL-86258045.
+- Claim CLM-C000002107 concerns an incident in CA on 2023-04-10.
+- Claim CLM-C000002107 has outcome Under Review.
+- Claim CLM-C000002107 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002259
+Policy ID: POL-23817296
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 0.3 years
+Previous Claims: 0
+Incident Date: 2023-09-09
+Claim Filed Date: 2023-10-11
+Claim Amount: $7,982.00
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000002259 for property policy in NJ. Policyholder tenure: 0.3 yrs with 0 prior claims. Amount claimed: $7982.0 (deductible $500.0). Filed on 2023-10-11 following incident on 2023-09-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002259 is covered by Policy POL-23817296.
+- Claim CLM-C000002259 concerns an incident in NJ on 2023-09-09.
+- Claim CLM-C000002259 has outcome Approved.
+- Claim CLM-C000002259 has claim type Property.

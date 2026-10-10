@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000773
+Policy ID: POL-18610978
+Claim Type: Home
+State: IL
+Policyholder Tenure: 1.2 years
+Previous Claims: 1
+Incident Date: 2024-11-08
+Claim Filed Date: 2024-11-15
+Claim Amount: $30,079.28
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 43 days
+Claim Narrative: Claim CLM-C000000773 for home policy in IL. Policyholder tenure: 1.2 yrs with 1 prior claims. Amount claimed: $30079.28 (deductible $1000.0). Filed on 2024-11-15 following incident on 2024-11-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000773 is covered by Policy POL-18610978.
+- Claim CLM-C000000773 concerns an incident in IL on 2024-11-08.
+- Claim CLM-C000000773 has outcome Denied.
+- Claim CLM-C000000773 has claim type Home.

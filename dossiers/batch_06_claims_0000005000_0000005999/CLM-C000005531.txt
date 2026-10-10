@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005531
+Policy ID: POL-56922800
+Claim Type: Home
+State: MI
+Policyholder Tenure: 12.3 years
+Previous Claims: 1
+Incident Date: 2023-09-20
+Claim Filed Date: 2023-10-25
+Claim Amount: $6,943.41
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000005531 for home policy in MI. Policyholder tenure: 12.3 yrs with 1 prior claims. Amount claimed: $6943.41 (deductible $500.0). Filed on 2023-10-25 following incident on 2023-09-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005531 is covered by Policy POL-56922800.
+- Claim CLM-C000005531 concerns an incident in MI on 2023-09-20.
+- Claim CLM-C000005531 has outcome Approved.
+- Claim CLM-C000005531 has claim type Home.

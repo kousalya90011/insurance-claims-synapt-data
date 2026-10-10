@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002318
+Policy ID: POL-25781185
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 8.6 years
+Previous Claims: 0
+Incident Date: 2024-10-24
+Claim Filed Date: 2024-11-01
+Claim Amount: $5,503.49
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000002318 for auto policy in MD. Policyholder tenure: 8.6 yrs with 0 prior claims. Amount claimed: $5503.49 (deductible $500.0). Filed on 2024-11-01 following incident on 2024-10-24. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000002318 is covered by Policy POL-25781185.
+- Claim CLM-C000002318 concerns an incident in MD on 2024-10-24.
+- Claim CLM-C000002318 has outcome Pending.
+- Claim CLM-C000002318 has claim type Auto.

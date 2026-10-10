@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004500
+Policy ID: POL-64584853
+Claim Type: Property
+State: IL
+Policyholder Tenure: 9.8 years
+Previous Claims: 0
+Incident Date: 2023-05-23
+Claim Filed Date: 2023-05-31
+Claim Amount: $8,397.25
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000004500 for property policy in IL. Policyholder tenure: 9.8 yrs with 0 prior claims. Amount claimed: $8397.25 (deductible $1000.0). Filed on 2023-05-31 following incident on 2023-05-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004500 is covered by Policy POL-64584853.
+- Claim CLM-C000004500 concerns an incident in IL on 2023-05-23.
+- Claim CLM-C000004500 has outcome Approved.
+- Claim CLM-C000004500 has claim type Property.

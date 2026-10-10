@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005421
+Policy ID: POL-49312743
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2025-01-02
+Claim Filed Date: 2025-01-27
+Claim Amount: $1,547.25
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000005421 for renters policy in VA. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $1547.25 (deductible $2000.0). Filed on 2025-01-27 following incident on 2025-01-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005421 is covered by Policy POL-49312743.
+- Claim CLM-C000005421 concerns an incident in VA on 2025-01-02.
+- Claim CLM-C000005421 has outcome Approved.
+- Claim CLM-C000005421 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006480
+Policy ID: POL-96103358
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 10.8 years
+Previous Claims: 0
+Incident Date: 2024-07-14
+Claim Filed Date: 2024-08-01
+Claim Amount: $12,035.82
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000006480 for auto policy in MO. Policyholder tenure: 10.8 yrs with 0 prior claims. Amount claimed: $12035.82 (deductible $250.0). Filed on 2024-08-01 following incident on 2024-07-14. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006480 is covered by Policy POL-96103358.
+- Claim CLM-C000006480 concerns an incident in MO on 2024-07-14.
+- Claim CLM-C000006480 has outcome Denied.
+- Claim CLM-C000006480 has claim type Auto.

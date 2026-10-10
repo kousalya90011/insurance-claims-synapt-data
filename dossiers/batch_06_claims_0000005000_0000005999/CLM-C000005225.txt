@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005225
+Policy ID: POL-85662654
+Claim Type: Renters
+State: WA
+Policyholder Tenure: 4.2 years
+Previous Claims: 0
+Incident Date: 2023-11-19
+Claim Filed Date: 2023-12-10
+Claim Amount: $4,669.83
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000005225 for renters policy in WA. Policyholder tenure: 4.2 yrs with 0 prior claims. Amount claimed: $4669.83 (deductible $250.0). Filed on 2023-12-10 following incident on 2023-11-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005225 is covered by Policy POL-85662654.
+- Claim CLM-C000005225 concerns an incident in WA on 2023-11-19.
+- Claim CLM-C000005225 has outcome Approved.
+- Claim CLM-C000005225 has claim type Renters.

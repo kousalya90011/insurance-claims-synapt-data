@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005219
+Policy ID: POL-45498333
+Claim Type: Home
+State: FL
+Policyholder Tenure: 1.3 years
+Previous Claims: 3
+Incident Date: 2023-01-31
+Claim Filed Date: 2023-03-03
+Claim Amount: $27,616.10
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 46 days
+Claim Narrative: Claim CLM-C000005219 for home policy in FL. Policyholder tenure: 1.3 yrs with 3 prior claims. Amount claimed: $27616.1 (deductible $500.0). Filed on 2023-03-03 following incident on 2023-01-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005219 is covered by Policy POL-45498333.
+- Claim CLM-C000005219 concerns an incident in FL on 2023-01-31.
+- Claim CLM-C000005219 has outcome Approved.
+- Claim CLM-C000005219 has claim type Home.

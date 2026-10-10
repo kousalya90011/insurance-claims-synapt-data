@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007845
+Policy ID: POL-99139795
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 19.0 years
+Previous Claims: 1
+Incident Date: 2024-08-01
+Claim Filed Date: 2024-08-23
+Claim Amount: $17,335.26
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 43 days
+Claim Narrative: Claim CLM-C000007845 for auto policy in WA. Policyholder tenure: 19.0 yrs with 1 prior claims. Amount claimed: $17335.26 (deductible $500.0). Filed on 2024-08-23 following incident on 2024-08-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007845 is covered by Policy POL-99139795.
+- Claim CLM-C000007845 concerns an incident in WA on 2024-08-01.
+- Claim CLM-C000007845 has outcome Approved.
+- Claim CLM-C000007845 has claim type Auto.

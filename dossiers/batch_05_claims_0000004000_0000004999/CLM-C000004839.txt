@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004839
+Policy ID: POL-29956418
+Claim Type: Home
+State: TX
+Policyholder Tenure: 6.1 years
+Previous Claims: 0
+Incident Date: 2024-06-28
+Claim Filed Date: 2024-07-12
+Claim Amount: $22,880.83
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004839 for home policy in TX. Policyholder tenure: 6.1 yrs with 0 prior claims. Amount claimed: $22880.83 (deductible $500.0). Filed on 2024-07-12 following incident on 2024-06-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004839 is covered by Policy POL-29956418.
+- Claim CLM-C000004839 concerns an incident in TX on 2024-06-28.
+- Claim CLM-C000004839 has outcome Approved.
+- Claim CLM-C000004839 has claim type Home.

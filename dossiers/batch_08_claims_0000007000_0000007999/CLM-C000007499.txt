@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007499
+Policy ID: POL-60766463
+Claim Type: Home
+State: VA
+Policyholder Tenure: 3.0 years
+Previous Claims: 3
+Incident Date: 2024-08-05
+Claim Filed Date: 2024-08-19
+Claim Amount: $14,812.94
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000007499 for home policy in VA. Policyholder tenure: 3.0 yrs with 3 prior claims. Amount claimed: $14812.94 (deductible $500.0). Filed on 2024-08-19 following incident on 2024-08-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007499 is covered by Policy POL-60766463.
+- Claim CLM-C000007499 concerns an incident in VA on 2024-08-05.
+- Claim CLM-C000007499 has outcome Approved.
+- Claim CLM-C000007499 has claim type Home.

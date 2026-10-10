@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007324
+Policy ID: POL-80054985
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 10.4 years
+Previous Claims: 1
+Incident Date: 2023-04-22
+Claim Filed Date: 2023-05-07
+Claim Amount: $2,724.99
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000007324 for auto policy in NC. Policyholder tenure: 10.4 yrs with 1 prior claims. Amount claimed: $2724.99 (deductible $250.0). Filed on 2023-05-07 following incident on 2023-04-22. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007324 is covered by Policy POL-80054985.
+- Claim CLM-C000007324 concerns an incident in NC on 2023-04-22.
+- Claim CLM-C000007324 has outcome Under Review.
+- Claim CLM-C000007324 has claim type Auto.

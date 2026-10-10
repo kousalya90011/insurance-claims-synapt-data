@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002667
+Policy ID: POL-66397475
+Claim Type: Property
+State: MI
+Policyholder Tenure: 0.9 years
+Previous Claims: 2
+Incident Date: 2024-08-15
+Claim Filed Date: 2024-08-20
+Claim Amount: $17,472.47
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000002667 for property policy in MI. Policyholder tenure: 0.9 yrs with 2 prior claims. Amount claimed: $17472.47 (deductible $500.0). Filed on 2024-08-20 following incident on 2024-08-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002667 is covered by Policy POL-66397475.
+- Claim CLM-C000002667 concerns an incident in MI on 2024-08-15.
+- Claim CLM-C000002667 has outcome Approved.
+- Claim CLM-C000002667 has claim type Property.

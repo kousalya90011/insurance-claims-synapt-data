@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008626
+Policy ID: POL-52444249
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 11.7 years
+Previous Claims: 1
+Incident Date: 2023-09-05
+Claim Filed Date: 2023-10-17
+Claim Amount: $4,489.65
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000008626 for auto policy in MA. Policyholder tenure: 11.7 yrs with 1 prior claims. Amount claimed: $4489.65 (deductible $250.0). Filed on 2023-10-17 following incident on 2023-09-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008626 is covered by Policy POL-52444249.
+- Claim CLM-C000008626 concerns an incident in MA on 2023-09-05.
+- Claim CLM-C000008626 has outcome Approved.
+- Claim CLM-C000008626 has claim type Auto.

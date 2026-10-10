@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006397
+Policy ID: POL-13357926
+Claim Type: Home
+State: NC
+Policyholder Tenure: 12.2 years
+Previous Claims: 0
+Incident Date: 2024-02-04
+Claim Filed Date: 2024-03-01
+Claim Amount: $9,526.13
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000006397 for home policy in NC. Policyholder tenure: 12.2 yrs with 0 prior claims. Amount claimed: $9526.13 (deductible $1000.0). Filed on 2024-03-01 following incident on 2024-02-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006397 is covered by Policy POL-13357926.
+- Claim CLM-C000006397 concerns an incident in NC on 2024-02-04.
+- Claim CLM-C000006397 has outcome Approved.
+- Claim CLM-C000006397 has claim type Home.

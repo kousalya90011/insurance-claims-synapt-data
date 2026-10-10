@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006569
+Policy ID: POL-43671198
+Claim Type: Home
+State: GA
+Policyholder Tenure: 10.6 years
+Previous Claims: 3
+Incident Date: 2025-01-18
+Claim Filed Date: 2025-02-16
+Claim Amount: $15,628.78
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000006569 for home policy in GA. Policyholder tenure: 10.6 yrs with 3 prior claims. Amount claimed: $15628.78 (deductible $2000.0). Filed on 2025-02-16 following incident on 2025-01-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000006569 is covered by Policy POL-43671198.
+- Claim CLM-C000006569 concerns an incident in GA on 2025-01-18.
+- Claim CLM-C000006569 has outcome Denied.
+- Claim CLM-C000006569 has claim type Home.

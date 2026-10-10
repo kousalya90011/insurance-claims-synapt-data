@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001709
+Policy ID: POL-10292118
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 1.0 years
+Previous Claims: 1
+Incident Date: 2024-03-26
+Claim Filed Date: 2024-04-22
+Claim Amount: $3,973.04
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000001709 for renters policy in NY. Policyholder tenure: 1.0 yrs with 1 prior claims. Amount claimed: $3973.04 (deductible $500.0). Filed on 2024-04-22 following incident on 2024-03-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001709 is covered by Policy POL-10292118.
+- Claim CLM-C000001709 concerns an incident in NY on 2024-03-26.
+- Claim CLM-C000001709 has outcome Approved.
+- Claim CLM-C000001709 has claim type Renters.

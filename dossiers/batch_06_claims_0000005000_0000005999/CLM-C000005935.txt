@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005935
+Policy ID: POL-76809938
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 1.8 years
+Previous Claims: 1
+Incident Date: 2024-03-13
+Claim Filed Date: 2024-03-22
+Claim Amount: $3,211.16
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000005935 for auto policy in VA. Policyholder tenure: 1.8 yrs with 1 prior claims. Amount claimed: $3211.16 (deductible $500.0). Filed on 2024-03-22 following incident on 2024-03-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005935 is covered by Policy POL-76809938.
+- Claim CLM-C000005935 concerns an incident in VA on 2024-03-13.
+- Claim CLM-C000005935 has outcome Approved.
+- Claim CLM-C000005935 has claim type Auto.

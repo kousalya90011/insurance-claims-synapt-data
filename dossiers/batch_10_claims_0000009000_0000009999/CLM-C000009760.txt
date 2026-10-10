@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009760
+Policy ID: POL-73130724
+Claim Type: Home
+State: CO
+Policyholder Tenure: 2.3 years
+Previous Claims: 3
+Incident Date: 2023-10-29
+Claim Filed Date: 2023-11-15
+Claim Amount: $65,008.25
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 72 days
+Claim Narrative: Claim CLM-C000009760 for home policy in CO. Policyholder tenure: 2.3 yrs with 3 prior claims. Amount claimed: $65008.25 (deductible $1000.0). Filed on 2023-11-15 following incident on 2023-10-29. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009760 is covered by Policy POL-73130724.
+- Claim CLM-C000009760 concerns an incident in CO on 2023-10-29.
+- Claim CLM-C000009760 has outcome Denied.
+- Claim CLM-C000009760 has claim type Home.

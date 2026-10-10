@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009639
+Policy ID: POL-81315607
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2023-11-01
+Claim Filed Date: 2023-11-04
+Claim Amount: $6,113.34
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000009639 for renters policy in AZ. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed: $6113.34 (deductible $500.0). Filed on 2023-11-04 following incident on 2023-11-01. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009639 is covered by Policy POL-81315607.
+- Claim CLM-C000009639 concerns an incident in AZ on 2023-11-01.
+- Claim CLM-C000009639 has outcome Denied.
+- Claim CLM-C000009639 has claim type Renters.

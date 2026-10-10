@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007712
+Policy ID: POL-25741900
+Claim Type: Home
+State: PA
+Policyholder Tenure: 2.2 years
+Previous Claims: 2
+Incident Date: 2023-01-15
+Claim Filed Date: 2023-01-19
+Claim Amount: $5,002.10
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000007712 for home policy in PA. Policyholder tenure: 2.2 yrs with 2 prior claims. Amount claimed: $5002.1 (deductible $2000.0). Filed on 2023-01-19 following incident on 2023-01-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007712 is covered by Policy POL-25741900.
+- Claim CLM-C000007712 concerns an incident in PA on 2023-01-15.
+- Claim CLM-C000007712 has outcome Approved.
+- Claim CLM-C000007712 has claim type Home.

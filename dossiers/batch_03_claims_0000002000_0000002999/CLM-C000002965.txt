@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002965
+Policy ID: POL-27872529
+Claim Type: Home
+State: VA
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2023-12-16
+Claim Filed Date: 2024-01-18
+Claim Amount: $8,599.57
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000002965 for home policy in VA. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $8599.57 (deductible $500.0). Filed on 2024-01-18 following incident on 2023-12-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002965 is covered by Policy POL-27872529.
+- Claim CLM-C000002965 concerns an incident in VA on 2023-12-16.
+- Claim CLM-C000002965 has outcome Denied.
+- Claim CLM-C000002965 has claim type Home.

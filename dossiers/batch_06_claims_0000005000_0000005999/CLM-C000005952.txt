@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005952
+Policy ID: POL-52220995
+Claim Type: Property
+State: MD
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-01-05
+Claim Filed Date: 2023-02-04
+Claim Amount: $13,506.50
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000005952 for property policy in MD. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $13506.5 (deductible $500.0). Filed on 2023-02-04 following incident on 2023-01-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005952 is covered by Policy POL-52220995.
+- Claim CLM-C000005952 concerns an incident in MD on 2023-01-05.
+- Claim CLM-C000005952 has outcome Approved.
+- Claim CLM-C000005952 has claim type Property.

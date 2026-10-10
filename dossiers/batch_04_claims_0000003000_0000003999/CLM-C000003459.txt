@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003459
+Policy ID: POL-16417407
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 6.0 years
+Previous Claims: 2
+Incident Date: 2023-04-26
+Claim Filed Date: 2023-05-01
+Claim Amount: $3,108.69
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000003459 for auto policy in MO. Policyholder tenure: 6.0 yrs with 2 prior claims. Amount claimed: $3108.69 (deductible $500.0). Filed on 2023-05-01 following incident on 2023-04-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003459 is covered by Policy POL-16417407.
+- Claim CLM-C000003459 concerns an incident in MO on 2023-04-26.
+- Claim CLM-C000003459 has outcome Approved.
+- Claim CLM-C000003459 has claim type Auto.

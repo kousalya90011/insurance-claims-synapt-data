@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000774
+Policy ID: POL-50888616
+Claim Type: Home
+State: NY
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2023-09-14
+Claim Filed Date: 2023-10-06
+Claim Amount: $55,092.81
+Deductible: $2,500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000000774 for home policy in NY. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $55092.81 (deductible $2500.0). Filed on 2023-10-06 following incident on 2023-09-14. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000774 is covered by Policy POL-50888616.
+- Claim CLM-C000000774 concerns an incident in NY on 2023-09-14.
+- Claim CLM-C000000774 has outcome Pending.
+- Claim CLM-C000000774 has claim type Home.

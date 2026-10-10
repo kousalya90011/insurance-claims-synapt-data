@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009391
+Policy ID: POL-80990417
+Claim Type: Home
+State: NC
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2023-05-14
+Claim Filed Date: 2023-05-17
+Claim Amount: $54,968.67
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 48 days
+Claim Narrative: Claim CLM-C000009391 for home policy in NC. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $54968.67 (deductible $250.0). Filed on 2023-05-17 following incident on 2023-05-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009391 is covered by Policy POL-80990417.
+- Claim CLM-C000009391 concerns an incident in NC on 2023-05-14.
+- Claim CLM-C000009391 has outcome Approved.
+- Claim CLM-C000009391 has claim type Home.

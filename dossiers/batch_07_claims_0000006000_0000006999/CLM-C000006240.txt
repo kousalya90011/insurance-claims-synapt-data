@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006240
+Policy ID: POL-13616341
+Claim Type: Property
+State: OH
+Policyholder Tenure: 19.4 years
+Previous Claims: 1
+Incident Date: 2023-03-16
+Claim Filed Date: 2023-04-21
+Claim Amount: $13,305.52
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000006240 for property policy in OH. Policyholder tenure: 19.4 yrs with 1 prior claims. Amount claimed: $13305.52 (deductible $1000.0). Filed on 2023-04-21 following incident on 2023-03-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006240 is covered by Policy POL-13616341.
+- Claim CLM-C000006240 concerns an incident in OH on 2023-03-16.
+- Claim CLM-C000006240 has outcome Approved.
+- Claim CLM-C000006240 has claim type Property.

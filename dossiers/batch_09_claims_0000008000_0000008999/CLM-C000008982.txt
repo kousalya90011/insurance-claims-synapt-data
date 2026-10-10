@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008982
+Policy ID: POL-92957883
+Claim Type: Home
+State: VA
+Policyholder Tenure: 15.4 years
+Previous Claims: 2
+Incident Date: 2023-10-27
+Claim Filed Date: 2023-11-14
+Claim Amount: $5,451.76
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000008982 for home policy in VA. Policyholder tenure: 15.4 yrs with 2 prior claims. Amount claimed: $5451.76 (deductible $250.0). Filed on 2023-11-14 following incident on 2023-10-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008982 is covered by Policy POL-92957883.
+- Claim CLM-C000008982 concerns an incident in VA on 2023-10-27.
+- Claim CLM-C000008982 has outcome Approved.
+- Claim CLM-C000008982 has claim type Home.

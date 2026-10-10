@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000572
+Policy ID: POL-18920182
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 2.4 years
+Previous Claims: 2
+Incident Date: 2023-10-17
+Claim Filed Date: 2023-11-25
+Claim Amount: $2,304.54
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000000572 for auto policy in PA. Policyholder tenure: 2.4 yrs with 2 prior claims. Amount claimed: $2304.54 (deductible $5000.0). Filed on 2023-11-25 following incident on 2023-10-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000572 is covered by Policy POL-18920182.
+- Claim CLM-C000000572 concerns an incident in PA on 2023-10-17.
+- Claim CLM-C000000572 has outcome Approved.
+- Claim CLM-C000000572 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005618
+Policy ID: POL-71568397
+Claim Type: Home
+State: NC
+Policyholder Tenure: 2.8 years
+Previous Claims: 0
+Incident Date: 2023-12-22
+Claim Filed Date: 2024-01-18
+Claim Amount: $9,719.68
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000005618 for home policy in NC. Policyholder tenure: 2.8 yrs with 0 prior claims. Amount claimed: $9719.68 (deductible $250.0). Filed on 2024-01-18 following incident on 2023-12-22. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000005618 is covered by Policy POL-71568397.
+- Claim CLM-C000005618 concerns an incident in NC on 2023-12-22.
+- Claim CLM-C000005618 has outcome Pending.
+- Claim CLM-C000005618 has claim type Home.

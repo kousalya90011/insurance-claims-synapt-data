@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007316
+Policy ID: POL-60976430
+Claim Type: Home
+State: TN
+Policyholder Tenure: 22.7 years
+Previous Claims: 2
+Incident Date: 2023-06-09
+Claim Filed Date: 2023-06-28
+Claim Amount: $6,448.49
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000007316 for home policy in TN. Policyholder tenure: 22.7 yrs with 2 prior claims. Amount claimed: $6448.49 (deductible $250.0). Filed on 2023-06-28 following incident on 2023-06-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007316 is covered by Policy POL-60976430.
+- Claim CLM-C000007316 concerns an incident in TN on 2023-06-09.
+- Claim CLM-C000007316 has outcome Approved.
+- Claim CLM-C000007316 has claim type Home.

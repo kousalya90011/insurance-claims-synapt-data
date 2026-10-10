@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008612
+Policy ID: POL-75123542
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2024-07-20
+Claim Filed Date: 2024-08-01
+Claim Amount: $9,962.33
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000008612 for auto policy in OH. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $9962.33 (deductible $500.0). Filed on 2024-08-01 following incident on 2024-07-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008612 is covered by Policy POL-75123542.
+- Claim CLM-C000008612 concerns an incident in OH on 2024-07-20.
+- Claim CLM-C000008612 has outcome Approved.
+- Claim CLM-C000008612 has claim type Auto.

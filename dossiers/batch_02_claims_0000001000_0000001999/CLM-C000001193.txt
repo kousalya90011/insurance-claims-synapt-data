@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001193
+Policy ID: POL-55640483
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 2.1 years
+Previous Claims: 3
+Incident Date: 2024-05-05
+Claim Filed Date: 2024-05-09
+Claim Amount: $3,905.58
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000001193 for auto policy in MO. Policyholder tenure: 2.1 yrs with 3 prior claims. Amount claimed: $3905.58 (deductible $250.0). Filed on 2024-05-09 following incident on 2024-05-05. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001193 is covered by Policy POL-55640483.
+- Claim CLM-C000001193 concerns an incident in MO on 2024-05-05.
+- Claim CLM-C000001193 has outcome Denied.
+- Claim CLM-C000001193 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009599
+Policy ID: POL-42712103
+Claim Type: Business
+State: PA
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2023-06-17
+Claim Filed Date: 2023-07-15
+Claim Amount: $21,474.13
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 45 days
+Claim Narrative: Claim CLM-C000009599 for business policy in PA. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $21474.13 (deductible $1000.0). Filed on 2023-07-15 following incident on 2023-06-17. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009599 is covered by Policy POL-42712103.
+- Claim CLM-C000009599 concerns an incident in PA on 2023-06-17.
+- Claim CLM-C000009599 has outcome Under Review.
+- Claim CLM-C000009599 has claim type Business.

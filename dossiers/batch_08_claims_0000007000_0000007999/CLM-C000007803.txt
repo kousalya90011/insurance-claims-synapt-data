@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007803
+Policy ID: POL-24235107
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 5.0 years
+Previous Claims: 1
+Incident Date: 2024-01-21
+Claim Filed Date: 2024-03-02
+Claim Amount: $4,546.56
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000007803 for auto policy in PA. Policyholder tenure: 5.0 yrs with 1 prior claims. Amount claimed: $4546.56 (deductible $250.0). Filed on 2024-03-02 following incident on 2024-01-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007803 is covered by Policy POL-24235107.
+- Claim CLM-C000007803 concerns an incident in PA on 2024-01-21.
+- Claim CLM-C000007803 has outcome Approved.
+- Claim CLM-C000007803 has claim type Auto.

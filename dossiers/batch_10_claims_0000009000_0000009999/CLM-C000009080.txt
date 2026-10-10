@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009080
+Policy ID: POL-50193701
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 2.5 years
+Previous Claims: 2
+Incident Date: 2024-03-11
+Claim Filed Date: 2024-04-11
+Claim Amount: $3,972.23
+Deductible: $2,500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000009080 for renters policy in MO. Policyholder tenure: 2.5 yrs with 2 prior claims. Amount claimed: $3972.23 (deductible $2500.0). Filed on 2024-04-11 following incident on 2024-03-11. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009080 is covered by Policy POL-50193701.
+- Claim CLM-C000009080 concerns an incident in MO on 2024-03-11.
+- Claim CLM-C000009080 has outcome Pending.
+- Claim CLM-C000009080 has claim type Renters.

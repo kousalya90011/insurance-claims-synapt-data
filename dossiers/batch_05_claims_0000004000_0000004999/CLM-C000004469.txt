@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004469
+Policy ID: POL-24017293
+Claim Type: Home
+State: FL
+Policyholder Tenure: 1.9 years
+Previous Claims: 2
+Incident Date: 2024-02-07
+Claim Filed Date: 2024-03-17
+Claim Amount: $3,153.76
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000004469 for home policy in FL. Policyholder tenure: 1.9 yrs with 2 prior claims. Amount claimed: $3153.76 (deductible $500.0). Filed on 2024-03-17 following incident on 2024-02-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004469 is covered by Policy POL-24017293.
+- Claim CLM-C000004469 concerns an incident in FL on 2024-02-07.
+- Claim CLM-C000004469 has outcome Approved.
+- Claim CLM-C000004469 has claim type Home.

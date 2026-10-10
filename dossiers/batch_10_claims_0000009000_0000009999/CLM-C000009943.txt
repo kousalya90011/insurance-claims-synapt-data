@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009943
+Policy ID: POL-58532791
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 9.5 years
+Previous Claims: 0
+Incident Date: 2024-08-12
+Claim Filed Date: 2024-09-11
+Claim Amount: $16,604.60
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000009943 for auto policy in PA. Policyholder tenure: 9.5 yrs with 0 prior claims. Amount claimed: $16604.6 (deductible $1000.0). Filed on 2024-09-11 following incident on 2024-08-12. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009943 is covered by Policy POL-58532791.
+- Claim CLM-C000009943 concerns an incident in PA on 2024-08-12.
+- Claim CLM-C000009943 has outcome Denied.
+- Claim CLM-C000009943 has claim type Auto.

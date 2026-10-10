@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005185
+Policy ID: POL-43995880
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 0.6 years
+Previous Claims: 2
+Incident Date: 2023-12-19
+Claim Filed Date: 2023-12-28
+Claim Amount: $4,775.26
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000005185 for renters policy in NJ. Policyholder tenure: 0.6 yrs with 2 prior claims. Amount claimed: $4775.26 (deductible $500.0). Filed on 2023-12-28 following incident on 2023-12-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005185 is covered by Policy POL-43995880.
+- Claim CLM-C000005185 concerns an incident in NJ on 2023-12-19.
+- Claim CLM-C000005185 has outcome Approved.
+- Claim CLM-C000005185 has claim type Renters.

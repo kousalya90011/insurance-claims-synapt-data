@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009909
+Policy ID: POL-90615774
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2023-10-15
+Claim Filed Date: 2023-11-12
+Claim Amount: $5,144.47
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000009909 for auto policy in MD. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $5144.47 (deductible $500.0). Filed on 2023-11-12 following incident on 2023-10-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009909 is covered by Policy POL-90615774.
+- Claim CLM-C000009909 concerns an incident in MD on 2023-10-15.
+- Claim CLM-C000009909 has outcome Approved.
+- Claim CLM-C000009909 has claim type Auto.

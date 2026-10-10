@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008820
+Policy ID: POL-35218081
+Claim Type: Home
+State: PA
+Policyholder Tenure: 4.1 years
+Previous Claims: 4
+Incident Date: 2023-03-04
+Claim Filed Date: 2023-04-01
+Claim Amount: $46,357.50
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000008820 for home policy in PA. Policyholder tenure: 4.1 yrs with 4 prior claims. Amount claimed: $46357.5 (deductible $500.0). Filed on 2023-04-01 following incident on 2023-03-04. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008820 is covered by Policy POL-35218081.
+- Claim CLM-C000008820 concerns an incident in PA on 2023-03-04.
+- Claim CLM-C000008820 has outcome Under Review.
+- Claim CLM-C000008820 has claim type Home.

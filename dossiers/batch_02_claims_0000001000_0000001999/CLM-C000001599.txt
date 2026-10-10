@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001599
+Policy ID: POL-44935740
+Claim Type: Home
+State: MD
+Policyholder Tenure: 6.5 years
+Previous Claims: 0
+Incident Date: 2024-04-05
+Claim Filed Date: 2024-05-03
+Claim Amount: $596.89
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000001599 for home policy in MD. Policyholder tenure: 6.5 yrs with 0 prior claims. Amount claimed: $596.89 (deductible $250.0). Filed on 2024-05-03 following incident on 2024-04-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001599 is covered by Policy POL-44935740.
+- Claim CLM-C000001599 concerns an incident in MD on 2024-04-05.
+- Claim CLM-C000001599 has outcome Approved.
+- Claim CLM-C000001599 has claim type Home.

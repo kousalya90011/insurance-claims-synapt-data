@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001166
+Policy ID: POL-10658301
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 9.5 years
+Previous Claims: 0
+Incident Date: 2023-05-26
+Claim Filed Date: 2023-06-13
+Claim Amount: $3,514.22
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000001166 for auto policy in TN. Policyholder tenure: 9.5 yrs with 0 prior claims. Amount claimed: $3514.22 (deductible $250.0). Filed on 2023-06-13 following incident on 2023-05-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001166 is covered by Policy POL-10658301.
+- Claim CLM-C000001166 concerns an incident in TN on 2023-05-26.
+- Claim CLM-C000001166 has outcome Approved.
+- Claim CLM-C000001166 has claim type Auto.

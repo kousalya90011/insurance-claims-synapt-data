@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006515
+Policy ID: POL-53695666
+Claim Type: Renters
+State: CA
+Policyholder Tenure: 0.7 years
+Previous Claims: 2
+Incident Date: 2023-08-23
+Claim Filed Date: 2023-10-03
+Claim Amount: $2,432.53
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000006515 for renters policy in CA. Policyholder tenure: 0.7 yrs with 2 prior claims. Amount claimed: $2432.53 (deductible $1000.0). Filed on 2023-10-03 following incident on 2023-08-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006515 is covered by Policy POL-53695666.
+- Claim CLM-C000006515 concerns an incident in CA on 2023-08-23.
+- Claim CLM-C000006515 has outcome Approved.
+- Claim CLM-C000006515 has claim type Renters.

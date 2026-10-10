@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008747
+Policy ID: POL-35623353
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2024-06-08
+Claim Filed Date: 2024-06-30
+Claim Amount: $6,473.27
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000008747 for auto policy in NC. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $6473.27 (deductible $250.0). Filed on 2024-06-30 following incident on 2024-06-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008747 is covered by Policy POL-35623353.
+- Claim CLM-C000008747 concerns an incident in NC on 2024-06-08.
+- Claim CLM-C000008747 has outcome Approved.
+- Claim CLM-C000008747 has claim type Auto.

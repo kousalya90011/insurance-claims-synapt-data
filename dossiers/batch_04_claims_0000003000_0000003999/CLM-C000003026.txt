@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003026
+Policy ID: POL-42472950
+Claim Type: Home
+State: GA
+Policyholder Tenure: 4.7 years
+Previous Claims: 1
+Incident Date: 2024-12-02
+Claim Filed Date: 2024-12-09
+Claim Amount: $36,625.20
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000003026 for home policy in GA. Policyholder tenure: 4.7 yrs with 1 prior claims. Amount claimed: $36625.2 (deductible $1000.0). Filed on 2024-12-09 following incident on 2024-12-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003026 is covered by Policy POL-42472950.
+- Claim CLM-C000003026 concerns an incident in GA on 2024-12-02.
+- Claim CLM-C000003026 has outcome Approved.
+- Claim CLM-C000003026 has claim type Home.

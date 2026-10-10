@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005407
+Policy ID: POL-19751833
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 10.0 years
+Previous Claims: 0
+Incident Date: 2023-06-17
+Claim Filed Date: 2023-07-26
+Claim Amount: $10,301.84
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000005407 for auto policy in NC. Policyholder tenure: 10.0 yrs with 0 prior claims. Amount claimed: $10301.84 (deductible $250.0). Filed on 2023-07-26 following incident on 2023-06-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005407 is covered by Policy POL-19751833.
+- Claim CLM-C000005407 concerns an incident in NC on 2023-06-17.
+- Claim CLM-C000005407 has outcome Approved.
+- Claim CLM-C000005407 has claim type Auto.

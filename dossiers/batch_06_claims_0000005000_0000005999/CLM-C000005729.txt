@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005729
+Policy ID: POL-32971567
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 0.3 years
+Previous Claims: 4
+Incident Date: 2024-05-22
+Claim Filed Date: 2024-06-26
+Claim Amount: $1,978.66
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 3 days
+Claim Narrative: Claim CLM-C000005729 for auto policy in CA. Policyholder tenure: 0.3 yrs with 4 prior claims. Amount claimed: $1978.66 (deductible $250.0). Filed on 2024-06-26 following incident on 2024-05-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005729 is covered by Policy POL-32971567.
+- Claim CLM-C000005729 concerns an incident in CA on 2024-05-22.
+- Claim CLM-C000005729 has outcome Approved.
+- Claim CLM-C000005729 has claim type Auto.

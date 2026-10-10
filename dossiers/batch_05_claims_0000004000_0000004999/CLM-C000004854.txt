@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004854
+Policy ID: POL-13225033
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 2.6 years
+Previous Claims: 1
+Incident Date: 2023-03-21
+Claim Filed Date: 2023-03-25
+Claim Amount: $508.37
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000004854 for auto policy in CA. Policyholder tenure: 2.6 yrs with 1 prior claims. Amount claimed: $508.37 (deductible $1000.0). Filed on 2023-03-25 following incident on 2023-03-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004854 is covered by Policy POL-13225033.
+- Claim CLM-C000004854 concerns an incident in CA on 2023-03-21.
+- Claim CLM-C000004854 has outcome Approved.
+- Claim CLM-C000004854 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004801
+Policy ID: POL-61441280
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 3.3 years
+Previous Claims: 0
+Incident Date: 2023-08-21
+Claim Filed Date: 2023-09-22
+Claim Amount: $9,664.03
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000004801 for auto policy in IL. Policyholder tenure: 3.3 yrs with 0 prior claims. Amount claimed: $9664.03 (deductible $500.0). Filed on 2023-09-22 following incident on 2023-08-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004801 is covered by Policy POL-61441280.
+- Claim CLM-C000004801 concerns an incident in IL on 2023-08-21.
+- Claim CLM-C000004801 has outcome Approved.
+- Claim CLM-C000004801 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003170
+Policy ID: POL-61479940
+Claim Type: Property
+State: WA
+Policyholder Tenure: 2.6 years
+Previous Claims: 0
+Incident Date: 2024-11-18
+Claim Filed Date: 2024-12-30
+Claim Amount: $6,877.57
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000003170 for property policy in WA. Policyholder tenure: 2.6 yrs with 0 prior claims. Amount claimed: $6877.57 (deductible $500.0). Filed on 2024-12-30 following incident on 2024-11-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003170 is covered by Policy POL-61479940.
+- Claim CLM-C000003170 concerns an incident in WA on 2024-11-18.
+- Claim CLM-C000003170 has outcome Denied.
+- Claim CLM-C000003170 has claim type Property.

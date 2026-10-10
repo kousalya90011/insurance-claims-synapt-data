@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005133
+Policy ID: POL-38033755
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 3.0 years
+Previous Claims: 1
+Incident Date: 2024-04-13
+Claim Filed Date: 2024-05-09
+Claim Amount: $3,220.21
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000005133 for renters policy in WI. Policyholder tenure: 3.0 yrs with 1 prior claims. Amount claimed: $3220.21 (deductible $500.0). Filed on 2024-05-09 following incident on 2024-04-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005133 is covered by Policy POL-38033755.
+- Claim CLM-C000005133 concerns an incident in WI on 2024-04-13.
+- Claim CLM-C000005133 has outcome Approved.
+- Claim CLM-C000005133 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003249
+Policy ID: POL-66882875
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 1.8 years
+Previous Claims: 1
+Incident Date: 2023-12-09
+Claim Filed Date: 2023-12-22
+Claim Amount: $2,984.43
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000003249 for auto policy in CO. Policyholder tenure: 1.8 yrs with 1 prior claims. Amount claimed: $2984.43 (deductible $500.0). Filed on 2023-12-22 following incident on 2023-12-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003249 is covered by Policy POL-66882875.
+- Claim CLM-C000003249 concerns an incident in CO on 2023-12-09.
+- Claim CLM-C000003249 has outcome Approved.
+- Claim CLM-C000003249 has claim type Auto.

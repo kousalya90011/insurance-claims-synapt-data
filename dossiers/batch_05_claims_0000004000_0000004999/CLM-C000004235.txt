@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004235
+Policy ID: POL-13821215
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 10.0 years
+Previous Claims: 2
+Incident Date: 2024-01-25
+Claim Filed Date: 2024-01-30
+Claim Amount: $4,322.24
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000004235 for renters policy in TX. Policyholder tenure: 10.0 yrs with 2 prior claims. Amount claimed: $4322.24 (deductible $1000.0). Filed on 2024-01-30 following incident on 2024-01-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004235 is covered by Policy POL-13821215.
+- Claim CLM-C000004235 concerns an incident in TX on 2024-01-25.
+- Claim CLM-C000004235 has outcome Approved.
+- Claim CLM-C000004235 has claim type Renters.

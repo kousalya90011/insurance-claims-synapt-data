@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007051
+Policy ID: POL-45140185
+Claim Type: Property
+State: FL
+Policyholder Tenure: 7.8 years
+Previous Claims: 0
+Incident Date: 2024-12-11
+Claim Filed Date: 2025-01-15
+Claim Amount: $10,099.44
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000007051 for property policy in FL. Policyholder tenure: 7.8 yrs with 0 prior claims. Amount claimed: $10099.44 (deductible $500.0). Filed on 2025-01-15 following incident on 2024-12-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007051 is covered by Policy POL-45140185.
+- Claim CLM-C000007051 concerns an incident in FL on 2024-12-11.
+- Claim CLM-C000007051 has outcome Approved.
+- Claim CLM-C000007051 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008132
+Policy ID: POL-55837027
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 10.9 years
+Previous Claims: 1
+Incident Date: 2023-07-07
+Claim Filed Date: 2023-07-31
+Claim Amount: $5,008.73
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000008132 for auto policy in GA. Policyholder tenure: 10.9 yrs with 1 prior claims. Amount claimed: $5008.73 (deductible $1000.0). Filed on 2023-07-31 following incident on 2023-07-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008132 is covered by Policy POL-55837027.
+- Claim CLM-C000008132 concerns an incident in GA on 2023-07-07.
+- Claim CLM-C000008132 has outcome Approved.
+- Claim CLM-C000008132 has claim type Auto.

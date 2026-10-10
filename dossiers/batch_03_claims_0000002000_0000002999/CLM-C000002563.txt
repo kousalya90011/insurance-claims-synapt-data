@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002563
+Policy ID: POL-99310215
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 16.2 years
+Previous Claims: 1
+Incident Date: 2024-02-15
+Claim Filed Date: 2024-03-12
+Claim Amount: $7,200.52
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000002563 for auto policy in WI. Policyholder tenure: 16.2 yrs with 1 prior claims. Amount claimed: $7200.52 (deductible $250.0). Filed on 2024-03-12 following incident on 2024-02-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002563 is covered by Policy POL-99310215.
+- Claim CLM-C000002563 concerns an incident in WI on 2024-02-15.
+- Claim CLM-C000002563 has outcome Approved.
+- Claim CLM-C000002563 has claim type Auto.

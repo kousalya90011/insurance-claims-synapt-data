@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006146
+Policy ID: POL-66186812
+Claim Type: Renters
+State: OH
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-07-08
+Claim Filed Date: 2023-08-05
+Claim Amount: $1,772.57
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000006146 for renters policy in OH. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $1772.57 (deductible $500.0). Filed on 2023-08-05 following incident on 2023-07-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006146 is covered by Policy POL-66186812.
+- Claim CLM-C000006146 concerns an incident in OH on 2023-07-08.
+- Claim CLM-C000006146 has outcome Approved.
+- Claim CLM-C000006146 has claim type Renters.

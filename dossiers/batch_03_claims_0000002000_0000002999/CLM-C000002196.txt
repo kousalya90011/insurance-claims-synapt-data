@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002196
+Policy ID: POL-89636414
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 16.0 years
+Previous Claims: 0
+Incident Date: 2024-07-03
+Claim Filed Date: 2024-08-01
+Claim Amount: $2,777.60
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000002196 for renters policy in WI. Policyholder tenure: 16.0 yrs with 0 prior claims. Amount claimed: $2777.6 (deductible $1000.0). Filed on 2024-08-01 following incident on 2024-07-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002196 is covered by Policy POL-89636414.
+- Claim CLM-C000002196 concerns an incident in WI on 2024-07-03.
+- Claim CLM-C000002196 has outcome Approved.
+- Claim CLM-C000002196 has claim type Renters.

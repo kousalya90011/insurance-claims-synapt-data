@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007734
+Policy ID: POL-73289028
+Claim Type: Property
+State: TN
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2023-12-11
+Claim Filed Date: 2023-12-30
+Claim Amount: $922.54
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000007734 for property policy in TN. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $922.54 (deductible $500.0). Filed on 2023-12-30 following incident on 2023-12-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007734 is covered by Policy POL-73289028.
+- Claim CLM-C000007734 concerns an incident in TN on 2023-12-11.
+- Claim CLM-C000007734 has outcome Approved.
+- Claim CLM-C000007734 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006348
+Policy ID: POL-53516047
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 3.5 years
+Previous Claims: 0
+Incident Date: 2024-08-01
+Claim Filed Date: 2024-09-12
+Claim Amount: $8,100.04
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000006348 for auto policy in MI. Policyholder tenure: 3.5 yrs with 0 prior claims. Amount claimed: $8100.04 (deductible $250.0). Filed on 2024-09-12 following incident on 2024-08-01. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006348 is covered by Policy POL-53516047.
+- Claim CLM-C000006348 concerns an incident in MI on 2024-08-01.
+- Claim CLM-C000006348 has outcome Under Review.
+- Claim CLM-C000006348 has claim type Auto.

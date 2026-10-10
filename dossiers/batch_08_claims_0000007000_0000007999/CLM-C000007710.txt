@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007710
+Policy ID: POL-87830887
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 2.7 years
+Previous Claims: 1
+Incident Date: 2024-09-28
+Claim Filed Date: 2024-10-23
+Claim Amount: $1,388.09
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000007710 for auto policy in MD. Policyholder tenure: 2.7 yrs with 1 prior claims. Amount claimed: $1388.09 (deductible $500.0). Filed on 2024-10-23 following incident on 2024-09-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007710 is covered by Policy POL-87830887.
+- Claim CLM-C000007710 concerns an incident in MD on 2024-09-28.
+- Claim CLM-C000007710 has outcome Approved.
+- Claim CLM-C000007710 has claim type Auto.

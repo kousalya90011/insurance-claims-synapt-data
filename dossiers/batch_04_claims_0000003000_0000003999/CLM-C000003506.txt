@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003506
+Policy ID: POL-89339274
+Claim Type: Home
+State: MI
+Policyholder Tenure: 1.4 years
+Previous Claims: 1
+Incident Date: 2023-09-28
+Claim Filed Date: 2023-10-08
+Claim Amount: $15,383.72
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000003506 for home policy in MI. Policyholder tenure: 1.4 yrs with 1 prior claims. Amount claimed: $15383.72 (deductible $2500.0). Filed on 2023-10-08 following incident on 2023-09-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003506 is covered by Policy POL-89339274.
+- Claim CLM-C000003506 concerns an incident in MI on 2023-09-28.
+- Claim CLM-C000003506 has outcome Approved.
+- Claim CLM-C000003506 has claim type Home.

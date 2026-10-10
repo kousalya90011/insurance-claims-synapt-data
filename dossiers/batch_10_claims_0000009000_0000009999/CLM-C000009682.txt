@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009682
+Policy ID: POL-69223809
+Claim Type: Property
+State: VA
+Policyholder Tenure: 2.5 years
+Previous Claims: 1
+Incident Date: 2024-11-03
+Claim Filed Date: 2024-11-18
+Claim Amount: $34,171.89
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 71 days
+Claim Narrative: Claim CLM-C000009682 for property policy in VA. Policyholder tenure: 2.5 yrs with 1 prior claims. Amount claimed: $34171.89 (deductible $250.0). Filed on 2024-11-18 following incident on 2024-11-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009682 is covered by Policy POL-69223809.
+- Claim CLM-C000009682 concerns an incident in VA on 2024-11-03.
+- Claim CLM-C000009682 has outcome Denied.
+- Claim CLM-C000009682 has claim type Property.

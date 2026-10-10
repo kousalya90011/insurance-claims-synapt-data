@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004871
+Policy ID: POL-55463805
+Claim Type: Renters
+State: OH
+Policyholder Tenure: 3.2 years
+Previous Claims: 1
+Incident Date: 2023-09-04
+Claim Filed Date: 2023-09-26
+Claim Amount: $11,859.33
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000004871 for renters policy in OH. Policyholder tenure: 3.2 yrs with 1 prior claims. Amount claimed: $11859.33 (deductible $1000.0). Filed on 2023-09-26 following incident on 2023-09-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004871 is covered by Policy POL-55463805.
+- Claim CLM-C000004871 concerns an incident in OH on 2023-09-04.
+- Claim CLM-C000004871 has outcome Approved.
+- Claim CLM-C000004871 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003173
+Policy ID: POL-89466482
+Claim Type: Renters
+State: MA
+Policyholder Tenure: 5.7 years
+Previous Claims: 1
+Incident Date: 2024-07-28
+Claim Filed Date: 2024-08-06
+Claim Amount: $3,388.16
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000003173 for renters policy in MA. Policyholder tenure: 5.7 yrs with 1 prior claims. Amount claimed: $3388.16 (deductible $250.0). Filed on 2024-08-06 following incident on 2024-07-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003173 is covered by Policy POL-89466482.
+- Claim CLM-C000003173 concerns an incident in MA on 2024-07-28.
+- Claim CLM-C000003173 has outcome Approved.
+- Claim CLM-C000003173 has claim type Renters.

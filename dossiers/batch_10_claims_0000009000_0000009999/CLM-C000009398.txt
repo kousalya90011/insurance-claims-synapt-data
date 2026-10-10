@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009398
+Policy ID: POL-34809888
+Claim Type: Renters
+State: MA
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2025-01-19
+Claim Filed Date: 2025-03-04
+Claim Amount: $1,991.63
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000009398 for renters policy in MA. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $1991.63 (deductible $5000.0). Filed on 2025-03-04 following incident on 2025-01-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009398 is covered by Policy POL-34809888.
+- Claim CLM-C000009398 concerns an incident in MA on 2025-01-19.
+- Claim CLM-C000009398 has outcome Approved.
+- Claim CLM-C000009398 has claim type Renters.

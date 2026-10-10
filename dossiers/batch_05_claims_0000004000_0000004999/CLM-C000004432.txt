@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004432
+Policy ID: POL-73986934
+Claim Type: Business
+State: PA
+Policyholder Tenure: 6.3 years
+Previous Claims: 1
+Incident Date: 2024-04-01
+Claim Filed Date: 2024-05-05
+Claim Amount: $16,941.55
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000004432 for business policy in PA. Policyholder tenure: 6.3 yrs with 1 prior claims. Amount claimed: $16941.55 (deductible $250.0). Filed on 2024-05-05 following incident on 2024-04-01. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004432 is covered by Policy POL-73986934.
+- Claim CLM-C000004432 concerns an incident in PA on 2024-04-01.
+- Claim CLM-C000004432 has outcome Denied.
+- Claim CLM-C000004432 has claim type Business.

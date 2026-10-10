@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008253
+Policy ID: POL-99270488
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 3.4 years
+Previous Claims: 0
+Incident Date: 2023-07-23
+Claim Filed Date: 2023-08-01
+Claim Amount: $11,521.68
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000008253 for auto policy in NJ. Policyholder tenure: 3.4 yrs with 0 prior claims. Amount claimed: $11521.68 (deductible $500.0). Filed on 2023-08-01 following incident on 2023-07-23. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008253 is covered by Policy POL-99270488.
+- Claim CLM-C000008253 concerns an incident in NJ on 2023-07-23.
+- Claim CLM-C000008253 has outcome Under Review.
+- Claim CLM-C000008253 has claim type Auto.

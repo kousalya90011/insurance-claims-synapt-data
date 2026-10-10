@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005710
+Policy ID: POL-15184094
+Claim Type: Business
+State: WA
+Policyholder Tenure: 28.6 years
+Previous Claims: 0
+Incident Date: 2023-03-10
+Claim Filed Date: 2023-03-18
+Claim Amount: $8,137.07
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000005710 for business policy in WA. Policyholder tenure: 28.6 yrs with 0 prior claims. Amount claimed: $8137.07 (deductible $1000.0). Filed on 2023-03-18 following incident on 2023-03-10. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000005710 is covered by Policy POL-15184094.
+- Claim CLM-C000005710 concerns an incident in WA on 2023-03-10.
+- Claim CLM-C000005710 has outcome Pending.
+- Claim CLM-C000005710 has claim type Business.

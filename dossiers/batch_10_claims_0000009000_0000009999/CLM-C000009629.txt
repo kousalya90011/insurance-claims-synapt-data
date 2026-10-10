@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009629
+Policy ID: POL-72279402
+Claim Type: Property
+State: WI
+Policyholder Tenure: 1.8 years
+Previous Claims: 1
+Incident Date: 2024-04-09
+Claim Filed Date: 2024-04-14
+Claim Amount: $2,431.97
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000009629 for property policy in WI. Policyholder tenure: 1.8 yrs with 1 prior claims. Amount claimed: $2431.97 (deductible $2000.0). Filed on 2024-04-14 following incident on 2024-04-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009629 is covered by Policy POL-72279402.
+- Claim CLM-C000009629 concerns an incident in WI on 2024-04-09.
+- Claim CLM-C000009629 has outcome Approved.
+- Claim CLM-C000009629 has claim type Property.

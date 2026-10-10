@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006149
+Policy ID: POL-94955240
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 2.3 years
+Previous Claims: 2
+Incident Date: 2023-09-27
+Claim Filed Date: 2023-11-05
+Claim Amount: $673.75
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000006149 for auto policy in IL. Policyholder tenure: 2.3 yrs with 2 prior claims. Amount claimed: $673.75 (deductible $250.0). Filed on 2023-11-05 following incident on 2023-09-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006149 is covered by Policy POL-94955240.
+- Claim CLM-C000006149 concerns an incident in IL on 2023-09-27.
+- Claim CLM-C000006149 has outcome Under Review.
+- Claim CLM-C000006149 has claim type Auto.

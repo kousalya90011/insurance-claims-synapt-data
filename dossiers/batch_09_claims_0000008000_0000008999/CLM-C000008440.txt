@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008440
+Policy ID: POL-17591040
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2023-04-09
+Claim Filed Date: 2023-04-16
+Claim Amount: $8,433.07
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000008440 for auto policy in MD. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $8433.07 (deductible $1000.0). Filed on 2023-04-16 following incident on 2023-04-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008440 is covered by Policy POL-17591040.
+- Claim CLM-C000008440 concerns an incident in MD on 2023-04-09.
+- Claim CLM-C000008440 has outcome Approved.
+- Claim CLM-C000008440 has claim type Auto.

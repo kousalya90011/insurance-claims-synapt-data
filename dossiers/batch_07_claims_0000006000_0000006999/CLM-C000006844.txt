@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006844
+Policy ID: POL-73471604
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 4.5 years
+Previous Claims: 1
+Incident Date: 2023-09-20
+Claim Filed Date: 2023-09-21
+Claim Amount: $651.18
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000006844 for renters policy in AZ. Policyholder tenure: 4.5 yrs with 1 prior claims. Amount claimed: $651.18 (deductible $250.0). Filed on 2023-09-21 following incident on 2023-09-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006844 is covered by Policy POL-73471604.
+- Claim CLM-C000006844 concerns an incident in AZ on 2023-09-20.
+- Claim CLM-C000006844 has outcome Approved.
+- Claim CLM-C000006844 has claim type Renters.

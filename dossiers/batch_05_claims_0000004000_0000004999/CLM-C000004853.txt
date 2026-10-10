@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004853
+Policy ID: POL-87769750
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 2.0 years
+Previous Claims: 1
+Incident Date: 2023-10-15
+Claim Filed Date: 2023-11-22
+Claim Amount: $1,857.89
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000004853 for auto policy in MA. Policyholder tenure: 2.0 yrs with 1 prior claims. Amount claimed: $1857.89 (deductible $1000.0). Filed on 2023-11-22 following incident on 2023-10-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004853 is covered by Policy POL-87769750.
+- Claim CLM-C000004853 concerns an incident in MA on 2023-10-15.
+- Claim CLM-C000004853 has outcome Approved.
+- Claim CLM-C000004853 has claim type Auto.

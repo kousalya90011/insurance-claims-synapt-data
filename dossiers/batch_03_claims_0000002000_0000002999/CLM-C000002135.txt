@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002135
+Policy ID: POL-66360483
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 6.3 years
+Previous Claims: 1
+Incident Date: 2024-01-09
+Claim Filed Date: 2024-02-01
+Claim Amount: $4,795.85
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000002135 for auto policy in AZ. Policyholder tenure: 6.3 yrs with 1 prior claims. Amount claimed: $4795.85 (deductible $2000.0). Filed on 2024-02-01 following incident on 2024-01-09. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002135 is covered by Policy POL-66360483.
+- Claim CLM-C000002135 concerns an incident in AZ on 2024-01-09.
+- Claim CLM-C000002135 has outcome Denied.
+- Claim CLM-C000002135 has claim type Auto.

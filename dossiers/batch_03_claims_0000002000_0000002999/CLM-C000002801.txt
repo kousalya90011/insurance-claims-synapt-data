@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002801
+Policy ID: POL-80188285
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 0.7 years
+Previous Claims: 2
+Incident Date: 2023-09-05
+Claim Filed Date: 2023-10-03
+Claim Amount: $2,273.21
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000002801 for auto policy in MD. Policyholder tenure: 0.7 yrs with 2 prior claims. Amount claimed: $2273.21 (deductible $250.0). Filed on 2023-10-03 following incident on 2023-09-05. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002801 is covered by Policy POL-80188285.
+- Claim CLM-C000002801 concerns an incident in MD on 2023-09-05.
+- Claim CLM-C000002801 has outcome Under Review.
+- Claim CLM-C000002801 has claim type Auto.

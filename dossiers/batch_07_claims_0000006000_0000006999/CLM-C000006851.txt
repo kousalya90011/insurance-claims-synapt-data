@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006851
+Policy ID: POL-27916685
+Claim Type: Property
+State: TN
+Policyholder Tenure: 3.5 years
+Previous Claims: 1
+Incident Date: 2023-04-08
+Claim Filed Date: 2023-05-11
+Claim Amount: $8,135.02
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000006851 for property policy in TN. Policyholder tenure: 3.5 yrs with 1 prior claims. Amount claimed: $8135.02 (deductible $2000.0). Filed on 2023-05-11 following incident on 2023-04-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006851 is covered by Policy POL-27916685.
+- Claim CLM-C000006851 concerns an incident in TN on 2023-04-08.
+- Claim CLM-C000006851 has outcome Approved.
+- Claim CLM-C000006851 has claim type Property.

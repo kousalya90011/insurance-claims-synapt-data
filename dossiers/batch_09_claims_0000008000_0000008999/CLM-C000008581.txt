@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008581
+Policy ID: POL-78021695
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 7.8 years
+Previous Claims: 1
+Incident Date: 2024-07-16
+Claim Filed Date: 2024-08-23
+Claim Amount: $1,226.85
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000008581 for renters policy in NY. Policyholder tenure: 7.8 yrs with 1 prior claims. Amount claimed: $1226.85 (deductible $2500.0). Filed on 2024-08-23 following incident on 2024-07-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008581 is covered by Policy POL-78021695.
+- Claim CLM-C000008581 concerns an incident in NY on 2024-07-16.
+- Claim CLM-C000008581 has outcome Approved.
+- Claim CLM-C000008581 has claim type Renters.

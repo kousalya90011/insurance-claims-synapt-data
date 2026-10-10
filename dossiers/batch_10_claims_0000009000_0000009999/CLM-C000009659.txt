@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009659
+Policy ID: POL-29504107
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 2.6 years
+Previous Claims: 0
+Incident Date: 2023-01-17
+Claim Filed Date: 2023-02-11
+Claim Amount: $1,653.86
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000009659 for renters policy in AZ. Policyholder tenure: 2.6 yrs with 0 prior claims. Amount claimed: $1653.86 (deductible $500.0). Filed on 2023-02-11 following incident on 2023-01-17. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009659 is covered by Policy POL-29504107.
+- Claim CLM-C000009659 concerns an incident in AZ on 2023-01-17.
+- Claim CLM-C000009659 has outcome Under Review.
+- Claim CLM-C000009659 has claim type Renters.

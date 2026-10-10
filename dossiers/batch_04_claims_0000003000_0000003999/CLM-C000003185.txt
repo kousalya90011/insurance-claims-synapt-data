@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003185
+Policy ID: POL-40454034
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 18.6 years
+Previous Claims: 5
+Incident Date: 2023-04-16
+Claim Filed Date: 2023-04-22
+Claim Amount: $1,351.25
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000003185 for renters policy in PA. Policyholder tenure: 18.6 yrs with 5 prior claims. Amount claimed: $1351.25 (deductible $1000.0). Filed on 2023-04-22 following incident on 2023-04-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003185 is covered by Policy POL-40454034.
+- Claim CLM-C000003185 concerns an incident in PA on 2023-04-16.
+- Claim CLM-C000003185 has outcome Denied.
+- Claim CLM-C000003185 has claim type Renters.

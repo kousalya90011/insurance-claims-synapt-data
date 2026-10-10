@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006432
+Policy ID: POL-72110671
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 10.4 years
+Previous Claims: 0
+Incident Date: 2024-05-22
+Claim Filed Date: 2024-06-21
+Claim Amount: $4,555.18
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000006432 for auto policy in MO. Policyholder tenure: 10.4 yrs with 0 prior claims. Amount claimed: $4555.18 (deductible $250.0). Filed on 2024-06-21 following incident on 2024-05-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006432 is covered by Policy POL-72110671.
+- Claim CLM-C000006432 concerns an incident in MO on 2024-05-22.
+- Claim CLM-C000006432 has outcome Approved.
+- Claim CLM-C000006432 has claim type Auto.

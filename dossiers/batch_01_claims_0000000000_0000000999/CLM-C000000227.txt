@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000227
+Policy ID: POL-54348614
+Claim Type: Home
+State: MD
+Policyholder Tenure: 7.9 years
+Previous Claims: 1
+Incident Date: 2023-10-21
+Claim Filed Date: 2023-10-23
+Claim Amount: $11,014.39
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000000227 for home policy in MD. Policyholder tenure: 7.9 yrs with 1 prior claims. Amount claimed: $11014.39 (deductible $250.0). Filed on 2023-10-23 following incident on 2023-10-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000227 is covered by Policy POL-54348614.
+- Claim CLM-C000000227 concerns an incident in MD on 2023-10-21.
+- Claim CLM-C000000227 has outcome Approved.
+- Claim CLM-C000000227 has claim type Home.

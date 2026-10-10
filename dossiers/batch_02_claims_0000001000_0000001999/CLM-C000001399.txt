@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001399
+Policy ID: POL-70713772
+Claim Type: Property
+State: TX
+Policyholder Tenure: 7.2 years
+Previous Claims: 2
+Incident Date: 2024-05-20
+Claim Filed Date: 2024-06-28
+Claim Amount: $22,523.86
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000001399 for property policy in TX. Policyholder tenure: 7.2 yrs with 2 prior claims. Amount claimed: $22523.86 (deductible $250.0). Filed on 2024-06-28 following incident on 2024-05-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001399 is covered by Policy POL-70713772.
+- Claim CLM-C000001399 concerns an incident in TX on 2024-05-20.
+- Claim CLM-C000001399 has outcome Approved.
+- Claim CLM-C000001399 has claim type Property.

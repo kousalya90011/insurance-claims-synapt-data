@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009751
+Policy ID: POL-87280579
+Claim Type: Property
+State: CA
+Policyholder Tenure: 12.3 years
+Previous Claims: 1
+Incident Date: 2023-09-21
+Claim Filed Date: 2023-10-01
+Claim Amount: $4,744.27
+Deductible: $2,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000009751 for property policy in CA. Policyholder tenure: 12.3 yrs with 1 prior claims. Amount claimed: $4744.27 (deductible $2000.0). Filed on 2023-10-01 following incident on 2023-09-21. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009751 is covered by Policy POL-87280579.
+- Claim CLM-C000009751 concerns an incident in CA on 2023-09-21.
+- Claim CLM-C000009751 has outcome Pending.
+- Claim CLM-C000009751 has claim type Property.

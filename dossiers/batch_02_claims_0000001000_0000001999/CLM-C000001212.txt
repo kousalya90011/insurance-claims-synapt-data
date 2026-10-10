@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001212
+Policy ID: POL-41184357
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 4.7 years
+Previous Claims: 0
+Incident Date: 2023-01-22
+Claim Filed Date: 2023-03-06
+Claim Amount: $6,047.69
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000001212 for renters policy in PA. Policyholder tenure: 4.7 yrs with 0 prior claims. Amount claimed: $6047.69 (deductible $500.0). Filed on 2023-03-06 following incident on 2023-01-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001212 is covered by Policy POL-41184357.
+- Claim CLM-C000001212 concerns an incident in PA on 2023-01-22.
+- Claim CLM-C000001212 has outcome Approved.
+- Claim CLM-C000001212 has claim type Renters.

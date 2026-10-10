@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006910
+Policy ID: POL-90263091
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 2.8 years
+Previous Claims: 2
+Incident Date: 2023-07-20
+Claim Filed Date: 2023-08-02
+Claim Amount: $6,577.05
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000006910 for auto policy in MO. Policyholder tenure: 2.8 yrs with 2 prior claims. Amount claimed: $6577.05 (deductible $1000.0). Filed on 2023-08-02 following incident on 2023-07-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006910 is covered by Policy POL-90263091.
+- Claim CLM-C000006910 concerns an incident in MO on 2023-07-20.
+- Claim CLM-C000006910 has outcome Approved.
+- Claim CLM-C000006910 has claim type Auto.

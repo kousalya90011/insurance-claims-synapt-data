@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007349
+Policy ID: POL-75226258
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 4.0 years
+Previous Claims: 0
+Incident Date: 2024-07-06
+Claim Filed Date: 2024-08-15
+Claim Amount: $5,098.80
+Deductible: $5,000.00
+Claim Status: Under Review
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000007349 for auto policy in NC. Policyholder tenure: 4.0 yrs with 0 prior claims. Amount claimed: $5098.8 (deductible $5000.0). Filed on 2024-08-15 following incident on 2024-07-06. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007349 is covered by Policy POL-75226258.
+- Claim CLM-C000007349 concerns an incident in NC on 2024-07-06.
+- Claim CLM-C000007349 has outcome Under Review.
+- Claim CLM-C000007349 has claim type Auto.

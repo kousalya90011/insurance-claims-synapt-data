@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005763
+Policy ID: POL-93223669
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-12-08
+Claim Filed Date: 2023-12-17
+Claim Amount: $2,422.49
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000005763 for renters policy in WI. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $2422.49 (deductible $500.0). Filed on 2023-12-17 following incident on 2023-12-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005763 is covered by Policy POL-93223669.
+- Claim CLM-C000005763 concerns an incident in WI on 2023-12-08.
+- Claim CLM-C000005763 has outcome Approved.
+- Claim CLM-C000005763 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004774
+Policy ID: POL-89133790
+Claim Type: Home
+State: IL
+Policyholder Tenure: 8.6 years
+Previous Claims: 0
+Incident Date: 2023-04-29
+Claim Filed Date: 2023-05-21
+Claim Amount: $9,893.93
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000004774 for home policy in IL. Policyholder tenure: 8.6 yrs with 0 prior claims. Amount claimed: $9893.93 (deductible $1000.0). Filed on 2023-05-21 following incident on 2023-04-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004774 is covered by Policy POL-89133790.
+- Claim CLM-C000004774 concerns an incident in IL on 2023-04-29.
+- Claim CLM-C000004774 has outcome Approved.
+- Claim CLM-C000004774 has claim type Home.

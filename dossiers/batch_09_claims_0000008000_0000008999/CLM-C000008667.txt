@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008667
+Policy ID: POL-91474872
+Claim Type: Home
+State: TX
+Policyholder Tenure: 5.3 years
+Previous Claims: 1
+Incident Date: 2023-06-24
+Claim Filed Date: 2023-07-14
+Claim Amount: $92,155.85
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000008667 for home policy in TX. Policyholder tenure: 5.3 yrs with 1 prior claims. Amount claimed: $92155.85 (deductible $250.0). Filed on 2023-07-14 following incident on 2023-06-24. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008667 is covered by Policy POL-91474872.
+- Claim CLM-C000008667 concerns an incident in TX on 2023-06-24.
+- Claim CLM-C000008667 has outcome Under Review.
+- Claim CLM-C000008667 has claim type Home.

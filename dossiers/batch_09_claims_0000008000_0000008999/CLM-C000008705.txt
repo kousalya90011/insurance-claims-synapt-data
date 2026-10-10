@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008705
+Policy ID: POL-26807159
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 4.8 years
+Previous Claims: 0
+Incident Date: 2023-06-13
+Claim Filed Date: 2023-07-22
+Claim Amount: $9,469.49
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000008705 for auto policy in OH. Policyholder tenure: 4.8 yrs with 0 prior claims. Amount claimed: $9469.49 (deductible $500.0). Filed on 2023-07-22 following incident on 2023-06-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008705 is covered by Policy POL-26807159.
+- Claim CLM-C000008705 concerns an incident in OH on 2023-06-13.
+- Claim CLM-C000008705 has outcome Approved.
+- Claim CLM-C000008705 has claim type Auto.

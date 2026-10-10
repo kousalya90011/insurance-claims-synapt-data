@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000837
+Policy ID: POL-35901963
+Claim Type: Home
+State: OH
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2023-05-09
+Claim Filed Date: 2023-06-12
+Claim Amount: $7,549.24
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 79 days
+Claim Narrative: Claim CLM-C000000837 for home policy in OH. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $7549.24 (deductible $2000.0). Filed on 2023-06-12 following incident on 2023-05-09. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000837 is covered by Policy POL-35901963.
+- Claim CLM-C000000837 concerns an incident in OH on 2023-05-09.
+- Claim CLM-C000000837 has outcome Denied.
+- Claim CLM-C000000837 has claim type Home.

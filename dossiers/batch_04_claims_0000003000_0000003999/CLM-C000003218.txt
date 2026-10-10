@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003218
+Policy ID: POL-52140826
+Claim Type: Home
+State: TN
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2023-12-12
+Claim Filed Date: 2024-01-13
+Claim Amount: $34,626.69
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000003218 for home policy in TN. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $34626.69 (deductible $2000.0). Filed on 2024-01-13 following incident on 2023-12-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003218 is covered by Policy POL-52140826.
+- Claim CLM-C000003218 concerns an incident in TN on 2023-12-12.
+- Claim CLM-C000003218 has outcome Approved.
+- Claim CLM-C000003218 has claim type Home.

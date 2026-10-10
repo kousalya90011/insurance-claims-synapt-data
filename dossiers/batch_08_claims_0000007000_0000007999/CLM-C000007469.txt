@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007469
+Policy ID: POL-80052441
+Claim Type: Home
+State: NY
+Policyholder Tenure: 4.1 years
+Previous Claims: 2
+Incident Date: 2023-06-12
+Claim Filed Date: 2023-06-30
+Claim Amount: $20,090.99
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 44 days
+Claim Narrative: Claim CLM-C000007469 for home policy in NY. Policyholder tenure: 4.1 yrs with 2 prior claims. Amount claimed: $20090.99 (deductible $500.0). Filed on 2023-06-30 following incident on 2023-06-12. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007469 is covered by Policy POL-80052441.
+- Claim CLM-C000007469 concerns an incident in NY on 2023-06-12.
+- Claim CLM-C000007469 has outcome Denied.
+- Claim CLM-C000007469 has claim type Home.

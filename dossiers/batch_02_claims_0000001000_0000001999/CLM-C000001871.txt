@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001871
+Policy ID: POL-74794736
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 0.3 years
+Previous Claims: 2
+Incident Date: 2023-10-07
+Claim Filed Date: 2023-11-12
+Claim Amount: $789.39
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000001871 for renters policy in AZ. Policyholder tenure: 0.3 yrs with 2 prior claims. Amount claimed: $789.39 (deductible $250.0). Filed on 2023-11-12 following incident on 2023-10-07. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001871 is covered by Policy POL-74794736.
+- Claim CLM-C000001871 concerns an incident in AZ on 2023-10-07.
+- Claim CLM-C000001871 has outcome Under Review.
+- Claim CLM-C000001871 has claim type Renters.

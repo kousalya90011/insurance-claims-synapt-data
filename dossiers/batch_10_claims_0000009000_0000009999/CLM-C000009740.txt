@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009740
+Policy ID: POL-35607164
+Claim Type: Property
+State: MI
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2023-05-26
+Claim Filed Date: 2023-06-15
+Claim Amount: $11,775.44
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000009740 for property policy in MI. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $11775.44 (deductible $500.0). Filed on 2023-06-15 following incident on 2023-05-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009740 is covered by Policy POL-35607164.
+- Claim CLM-C000009740 concerns an incident in MI on 2023-05-26.
+- Claim CLM-C000009740 has outcome Approved.
+- Claim CLM-C000009740 has claim type Property.

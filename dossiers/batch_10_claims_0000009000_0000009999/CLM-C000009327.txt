@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009327
+Policy ID: POL-80122465
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 0.3 years
+Previous Claims: 0
+Incident Date: 2024-02-15
+Claim Filed Date: 2024-02-17
+Claim Amount: $5,864.85
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 87 days
+Claim Narrative: Claim CLM-C000009327 for auto policy in MI. Policyholder tenure: 0.3 yrs with 0 prior claims. Amount claimed: $5864.85 (deductible $1000.0). Filed on 2024-02-17 following incident on 2024-02-15. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009327 is covered by Policy POL-80122465.
+- Claim CLM-C000009327 concerns an incident in MI on 2024-02-15.
+- Claim CLM-C000009327 has outcome Under Review.
+- Claim CLM-C000009327 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002033
+Policy ID: POL-47737088
+Claim Type: Home
+State: OH
+Policyholder Tenure: 6.8 years
+Previous Claims: 0
+Incident Date: 2023-01-10
+Claim Filed Date: 2023-02-21
+Claim Amount: $11,842.52
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000002033 for home policy in OH. Policyholder tenure: 6.8 yrs with 0 prior claims. Amount claimed: $11842.52 (deductible $1000.0). Filed on 2023-02-21 following incident on 2023-01-10. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002033 is covered by Policy POL-47737088.
+- Claim CLM-C000002033 concerns an incident in OH on 2023-01-10.
+- Claim CLM-C000002033 has outcome Denied.
+- Claim CLM-C000002033 has claim type Home.

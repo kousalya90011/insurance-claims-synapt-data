@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004519
+Policy ID: POL-53744071
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 1.6 years
+Previous Claims: 2
+Incident Date: 2023-05-03
+Claim Filed Date: 2023-06-11
+Claim Amount: $732.94
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000004519 for renters policy in MD. Policyholder tenure: 1.6 yrs with 2 prior claims. Amount claimed: $732.94 (deductible $1000.0). Filed on 2023-06-11 following incident on 2023-05-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004519 is covered by Policy POL-53744071.
+- Claim CLM-C000004519 concerns an incident in MD on 2023-05-03.
+- Claim CLM-C000004519 has outcome Approved.
+- Claim CLM-C000004519 has claim type Renters.

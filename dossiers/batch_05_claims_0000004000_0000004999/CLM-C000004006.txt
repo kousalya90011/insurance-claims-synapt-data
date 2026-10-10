@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004006
+Policy ID: POL-98479341
+Claim Type: Home
+State: GA
+Policyholder Tenure: 1.6 years
+Previous Claims: 1
+Incident Date: 2024-07-10
+Claim Filed Date: 2024-08-21
+Claim Amount: $16,552.09
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000004006 for home policy in GA. Policyholder tenure: 1.6 yrs with 1 prior claims. Amount claimed: $16552.09 (deductible $250.0). Filed on 2024-08-21 following incident on 2024-07-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004006 is covered by Policy POL-98479341.
+- Claim CLM-C000004006 concerns an incident in GA on 2024-07-10.
+- Claim CLM-C000004006 has outcome Approved.
+- Claim CLM-C000004006 has claim type Home.

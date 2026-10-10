@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005629
+Policy ID: POL-46939732
+Claim Type: Home
+State: FL
+Policyholder Tenure: 6.6 years
+Previous Claims: 0
+Incident Date: 2025-01-18
+Claim Filed Date: 2025-01-18
+Claim Amount: $68,857.21
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000005629 for home policy in FL. Policyholder tenure: 6.6 yrs with 0 prior claims. Amount claimed: $68857.21 (deductible $500.0). Filed on 2025-01-18 following incident on 2025-01-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005629 is covered by Policy POL-46939732.
+- Claim CLM-C000005629 concerns an incident in FL on 2025-01-18.
+- Claim CLM-C000005629 has outcome Approved.
+- Claim CLM-C000005629 has claim type Home.

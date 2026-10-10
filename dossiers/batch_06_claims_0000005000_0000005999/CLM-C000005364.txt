@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005364
+Policy ID: POL-36888316
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 7.3 years
+Previous Claims: 0
+Incident Date: 2023-02-05
+Claim Filed Date: 2023-02-13
+Claim Amount: $5,543.51
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000005364 for auto policy in FL. Policyholder tenure: 7.3 yrs with 0 prior claims. Amount claimed: $5543.51 (deductible $250.0). Filed on 2023-02-13 following incident on 2023-02-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005364 is covered by Policy POL-36888316.
+- Claim CLM-C000005364 concerns an incident in FL on 2023-02-05.
+- Claim CLM-C000005364 has outcome Approved.
+- Claim CLM-C000005364 has claim type Auto.

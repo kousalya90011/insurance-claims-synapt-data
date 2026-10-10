@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007013
+Policy ID: POL-11440069
+Claim Type: Home
+State: NY
+Policyholder Tenure: 16.5 years
+Previous Claims: 1
+Incident Date: 2023-11-26
+Claim Filed Date: 2023-12-30
+Claim Amount: $6,060.16
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000007013 for home policy in NY. Policyholder tenure: 16.5 yrs with 1 prior claims. Amount claimed: $6060.16 (deductible $500.0). Filed on 2023-12-30 following incident on 2023-11-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007013 is covered by Policy POL-11440069.
+- Claim CLM-C000007013 concerns an incident in NY on 2023-11-26.
+- Claim CLM-C000007013 has outcome Approved.
+- Claim CLM-C000007013 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002087
+Policy ID: POL-66293033
+Claim Type: Home
+State: MD
+Policyholder Tenure: 6.8 years
+Previous Claims: 0
+Incident Date: 2024-02-15
+Claim Filed Date: 2024-02-27
+Claim Amount: $11,832.76
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000002087 for home policy in MD. Policyholder tenure: 6.8 yrs with 0 prior claims. Amount claimed: $11832.76 (deductible $250.0). Filed on 2024-02-27 following incident on 2024-02-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002087 is covered by Policy POL-66293033.
+- Claim CLM-C000002087 concerns an incident in MD on 2024-02-15.
+- Claim CLM-C000002087 has outcome Approved.
+- Claim CLM-C000002087 has claim type Home.

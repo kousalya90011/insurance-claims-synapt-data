@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003834
+Policy ID: POL-59529114
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2024-08-11
+Claim Filed Date: 2024-09-04
+Claim Amount: $10,270.48
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000003834 for auto policy in VA. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $10270.48 (deductible $500.0). Filed on 2024-09-04 following incident on 2024-08-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003834 is covered by Policy POL-59529114.
+- Claim CLM-C000003834 concerns an incident in VA on 2024-08-11.
+- Claim CLM-C000003834 has outcome Approved.
+- Claim CLM-C000003834 has claim type Auto.

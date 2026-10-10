@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003763
+Policy ID: POL-54465723
+Claim Type: Property
+State: MA
+Policyholder Tenure: 2.8 years
+Previous Claims: 3
+Incident Date: 2023-09-09
+Claim Filed Date: 2023-09-18
+Claim Amount: $3,120.15
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000003763 for property policy in MA. Policyholder tenure: 2.8 yrs with 3 prior claims. Amount claimed: $3120.15 (deductible $1000.0). Filed on 2023-09-18 following incident on 2023-09-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003763 is covered by Policy POL-54465723.
+- Claim CLM-C000003763 concerns an incident in MA on 2023-09-09.
+- Claim CLM-C000003763 has outcome Approved.
+- Claim CLM-C000003763 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007069
+Policy ID: POL-99790789
+Claim Type: Property
+State: OH
+Policyholder Tenure: 7.9 years
+Previous Claims: 1
+Incident Date: 2024-05-01
+Claim Filed Date: 2024-06-10
+Claim Amount: $6,591.15
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000007069 for property policy in OH. Policyholder tenure: 7.9 yrs with 1 prior claims. Amount claimed: $6591.15 (deductible $500.0). Filed on 2024-06-10 following incident on 2024-05-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007069 is covered by Policy POL-99790789.
+- Claim CLM-C000007069 concerns an incident in OH on 2024-05-01.
+- Claim CLM-C000007069 has outcome Approved.
+- Claim CLM-C000007069 has claim type Property.

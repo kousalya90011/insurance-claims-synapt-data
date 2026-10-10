@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008736
+Policy ID: POL-23800653
+Claim Type: Property
+State: MO
+Policyholder Tenure: 4.5 years
+Previous Claims: 2
+Incident Date: 2024-03-22
+Claim Filed Date: 2024-03-23
+Claim Amount: $5,718.19
+Deductible: $2,500.00
+Claim Status: Under Review
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000008736 for property policy in MO. Policyholder tenure: 4.5 yrs with 2 prior claims. Amount claimed: $5718.19 (deductible $2500.0). Filed on 2024-03-23 following incident on 2024-03-22. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008736 is covered by Policy POL-23800653.
+- Claim CLM-C000008736 concerns an incident in MO on 2024-03-22.
+- Claim CLM-C000008736 has outcome Under Review.
+- Claim CLM-C000008736 has claim type Property.

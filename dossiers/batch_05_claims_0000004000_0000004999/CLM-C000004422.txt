@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004422
+Policy ID: POL-33909159
+Claim Type: Home
+State: IL
+Policyholder Tenure: 4.0 years
+Previous Claims: 0
+Incident Date: 2024-03-02
+Claim Filed Date: 2024-03-03
+Claim Amount: $10,258.61
+Deductible: $2,500.00
+Claim Status: Under Review
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000004422 for home policy in IL. Policyholder tenure: 4.0 yrs with 0 prior claims. Amount claimed: $10258.61 (deductible $2500.0). Filed on 2024-03-03 following incident on 2024-03-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004422 is covered by Policy POL-33909159.
+- Claim CLM-C000004422 concerns an incident in IL on 2024-03-02.
+- Claim CLM-C000004422 has outcome Under Review.
+- Claim CLM-C000004422 has claim type Home.

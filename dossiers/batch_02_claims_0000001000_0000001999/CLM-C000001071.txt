@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001071
+Policy ID: POL-85865251
+Claim Type: Home
+State: NY
+Policyholder Tenure: 15.8 years
+Previous Claims: 0
+Incident Date: 2024-05-12
+Claim Filed Date: 2024-06-17
+Claim Amount: $2,010.87
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000001071 for home policy in NY. Policyholder tenure: 15.8 yrs with 0 prior claims. Amount claimed: $2010.87 (deductible $2500.0). Filed on 2024-06-17 following incident on 2024-05-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001071 is covered by Policy POL-85865251.
+- Claim CLM-C000001071 concerns an incident in NY on 2024-05-12.
+- Claim CLM-C000001071 has outcome Approved.
+- Claim CLM-C000001071 has claim type Home.

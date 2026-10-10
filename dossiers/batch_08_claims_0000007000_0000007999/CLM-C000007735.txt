@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007735
+Policy ID: POL-13242241
+Claim Type: Auto
+State: TX
+Policyholder Tenure: 2.0 years
+Previous Claims: 1
+Incident Date: 2023-03-24
+Claim Filed Date: 2023-03-28
+Claim Amount: $22,022.50
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000007735 for auto policy in TX. Policyholder tenure: 2.0 yrs with 1 prior claims. Amount claimed: $22022.5 (deductible $250.0). Filed on 2023-03-28 following incident on 2023-03-24. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007735 is covered by Policy POL-13242241.
+- Claim CLM-C000007735 concerns an incident in TX on 2023-03-24.
+- Claim CLM-C000007735 has outcome Denied.
+- Claim CLM-C000007735 has claim type Auto.

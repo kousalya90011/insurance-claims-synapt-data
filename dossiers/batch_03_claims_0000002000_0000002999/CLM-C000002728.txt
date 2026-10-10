@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002728
+Policy ID: POL-85372816
+Claim Type: Home
+State: MI
+Policyholder Tenure: 6.1 years
+Previous Claims: 1
+Incident Date: 2023-03-02
+Claim Filed Date: 2023-03-25
+Claim Amount: $2,907.91
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000002728 for home policy in MI. Policyholder tenure: 6.1 yrs with 1 prior claims. Amount claimed: $2907.91 (deductible $1000.0). Filed on 2023-03-25 following incident on 2023-03-02. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000002728 is covered by Policy POL-85372816.
+- Claim CLM-C000002728 concerns an incident in MI on 2023-03-02.
+- Claim CLM-C000002728 has outcome Pending.
+- Claim CLM-C000002728 has claim type Home.

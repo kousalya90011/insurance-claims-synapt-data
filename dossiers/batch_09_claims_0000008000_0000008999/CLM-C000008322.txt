@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008322
+Policy ID: POL-77043290
+Claim Type: Home
+State: TN
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2024-07-10
+Claim Filed Date: 2024-08-11
+Claim Amount: $3,906.33
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000008322 for home policy in TN. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $3906.33 (deductible $250.0). Filed on 2024-08-11 following incident on 2024-07-10. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008322 is covered by Policy POL-77043290.
+- Claim CLM-C000008322 concerns an incident in TN on 2024-07-10.
+- Claim CLM-C000008322 has outcome Under Review.
+- Claim CLM-C000008322 has claim type Home.

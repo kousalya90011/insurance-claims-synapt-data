@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004328
+Policy ID: POL-40010357
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2023-03-01
+Claim Filed Date: 2023-03-29
+Claim Amount: $5,937.70
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000004328 for auto policy in CA. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $5937.7 (deductible $500.0). Filed on 2023-03-29 following incident on 2023-03-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004328 is covered by Policy POL-40010357.
+- Claim CLM-C000004328 concerns an incident in CA on 2023-03-01.
+- Claim CLM-C000004328 has outcome Approved.
+- Claim CLM-C000004328 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001661
+Policy ID: POL-79499526
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 1.4 years
+Previous Claims: 1
+Incident Date: 2024-08-15
+Claim Filed Date: 2024-09-02
+Claim Amount: $6,351.37
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000001661 for auto policy in VA. Policyholder tenure: 1.4 yrs with 1 prior claims. Amount claimed: $6351.37 (deductible $1000.0). Filed on 2024-09-02 following incident on 2024-08-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001661 is covered by Policy POL-79499526.
+- Claim CLM-C000001661 concerns an incident in VA on 2024-08-15.
+- Claim CLM-C000001661 has outcome Approved.
+- Claim CLM-C000001661 has claim type Auto.

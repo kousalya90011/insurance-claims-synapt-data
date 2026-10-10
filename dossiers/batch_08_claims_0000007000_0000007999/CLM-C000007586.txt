@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007586
+Policy ID: POL-23014038
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 19.0 years
+Previous Claims: 2
+Incident Date: 2023-10-25
+Claim Filed Date: 2023-12-01
+Claim Amount: $15,659.85
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000007586 for property policy in NJ. Policyholder tenure: 19.0 yrs with 2 prior claims. Amount claimed: $15659.85 (deductible $1000.0). Filed on 2023-12-01 following incident on 2023-10-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007586 is covered by Policy POL-23014038.
+- Claim CLM-C000007586 concerns an incident in NJ on 2023-10-25.
+- Claim CLM-C000007586 has outcome Approved.
+- Claim CLM-C000007586 has claim type Property.

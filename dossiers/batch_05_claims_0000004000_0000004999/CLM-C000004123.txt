@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004123
+Policy ID: POL-82624979
+Claim Type: Home
+State: MO
+Policyholder Tenure: 1.5 years
+Previous Claims: 2
+Incident Date: 2024-12-18
+Claim Filed Date: 2025-01-20
+Claim Amount: $5,106.98
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000004123 for home policy in MO. Policyholder tenure: 1.5 yrs with 2 prior claims. Amount claimed: $5106.98 (deductible $1000.0). Filed on 2025-01-20 following incident on 2024-12-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004123 is covered by Policy POL-82624979.
+- Claim CLM-C000004123 concerns an incident in MO on 2024-12-18.
+- Claim CLM-C000004123 has outcome Approved.
+- Claim CLM-C000004123 has claim type Home.

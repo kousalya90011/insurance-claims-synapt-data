@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007218
+Policy ID: POL-42393940
+Claim Type: Home
+State: OH
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2023-07-15
+Claim Filed Date: 2023-08-03
+Claim Amount: $12,358.16
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000007218 for home policy in OH. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $12358.16 (deductible $1000.0). Filed on 2023-08-03 following incident on 2023-07-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007218 is covered by Policy POL-42393940.
+- Claim CLM-C000007218 concerns an incident in OH on 2023-07-15.
+- Claim CLM-C000007218 has outcome Approved.
+- Claim CLM-C000007218 has claim type Home.

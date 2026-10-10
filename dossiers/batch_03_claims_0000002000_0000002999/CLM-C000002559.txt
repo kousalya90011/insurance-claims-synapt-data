@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002559
+Policy ID: POL-26332035
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 23.8 years
+Previous Claims: 2
+Incident Date: 2024-03-04
+Claim Filed Date: 2024-03-14
+Claim Amount: $3,759.09
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000002559 for auto policy in GA. Policyholder tenure: 23.8 yrs with 2 prior claims. Amount claimed: $3759.09 (deductible $500.0). Filed on 2024-03-14 following incident on 2024-03-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002559 is covered by Policy POL-26332035.
+- Claim CLM-C000002559 concerns an incident in GA on 2024-03-04.
+- Claim CLM-C000002559 has outcome Approved.
+- Claim CLM-C000002559 has claim type Auto.

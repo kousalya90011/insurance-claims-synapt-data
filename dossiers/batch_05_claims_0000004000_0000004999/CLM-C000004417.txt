@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004417
+Policy ID: POL-79467447
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 10.3 years
+Previous Claims: 0
+Incident Date: 2023-05-24
+Claim Filed Date: 2023-07-02
+Claim Amount: $3,728.80
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000004417 for renters policy in AZ. Policyholder tenure: 10.3 yrs with 0 prior claims. Amount claimed: $3728.8 (deductible $250.0). Filed on 2023-07-02 following incident on 2023-05-24. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004417 is covered by Policy POL-79467447.
+- Claim CLM-C000004417 concerns an incident in AZ on 2023-05-24.
+- Claim CLM-C000004417 has outcome Pending.
+- Claim CLM-C000004417 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003904
+Policy ID: POL-70677566
+Claim Type: Business
+State: GA
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2023-11-27
+Claim Filed Date: 2023-12-01
+Claim Amount: $103,744.35
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 56 days
+Claim Narrative: Claim CLM-C000003904 for business policy in GA. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $103744.35 (deductible $250.0). Filed on 2023-12-01 following incident on 2023-11-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003904 is covered by Policy POL-70677566.
+- Claim CLM-C000003904 concerns an incident in GA on 2023-11-27.
+- Claim CLM-C000003904 has outcome Approved.
+- Claim CLM-C000003904 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003049
+Policy ID: POL-31239753
+Claim Type: Property
+State: VA
+Policyholder Tenure: 14.4 years
+Previous Claims: 0
+Incident Date: 2024-09-01
+Claim Filed Date: 2024-09-05
+Claim Amount: $8,235.49
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000003049 for property policy in VA. Policyholder tenure: 14.4 yrs with 0 prior claims. Amount claimed: $8235.49 (deductible $250.0). Filed on 2024-09-05 following incident on 2024-09-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003049 is covered by Policy POL-31239753.
+- Claim CLM-C000003049 concerns an incident in VA on 2024-09-01.
+- Claim CLM-C000003049 has outcome Approved.
+- Claim CLM-C000003049 has claim type Property.

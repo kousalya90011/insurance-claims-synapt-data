@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005153
+Policy ID: POL-62584647
+Claim Type: Property
+State: IL
+Policyholder Tenure: 2.1 years
+Previous Claims: 0
+Incident Date: 2024-08-17
+Claim Filed Date: 2024-09-19
+Claim Amount: $9,512.72
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000005153 for property policy in IL. Policyholder tenure: 2.1 yrs with 0 prior claims. Amount claimed: $9512.72 (deductible $250.0). Filed on 2024-09-19 following incident on 2024-08-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005153 is covered by Policy POL-62584647.
+- Claim CLM-C000005153 concerns an incident in IL on 2024-08-17.
+- Claim CLM-C000005153 has outcome Approved.
+- Claim CLM-C000005153 has claim type Property.

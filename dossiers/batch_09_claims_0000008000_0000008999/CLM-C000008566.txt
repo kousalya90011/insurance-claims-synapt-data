@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008566
+Policy ID: POL-14675725
+Claim Type: Home
+State: MD
+Policyholder Tenure: 0.3 years
+Previous Claims: 1
+Incident Date: 2023-05-26
+Claim Filed Date: 2023-06-28
+Claim Amount: $3,982.31
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000008566 for home policy in MD. Policyholder tenure: 0.3 yrs with 1 prior claims. Amount claimed: $3982.31 (deductible $500.0). Filed on 2023-06-28 following incident on 2023-05-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008566 is covered by Policy POL-14675725.
+- Claim CLM-C000008566 concerns an incident in MD on 2023-05-26.
+- Claim CLM-C000008566 has outcome Approved.
+- Claim CLM-C000008566 has claim type Home.

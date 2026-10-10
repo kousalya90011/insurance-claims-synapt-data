@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008298
+Policy ID: POL-16405193
+Claim Type: Home
+State: TN
+Policyholder Tenure: 2.5 years
+Previous Claims: 1
+Incident Date: 2023-05-16
+Claim Filed Date: 2023-06-17
+Claim Amount: $17,564.65
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000008298 for home policy in TN. Policyholder tenure: 2.5 yrs with 1 prior claims. Amount claimed: $17564.65 (deductible $250.0). Filed on 2023-06-17 following incident on 2023-05-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008298 is covered by Policy POL-16405193.
+- Claim CLM-C000008298 concerns an incident in TN on 2023-05-16.
+- Claim CLM-C000008298 has outcome Approved.
+- Claim CLM-C000008298 has claim type Home.

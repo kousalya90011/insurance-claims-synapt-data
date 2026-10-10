@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003029
+Policy ID: POL-30820470
+Claim Type: Business
+State: CO
+Policyholder Tenure: 14.6 years
+Previous Claims: 2
+Incident Date: 2023-08-05
+Claim Filed Date: 2023-08-15
+Claim Amount: $51,099.99
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 54 days
+Claim Narrative: Claim CLM-C000003029 for business policy in CO. Policyholder tenure: 14.6 yrs with 2 prior claims. Amount claimed: $51099.99 (deductible $250.0). Filed on 2023-08-15 following incident on 2023-08-05. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003029 is covered by Policy POL-30820470.
+- Claim CLM-C000003029 concerns an incident in CO on 2023-08-05.
+- Claim CLM-C000003029 has outcome Under Review.
+- Claim CLM-C000003029 has claim type Business.

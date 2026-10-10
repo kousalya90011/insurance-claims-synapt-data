@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005827
+Policy ID: POL-40461624
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 4.2 years
+Previous Claims: 0
+Incident Date: 2024-08-15
+Claim Filed Date: 2024-09-11
+Claim Amount: $4,610.43
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000005827 for renters policy in NY. Policyholder tenure: 4.2 yrs with 0 prior claims. Amount claimed: $4610.43 (deductible $250.0). Filed on 2024-09-11 following incident on 2024-08-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005827 is covered by Policy POL-40461624.
+- Claim CLM-C000005827 concerns an incident in NY on 2024-08-15.
+- Claim CLM-C000005827 has outcome Approved.
+- Claim CLM-C000005827 has claim type Renters.

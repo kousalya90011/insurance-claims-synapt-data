@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009053
+Policy ID: POL-77111604
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 5.3 years
+Previous Claims: 1
+Incident Date: 2024-04-18
+Claim Filed Date: 2024-05-13
+Claim Amount: $11,468.12
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000009053 for home policy in AZ. Policyholder tenure: 5.3 yrs with 1 prior claims. Amount claimed: $11468.12 (deductible $500.0). Filed on 2024-05-13 following incident on 2024-04-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009053 is covered by Policy POL-77111604.
+- Claim CLM-C000009053 concerns an incident in AZ on 2024-04-18.
+- Claim CLM-C000009053 has outcome Approved.
+- Claim CLM-C000009053 has claim type Home.

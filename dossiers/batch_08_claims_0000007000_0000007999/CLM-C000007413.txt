@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007413
+Policy ID: POL-66758186
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 1.0 years
+Previous Claims: 2
+Incident Date: 2023-12-20
+Claim Filed Date: 2024-01-14
+Claim Amount: $15,702.88
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 79 days
+Claim Narrative: Claim CLM-C000007413 for home policy in NJ. Policyholder tenure: 1.0 yrs with 2 prior claims. Amount claimed: $15702.88 (deductible $250.0). Filed on 2024-01-14 following incident on 2023-12-20. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007413 is covered by Policy POL-66758186.
+- Claim CLM-C000007413 concerns an incident in NJ on 2023-12-20.
+- Claim CLM-C000007413 has outcome Under Review.
+- Claim CLM-C000007413 has claim type Home.

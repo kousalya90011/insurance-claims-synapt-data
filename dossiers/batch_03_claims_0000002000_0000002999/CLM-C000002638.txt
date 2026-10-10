@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002638
+Policy ID: POL-64649028
+Claim Type: Property
+State: PA
+Policyholder Tenure: 9.6 years
+Previous Claims: 0
+Incident Date: 2023-05-04
+Claim Filed Date: 2023-05-22
+Claim Amount: $22,000.65
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000002638 for property policy in PA. Policyholder tenure: 9.6 yrs with 0 prior claims. Amount claimed: $22000.65 (deductible $1000.0). Filed on 2023-05-22 following incident on 2023-05-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002638 is covered by Policy POL-64649028.
+- Claim CLM-C000002638 concerns an incident in PA on 2023-05-04.
+- Claim CLM-C000002638 has outcome Approved.
+- Claim CLM-C000002638 has claim type Property.

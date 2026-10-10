@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009790
+Policy ID: POL-15384129
+Claim Type: Home
+State: OH
+Policyholder Tenure: 9.8 years
+Previous Claims: 0
+Incident Date: 2023-06-04
+Claim Filed Date: 2023-06-20
+Claim Amount: $2,251.36
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000009790 for home policy in OH. Policyholder tenure: 9.8 yrs with 0 prior claims. Amount claimed: $2251.36 (deductible $250.0). Filed on 2023-06-20 following incident on 2023-06-04. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009790 is covered by Policy POL-15384129.
+- Claim CLM-C000009790 concerns an incident in OH on 2023-06-04.
+- Claim CLM-C000009790 has outcome Under Review.
+- Claim CLM-C000009790 has claim type Home.

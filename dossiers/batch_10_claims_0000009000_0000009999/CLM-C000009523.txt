@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009523
+Policy ID: POL-49493087
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 10.2 years
+Previous Claims: 1
+Incident Date: 2024-10-28
+Claim Filed Date: 2024-12-05
+Claim Amount: $11,820.57
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000009523 for auto policy in FL. Policyholder tenure: 10.2 yrs with 1 prior claims. Amount claimed: $11820.57 (deductible $1000.0). Filed on 2024-12-05 following incident on 2024-10-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009523 is covered by Policy POL-49493087.
+- Claim CLM-C000009523 concerns an incident in FL on 2024-10-28.
+- Claim CLM-C000009523 has outcome Approved.
+- Claim CLM-C000009523 has claim type Auto.

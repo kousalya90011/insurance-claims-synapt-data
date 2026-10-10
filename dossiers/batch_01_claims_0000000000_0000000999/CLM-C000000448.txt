@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000448
+Policy ID: POL-75099036
+Claim Type: Property
+State: GA
+Policyholder Tenure: 8.5 years
+Previous Claims: 0
+Incident Date: 2023-03-04
+Claim Filed Date: 2023-03-11
+Claim Amount: $38,496.56
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000000448 for property policy in GA. Policyholder tenure: 8.5 yrs with 0 prior claims. Amount claimed: $38496.56 (deductible $250.0). Filed on 2023-03-11 following incident on 2023-03-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000448 is covered by Policy POL-75099036.
+- Claim CLM-C000000448 concerns an incident in GA on 2023-03-04.
+- Claim CLM-C000000448 has outcome Approved.
+- Claim CLM-C000000448 has claim type Property.

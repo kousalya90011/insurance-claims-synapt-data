@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002216
+Policy ID: POL-99947970
+Claim Type: Home
+State: PA
+Policyholder Tenure: 2.4 years
+Previous Claims: 1
+Incident Date: 2025-01-06
+Claim Filed Date: 2025-01-11
+Claim Amount: $7,275.14
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000002216 for home policy in PA. Policyholder tenure: 2.4 yrs with 1 prior claims. Amount claimed: $7275.14 (deductible $2000.0). Filed on 2025-01-11 following incident on 2025-01-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002216 is covered by Policy POL-99947970.
+- Claim CLM-C000002216 concerns an incident in PA on 2025-01-06.
+- Claim CLM-C000002216 has outcome Approved.
+- Claim CLM-C000002216 has claim type Home.

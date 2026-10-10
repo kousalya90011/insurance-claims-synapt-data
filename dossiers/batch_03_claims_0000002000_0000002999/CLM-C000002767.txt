@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002767
+Policy ID: POL-21425911
+Claim Type: Home
+State: NY
+Policyholder Tenure: 4.3 years
+Previous Claims: 1
+Incident Date: 2023-01-27
+Claim Filed Date: 2023-03-08
+Claim Amount: $37,878.22
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 46 days
+Claim Narrative: Claim CLM-C000002767 for home policy in NY. Policyholder tenure: 4.3 yrs with 1 prior claims. Amount claimed: $37878.22 (deductible $2000.0). Filed on 2023-03-08 following incident on 2023-01-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002767 is covered by Policy POL-21425911.
+- Claim CLM-C000002767 concerns an incident in NY on 2023-01-27.
+- Claim CLM-C000002767 has outcome Approved.
+- Claim CLM-C000002767 has claim type Home.

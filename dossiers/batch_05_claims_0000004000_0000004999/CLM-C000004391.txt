@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004391
+Policy ID: POL-94483149
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2023-06-30
+Claim Filed Date: 2023-07-15
+Claim Amount: $4,644.17
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000004391 for auto policy in WI. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $4644.17 (deductible $1000.0). Filed on 2023-07-15 following incident on 2023-06-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004391 is covered by Policy POL-94483149.
+- Claim CLM-C000004391 concerns an incident in WI on 2023-06-30.
+- Claim CLM-C000004391 has outcome Approved.
+- Claim CLM-C000004391 has claim type Auto.

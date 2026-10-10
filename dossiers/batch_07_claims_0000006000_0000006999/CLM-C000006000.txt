@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006000
+Policy ID: POL-64663823
+Claim Type: Renters
+State: CO
+Policyholder Tenure: 20.6 years
+Previous Claims: 0
+Incident Date: 2024-04-28
+Claim Filed Date: 2024-04-28
+Claim Amount: $475.03
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000006000 for renters policy in CO. Policyholder tenure: 20.6 yrs with 0 prior claims. Amount claimed: $475.03 (deductible $500.0). Filed on 2024-04-28 following incident on 2024-04-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006000 is covered by Policy POL-64663823.
+- Claim CLM-C000006000 concerns an incident in CO on 2024-04-28.
+- Claim CLM-C000006000 has outcome Approved.
+- Claim CLM-C000006000 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004765
+Policy ID: POL-72266234
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 10.5 years
+Previous Claims: 1
+Incident Date: 2024-10-06
+Claim Filed Date: 2024-11-04
+Claim Amount: $11,867.02
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000004765 for auto policy in WI. Policyholder tenure: 10.5 yrs with 1 prior claims. Amount claimed: $11867.02 (deductible $250.0). Filed on 2024-11-04 following incident on 2024-10-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004765 is covered by Policy POL-72266234.
+- Claim CLM-C000004765 concerns an incident in WI on 2024-10-06.
+- Claim CLM-C000004765 has outcome Approved.
+- Claim CLM-C000004765 has claim type Auto.

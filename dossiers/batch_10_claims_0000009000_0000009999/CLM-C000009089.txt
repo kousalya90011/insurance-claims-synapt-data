@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009089
+Policy ID: POL-92937943
+Claim Type: Home
+State: VA
+Policyholder Tenure: 9.4 years
+Previous Claims: 2
+Incident Date: 2024-11-04
+Claim Filed Date: 2024-11-12
+Claim Amount: $4,567.67
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000009089 for home policy in VA. Policyholder tenure: 9.4 yrs with 2 prior claims. Amount claimed: $4567.67 (deductible $500.0). Filed on 2024-11-12 following incident on 2024-11-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009089 is covered by Policy POL-92937943.
+- Claim CLM-C000009089 concerns an incident in VA on 2024-11-04.
+- Claim CLM-C000009089 has outcome Approved.
+- Claim CLM-C000009089 has claim type Home.

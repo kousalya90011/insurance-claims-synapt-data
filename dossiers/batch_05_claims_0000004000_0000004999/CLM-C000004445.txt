@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004445
+Policy ID: POL-21390741
+Claim Type: Property
+State: MD
+Policyholder Tenure: 2.1 years
+Previous Claims: 2
+Incident Date: 2023-07-19
+Claim Filed Date: 2023-08-23
+Claim Amount: $134,700.21
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 57 days
+Claim Narrative: Claim CLM-C000004445 for property policy in MD. Policyholder tenure: 2.1 yrs with 2 prior claims. Amount claimed: $134700.21 (deductible $1000.0). Filed on 2023-08-23 following incident on 2023-07-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004445 is covered by Policy POL-21390741.
+- Claim CLM-C000004445 concerns an incident in MD on 2023-07-19.
+- Claim CLM-C000004445 has outcome Approved.
+- Claim CLM-C000004445 has claim type Property.

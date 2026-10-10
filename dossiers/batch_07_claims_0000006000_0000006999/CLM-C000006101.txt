@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006101
+Policy ID: POL-70841705
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 4.8 years
+Previous Claims: 0
+Incident Date: 2024-02-06
+Claim Filed Date: 2024-02-24
+Claim Amount: $10,223.73
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000006101 for auto policy in CA. Policyholder tenure: 4.8 yrs with 0 prior claims. Amount claimed: $10223.73 (deductible $500.0). Filed on 2024-02-24 following incident on 2024-02-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006101 is covered by Policy POL-70841705.
+- Claim CLM-C000006101 concerns an incident in CA on 2024-02-06.
+- Claim CLM-C000006101 has outcome Approved.
+- Claim CLM-C000006101 has claim type Auto.

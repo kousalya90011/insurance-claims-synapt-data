@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001764
+Policy ID: POL-53024651
+Claim Type: Home
+State: OH
+Policyholder Tenure: 1.8 years
+Previous Claims: 0
+Incident Date: 2024-12-10
+Claim Filed Date: 2024-12-13
+Claim Amount: $7,811.04
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000001764 for home policy in OH. Policyholder tenure: 1.8 yrs with 0 prior claims. Amount claimed: $7811.04 (deductible $500.0). Filed on 2024-12-13 following incident on 2024-12-10. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001764 is covered by Policy POL-53024651.
+- Claim CLM-C000001764 concerns an incident in OH on 2024-12-10.
+- Claim CLM-C000001764 has outcome Denied.
+- Claim CLM-C000001764 has claim type Home.

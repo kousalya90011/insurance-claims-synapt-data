@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006430
+Policy ID: POL-25596323
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 3.2 years
+Previous Claims: 1
+Incident Date: 2023-04-01
+Claim Filed Date: 2023-04-09
+Claim Amount: $5,193.85
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000006430 for auto policy in OH. Policyholder tenure: 3.2 yrs with 1 prior claims. Amount claimed: $5193.85 (deductible $500.0). Filed on 2023-04-09 following incident on 2023-04-01. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006430 is covered by Policy POL-25596323.
+- Claim CLM-C000006430 concerns an incident in OH on 2023-04-01.
+- Claim CLM-C000006430 has outcome Under Review.
+- Claim CLM-C000006430 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008225
+Policy ID: POL-79486911
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 1.2 years
+Previous Claims: 1
+Incident Date: 2023-04-01
+Claim Filed Date: 2023-04-22
+Claim Amount: $3,261.64
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000008225 for auto policy in IL. Policyholder tenure: 1.2 yrs with 1 prior claims. Amount claimed: $3261.64 (deductible $500.0). Filed on 2023-04-22 following incident on 2023-04-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008225 is covered by Policy POL-79486911.
+- Claim CLM-C000008225 concerns an incident in IL on 2023-04-01.
+- Claim CLM-C000008225 has outcome Approved.
+- Claim CLM-C000008225 has claim type Auto.

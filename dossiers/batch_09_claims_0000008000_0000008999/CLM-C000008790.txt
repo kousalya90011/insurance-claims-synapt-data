@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008790
+Policy ID: POL-91505564
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 7.2 years
+Previous Claims: 1
+Incident Date: 2024-11-06
+Claim Filed Date: 2024-12-16
+Claim Amount: $5,664.47
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000008790 for property policy in NJ. Policyholder tenure: 7.2 yrs with 1 prior claims. Amount claimed: $5664.47 (deductible $250.0). Filed on 2024-12-16 following incident on 2024-11-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008790 is covered by Policy POL-91505564.
+- Claim CLM-C000008790 concerns an incident in NJ on 2024-11-06.
+- Claim CLM-C000008790 has outcome Denied.
+- Claim CLM-C000008790 has claim type Property.

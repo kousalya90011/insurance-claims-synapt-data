@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005038
+Policy ID: POL-39081248
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 0.1 years
+Previous Claims: 0
+Incident Date: 2023-04-28
+Claim Filed Date: 2023-06-05
+Claim Amount: $10,151.07
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000005038 for auto policy in IL. Policyholder tenure: 0.1 yrs with 0 prior claims. Amount claimed: $10151.07 (deductible $1000.0). Filed on 2023-06-05 following incident on 2023-04-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005038 is covered by Policy POL-39081248.
+- Claim CLM-C000005038 concerns an incident in IL on 2023-04-28.
+- Claim CLM-C000005038 has outcome Approved.
+- Claim CLM-C000005038 has claim type Auto.

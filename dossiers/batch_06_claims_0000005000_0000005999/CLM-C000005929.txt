@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005929
+Policy ID: POL-62404485
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 8.1 years
+Previous Claims: 0
+Incident Date: 2024-09-10
+Claim Filed Date: 2024-10-01
+Claim Amount: $3,286.03
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000005929 for renters policy in WI. Policyholder tenure: 8.1 yrs with 0 prior claims. Amount claimed: $3286.03 (deductible $250.0). Filed on 2024-10-01 following incident on 2024-09-10. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000005929 is covered by Policy POL-62404485.
+- Claim CLM-C000005929 concerns an incident in WI on 2024-09-10.
+- Claim CLM-C000005929 has outcome Pending.
+- Claim CLM-C000005929 has claim type Renters.

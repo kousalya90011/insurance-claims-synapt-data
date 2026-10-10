@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001423
+Policy ID: POL-96379706
+Claim Type: Business
+State: WI
+Policyholder Tenure: 0.8 years
+Previous Claims: 0
+Incident Date: 2024-10-01
+Claim Filed Date: 2024-10-18
+Claim Amount: $215,773.89
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 92 days
+Claim Narrative: Claim CLM-C000001423 for business policy in WI. Policyholder tenure: 0.8 yrs with 0 prior claims. Amount claimed: $215773.89 (deductible $250.0). Filed on 2024-10-18 following incident on 2024-10-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001423 is covered by Policy POL-96379706.
+- Claim CLM-C000001423 concerns an incident in WI on 2024-10-01.
+- Claim CLM-C000001423 has outcome Approved.
+- Claim CLM-C000001423 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004693
+Policy ID: POL-40892068
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 0.2 years
+Previous Claims: 1
+Incident Date: 2023-06-26
+Claim Filed Date: 2023-08-01
+Claim Amount: $2,626.85
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000004693 for auto policy in MA. Policyholder tenure: 0.2 yrs with 1 prior claims. Amount claimed: $2626.85 (deductible $1000.0). Filed on 2023-08-01 following incident on 2023-06-26. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004693 is covered by Policy POL-40892068.
+- Claim CLM-C000004693 concerns an incident in MA on 2023-06-26.
+- Claim CLM-C000004693 has outcome Under Review.
+- Claim CLM-C000004693 has claim type Auto.

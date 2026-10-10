@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003038
+Policy ID: POL-26519618
+Claim Type: Home
+State: IL
+Policyholder Tenure: 4.0 years
+Previous Claims: 1
+Incident Date: 2024-05-13
+Claim Filed Date: 2024-06-11
+Claim Amount: $851.79
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000003038 for home policy in IL. Policyholder tenure: 4.0 yrs with 1 prior claims. Amount claimed: $851.79 (deductible $500.0). Filed on 2024-06-11 following incident on 2024-05-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003038 is covered by Policy POL-26519618.
+- Claim CLM-C000003038 concerns an incident in IL on 2024-05-13.
+- Claim CLM-C000003038 has outcome Approved.
+- Claim CLM-C000003038 has claim type Home.

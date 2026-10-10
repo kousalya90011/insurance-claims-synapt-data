@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005329
+Policy ID: POL-84455387
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2024-07-19
+Claim Filed Date: 2024-08-23
+Claim Amount: $3,318.69
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000005329 for auto policy in VA. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $3318.69 (deductible $500.0). Filed on 2024-08-23 following incident on 2024-07-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005329 is covered by Policy POL-84455387.
+- Claim CLM-C000005329 concerns an incident in VA on 2024-07-19.
+- Claim CLM-C000005329 has outcome Approved.
+- Claim CLM-C000005329 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005253
+Policy ID: POL-62379920
+Claim Type: Home
+State: NC
+Policyholder Tenure: 11.2 years
+Previous Claims: 1
+Incident Date: 2023-12-31
+Claim Filed Date: 2024-02-05
+Claim Amount: $11,906.51
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000005253 for home policy in NC. Policyholder tenure: 11.2 yrs with 1 prior claims. Amount claimed: $11906.51 (deductible $250.0). Filed on 2024-02-05 following incident on 2023-12-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005253 is covered by Policy POL-62379920.
+- Claim CLM-C000005253 concerns an incident in NC on 2023-12-31.
+- Claim CLM-C000005253 has outcome Approved.
+- Claim CLM-C000005253 has claim type Home.

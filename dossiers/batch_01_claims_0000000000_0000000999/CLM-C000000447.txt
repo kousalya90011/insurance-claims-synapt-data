@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000447
+Policy ID: POL-19530766
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 0.3 years
+Previous Claims: 0
+Incident Date: 2024-07-02
+Claim Filed Date: 2024-07-24
+Claim Amount: $14,747.17
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000000447 for auto policy in NJ. Policyholder tenure: 0.3 yrs with 0 prior claims. Amount claimed: $14747.17 (deductible $250.0). Filed on 2024-07-24 following incident on 2024-07-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000447 is covered by Policy POL-19530766.
+- Claim CLM-C000000447 concerns an incident in NJ on 2024-07-02.
+- Claim CLM-C000000447 has outcome Approved.
+- Claim CLM-C000000447 has claim type Auto.

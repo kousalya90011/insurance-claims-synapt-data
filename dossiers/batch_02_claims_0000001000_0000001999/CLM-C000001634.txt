@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001634
+Policy ID: POL-59818675
+Claim Type: Property
+State: MI
+Policyholder Tenure: 5.8 years
+Previous Claims: 0
+Incident Date: 2023-07-05
+Claim Filed Date: 2023-07-22
+Claim Amount: $14,338.96
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000001634 for property policy in MI. Policyholder tenure: 5.8 yrs with 0 prior claims. Amount claimed: $14338.96 (deductible $500.0). Filed on 2023-07-22 following incident on 2023-07-05. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001634 is covered by Policy POL-59818675.
+- Claim CLM-C000001634 concerns an incident in MI on 2023-07-05.
+- Claim CLM-C000001634 has outcome Denied.
+- Claim CLM-C000001634 has claim type Property.

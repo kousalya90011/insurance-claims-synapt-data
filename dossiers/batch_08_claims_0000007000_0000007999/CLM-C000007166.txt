@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007166
+Policy ID: POL-49487945
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 8.7 years
+Previous Claims: 0
+Incident Date: 2023-08-01
+Claim Filed Date: 2023-09-07
+Claim Amount: $8,064.93
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000007166 for home policy in NJ. Policyholder tenure: 8.7 yrs with 0 prior claims. Amount claimed: $8064.93 (deductible $2000.0). Filed on 2023-09-07 following incident on 2023-08-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007166 is covered by Policy POL-49487945.
+- Claim CLM-C000007166 concerns an incident in NJ on 2023-08-01.
+- Claim CLM-C000007166 has outcome Approved.
+- Claim CLM-C000007166 has claim type Home.

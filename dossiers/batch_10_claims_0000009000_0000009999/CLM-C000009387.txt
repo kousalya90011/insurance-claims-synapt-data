@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009387
+Policy ID: POL-11511185
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 4.8 years
+Previous Claims: 1
+Incident Date: 2024-06-11
+Claim Filed Date: 2024-06-28
+Claim Amount: $8,801.46
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000009387 for auto policy in MD. Policyholder tenure: 4.8 yrs with 1 prior claims. Amount claimed: $8801.46 (deductible $500.0). Filed on 2024-06-28 following incident on 2024-06-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009387 is covered by Policy POL-11511185.
+- Claim CLM-C000009387 concerns an incident in MD on 2024-06-11.
+- Claim CLM-C000009387 has outcome Under Review.
+- Claim CLM-C000009387 has claim type Auto.

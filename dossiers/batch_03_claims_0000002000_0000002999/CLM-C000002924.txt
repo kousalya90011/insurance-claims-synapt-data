@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002924
+Policy ID: POL-15429773
+Claim Type: Property
+State: WI
+Policyholder Tenure: 16.5 years
+Previous Claims: 1
+Incident Date: 2024-07-10
+Claim Filed Date: 2024-08-12
+Claim Amount: $14,319.67
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000002924 for property policy in WI. Policyholder tenure: 16.5 yrs with 1 prior claims. Amount claimed: $14319.67 (deductible $250.0). Filed on 2024-08-12 following incident on 2024-07-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002924 is covered by Policy POL-15429773.
+- Claim CLM-C000002924 concerns an incident in WI on 2024-07-10.
+- Claim CLM-C000002924 has outcome Approved.
+- Claim CLM-C000002924 has claim type Property.

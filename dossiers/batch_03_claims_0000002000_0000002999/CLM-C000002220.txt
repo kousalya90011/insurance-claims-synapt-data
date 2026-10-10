@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002220
+Policy ID: POL-18567917
+Claim Type: Home
+State: CO
+Policyholder Tenure: 4.9 years
+Previous Claims: 0
+Incident Date: 2023-05-07
+Claim Filed Date: 2023-05-18
+Claim Amount: $12,215.45
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000002220 for home policy in CO. Policyholder tenure: 4.9 yrs with 0 prior claims. Amount claimed: $12215.45 (deductible $250.0). Filed on 2023-05-18 following incident on 2023-05-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002220 is covered by Policy POL-18567917.
+- Claim CLM-C000002220 concerns an incident in CO on 2023-05-07.
+- Claim CLM-C000002220 has outcome Approved.
+- Claim CLM-C000002220 has claim type Home.

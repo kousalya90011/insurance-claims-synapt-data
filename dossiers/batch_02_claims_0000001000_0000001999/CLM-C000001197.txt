@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001197
+Policy ID: POL-68470587
+Claim Type: Renters
+State: CA
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2024-01-18
+Claim Filed Date: 2024-02-23
+Claim Amount: $11,437.20
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000001197 for renters policy in CA. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $11437.2 (deductible $250.0). Filed on 2024-02-23 following incident on 2024-01-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001197 is covered by Policy POL-68470587.
+- Claim CLM-C000001197 concerns an incident in CA on 2024-01-18.
+- Claim CLM-C000001197 has outcome Approved.
+- Claim CLM-C000001197 has claim type Renters.

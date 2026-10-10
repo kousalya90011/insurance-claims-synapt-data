@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006264
+Policy ID: POL-87766701
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 1.9 years
+Previous Claims: 0
+Incident Date: 2024-08-08
+Claim Filed Date: 2024-08-13
+Claim Amount: $8,634.13
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006264 for auto policy in MD. Policyholder tenure: 1.9 yrs with 0 prior claims. Amount claimed: $8634.13 (deductible $500.0). Filed on 2024-08-13 following incident on 2024-08-08. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006264 is covered by Policy POL-87766701.
+- Claim CLM-C000006264 concerns an incident in MD on 2024-08-08.
+- Claim CLM-C000006264 has outcome Pending.
+- Claim CLM-C000006264 has claim type Auto.

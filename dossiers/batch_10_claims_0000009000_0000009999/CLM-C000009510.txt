@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009510
+Policy ID: POL-39899149
+Claim Type: Property
+State: MI
+Policyholder Tenure: 4.4 years
+Previous Claims: 1
+Incident Date: 2024-07-27
+Claim Filed Date: 2024-09-07
+Claim Amount: $37,750.63
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000009510 for property policy in MI. Policyholder tenure: 4.4 yrs with 1 prior claims. Amount claimed: $37750.63 (deductible $500.0). Filed on 2024-09-07 following incident on 2024-07-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009510 is covered by Policy POL-39899149.
+- Claim CLM-C000009510 concerns an incident in MI on 2024-07-27.
+- Claim CLM-C000009510 has outcome Approved.
+- Claim CLM-C000009510 has claim type Property.

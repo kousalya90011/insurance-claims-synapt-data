@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001733
+Policy ID: POL-64159727
+Claim Type: Home
+State: NC
+Policyholder Tenure: 8.6 years
+Previous Claims: 2
+Incident Date: 2023-06-10
+Claim Filed Date: 2023-06-22
+Claim Amount: $28,635.64
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000001733 for home policy in NC. Policyholder tenure: 8.6 yrs with 2 prior claims. Amount claimed: $28635.64 (deductible $1000.0). Filed on 2023-06-22 following incident on 2023-06-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001733 is covered by Policy POL-64159727.
+- Claim CLM-C000001733 concerns an incident in NC on 2023-06-10.
+- Claim CLM-C000001733 has outcome Approved.
+- Claim CLM-C000001733 has claim type Home.

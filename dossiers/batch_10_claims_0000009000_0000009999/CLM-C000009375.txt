@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009375
+Policy ID: POL-17651867
+Claim Type: Home
+State: OH
+Policyholder Tenure: 6.5 years
+Previous Claims: 0
+Incident Date: 2024-06-11
+Claim Filed Date: 2024-07-16
+Claim Amount: $14,591.14
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000009375 for home policy in OH. Policyholder tenure: 6.5 yrs with 0 prior claims. Amount claimed: $14591.14 (deductible $2500.0). Filed on 2024-07-16 following incident on 2024-06-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009375 is covered by Policy POL-17651867.
+- Claim CLM-C000009375 concerns an incident in OH on 2024-06-11.
+- Claim CLM-C000009375 has outcome Approved.
+- Claim CLM-C000009375 has claim type Home.

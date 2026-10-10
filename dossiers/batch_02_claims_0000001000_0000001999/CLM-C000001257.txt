@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001257
+Policy ID: POL-76587841
+Claim Type: Property
+State: TX
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2024-09-09
+Claim Filed Date: 2024-10-02
+Claim Amount: $18,687.75
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000001257 for property policy in TX. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $18687.75 (deductible $500.0). Filed on 2024-10-02 following incident on 2024-09-09. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001257 is covered by Policy POL-76587841.
+- Claim CLM-C000001257 concerns an incident in TX on 2024-09-09.
+- Claim CLM-C000001257 has outcome Under Review.
+- Claim CLM-C000001257 has claim type Property.

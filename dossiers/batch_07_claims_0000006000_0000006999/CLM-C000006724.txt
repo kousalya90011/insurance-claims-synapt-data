@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006724
+Policy ID: POL-35499772
+Claim Type: Home
+State: MO
+Policyholder Tenure: 5.5 years
+Previous Claims: 1
+Incident Date: 2024-11-03
+Claim Filed Date: 2024-12-14
+Claim Amount: $17,010.36
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000006724 for home policy in MO. Policyholder tenure: 5.5 yrs with 1 prior claims. Amount claimed: $17010.36 (deductible $500.0). Filed on 2024-12-14 following incident on 2024-11-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006724 is covered by Policy POL-35499772.
+- Claim CLM-C000006724 concerns an incident in MO on 2024-11-03.
+- Claim CLM-C000006724 has outcome Approved.
+- Claim CLM-C000006724 has claim type Home.

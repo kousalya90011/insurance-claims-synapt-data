@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008521
+Policy ID: POL-68224171
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 3.2 years
+Previous Claims: 1
+Incident Date: 2024-04-10
+Claim Filed Date: 2024-04-27
+Claim Amount: $2,183.68
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000008521 for auto policy in NC. Policyholder tenure: 3.2 yrs with 1 prior claims. Amount claimed: $2183.68 (deductible $2000.0). Filed on 2024-04-27 following incident on 2024-04-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008521 is covered by Policy POL-68224171.
+- Claim CLM-C000008521 concerns an incident in NC on 2024-04-10.
+- Claim CLM-C000008521 has outcome Approved.
+- Claim CLM-C000008521 has claim type Auto.

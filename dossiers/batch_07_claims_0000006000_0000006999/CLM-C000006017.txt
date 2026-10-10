@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006017
+Policy ID: POL-32002825
+Claim Type: Property
+State: PA
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2024-05-21
+Claim Filed Date: 2024-05-28
+Claim Amount: $4,528.27
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000006017 for property policy in PA. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $4528.27 (deductible $2000.0). Filed on 2024-05-28 following incident on 2024-05-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006017 is covered by Policy POL-32002825.
+- Claim CLM-C000006017 concerns an incident in PA on 2024-05-21.
+- Claim CLM-C000006017 has outcome Under Review.
+- Claim CLM-C000006017 has claim type Property.

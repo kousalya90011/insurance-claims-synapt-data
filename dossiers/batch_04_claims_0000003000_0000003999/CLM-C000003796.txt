@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003796
+Policy ID: POL-65876117
+Claim Type: Home
+State: MO
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2023-11-06
+Claim Filed Date: 2023-11-23
+Claim Amount: $11,654.08
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000003796 for home policy in MO. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $11654.08 (deductible $2000.0). Filed on 2023-11-23 following incident on 2023-11-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003796 is covered by Policy POL-65876117.
+- Claim CLM-C000003796 concerns an incident in MO on 2023-11-06.
+- Claim CLM-C000003796 has outcome Approved.
+- Claim CLM-C000003796 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001687
+Policy ID: POL-68129864
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 13.8 years
+Previous Claims: 1
+Incident Date: 2024-08-09
+Claim Filed Date: 2024-08-18
+Claim Amount: $5,513.77
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001687 for auto policy in CA. Policyholder tenure: 13.8 yrs with 1 prior claims. Amount claimed: $5513.77 (deductible $500.0). Filed on 2024-08-18 following incident on 2024-08-09. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001687 is covered by Policy POL-68129864.
+- Claim CLM-C000001687 concerns an incident in CA on 2024-08-09.
+- Claim CLM-C000001687 has outcome Pending.
+- Claim CLM-C000001687 has claim type Auto.

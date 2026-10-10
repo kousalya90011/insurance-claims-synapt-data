@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007818
+Policy ID: POL-66316693
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 11.7 years
+Previous Claims: 1
+Incident Date: 2024-10-08
+Claim Filed Date: 2024-10-27
+Claim Amount: $4,578.50
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000007818 for renters policy in NJ. Policyholder tenure: 11.7 yrs with 1 prior claims. Amount claimed: $4578.5 (deductible $500.0). Filed on 2024-10-27 following incident on 2024-10-08. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007818 is covered by Policy POL-66316693.
+- Claim CLM-C000007818 concerns an incident in NJ on 2024-10-08.
+- Claim CLM-C000007818 has outcome Pending.
+- Claim CLM-C000007818 has claim type Renters.

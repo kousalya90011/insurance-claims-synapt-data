@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004390
+Policy ID: POL-38814486
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 1.8 years
+Previous Claims: 3
+Incident Date: 2023-05-01
+Claim Filed Date: 2023-05-24
+Claim Amount: $22,515.63
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000004390 for auto policy in GA. Policyholder tenure: 1.8 yrs with 3 prior claims. Amount claimed: $22515.63 (deductible $500.0). Filed on 2023-05-24 following incident on 2023-05-01. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004390 is covered by Policy POL-38814486.
+- Claim CLM-C000004390 concerns an incident in GA on 2023-05-01.
+- Claim CLM-C000004390 has outcome Denied.
+- Claim CLM-C000004390 has claim type Auto.

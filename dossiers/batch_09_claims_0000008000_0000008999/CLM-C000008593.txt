@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008593
+Policy ID: POL-80247274
+Claim Type: Home
+State: PA
+Policyholder Tenure: 1.0 years
+Previous Claims: 2
+Incident Date: 2023-12-12
+Claim Filed Date: 2024-01-14
+Claim Amount: $8,505.25
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000008593 for home policy in PA. Policyholder tenure: 1.0 yrs with 2 prior claims. Amount claimed: $8505.25 (deductible $500.0). Filed on 2024-01-14 following incident on 2023-12-12. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008593 is covered by Policy POL-80247274.
+- Claim CLM-C000008593 concerns an incident in PA on 2023-12-12.
+- Claim CLM-C000008593 has outcome Pending.
+- Claim CLM-C000008593 has claim type Home.

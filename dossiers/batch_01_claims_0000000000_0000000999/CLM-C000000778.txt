@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000778
+Policy ID: POL-36582311
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 3.9 years
+Previous Claims: 3
+Incident Date: 2023-05-03
+Claim Filed Date: 2023-06-06
+Claim Amount: $3,167.08
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000000778 for auto policy in NC. Policyholder tenure: 3.9 yrs with 3 prior claims. Amount claimed: $3167.08 (deductible $500.0). Filed on 2023-06-06 following incident on 2023-05-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000778 is covered by Policy POL-36582311.
+- Claim CLM-C000000778 concerns an incident in NC on 2023-05-03.
+- Claim CLM-C000000778 has outcome Approved.
+- Claim CLM-C000000778 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009636
+Policy ID: POL-66045625
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 7.9 years
+Previous Claims: 0
+Incident Date: 2024-05-07
+Claim Filed Date: 2024-05-22
+Claim Amount: $2,206.32
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000009636 for auto policy in OH. Policyholder tenure: 7.9 yrs with 0 prior claims. Amount claimed: $2206.32 (deductible $2000.0). Filed on 2024-05-22 following incident on 2024-05-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009636 is covered by Policy POL-66045625.
+- Claim CLM-C000009636 concerns an incident in OH on 2024-05-07.
+- Claim CLM-C000009636 has outcome Approved.
+- Claim CLM-C000009636 has claim type Auto.

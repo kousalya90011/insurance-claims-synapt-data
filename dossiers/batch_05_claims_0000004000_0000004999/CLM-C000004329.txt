@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004329
+Policy ID: POL-74625609
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 12.0 years
+Previous Claims: 1
+Incident Date: 2024-11-04
+Claim Filed Date: 2024-12-11
+Claim Amount: $6,157.55
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 88 days
+Claim Narrative: Claim CLM-C000004329 for auto policy in NY. Policyholder tenure: 12.0 yrs with 1 prior claims. Amount claimed: $6157.55 (deductible $500.0). Filed on 2024-12-11 following incident on 2024-11-04. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004329 is covered by Policy POL-74625609.
+- Claim CLM-C000004329 concerns an incident in NY on 2024-11-04.
+- Claim CLM-C000004329 has outcome Under Review.
+- Claim CLM-C000004329 has claim type Auto.

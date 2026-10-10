@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000696
+Policy ID: POL-75497387
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 8.6 years
+Previous Claims: 0
+Incident Date: 2023-08-24
+Claim Filed Date: 2023-10-05
+Claim Amount: $32,166.12
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000000696 for auto policy in TN. Policyholder tenure: 8.6 yrs with 0 prior claims. Amount claimed: $32166.12 (deductible $250.0). Filed on 2023-10-05 following incident on 2023-08-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000696 is covered by Policy POL-75497387.
+- Claim CLM-C000000696 concerns an incident in TN on 2023-08-24.
+- Claim CLM-C000000696 has outcome Approved.
+- Claim CLM-C000000696 has claim type Auto.

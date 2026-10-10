@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003254
+Policy ID: POL-24574741
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 0.8 years
+Previous Claims: 1
+Incident Date: 2023-11-09
+Claim Filed Date: 2023-11-19
+Claim Amount: $6,782.88
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000003254 for auto policy in NJ. Policyholder tenure: 0.8 yrs with 1 prior claims. Amount claimed: $6782.88 (deductible $250.0). Filed on 2023-11-19 following incident on 2023-11-09. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003254 is covered by Policy POL-24574741.
+- Claim CLM-C000003254 concerns an incident in NJ on 2023-11-09.
+- Claim CLM-C000003254 has outcome Under Review.
+- Claim CLM-C000003254 has claim type Auto.

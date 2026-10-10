@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000426
+Policy ID: POL-17278259
+Claim Type: Home
+State: NY
+Policyholder Tenure: 4.5 years
+Previous Claims: 0
+Incident Date: 2023-03-18
+Claim Filed Date: 2023-03-18
+Claim Amount: $28,283.03
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000000426 for home policy in NY. Policyholder tenure: 4.5 yrs with 0 prior claims. Amount claimed: $28283.03 (deductible $250.0). Filed on 2023-03-18 following incident on 2023-03-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000426 is covered by Policy POL-17278259.
+- Claim CLM-C000000426 concerns an incident in NY on 2023-03-18.
+- Claim CLM-C000000426 has outcome Approved.
+- Claim CLM-C000000426 has claim type Home.

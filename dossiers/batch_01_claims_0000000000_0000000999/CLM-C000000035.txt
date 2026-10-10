@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000035
+Policy ID: POL-34908372
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 16.0 years
+Previous Claims: 0
+Incident Date: 2024-12-09
+Claim Filed Date: 2024-12-12
+Claim Amount: $1,909.76
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000000035 for auto policy in IL. Policyholder tenure: 16.0 yrs with 0 prior claims. Amount claimed: $1909.76 (deductible $1000.0). Filed on 2024-12-12 following incident on 2024-12-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000035 is covered by Policy POL-34908372.
+- Claim CLM-C000000035 concerns an incident in IL on 2024-12-09.
+- Claim CLM-C000000035 has outcome Approved.
+- Claim CLM-C000000035 has claim type Auto.

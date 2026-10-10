@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008550
+Policy ID: POL-95467183
+Claim Type: Auto
+State: TX
+Policyholder Tenure: 5.5 years
+Previous Claims: 0
+Incident Date: 2024-08-17
+Claim Filed Date: 2024-09-18
+Claim Amount: $14,105.76
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000008550 for auto policy in TX. Policyholder tenure: 5.5 yrs with 0 prior claims. Amount claimed: $14105.76 (deductible $250.0). Filed on 2024-09-18 following incident on 2024-08-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008550 is covered by Policy POL-95467183.
+- Claim CLM-C000008550 concerns an incident in TX on 2024-08-17.
+- Claim CLM-C000008550 has outcome Approved.
+- Claim CLM-C000008550 has claim type Auto.

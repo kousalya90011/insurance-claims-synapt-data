@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001196
+Policy ID: POL-49607982
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 8.9 years
+Previous Claims: 1
+Incident Date: 2023-04-29
+Claim Filed Date: 2023-05-09
+Claim Amount: $3,293.48
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000001196 for auto policy in WA. Policyholder tenure: 8.9 yrs with 1 prior claims. Amount claimed: $3293.48 (deductible $1000.0). Filed on 2023-05-09 following incident on 2023-04-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001196 is covered by Policy POL-49607982.
+- Claim CLM-C000001196 concerns an incident in WA on 2023-04-29.
+- Claim CLM-C000001196 has outcome Approved.
+- Claim CLM-C000001196 has claim type Auto.

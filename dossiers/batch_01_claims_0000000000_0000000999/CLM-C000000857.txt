@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000857
+Policy ID: POL-59344098
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-11-18
+Claim Filed Date: 2023-11-25
+Claim Amount: $2,558.86
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000000857 for renters policy in TN. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $2558.86 (deductible $1000.0). Filed on 2023-11-25 following incident on 2023-11-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000857 is covered by Policy POL-59344098.
+- Claim CLM-C000000857 concerns an incident in TN on 2023-11-18.
+- Claim CLM-C000000857 has outcome Approved.
+- Claim CLM-C000000857 has claim type Renters.

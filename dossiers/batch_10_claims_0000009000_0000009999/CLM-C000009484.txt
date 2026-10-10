@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009484
+Policy ID: POL-34718332
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 7.6 years
+Previous Claims: 2
+Incident Date: 2024-11-20
+Claim Filed Date: 2024-11-28
+Claim Amount: $9,125.60
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000009484 for auto policy in PA. Policyholder tenure: 7.6 yrs with 2 prior claims. Amount claimed: $9125.6 (deductible $500.0). Filed on 2024-11-28 following incident on 2024-11-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009484 is covered by Policy POL-34718332.
+- Claim CLM-C000009484 concerns an incident in PA on 2024-11-20.
+- Claim CLM-C000009484 has outcome Approved.
+- Claim CLM-C000009484 has claim type Auto.

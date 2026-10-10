@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006066
+Policy ID: POL-50825275
+Claim Type: Renters
+State: CA
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2024-05-26
+Claim Filed Date: 2024-07-04
+Claim Amount: $4,959.38
+Deductible: $2,500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006066 for renters policy in CA. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $4959.38 (deductible $2500.0). Filed on 2024-07-04 following incident on 2024-05-26. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006066 is covered by Policy POL-50825275.
+- Claim CLM-C000006066 concerns an incident in CA on 2024-05-26.
+- Claim CLM-C000006066 has outcome Pending.
+- Claim CLM-C000006066 has claim type Renters.

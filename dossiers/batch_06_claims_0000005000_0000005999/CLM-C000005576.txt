@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005576
+Policy ID: POL-14109605
+Claim Type: Home
+State: WI
+Policyholder Tenure: 6.1 years
+Previous Claims: 0
+Incident Date: 2023-08-04
+Claim Filed Date: 2023-08-25
+Claim Amount: $9,835.98
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000005576 for home policy in WI. Policyholder tenure: 6.1 yrs with 0 prior claims. Amount claimed: $9835.98 (deductible $1000.0). Filed on 2023-08-25 following incident on 2023-08-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005576 is covered by Policy POL-14109605.
+- Claim CLM-C000005576 concerns an incident in WI on 2023-08-04.
+- Claim CLM-C000005576 has outcome Approved.
+- Claim CLM-C000005576 has claim type Home.

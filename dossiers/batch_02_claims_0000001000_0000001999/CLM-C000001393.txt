@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001393
+Policy ID: POL-49454762
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 17.5 years
+Previous Claims: 0
+Incident Date: 2023-12-26
+Claim Filed Date: 2024-02-04
+Claim Amount: $4,175.91
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000001393 for renters policy in NY. Policyholder tenure: 17.5 yrs with 0 prior claims. Amount claimed: $4175.91 (deductible $2500.0). Filed on 2024-02-04 following incident on 2023-12-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001393 is covered by Policy POL-49454762.
+- Claim CLM-C000001393 concerns an incident in NY on 2023-12-26.
+- Claim CLM-C000001393 has outcome Approved.
+- Claim CLM-C000001393 has claim type Renters.

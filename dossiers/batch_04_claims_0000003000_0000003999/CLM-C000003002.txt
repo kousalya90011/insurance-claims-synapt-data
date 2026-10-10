@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003002
+Policy ID: POL-32352775
+Claim Type: Property
+State: MO
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-01-21
+Claim Filed Date: 2023-01-22
+Claim Amount: $21,034.38
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000003002 for property policy in MO. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $21034.38 (deductible $2500.0). Filed on 2023-01-22 following incident on 2023-01-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003002 is covered by Policy POL-32352775.
+- Claim CLM-C000003002 concerns an incident in MO on 2023-01-21.
+- Claim CLM-C000003002 has outcome Approved.
+- Claim CLM-C000003002 has claim type Property.

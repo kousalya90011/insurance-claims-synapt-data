@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006142
+Policy ID: POL-34778653
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 3.5 years
+Previous Claims: 1
+Incident Date: 2024-09-03
+Claim Filed Date: 2024-09-16
+Claim Amount: $19,881.34
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000006142 for auto policy in OH. Policyholder tenure: 3.5 yrs with 1 prior claims. Amount claimed: $19881.34 (deductible $2500.0). Filed on 2024-09-16 following incident on 2024-09-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006142 is covered by Policy POL-34778653.
+- Claim CLM-C000006142 concerns an incident in OH on 2024-09-03.
+- Claim CLM-C000006142 has outcome Approved.
+- Claim CLM-C000006142 has claim type Auto.

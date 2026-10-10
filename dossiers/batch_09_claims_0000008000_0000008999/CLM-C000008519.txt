@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008519
+Policy ID: POL-94741970
+Claim Type: Home
+State: IL
+Policyholder Tenure: 1.5 years
+Previous Claims: 2
+Incident Date: 2024-02-25
+Claim Filed Date: 2024-03-30
+Claim Amount: $7,335.97
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000008519 for home policy in IL. Policyholder tenure: 1.5 yrs with 2 prior claims. Amount claimed: $7335.97 (deductible $500.0). Filed on 2024-03-30 following incident on 2024-02-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008519 is covered by Policy POL-94741970.
+- Claim CLM-C000008519 concerns an incident in IL on 2024-02-25.
+- Claim CLM-C000008519 has outcome Approved.
+- Claim CLM-C000008519 has claim type Home.

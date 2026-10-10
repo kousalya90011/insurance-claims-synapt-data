@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007678
+Policy ID: POL-55523348
+Claim Type: Home
+State: CA
+Policyholder Tenure: 7.1 years
+Previous Claims: 0
+Incident Date: 2023-03-14
+Claim Filed Date: 2023-04-23
+Claim Amount: $28,826.13
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 47 days
+Claim Narrative: Claim CLM-C000007678 for home policy in CA. Policyholder tenure: 7.1 yrs with 0 prior claims. Amount claimed: $28826.13 (deductible $250.0). Filed on 2023-04-23 following incident on 2023-03-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007678 is covered by Policy POL-55523348.
+- Claim CLM-C000007678 concerns an incident in CA on 2023-03-14.
+- Claim CLM-C000007678 has outcome Under Review.
+- Claim CLM-C000007678 has claim type Home.

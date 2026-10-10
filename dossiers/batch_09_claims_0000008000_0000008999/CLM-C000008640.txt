@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008640
+Policy ID: POL-28091453
+Claim Type: Renters
+State: TN
+Policyholder Tenure: 4.0 years
+Previous Claims: 0
+Incident Date: 2024-04-04
+Claim Filed Date: 2024-05-15
+Claim Amount: $1,805.08
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000008640 for renters policy in TN. Policyholder tenure: 4.0 yrs with 0 prior claims. Amount claimed: $1805.08 (deductible $250.0). Filed on 2024-05-15 following incident on 2024-04-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008640 is covered by Policy POL-28091453.
+- Claim CLM-C000008640 concerns an incident in TN on 2024-04-04.
+- Claim CLM-C000008640 has outcome Approved.
+- Claim CLM-C000008640 has claim type Renters.

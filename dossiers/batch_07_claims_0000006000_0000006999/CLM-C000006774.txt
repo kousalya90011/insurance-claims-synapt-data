@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006774
+Policy ID: POL-11861871
+Claim Type: Home
+State: NC
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2024-11-14
+Claim Filed Date: 2024-12-10
+Claim Amount: $7,608.28
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000006774 for home policy in NC. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $7608.28 (deductible $1000.0). Filed on 2024-12-10 following incident on 2024-11-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006774 is covered by Policy POL-11861871.
+- Claim CLM-C000006774 concerns an incident in NC on 2024-11-14.
+- Claim CLM-C000006774 has outcome Approved.
+- Claim CLM-C000006774 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001155
+Policy ID: POL-33325031
+Claim Type: Property
+State: IL
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2024-06-04
+Claim Filed Date: 2024-07-10
+Claim Amount: $3,731.07
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000001155 for property policy in IL. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $3731.07 (deductible $500.0). Filed on 2024-07-10 following incident on 2024-06-04. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000001155 is covered by Policy POL-33325031.
+- Claim CLM-C000001155 concerns an incident in IL on 2024-06-04.
+- Claim CLM-C000001155 has outcome Pending.
+- Claim CLM-C000001155 has claim type Property.

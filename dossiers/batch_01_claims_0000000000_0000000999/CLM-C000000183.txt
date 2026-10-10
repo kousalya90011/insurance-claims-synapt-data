@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000183
+Policy ID: POL-37136087
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 9.3 years
+Previous Claims: 0
+Incident Date: 2025-01-12
+Claim Filed Date: 2025-01-27
+Claim Amount: $2,015.64
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000000183 for auto policy in MD. Policyholder tenure: 9.3 yrs with 0 prior claims. Amount claimed: $2015.64 (deductible $1000.0). Filed on 2025-01-27 following incident on 2025-01-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000183 is covered by Policy POL-37136087.
+- Claim CLM-C000000183 concerns an incident in MD on 2025-01-12.
+- Claim CLM-C000000183 has outcome Approved.
+- Claim CLM-C000000183 has claim type Auto.

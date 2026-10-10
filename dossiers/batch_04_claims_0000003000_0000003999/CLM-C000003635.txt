@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003635
+Policy ID: POL-42399505
+Claim Type: Home
+State: FL
+Policyholder Tenure: 6.8 years
+Previous Claims: 0
+Incident Date: 2023-12-18
+Claim Filed Date: 2023-12-27
+Claim Amount: $3,953.29
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000003635 for home policy in FL. Policyholder tenure: 6.8 yrs with 0 prior claims. Amount claimed: $3953.29 (deductible $250.0). Filed on 2023-12-27 following incident on 2023-12-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003635 is covered by Policy POL-42399505.
+- Claim CLM-C000003635 concerns an incident in FL on 2023-12-18.
+- Claim CLM-C000003635 has outcome Approved.
+- Claim CLM-C000003635 has claim type Home.

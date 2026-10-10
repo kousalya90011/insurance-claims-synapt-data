@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009295
+Policy ID: POL-82384914
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2025-01-18
+Claim Filed Date: 2025-02-15
+Claim Amount: $6,393.28
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000009295 for property policy in NJ. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $6393.28 (deductible $250.0). Filed on 2025-02-15 following incident on 2025-01-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009295 is covered by Policy POL-82384914.
+- Claim CLM-C000009295 concerns an incident in NJ on 2025-01-18.
+- Claim CLM-C000009295 has outcome Approved.
+- Claim CLM-C000009295 has claim type Property.

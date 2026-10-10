@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005627
+Policy ID: POL-21147119
+Claim Type: Property
+State: CO
+Policyholder Tenure: 4.7 years
+Previous Claims: 1
+Incident Date: 2024-12-21
+Claim Filed Date: 2025-02-03
+Claim Amount: $14,100.31
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000005627 for property policy in CO. Policyholder tenure: 4.7 yrs with 1 prior claims. Amount claimed: $14100.31 (deductible $500.0). Filed on 2025-02-03 following incident on 2024-12-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005627 is covered by Policy POL-21147119.
+- Claim CLM-C000005627 concerns an incident in CO on 2024-12-21.
+- Claim CLM-C000005627 has outcome Approved.
+- Claim CLM-C000005627 has claim type Property.

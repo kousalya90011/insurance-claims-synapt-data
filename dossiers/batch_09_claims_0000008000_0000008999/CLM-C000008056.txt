@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008056
+Policy ID: POL-63196984
+Claim Type: Property
+State: FL
+Policyholder Tenure: 2.0 years
+Previous Claims: 1
+Incident Date: 2023-03-26
+Claim Filed Date: 2023-04-09
+Claim Amount: $22,029.13
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 45 days
+Claim Narrative: Claim CLM-C000008056 for property policy in FL. Policyholder tenure: 2.0 yrs with 1 prior claims. Amount claimed: $22029.13 (deductible $500.0). Filed on 2023-04-09 following incident on 2023-03-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008056 is covered by Policy POL-63196984.
+- Claim CLM-C000008056 concerns an incident in FL on 2023-03-26.
+- Claim CLM-C000008056 has outcome Approved.
+- Claim CLM-C000008056 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007561
+Policy ID: POL-13792638
+Claim Type: Home
+State: CO
+Policyholder Tenure: 2.7 years
+Previous Claims: 1
+Incident Date: 2024-03-05
+Claim Filed Date: 2024-04-04
+Claim Amount: $10,655.13
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000007561 for home policy in CO. Policyholder tenure: 2.7 yrs with 1 prior claims. Amount claimed: $10655.13 (deductible $500.0). Filed on 2024-04-04 following incident on 2024-03-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007561 is covered by Policy POL-13792638.
+- Claim CLM-C000007561 concerns an incident in CO on 2024-03-05.
+- Claim CLM-C000007561 has outcome Approved.
+- Claim CLM-C000007561 has claim type Home.

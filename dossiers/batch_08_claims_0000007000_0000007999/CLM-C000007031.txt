@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007031
+Policy ID: POL-83809426
+Claim Type: Home
+State: MA
+Policyholder Tenure: 10.2 years
+Previous Claims: 0
+Incident Date: 2024-07-14
+Claim Filed Date: 2024-08-22
+Claim Amount: $12,528.80
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000007031 for home policy in MA. Policyholder tenure: 10.2 yrs with 0 prior claims. Amount claimed: $12528.8 (deductible $500.0). Filed on 2024-08-22 following incident on 2024-07-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007031 is covered by Policy POL-83809426.
+- Claim CLM-C000007031 concerns an incident in MA on 2024-07-14.
+- Claim CLM-C000007031 has outcome Under Review.
+- Claim CLM-C000007031 has claim type Home.

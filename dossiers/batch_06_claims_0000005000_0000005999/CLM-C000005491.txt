@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005491
+Policy ID: POL-57500878
+Claim Type: Property
+State: TX
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2024-12-26
+Claim Filed Date: 2025-01-01
+Claim Amount: $13,050.87
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000005491 for property policy in TX. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $13050.87 (deductible $2000.0). Filed on 2025-01-01 following incident on 2024-12-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005491 is covered by Policy POL-57500878.
+- Claim CLM-C000005491 concerns an incident in TX on 2024-12-26.
+- Claim CLM-C000005491 has outcome Approved.
+- Claim CLM-C000005491 has claim type Property.

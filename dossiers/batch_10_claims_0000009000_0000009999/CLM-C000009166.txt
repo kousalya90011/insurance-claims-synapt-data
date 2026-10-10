@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009166
+Policy ID: POL-46696014
+Claim Type: Home
+State: OH
+Policyholder Tenure: 19.9 years
+Previous Claims: 0
+Incident Date: 2023-11-02
+Claim Filed Date: 2023-12-05
+Claim Amount: $5,771.88
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000009166 for home policy in OH. Policyholder tenure: 19.9 yrs with 0 prior claims. Amount claimed: $5771.88 (deductible $2000.0). Filed on 2023-12-05 following incident on 2023-11-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009166 is covered by Policy POL-46696014.
+- Claim CLM-C000009166 concerns an incident in OH on 2023-11-02.
+- Claim CLM-C000009166 has outcome Approved.
+- Claim CLM-C000009166 has claim type Home.

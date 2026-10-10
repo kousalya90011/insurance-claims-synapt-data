@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003646
+Policy ID: POL-62420026
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2024-10-05
+Claim Filed Date: 2024-11-16
+Claim Amount: $6,943.52
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000003646 for auto policy in NY. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $6943.52 (deductible $500.0). Filed on 2024-11-16 following incident on 2024-10-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003646 is covered by Policy POL-62420026.
+- Claim CLM-C000003646 concerns an incident in NY on 2024-10-05.
+- Claim CLM-C000003646 has outcome Approved.
+- Claim CLM-C000003646 has claim type Auto.

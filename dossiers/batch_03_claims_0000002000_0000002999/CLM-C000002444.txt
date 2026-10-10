@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002444
+Policy ID: POL-89952889
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 12.8 years
+Previous Claims: 0
+Incident Date: 2023-09-26
+Claim Filed Date: 2023-10-21
+Claim Amount: $1,169.82
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000002444 for renters policy in MD. Policyholder tenure: 12.8 yrs with 0 prior claims. Amount claimed: $1169.82 (deductible $500.0). Filed on 2023-10-21 following incident on 2023-09-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002444 is covered by Policy POL-89952889.
+- Claim CLM-C000002444 concerns an incident in MD on 2023-09-26.
+- Claim CLM-C000002444 has outcome Approved.
+- Claim CLM-C000002444 has claim type Renters.

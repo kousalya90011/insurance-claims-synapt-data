@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007638
+Policy ID: POL-97699782
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 3.6 years
+Previous Claims: 2
+Incident Date: 2024-09-24
+Claim Filed Date: 2024-10-08
+Claim Amount: $8,425.46
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000007638 for auto policy in PA. Policyholder tenure: 3.6 yrs with 2 prior claims. Amount claimed: $8425.46 (deductible $500.0). Filed on 2024-10-08 following incident on 2024-09-24. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007638 is covered by Policy POL-97699782.
+- Claim CLM-C000007638 concerns an incident in PA on 2024-09-24.
+- Claim CLM-C000007638 has outcome Pending.
+- Claim CLM-C000007638 has claim type Auto.

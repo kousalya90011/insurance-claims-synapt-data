@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007079
+Policy ID: POL-35815199
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 6.0 years
+Previous Claims: 0
+Incident Date: 2023-05-18
+Claim Filed Date: 2023-06-23
+Claim Amount: $8,384.71
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000007079 for auto policy in IL. Policyholder tenure: 6.0 yrs with 0 prior claims. Amount claimed: $8384.71 (deductible $1000.0). Filed on 2023-06-23 following incident on 2023-05-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007079 is covered by Policy POL-35815199.
+- Claim CLM-C000007079 concerns an incident in IL on 2023-05-18.
+- Claim CLM-C000007079 has outcome Approved.
+- Claim CLM-C000007079 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001723
+Policy ID: POL-45516689
+Claim Type: Home
+State: MA
+Policyholder Tenure: 5.2 years
+Previous Claims: 0
+Incident Date: 2023-07-02
+Claim Filed Date: 2023-07-25
+Claim Amount: $12,281.20
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000001723 for home policy in MA. Policyholder tenure: 5.2 yrs with 0 prior claims. Amount claimed: $12281.2 (deductible $250.0). Filed on 2023-07-25 following incident on 2023-07-02. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001723 is covered by Policy POL-45516689.
+- Claim CLM-C000001723 concerns an incident in MA on 2023-07-02.
+- Claim CLM-C000001723 has outcome Denied.
+- Claim CLM-C000001723 has claim type Home.

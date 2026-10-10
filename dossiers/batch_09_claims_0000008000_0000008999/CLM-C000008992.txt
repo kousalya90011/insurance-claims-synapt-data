@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008992
+Policy ID: POL-49333185
+Claim Type: Home
+State: CA
+Policyholder Tenure: 10.2 years
+Previous Claims: 0
+Incident Date: 2023-03-15
+Claim Filed Date: 2023-04-05
+Claim Amount: $9,466.35
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000008992 for home policy in CA. Policyholder tenure: 10.2 yrs with 0 prior claims. Amount claimed: $9466.35 (deductible $500.0). Filed on 2023-04-05 following incident on 2023-03-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008992 is covered by Policy POL-49333185.
+- Claim CLM-C000008992 concerns an incident in CA on 2023-03-15.
+- Claim CLM-C000008992 has outcome Approved.
+- Claim CLM-C000008992 has claim type Home.

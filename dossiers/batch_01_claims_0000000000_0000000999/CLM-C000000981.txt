@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000981
+Policy ID: POL-60248547
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 4.2 years
+Previous Claims: 0
+Incident Date: 2023-02-20
+Claim Filed Date: 2023-03-28
+Claim Amount: $8,419.35
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000000981 for auto policy in AZ. Policyholder tenure: 4.2 yrs with 0 prior claims. Amount claimed: $8419.35 (deductible $250.0). Filed on 2023-03-28 following incident on 2023-02-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000981 is covered by Policy POL-60248547.
+- Claim CLM-C000000981 concerns an incident in AZ on 2023-02-20.
+- Claim CLM-C000000981 has outcome Approved.
+- Claim CLM-C000000981 has claim type Auto.

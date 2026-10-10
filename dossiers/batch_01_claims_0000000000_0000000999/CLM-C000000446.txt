@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000446
+Policy ID: POL-85671420
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2024-01-18
+Claim Filed Date: 2024-01-26
+Claim Amount: $43,138.21
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 47 days
+Claim Narrative: Claim CLM-C000000446 for property policy in AZ. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $43138.21 (deductible $1000.0). Filed on 2024-01-26 following incident on 2024-01-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000446 is covered by Policy POL-85671420.
+- Claim CLM-C000000446 concerns an incident in AZ on 2024-01-18.
+- Claim CLM-C000000446 has outcome Approved.
+- Claim CLM-C000000446 has claim type Property.

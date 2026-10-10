@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002619
+Policy ID: POL-86635816
+Claim Type: Home
+State: TX
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2024-03-13
+Claim Filed Date: 2024-03-28
+Claim Amount: $50,424.20
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 44 days
+Claim Narrative: Claim CLM-C000002619 for home policy in TX. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $50424.2 (deductible $500.0). Filed on 2024-03-28 following incident on 2024-03-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002619 is covered by Policy POL-86635816.
+- Claim CLM-C000002619 concerns an incident in TX on 2024-03-13.
+- Claim CLM-C000002619 has outcome Approved.
+- Claim CLM-C000002619 has claim type Home.

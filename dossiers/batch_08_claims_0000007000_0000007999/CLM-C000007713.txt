@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007713
+Policy ID: POL-41140077
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 2.2 years
+Previous Claims: 1
+Incident Date: 2023-04-14
+Claim Filed Date: 2023-05-02
+Claim Amount: $50,427.70
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000007713 for property policy in NJ. Policyholder tenure: 2.2 yrs with 1 prior claims. Amount claimed: $50427.7 (deductible $500.0). Filed on 2023-05-02 following incident on 2023-04-14. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007713 is covered by Policy POL-41140077.
+- Claim CLM-C000007713 concerns an incident in NJ on 2023-04-14.
+- Claim CLM-C000007713 has outcome Pending.
+- Claim CLM-C000007713 has claim type Property.

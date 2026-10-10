@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008086
+Policy ID: POL-84496659
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 31.5 years
+Previous Claims: 1
+Incident Date: 2023-02-09
+Claim Filed Date: 2023-03-17
+Claim Amount: $1,763.78
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: 71 days
+Claim Narrative: Claim CLM-C000008086 for auto policy in MO. Policyholder tenure: 31.5 yrs with 1 prior claims. Amount claimed: $1763.78 (deductible $500.0). Filed on 2023-03-17 following incident on 2023-02-09. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008086 is covered by Policy POL-84496659.
+- Claim CLM-C000008086 concerns an incident in MO on 2023-02-09.
+- Claim CLM-C000008086 has outcome Pending.
+- Claim CLM-C000008086 has claim type Auto.

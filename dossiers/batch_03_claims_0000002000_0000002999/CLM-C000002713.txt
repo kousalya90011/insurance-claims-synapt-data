@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002713
+Policy ID: POL-99418868
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 2.9 years
+Previous Claims: 1
+Incident Date: 2024-04-02
+Claim Filed Date: 2024-04-30
+Claim Amount: $11,999.79
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000002713 for auto policy in VA. Policyholder tenure: 2.9 yrs with 1 prior claims. Amount claimed: $11999.79 (deductible $2000.0). Filed on 2024-04-30 following incident on 2024-04-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002713 is covered by Policy POL-99418868.
+- Claim CLM-C000002713 concerns an incident in VA on 2024-04-02.
+- Claim CLM-C000002713 has outcome Approved.
+- Claim CLM-C000002713 has claim type Auto.

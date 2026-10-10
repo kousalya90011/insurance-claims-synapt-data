@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001428
+Policy ID: POL-14612368
+Claim Type: Auto
+State: TX
+Policyholder Tenure: 13.7 years
+Previous Claims: 3
+Incident Date: 2023-09-15
+Claim Filed Date: 2023-10-26
+Claim Amount: $2,776.53
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000001428 for auto policy in TX. Policyholder tenure: 13.7 yrs with 3 prior claims. Amount claimed: $2776.53 (deductible $500.0). Filed on 2023-10-26 following incident on 2023-09-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001428 is covered by Policy POL-14612368.
+- Claim CLM-C000001428 concerns an incident in TX on 2023-09-15.
+- Claim CLM-C000001428 has outcome Approved.
+- Claim CLM-C000001428 has claim type Auto.

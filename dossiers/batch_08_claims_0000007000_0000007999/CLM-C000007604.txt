@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007604
+Policy ID: POL-10458514
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 0.9 years
+Previous Claims: 1
+Incident Date: 2024-03-04
+Claim Filed Date: 2024-04-13
+Claim Amount: $6,020.38
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000007604 for auto policy in OH. Policyholder tenure: 0.9 yrs with 1 prior claims. Amount claimed: $6020.38 (deductible $250.0). Filed on 2024-04-13 following incident on 2024-03-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007604 is covered by Policy POL-10458514.
+- Claim CLM-C000007604 concerns an incident in OH on 2024-03-04.
+- Claim CLM-C000007604 has outcome Approved.
+- Claim CLM-C000007604 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005608
+Policy ID: POL-94559034
+Claim Type: Home
+State: MO
+Policyholder Tenure: 2.3 years
+Previous Claims: 2
+Incident Date: 2023-10-13
+Claim Filed Date: 2023-11-08
+Claim Amount: $11,496.20
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000005608 for home policy in MO. Policyholder tenure: 2.3 yrs with 2 prior claims. Amount claimed: $11496.2 (deductible $250.0). Filed on 2023-11-08 following incident on 2023-10-13. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005608 is covered by Policy POL-94559034.
+- Claim CLM-C000005608 concerns an incident in MO on 2023-10-13.
+- Claim CLM-C000005608 has outcome Denied.
+- Claim CLM-C000005608 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003750
+Policy ID: POL-71352613
+Claim Type: Home
+State: MI
+Policyholder Tenure: 3.5 years
+Previous Claims: 2
+Incident Date: 2023-12-16
+Claim Filed Date: 2024-01-27
+Claim Amount: $11,059.05
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000003750 for home policy in MI. Policyholder tenure: 3.5 yrs with 2 prior claims. Amount claimed: $11059.05 (deductible $5000.0). Filed on 2024-01-27 following incident on 2023-12-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003750 is covered by Policy POL-71352613.
+- Claim CLM-C000003750 concerns an incident in MI on 2023-12-16.
+- Claim CLM-C000003750 has outcome Approved.
+- Claim CLM-C000003750 has claim type Home.

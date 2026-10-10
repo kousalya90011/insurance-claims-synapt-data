@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002534
+Policy ID: POL-38864398
+Claim Type: Renters
+State: GA
+Policyholder Tenure: 4.0 years
+Previous Claims: 0
+Incident Date: 2023-11-19
+Claim Filed Date: 2023-11-28
+Claim Amount: $5,517.84
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000002534 for renters policy in GA. Policyholder tenure: 4.0 yrs with 0 prior claims. Amount claimed: $5517.84 (deductible $250.0). Filed on 2023-11-28 following incident on 2023-11-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002534 is covered by Policy POL-38864398.
+- Claim CLM-C000002534 concerns an incident in GA on 2023-11-19.
+- Claim CLM-C000002534 has outcome Under Review.
+- Claim CLM-C000002534 has claim type Renters.

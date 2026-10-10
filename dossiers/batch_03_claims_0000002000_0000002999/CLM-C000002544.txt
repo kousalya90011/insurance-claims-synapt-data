@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002544
+Policy ID: POL-75080241
+Claim Type: Property
+State: MA
+Policyholder Tenure: 5.1 years
+Previous Claims: 0
+Incident Date: 2023-04-18
+Claim Filed Date: 2023-05-16
+Claim Amount: $931.00
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000002544 for property policy in MA. Policyholder tenure: 5.1 yrs with 0 prior claims. Amount claimed: $931.0 (deductible $250.0). Filed on 2023-05-16 following incident on 2023-04-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002544 is covered by Policy POL-75080241.
+- Claim CLM-C000002544 concerns an incident in MA on 2023-04-18.
+- Claim CLM-C000002544 has outcome Approved.
+- Claim CLM-C000002544 has claim type Property.

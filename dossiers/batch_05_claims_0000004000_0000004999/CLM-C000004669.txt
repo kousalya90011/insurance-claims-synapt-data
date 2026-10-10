@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004669
+Policy ID: POL-50679575
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 1.3 years
+Previous Claims: 2
+Incident Date: 2024-02-02
+Claim Filed Date: 2024-02-11
+Claim Amount: $1,736.95
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000004669 for auto policy in IL. Policyholder tenure: 1.3 yrs with 2 prior claims. Amount claimed: $1736.95 (deductible $500.0). Filed on 2024-02-11 following incident on 2024-02-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004669 is covered by Policy POL-50679575.
+- Claim CLM-C000004669 concerns an incident in IL on 2024-02-02.
+- Claim CLM-C000004669 has outcome Approved.
+- Claim CLM-C000004669 has claim type Auto.

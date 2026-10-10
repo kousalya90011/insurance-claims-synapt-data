@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001581
+Policy ID: POL-79877361
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 1.2 years
+Previous Claims: 1
+Incident Date: 2023-01-01
+Claim Filed Date: 2023-01-13
+Claim Amount: $60,997.69
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 59 days
+Claim Narrative: Claim CLM-C000001581 for auto policy in AZ. Policyholder tenure: 1.2 yrs with 1 prior claims. Amount claimed: $60997.69 (deductible $2000.0). Filed on 2023-01-13 following incident on 2023-01-01. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001581 is covered by Policy POL-79877361.
+- Claim CLM-C000001581 concerns an incident in AZ on 2023-01-01.
+- Claim CLM-C000001581 has outcome Denied.
+- Claim CLM-C000001581 has claim type Auto.

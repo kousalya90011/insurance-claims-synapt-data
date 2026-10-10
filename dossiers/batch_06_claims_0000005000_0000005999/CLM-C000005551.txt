@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005551
+Policy ID: POL-15118911
+Claim Type: Home
+State: NC
+Policyholder Tenure: 4.6 years
+Previous Claims: 2
+Incident Date: 2023-08-25
+Claim Filed Date: 2023-08-30
+Claim Amount: $10,279.28
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000005551 for home policy in NC. Policyholder tenure: 4.6 yrs with 2 prior claims. Amount claimed: $10279.28 (deductible $500.0). Filed on 2023-08-30 following incident on 2023-08-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005551 is covered by Policy POL-15118911.
+- Claim CLM-C000005551 concerns an incident in NC on 2023-08-25.
+- Claim CLM-C000005551 has outcome Approved.
+- Claim CLM-C000005551 has claim type Home.

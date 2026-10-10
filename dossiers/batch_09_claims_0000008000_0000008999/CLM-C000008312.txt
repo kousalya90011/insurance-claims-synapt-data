@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008312
+Policy ID: POL-29657019
+Claim Type: Property
+State: NC
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2024-11-18
+Claim Filed Date: 2024-11-25
+Claim Amount: $21,602.34
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000008312 for property policy in NC. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $21602.34 (deductible $1000.0). Filed on 2024-11-25 following incident on 2024-11-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008312 is covered by Policy POL-29657019.
+- Claim CLM-C000008312 concerns an incident in NC on 2024-11-18.
+- Claim CLM-C000008312 has outcome Approved.
+- Claim CLM-C000008312 has claim type Property.

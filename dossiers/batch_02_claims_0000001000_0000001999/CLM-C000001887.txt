@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001887
+Policy ID: POL-50640578
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 5.1 years
+Previous Claims: 1
+Incident Date: 2023-04-06
+Claim Filed Date: 2023-05-17
+Claim Amount: $1,765.80
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000001887 for renters policy in PA. Policyholder tenure: 5.1 yrs with 1 prior claims. Amount claimed: $1765.8 (deductible $500.0). Filed on 2023-05-17 following incident on 2023-04-06. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001887 is covered by Policy POL-50640578.
+- Claim CLM-C000001887 concerns an incident in PA on 2023-04-06.
+- Claim CLM-C000001887 has outcome Denied.
+- Claim CLM-C000001887 has claim type Renters.

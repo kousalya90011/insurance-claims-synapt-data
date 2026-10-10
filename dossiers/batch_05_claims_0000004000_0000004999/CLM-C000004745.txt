@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004745
+Policy ID: POL-57487271
+Claim Type: Home
+State: OH
+Policyholder Tenure: 2.2 years
+Previous Claims: 1
+Incident Date: 2023-07-30
+Claim Filed Date: 2023-08-06
+Claim Amount: $12,239.68
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000004745 for home policy in OH. Policyholder tenure: 2.2 yrs with 1 prior claims. Amount claimed: $12239.68 (deductible $500.0). Filed on 2023-08-06 following incident on 2023-07-30. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004745 is covered by Policy POL-57487271.
+- Claim CLM-C000004745 concerns an incident in OH on 2023-07-30.
+- Claim CLM-C000004745 has outcome Under Review.
+- Claim CLM-C000004745 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000342
+Policy ID: POL-36891816
+Claim Type: Home
+State: IL
+Policyholder Tenure: 6.3 years
+Previous Claims: 0
+Incident Date: 2023-12-21
+Claim Filed Date: 2024-01-03
+Claim Amount: $3,768.40
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000000342 for home policy in IL. Policyholder tenure: 6.3 yrs with 0 prior claims. Amount claimed: $3768.4 (deductible $2000.0). Filed on 2024-01-03 following incident on 2023-12-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000342 is covered by Policy POL-36891816.
+- Claim CLM-C000000342 concerns an incident in IL on 2023-12-21.
+- Claim CLM-C000000342 has outcome Approved.
+- Claim CLM-C000000342 has claim type Home.

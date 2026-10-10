@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008636
+Policy ID: POL-74812639
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 8.7 years
+Previous Claims: 2
+Incident Date: 2024-11-08
+Claim Filed Date: 2024-11-22
+Claim Amount: $2,076.58
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000008636 for auto policy in AZ. Policyholder tenure: 8.7 yrs with 2 prior claims. Amount claimed: $2076.58 (deductible $500.0). Filed on 2024-11-22 following incident on 2024-11-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008636 is covered by Policy POL-74812639.
+- Claim CLM-C000008636 concerns an incident in AZ on 2024-11-08.
+- Claim CLM-C000008636 has outcome Approved.
+- Claim CLM-C000008636 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001291
+Policy ID: POL-91228001
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 8.0 years
+Previous Claims: 1
+Incident Date: 2024-10-14
+Claim Filed Date: 2024-11-20
+Claim Amount: $5,224.56
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000001291 for auto policy in NY. Policyholder tenure: 8.0 yrs with 1 prior claims. Amount claimed: $5224.56 (deductible $1000.0). Filed on 2024-11-20 following incident on 2024-10-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001291 is covered by Policy POL-91228001.
+- Claim CLM-C000001291 concerns an incident in NY on 2024-10-14.
+- Claim CLM-C000001291 has outcome Approved.
+- Claim CLM-C000001291 has claim type Auto.

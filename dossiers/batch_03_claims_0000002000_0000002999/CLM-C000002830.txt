@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002830
+Policy ID: POL-93962792
+Claim Type: Property
+State: TN
+Policyholder Tenure: 4.8 years
+Previous Claims: 0
+Incident Date: 2024-10-25
+Claim Filed Date: 2024-11-19
+Claim Amount: $21,558.93
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000002830 for property policy in TN. Policyholder tenure: 4.8 yrs with 0 prior claims. Amount claimed: $21558.93 (deductible $250.0). Filed on 2024-11-19 following incident on 2024-10-25. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000002830 is covered by Policy POL-93962792.
+- Claim CLM-C000002830 concerns an incident in TN on 2024-10-25.
+- Claim CLM-C000002830 has outcome Pending.
+- Claim CLM-C000002830 has claim type Property.

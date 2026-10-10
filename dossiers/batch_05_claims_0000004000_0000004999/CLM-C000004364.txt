@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004364
+Policy ID: POL-59595174
+Claim Type: Home
+State: MA
+Policyholder Tenure: 11.8 years
+Previous Claims: 1
+Incident Date: 2023-09-03
+Claim Filed Date: 2023-09-18
+Claim Amount: $12,701.93
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000004364 for home policy in MA. Policyholder tenure: 11.8 yrs with 1 prior claims. Amount claimed: $12701.93 (deductible $250.0). Filed on 2023-09-18 following incident on 2023-09-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004364 is covered by Policy POL-59595174.
+- Claim CLM-C000004364 concerns an incident in MA on 2023-09-03.
+- Claim CLM-C000004364 has outcome Approved.
+- Claim CLM-C000004364 has claim type Home.

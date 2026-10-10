@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008674
+Policy ID: POL-78064637
+Claim Type: Home
+State: MD
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2024-05-20
+Claim Filed Date: 2024-06-11
+Claim Amount: $9,812.55
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000008674 for home policy in MD. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $9812.55 (deductible $250.0). Filed on 2024-06-11 following incident on 2024-05-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008674 is covered by Policy POL-78064637.
+- Claim CLM-C000008674 concerns an incident in MD on 2024-05-20.
+- Claim CLM-C000008674 has outcome Approved.
+- Claim CLM-C000008674 has claim type Home.

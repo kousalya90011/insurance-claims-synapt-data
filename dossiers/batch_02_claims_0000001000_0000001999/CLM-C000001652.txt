@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001652
+Policy ID: POL-11122288
+Claim Type: Business
+State: GA
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2024-10-15
+Claim Filed Date: 2024-11-21
+Claim Amount: $11,850.52
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000001652 for business policy in GA. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $11850.52 (deductible $500.0). Filed on 2024-11-21 following incident on 2024-10-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001652 is covered by Policy POL-11122288.
+- Claim CLM-C000001652 concerns an incident in GA on 2024-10-15.
+- Claim CLM-C000001652 has outcome Approved.
+- Claim CLM-C000001652 has claim type Business.

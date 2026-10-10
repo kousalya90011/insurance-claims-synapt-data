@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005460
+Policy ID: POL-20525250
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 9.2 years
+Previous Claims: 1
+Incident Date: 2024-06-30
+Claim Filed Date: 2024-07-11
+Claim Amount: $7,181.45
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000005460 for renters policy in MI. Policyholder tenure: 9.2 yrs with 1 prior claims. Amount claimed: $7181.45 (deductible $500.0). Filed on 2024-07-11 following incident on 2024-06-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005460 is covered by Policy POL-20525250.
+- Claim CLM-C000005460 concerns an incident in MI on 2024-06-30.
+- Claim CLM-C000005460 has outcome Approved.
+- Claim CLM-C000005460 has claim type Renters.

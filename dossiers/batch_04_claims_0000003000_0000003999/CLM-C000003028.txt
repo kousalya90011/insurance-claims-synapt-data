@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003028
+Policy ID: POL-25872001
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 17.8 years
+Previous Claims: 0
+Incident Date: 2023-11-01
+Claim Filed Date: 2023-11-23
+Claim Amount: $2,552.48
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000003028 for auto policy in OH. Policyholder tenure: 17.8 yrs with 0 prior claims. Amount claimed: $2552.48 (deductible $500.0). Filed on 2023-11-23 following incident on 2023-11-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003028 is covered by Policy POL-25872001.
+- Claim CLM-C000003028 concerns an incident in OH on 2023-11-01.
+- Claim CLM-C000003028 has outcome Approved.
+- Claim CLM-C000003028 has claim type Auto.

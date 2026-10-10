@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000877
+Policy ID: POL-16318110
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 3.3 years
+Previous Claims: 0
+Incident Date: 2023-12-22
+Claim Filed Date: 2024-01-09
+Claim Amount: $2,088.00
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000000877 for auto policy in VA. Policyholder tenure: 3.3 yrs with 0 prior claims. Amount claimed: $2088.0 (deductible $500.0). Filed on 2024-01-09 following incident on 2023-12-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000877 is covered by Policy POL-16318110.
+- Claim CLM-C000000877 concerns an incident in VA on 2023-12-22.
+- Claim CLM-C000000877 has outcome Approved.
+- Claim CLM-C000000877 has claim type Auto.

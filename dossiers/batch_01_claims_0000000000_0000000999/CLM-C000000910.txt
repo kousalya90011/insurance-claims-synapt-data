@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000910
+Policy ID: POL-72979834
+Claim Type: Property
+State: TX
+Policyholder Tenure: 0.6 years
+Previous Claims: 1
+Incident Date: 2024-05-11
+Claim Filed Date: 2024-06-06
+Claim Amount: $18,029.56
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000000910 for property policy in TX. Policyholder tenure: 0.6 yrs with 1 prior claims. Amount claimed: $18029.56 (deductible $500.0). Filed on 2024-06-06 following incident on 2024-05-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000910 is covered by Policy POL-72979834.
+- Claim CLM-C000000910 concerns an incident in TX on 2024-05-11.
+- Claim CLM-C000000910 has outcome Approved.
+- Claim CLM-C000000910 has claim type Property.

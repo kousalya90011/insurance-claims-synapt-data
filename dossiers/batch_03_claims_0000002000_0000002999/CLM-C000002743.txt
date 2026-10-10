@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002743
+Policy ID: POL-73709959
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 2.7 years
+Previous Claims: 1
+Incident Date: 2023-11-12
+Claim Filed Date: 2023-12-08
+Claim Amount: $3,671.64
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000002743 for renters policy in MO. Policyholder tenure: 2.7 yrs with 1 prior claims. Amount claimed: $3671.64 (deductible $500.0). Filed on 2023-12-08 following incident on 2023-11-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002743 is covered by Policy POL-73709959.
+- Claim CLM-C000002743 concerns an incident in MO on 2023-11-12.
+- Claim CLM-C000002743 has outcome Approved.
+- Claim CLM-C000002743 has claim type Renters.

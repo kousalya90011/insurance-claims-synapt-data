@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000871
+Policy ID: POL-57029781
+Claim Type: Home
+State: NC
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2024-06-06
+Claim Filed Date: 2024-07-09
+Claim Amount: $27,102.83
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000000871 for home policy in NC. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $27102.83 (deductible $500.0). Filed on 2024-07-09 following incident on 2024-06-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000871 is covered by Policy POL-57029781.
+- Claim CLM-C000000871 concerns an incident in NC on 2024-06-06.
+- Claim CLM-C000000871 has outcome Approved.
+- Claim CLM-C000000871 has claim type Home.

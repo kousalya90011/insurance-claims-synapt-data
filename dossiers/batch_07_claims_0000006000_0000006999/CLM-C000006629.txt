@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006629
+Policy ID: POL-88119272
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 15.4 years
+Previous Claims: 0
+Incident Date: 2023-01-17
+Claim Filed Date: 2023-02-09
+Claim Amount: $1,617.03
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000006629 for auto policy in WI. Policyholder tenure: 15.4 yrs with 0 prior claims. Amount claimed: $1617.03 (deductible $250.0). Filed on 2023-02-09 following incident on 2023-01-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006629 is covered by Policy POL-88119272.
+- Claim CLM-C000006629 concerns an incident in WI on 2023-01-17.
+- Claim CLM-C000006629 has outcome Approved.
+- Claim CLM-C000006629 has claim type Auto.

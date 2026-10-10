@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000293
+Policy ID: POL-84366272
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 1.6 years
+Previous Claims: 1
+Incident Date: 2024-12-11
+Claim Filed Date: 2024-12-30
+Claim Amount: $5,127.31
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000000293 for auto policy in GA. Policyholder tenure: 1.6 yrs with 1 prior claims. Amount claimed: $5127.31 (deductible $1000.0). Filed on 2024-12-30 following incident on 2024-12-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000293 is covered by Policy POL-84366272.
+- Claim CLM-C000000293 concerns an incident in GA on 2024-12-11.
+- Claim CLM-C000000293 has outcome Approved.
+- Claim CLM-C000000293 has claim type Auto.

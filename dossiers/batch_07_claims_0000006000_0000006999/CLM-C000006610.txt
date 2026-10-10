@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006610
+Policy ID: POL-62663303
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 11.1 years
+Previous Claims: 1
+Incident Date: 2024-04-17
+Claim Filed Date: 2024-04-17
+Claim Amount: $10,495.00
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000006610 for auto policy in OH. Policyholder tenure: 11.1 yrs with 1 prior claims. Amount claimed: $10495.0 (deductible $500.0). Filed on 2024-04-17 following incident on 2024-04-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006610 is covered by Policy POL-62663303.
+- Claim CLM-C000006610 concerns an incident in OH on 2024-04-17.
+- Claim CLM-C000006610 has outcome Approved.
+- Claim CLM-C000006610 has claim type Auto.

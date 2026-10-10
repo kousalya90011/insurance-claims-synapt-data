@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006928
+Policy ID: POL-81947103
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 1.8 years
+Previous Claims: 0
+Incident Date: 2025-01-13
+Claim Filed Date: 2025-01-22
+Claim Amount: $40,149.95
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000006928 for auto policy in FL. Policyholder tenure: 1.8 yrs with 0 prior claims. Amount claimed: $40149.95 (deductible $1000.0). Filed on 2025-01-22 following incident on 2025-01-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006928 is covered by Policy POL-81947103.
+- Claim CLM-C000006928 concerns an incident in FL on 2025-01-13.
+- Claim CLM-C000006928 has outcome Approved.
+- Claim CLM-C000006928 has claim type Auto.

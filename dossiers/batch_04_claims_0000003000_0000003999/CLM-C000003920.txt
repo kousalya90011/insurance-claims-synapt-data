@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003920
+Policy ID: POL-38574094
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2023-07-25
+Claim Filed Date: 2023-08-11
+Claim Amount: $17,142.08
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000003920 for auto policy in FL. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $17142.08 (deductible $500.0). Filed on 2023-08-11 following incident on 2023-07-25. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000003920 is covered by Policy POL-38574094.
+- Claim CLM-C000003920 concerns an incident in FL on 2023-07-25.
+- Claim CLM-C000003920 has outcome Pending.
+- Claim CLM-C000003920 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009505
+Policy ID: POL-13652896
+Claim Type: Home
+State: NC
+Policyholder Tenure: 2.9 years
+Previous Claims: 1
+Incident Date: 2023-07-24
+Claim Filed Date: 2023-08-19
+Claim Amount: $35,166.54
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000009505 for home policy in NC. Policyholder tenure: 2.9 yrs with 1 prior claims. Amount claimed: $35166.54 (deductible $250.0). Filed on 2023-08-19 following incident on 2023-07-24. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009505 is covered by Policy POL-13652896.
+- Claim CLM-C000009505 concerns an incident in NC on 2023-07-24.
+- Claim CLM-C000009505 has outcome Denied.
+- Claim CLM-C000009505 has claim type Home.

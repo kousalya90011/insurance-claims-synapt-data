@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001446
+Policy ID: POL-72837074
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2025-01-10
+Claim Filed Date: 2025-01-25
+Claim Amount: $11,937.18
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000001446 for auto policy in MO. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $11937.18 (deductible $1000.0). Filed on 2025-01-25 following incident on 2025-01-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001446 is covered by Policy POL-72837074.
+- Claim CLM-C000001446 concerns an incident in MO on 2025-01-10.
+- Claim CLM-C000001446 has outcome Approved.
+- Claim CLM-C000001446 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005835
+Policy ID: POL-32978747
+Claim Type: Property
+State: NJ
+Policyholder Tenure: 0.6 years
+Previous Claims: 3
+Incident Date: 2023-06-11
+Claim Filed Date: 2023-06-23
+Claim Amount: $1,625.53
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000005835 for property policy in NJ. Policyholder tenure: 0.6 yrs with 3 prior claims. Amount claimed: $1625.53 (deductible $500.0). Filed on 2023-06-23 following incident on 2023-06-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005835 is covered by Policy POL-32978747.
+- Claim CLM-C000005835 concerns an incident in NJ on 2023-06-11.
+- Claim CLM-C000005835 has outcome Approved.
+- Claim CLM-C000005835 has claim type Property.

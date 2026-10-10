@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009830
+Policy ID: POL-96354910
+Claim Type: Home
+State: MO
+Policyholder Tenure: 9.5 years
+Previous Claims: 0
+Incident Date: 2024-05-29
+Claim Filed Date: 2024-06-21
+Claim Amount: $3,219.92
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000009830 for home policy in MO. Policyholder tenure: 9.5 yrs with 0 prior claims. Amount claimed: $3219.92 (deductible $500.0). Filed on 2024-06-21 following incident on 2024-05-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009830 is covered by Policy POL-96354910.
+- Claim CLM-C000009830 concerns an incident in MO on 2024-05-29.
+- Claim CLM-C000009830 has outcome Approved.
+- Claim CLM-C000009830 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005568
+Policy ID: POL-41787360
+Claim Type: Home
+State: PA
+Policyholder Tenure: 4.0 years
+Previous Claims: 1
+Incident Date: 2024-11-13
+Claim Filed Date: 2024-11-24
+Claim Amount: $24,659.71
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000005568 for home policy in PA. Policyholder tenure: 4.0 yrs with 1 prior claims. Amount claimed: $24659.71 (deductible $500.0). Filed on 2024-11-24 following incident on 2024-11-13. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000005568 is covered by Policy POL-41787360.
+- Claim CLM-C000005568 concerns an incident in PA on 2024-11-13.
+- Claim CLM-C000005568 has outcome Pending.
+- Claim CLM-C000005568 has claim type Home.

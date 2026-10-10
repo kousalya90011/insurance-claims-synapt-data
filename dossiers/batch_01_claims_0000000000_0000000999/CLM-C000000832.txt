@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000832
+Policy ID: POL-64533265
+Claim Type: Home
+State: GA
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2023-12-22
+Claim Filed Date: 2024-01-09
+Claim Amount: $13,293.60
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000000832 for home policy in GA. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $13293.6 (deductible $2500.0). Filed on 2024-01-09 following incident on 2023-12-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000832 is covered by Policy POL-64533265.
+- Claim CLM-C000000832 concerns an incident in GA on 2023-12-22.
+- Claim CLM-C000000832 has outcome Approved.
+- Claim CLM-C000000832 has claim type Home.

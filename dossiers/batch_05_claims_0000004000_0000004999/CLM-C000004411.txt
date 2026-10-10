@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004411
+Policy ID: POL-44933844
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 12.9 years
+Previous Claims: 1
+Incident Date: 2023-05-31
+Claim Filed Date: 2023-06-27
+Claim Amount: $4,348.85
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000004411 for auto policy in IL. Policyholder tenure: 12.9 yrs with 1 prior claims. Amount claimed: $4348.85 (deductible $250.0). Filed on 2023-06-27 following incident on 2023-05-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004411 is covered by Policy POL-44933844.
+- Claim CLM-C000004411 concerns an incident in IL on 2023-05-31.
+- Claim CLM-C000004411 has outcome Approved.
+- Claim CLM-C000004411 has claim type Auto.

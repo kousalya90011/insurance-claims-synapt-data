@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003791
+Policy ID: POL-74053523
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 3.0 years
+Previous Claims: 0
+Incident Date: 2023-03-14
+Claim Filed Date: 2023-03-14
+Claim Amount: $1,880.34
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000003791 for auto policy in CA. Policyholder tenure: 3.0 yrs with 0 prior claims. Amount claimed: $1880.34 (deductible $250.0). Filed on 2023-03-14 following incident on 2023-03-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003791 is covered by Policy POL-74053523.
+- Claim CLM-C000003791 concerns an incident in CA on 2023-03-14.
+- Claim CLM-C000003791 has outcome Approved.
+- Claim CLM-C000003791 has claim type Auto.

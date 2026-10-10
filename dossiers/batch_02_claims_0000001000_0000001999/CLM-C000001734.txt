@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001734
+Policy ID: POL-61820658
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 4.7 years
+Previous Claims: 0
+Incident Date: 2023-09-01
+Claim Filed Date: 2023-09-07
+Claim Amount: $8,965.92
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000001734 for auto policy in TN. Policyholder tenure: 4.7 yrs with 0 prior claims. Amount claimed: $8965.92 (deductible $1000.0). Filed on 2023-09-07 following incident on 2023-09-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001734 is covered by Policy POL-61820658.
+- Claim CLM-C000001734 concerns an incident in TN on 2023-09-01.
+- Claim CLM-C000001734 has outcome Approved.
+- Claim CLM-C000001734 has claim type Auto.

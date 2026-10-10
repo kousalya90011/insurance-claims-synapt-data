@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002644
+Policy ID: POL-47585735
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 2.4 years
+Previous Claims: 1
+Incident Date: 2023-04-06
+Claim Filed Date: 2023-04-08
+Claim Amount: $3,264.50
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000002644 for auto policy in MI. Policyholder tenure: 2.4 yrs with 1 prior claims. Amount claimed: $3264.5 (deductible $250.0). Filed on 2023-04-08 following incident on 2023-04-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002644 is covered by Policy POL-47585735.
+- Claim CLM-C000002644 concerns an incident in MI on 2023-04-06.
+- Claim CLM-C000002644 has outcome Approved.
+- Claim CLM-C000002644 has claim type Auto.

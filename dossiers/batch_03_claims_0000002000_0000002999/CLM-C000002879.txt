@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002879
+Policy ID: POL-79086505
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 10.1 years
+Previous Claims: 1
+Incident Date: 2023-01-04
+Claim Filed Date: 2023-02-05
+Claim Amount: $2,026.47
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000002879 for renters policy in IL. Policyholder tenure: 10.1 yrs with 1 prior claims. Amount claimed: $2026.47 (deductible $250.0). Filed on 2023-02-05 following incident on 2023-01-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002879 is covered by Policy POL-79086505.
+- Claim CLM-C000002879 concerns an incident in IL on 2023-01-04.
+- Claim CLM-C000002879 has outcome Approved.
+- Claim CLM-C000002879 has claim type Renters.

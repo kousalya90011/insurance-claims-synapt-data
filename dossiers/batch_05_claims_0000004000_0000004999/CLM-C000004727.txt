@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004727
+Policy ID: POL-39680683
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2024-05-05
+Claim Filed Date: 2024-05-23
+Claim Amount: $4,923.51
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000004727 for auto policy in OH. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $4923.51 (deductible $250.0). Filed on 2024-05-23 following incident on 2024-05-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004727 is covered by Policy POL-39680683.
+- Claim CLM-C000004727 concerns an incident in OH on 2024-05-05.
+- Claim CLM-C000004727 has outcome Approved.
+- Claim CLM-C000004727 has claim type Auto.

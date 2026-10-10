@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004986
+Policy ID: POL-82630922
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 1.9 years
+Previous Claims: 0
+Incident Date: 2024-04-12
+Claim Filed Date: 2024-04-18
+Claim Amount: $3,371.37
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000004986 for auto policy in NJ. Policyholder tenure: 1.9 yrs with 0 prior claims. Amount claimed: $3371.37 (deductible $500.0). Filed on 2024-04-18 following incident on 2024-04-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004986 is covered by Policy POL-82630922.
+- Claim CLM-C000004986 concerns an incident in NJ on 2024-04-12.
+- Claim CLM-C000004986 has outcome Approved.
+- Claim CLM-C000004986 has claim type Auto.

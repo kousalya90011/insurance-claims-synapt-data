@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002334
+Policy ID: POL-95767809
+Claim Type: Property
+State: MO
+Policyholder Tenure: 8.3 years
+Previous Claims: 1
+Incident Date: 2024-09-01
+Claim Filed Date: 2024-09-17
+Claim Amount: $12,039.20
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000002334 for property policy in MO. Policyholder tenure: 8.3 yrs with 1 prior claims. Amount claimed: $12039.2 (deductible $1000.0). Filed on 2024-09-17 following incident on 2024-09-01. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002334 is covered by Policy POL-95767809.
+- Claim CLM-C000002334 concerns an incident in MO on 2024-09-01.
+- Claim CLM-C000002334 has outcome Under Review.
+- Claim CLM-C000002334 has claim type Property.

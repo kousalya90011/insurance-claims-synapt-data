@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004366
+Policy ID: POL-87306974
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 6.5 years
+Previous Claims: 0
+Incident Date: 2023-09-21
+Claim Filed Date: 2023-10-06
+Claim Amount: $3,219.75
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000004366 for auto policy in VA. Policyholder tenure: 6.5 yrs with 0 prior claims. Amount claimed: $3219.75 (deductible $1000.0). Filed on 2023-10-06 following incident on 2023-09-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004366 is covered by Policy POL-87306974.
+- Claim CLM-C000004366 concerns an incident in VA on 2023-09-21.
+- Claim CLM-C000004366 has outcome Approved.
+- Claim CLM-C000004366 has claim type Auto.

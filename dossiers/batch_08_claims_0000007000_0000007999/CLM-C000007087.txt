@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007087
+Policy ID: POL-94199576
+Claim Type: Home
+State: MI
+Policyholder Tenure: 6.3 years
+Previous Claims: 0
+Incident Date: 2024-08-24
+Claim Filed Date: 2024-09-10
+Claim Amount: $9,762.43
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000007087 for home policy in MI. Policyholder tenure: 6.3 yrs with 0 prior claims. Amount claimed: $9762.43 (deductible $1000.0). Filed on 2024-09-10 following incident on 2024-08-24. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007087 is covered by Policy POL-94199576.
+- Claim CLM-C000007087 concerns an incident in MI on 2024-08-24.
+- Claim CLM-C000007087 has outcome Pending.
+- Claim CLM-C000007087 has claim type Home.

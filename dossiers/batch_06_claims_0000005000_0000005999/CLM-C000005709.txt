@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005709
+Policy ID: POL-63365060
+Claim Type: Home
+State: GA
+Policyholder Tenure: 5.3 years
+Previous Claims: 1
+Incident Date: 2023-10-31
+Claim Filed Date: 2023-12-11
+Claim Amount: $7,526.05
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 89 days
+Claim Narrative: Claim CLM-C000005709 for home policy in GA. Policyholder tenure: 5.3 yrs with 1 prior claims. Amount claimed: $7526.05 (deductible $250.0). Filed on 2023-12-11 following incident on 2023-10-31. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005709 is covered by Policy POL-63365060.
+- Claim CLM-C000005709 concerns an incident in GA on 2023-10-31.
+- Claim CLM-C000005709 has outcome Denied.
+- Claim CLM-C000005709 has claim type Home.

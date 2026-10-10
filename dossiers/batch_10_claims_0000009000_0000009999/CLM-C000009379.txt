@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009379
+Policy ID: POL-59357441
+Claim Type: Home
+State: VA
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2024-04-29
+Claim Filed Date: 2024-06-02
+Claim Amount: $37,293.95
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 72 days
+Claim Narrative: Claim CLM-C000009379 for home policy in VA. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $37293.95 (deductible $250.0). Filed on 2024-06-02 following incident on 2024-04-29. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009379 is covered by Policy POL-59357441.
+- Claim CLM-C000009379 concerns an incident in VA on 2024-04-29.
+- Claim CLM-C000009379 has outcome Under Review.
+- Claim CLM-C000009379 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002120
+Policy ID: POL-46254483
+Claim Type: Business
+State: NY
+Policyholder Tenure: 0.8 years
+Previous Claims: 2
+Incident Date: 2024-05-30
+Claim Filed Date: 2024-07-11
+Claim Amount: $19,366.31
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000002120 for business policy in NY. Policyholder tenure: 0.8 yrs with 2 prior claims. Amount claimed: $19366.31 (deductible $500.0). Filed on 2024-07-11 following incident on 2024-05-30. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002120 is covered by Policy POL-46254483.
+- Claim CLM-C000002120 concerns an incident in NY on 2024-05-30.
+- Claim CLM-C000002120 has outcome Denied.
+- Claim CLM-C000002120 has claim type Business.

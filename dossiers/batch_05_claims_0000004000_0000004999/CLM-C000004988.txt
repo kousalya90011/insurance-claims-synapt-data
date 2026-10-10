@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004988
+Policy ID: POL-38462747
+Claim Type: Property
+State: MO
+Policyholder Tenure: 23.8 years
+Previous Claims: 1
+Incident Date: 2023-02-02
+Claim Filed Date: 2023-03-02
+Claim Amount: $11,195.66
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 65 days
+Claim Narrative: Claim CLM-C000004988 for property policy in MO. Policyholder tenure: 23.8 yrs with 1 prior claims. Amount claimed: $11195.66 (deductible $250.0). Filed on 2023-03-02 following incident on 2023-02-02. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004988 is covered by Policy POL-38462747.
+- Claim CLM-C000004988 concerns an incident in MO on 2023-02-02.
+- Claim CLM-C000004988 has outcome Denied.
+- Claim CLM-C000004988 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000784
+Policy ID: POL-37173464
+Claim Type: Renters
+State: NJ
+Policyholder Tenure: 15.7 years
+Previous Claims: 0
+Incident Date: 2023-06-24
+Claim Filed Date: 2023-06-30
+Claim Amount: $1,711.96
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 3 days
+Claim Narrative: Claim CLM-C000000784 for renters policy in NJ. Policyholder tenure: 15.7 yrs with 0 prior claims. Amount claimed: $1711.96 (deductible $500.0). Filed on 2023-06-30 following incident on 2023-06-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000784 is covered by Policy POL-37173464.
+- Claim CLM-C000000784 concerns an incident in NJ on 2023-06-24.
+- Claim CLM-C000000784 has outcome Approved.
+- Claim CLM-C000000784 has claim type Renters.

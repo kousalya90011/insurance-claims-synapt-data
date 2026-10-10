@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004437
+Policy ID: POL-98804071
+Claim Type: Property
+State: MO
+Policyholder Tenure: 1.3 years
+Previous Claims: 1
+Incident Date: 2024-09-25
+Claim Filed Date: 2024-11-02
+Claim Amount: $132,291.81
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 77 days
+Claim Narrative: Claim CLM-C000004437 for property policy in MO. Policyholder tenure: 1.3 yrs with 1 prior claims. Amount claimed: $132291.81 (deductible $500.0). Filed on 2024-11-02 following incident on 2024-09-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004437 is covered by Policy POL-98804071.
+- Claim CLM-C000004437 concerns an incident in MO on 2024-09-25.
+- Claim CLM-C000004437 has outcome Approved.
+- Claim CLM-C000004437 has claim type Property.

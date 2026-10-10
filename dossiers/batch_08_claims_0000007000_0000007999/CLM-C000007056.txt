@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007056
+Policy ID: POL-44966769
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 16.3 years
+Previous Claims: 0
+Incident Date: 2024-01-08
+Claim Filed Date: 2024-02-13
+Claim Amount: $2,266.23
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000007056 for renters policy in VA. Policyholder tenure: 16.3 yrs with 0 prior claims. Amount claimed: $2266.23 (deductible $1000.0). Filed on 2024-02-13 following incident on 2024-01-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007056 is covered by Policy POL-44966769.
+- Claim CLM-C000007056 concerns an incident in VA on 2024-01-08.
+- Claim CLM-C000007056 has outcome Approved.
+- Claim CLM-C000007056 has claim type Renters.

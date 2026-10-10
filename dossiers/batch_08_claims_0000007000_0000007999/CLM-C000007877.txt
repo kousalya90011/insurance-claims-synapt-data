@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007877
+Policy ID: POL-61010303
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 2.2 years
+Previous Claims: 2
+Incident Date: 2024-03-21
+Claim Filed Date: 2024-03-28
+Claim Amount: $1,697.06
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000007877 for auto policy in IL. Policyholder tenure: 2.2 yrs with 2 prior claims. Amount claimed: $1697.06 (deductible $250.0). Filed on 2024-03-28 following incident on 2024-03-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007877 is covered by Policy POL-61010303.
+- Claim CLM-C000007877 concerns an incident in IL on 2024-03-21.
+- Claim CLM-C000007877 has outcome Approved.
+- Claim CLM-C000007877 has claim type Auto.

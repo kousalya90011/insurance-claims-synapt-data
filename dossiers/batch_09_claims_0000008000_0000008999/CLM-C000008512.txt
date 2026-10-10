@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008512
+Policy ID: POL-15292095
+Claim Type: Home
+State: MD
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2024-08-25
+Claim Filed Date: 2024-08-29
+Claim Amount: $10,625.26
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000008512 for home policy in MD. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $10625.26 (deductible $500.0). Filed on 2024-08-29 following incident on 2024-08-25. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008512 is covered by Policy POL-15292095.
+- Claim CLM-C000008512 concerns an incident in MD on 2024-08-25.
+- Claim CLM-C000008512 has outcome Pending.
+- Claim CLM-C000008512 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006428
+Policy ID: POL-38139127
+Claim Type: Business
+State: PA
+Policyholder Tenure: 9.9 years
+Previous Claims: 2
+Incident Date: 2023-09-19
+Claim Filed Date: 2023-09-26
+Claim Amount: $24,192.04
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000006428 for business policy in PA. Policyholder tenure: 9.9 yrs with 2 prior claims. Amount claimed: $24192.04 (deductible $250.0). Filed on 2023-09-26 following incident on 2023-09-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006428 is covered by Policy POL-38139127.
+- Claim CLM-C000006428 concerns an incident in PA on 2023-09-19.
+- Claim CLM-C000006428 has outcome Approved.
+- Claim CLM-C000006428 has claim type Business.

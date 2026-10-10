@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002603
+Policy ID: POL-15244363
+Claim Type: Home
+State: CA
+Policyholder Tenure: 1.0 years
+Previous Claims: 1
+Incident Date: 2023-06-23
+Claim Filed Date: 2023-07-19
+Claim Amount: $23,628.31
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000002603 for home policy in CA. Policyholder tenure: 1.0 yrs with 1 prior claims. Amount claimed: $23628.31 (deductible $500.0). Filed on 2023-07-19 following incident on 2023-06-23. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002603 is covered by Policy POL-15244363.
+- Claim CLM-C000002603 concerns an incident in CA on 2023-06-23.
+- Claim CLM-C000002603 has outcome Under Review.
+- Claim CLM-C000002603 has claim type Home.

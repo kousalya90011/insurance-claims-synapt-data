@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000835
+Policy ID: POL-96686910
+Claim Type: Property
+State: MD
+Policyholder Tenure: 14.0 years
+Previous Claims: 1
+Incident Date: 2023-07-02
+Claim Filed Date: 2023-07-13
+Claim Amount: $10,065.22
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000000835 for property policy in MD. Policyholder tenure: 14.0 yrs with 1 prior claims. Amount claimed: $10065.22 (deductible $500.0). Filed on 2023-07-13 following incident on 2023-07-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000835 is covered by Policy POL-96686910.
+- Claim CLM-C000000835 concerns an incident in MD on 2023-07-02.
+- Claim CLM-C000000835 has outcome Approved.
+- Claim CLM-C000000835 has claim type Property.

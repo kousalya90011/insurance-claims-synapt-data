@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000942
+Policy ID: POL-29586567
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 3.0 years
+Previous Claims: 1
+Incident Date: 2023-08-17
+Claim Filed Date: 2023-09-05
+Claim Amount: $4,034.22
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000000942 for property policy in AZ. Policyholder tenure: 3.0 yrs with 1 prior claims. Amount claimed: $4034.22 (deductible $2000.0). Filed on 2023-09-05 following incident on 2023-08-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000942 is covered by Policy POL-29586567.
+- Claim CLM-C000000942 concerns an incident in AZ on 2023-08-17.
+- Claim CLM-C000000942 has outcome Approved.
+- Claim CLM-C000000942 has claim type Property.

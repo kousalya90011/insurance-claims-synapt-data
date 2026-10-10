@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007891
+Policy ID: POL-27035836
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 11.9 years
+Previous Claims: 1
+Incident Date: 2023-04-16
+Claim Filed Date: 2023-05-12
+Claim Amount: $5,774.77
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000007891 for auto policy in OH. Policyholder tenure: 11.9 yrs with 1 prior claims. Amount claimed: $5774.77 (deductible $250.0). Filed on 2023-05-12 following incident on 2023-04-16. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007891 is covered by Policy POL-27035836.
+- Claim CLM-C000007891 concerns an incident in OH on 2023-04-16.
+- Claim CLM-C000007891 has outcome Denied.
+- Claim CLM-C000007891 has claim type Auto.

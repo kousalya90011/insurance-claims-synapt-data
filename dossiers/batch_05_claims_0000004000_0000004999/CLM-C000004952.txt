@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004952
+Policy ID: POL-60698461
+Claim Type: Business
+State: TX
+Policyholder Tenure: 0.9 years
+Previous Claims: 0
+Incident Date: 2023-11-30
+Claim Filed Date: 2023-11-30
+Claim Amount: $22,771.18
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000004952 for business policy in TX. Policyholder tenure: 0.9 yrs with 0 prior claims. Amount claimed: $22771.18 (deductible $500.0). Filed on 2023-11-30 following incident on 2023-11-30. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004952 is covered by Policy POL-60698461.
+- Claim CLM-C000004952 concerns an incident in TX on 2023-11-30.
+- Claim CLM-C000004952 has outcome Under Review.
+- Claim CLM-C000004952 has claim type Business.

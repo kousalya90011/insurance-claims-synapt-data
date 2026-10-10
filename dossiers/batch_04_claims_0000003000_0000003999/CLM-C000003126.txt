@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003126
+Policy ID: POL-46259164
+Claim Type: Business
+State: GA
+Policyholder Tenure: 2.5 years
+Previous Claims: 1
+Incident Date: 2024-06-10
+Claim Filed Date: 2024-07-22
+Claim Amount: $47,360.98
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000003126 for business policy in GA. Policyholder tenure: 2.5 yrs with 1 prior claims. Amount claimed: $47360.98 (deductible $1000.0). Filed on 2024-07-22 following incident on 2024-06-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003126 is covered by Policy POL-46259164.
+- Claim CLM-C000003126 concerns an incident in GA on 2024-06-10.
+- Claim CLM-C000003126 has outcome Approved.
+- Claim CLM-C000003126 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000858
+Policy ID: POL-66701065
+Claim Type: Home
+State: WA
+Policyholder Tenure: 11.7 years
+Previous Claims: 0
+Incident Date: 2023-08-03
+Claim Filed Date: 2023-08-31
+Claim Amount: $17,697.49
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000000858 for home policy in WA. Policyholder tenure: 11.7 yrs with 0 prior claims. Amount claimed: $17697.49 (deductible $500.0). Filed on 2023-08-31 following incident on 2023-08-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000858 is covered by Policy POL-66701065.
+- Claim CLM-C000000858 concerns an incident in WA on 2023-08-03.
+- Claim CLM-C000000858 has outcome Approved.
+- Claim CLM-C000000858 has claim type Home.

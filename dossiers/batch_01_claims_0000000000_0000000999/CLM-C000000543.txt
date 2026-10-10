@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000543
+Policy ID: POL-88750443
+Claim Type: Renters
+State: CA
+Policyholder Tenure: 5.3 years
+Previous Claims: 1
+Incident Date: 2024-02-11
+Claim Filed Date: 2024-03-20
+Claim Amount: $2,325.02
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 5 days
+Claim Narrative: Claim CLM-C000000543 for renters policy in CA. Policyholder tenure: 5.3 yrs with 1 prior claims. Amount claimed: $2325.02 (deductible $1000.0). Filed on 2024-03-20 following incident on 2024-02-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000543 is covered by Policy POL-88750443.
+- Claim CLM-C000000543 concerns an incident in CA on 2024-02-11.
+- Claim CLM-C000000543 has outcome Approved.
+- Claim CLM-C000000543 has claim type Renters.

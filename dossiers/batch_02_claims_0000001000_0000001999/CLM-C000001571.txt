@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001571
+Policy ID: POL-37135021
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 5.5 years
+Previous Claims: 0
+Incident Date: 2023-04-05
+Claim Filed Date: 2023-05-14
+Claim Amount: $9,181.44
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000001571 for home policy in AZ. Policyholder tenure: 5.5 yrs with 0 prior claims. Amount claimed: $9181.44 (deductible $250.0). Filed on 2023-05-14 following incident on 2023-04-05. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001571 is covered by Policy POL-37135021.
+- Claim CLM-C000001571 concerns an incident in AZ on 2023-04-05.
+- Claim CLM-C000001571 has outcome Denied.
+- Claim CLM-C000001571 has claim type Home.

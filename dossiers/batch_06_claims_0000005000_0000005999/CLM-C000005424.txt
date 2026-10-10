@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005424
+Policy ID: POL-92719868
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 2.9 years
+Previous Claims: 1
+Incident Date: 2023-04-07
+Claim Filed Date: 2023-05-02
+Claim Amount: $7,721.18
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000005424 for auto policy in AZ. Policyholder tenure: 2.9 yrs with 1 prior claims. Amount claimed: $7721.18 (deductible $1000.0). Filed on 2023-05-02 following incident on 2023-04-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005424 is covered by Policy POL-92719868.
+- Claim CLM-C000005424 concerns an incident in AZ on 2023-04-07.
+- Claim CLM-C000005424 has outcome Approved.
+- Claim CLM-C000005424 has claim type Auto.

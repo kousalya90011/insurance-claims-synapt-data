@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003879
+Policy ID: POL-18811741
+Claim Type: Renters
+State: NC
+Policyholder Tenure: 7.8 years
+Previous Claims: 1
+Incident Date: 2023-11-12
+Claim Filed Date: 2023-12-16
+Claim Amount: $5,100.72
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000003879 for renters policy in NC. Policyholder tenure: 7.8 yrs with 1 prior claims. Amount claimed: $5100.72 (deductible $500.0). Filed on 2023-12-16 following incident on 2023-11-12. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003879 is covered by Policy POL-18811741.
+- Claim CLM-C000003879 concerns an incident in NC on 2023-11-12.
+- Claim CLM-C000003879 has outcome Denied.
+- Claim CLM-C000003879 has claim type Renters.

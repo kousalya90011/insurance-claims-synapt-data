@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006680
+Policy ID: POL-19915303
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 10.7 years
+Previous Claims: 1
+Incident Date: 2023-08-13
+Claim Filed Date: 2023-09-17
+Claim Amount: $13,149.32
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000006680 for auto policy in AZ. Policyholder tenure: 10.7 yrs with 1 prior claims. Amount claimed: $13149.32 (deductible $2000.0). Filed on 2023-09-17 following incident on 2023-08-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006680 is covered by Policy POL-19915303.
+- Claim CLM-C000006680 concerns an incident in AZ on 2023-08-13.
+- Claim CLM-C000006680 has outcome Approved.
+- Claim CLM-C000006680 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006588
+Policy ID: POL-20448937
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2024-08-16
+Claim Filed Date: 2024-08-23
+Claim Amount: $32,277.86
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000006588 for home policy in AZ. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $32277.86 (deductible $1000.0). Filed on 2024-08-23 following incident on 2024-08-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006588 is covered by Policy POL-20448937.
+- Claim CLM-C000006588 concerns an incident in AZ on 2024-08-16.
+- Claim CLM-C000006588 has outcome Approved.
+- Claim CLM-C000006588 has claim type Home.

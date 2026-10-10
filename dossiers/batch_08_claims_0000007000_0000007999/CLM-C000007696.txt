@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007696
+Policy ID: POL-59640517
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 2.3 years
+Previous Claims: 1
+Incident Date: 2024-04-02
+Claim Filed Date: 2024-04-18
+Claim Amount: $3,024.11
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000007696 for renters policy in MD. Policyholder tenure: 2.3 yrs with 1 prior claims. Amount claimed: $3024.11 (deductible $500.0). Filed on 2024-04-18 following incident on 2024-04-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007696 is covered by Policy POL-59640517.
+- Claim CLM-C000007696 concerns an incident in MD on 2024-04-02.
+- Claim CLM-C000007696 has outcome Approved.
+- Claim CLM-C000007696 has claim type Renters.

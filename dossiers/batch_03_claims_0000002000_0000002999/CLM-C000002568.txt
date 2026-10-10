@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002568
+Policy ID: POL-45323625
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 7.1 years
+Previous Claims: 0
+Incident Date: 2024-06-25
+Claim Filed Date: 2024-07-31
+Claim Amount: $2,416.39
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000002568 for auto policy in NC. Policyholder tenure: 7.1 yrs with 0 prior claims. Amount claimed: $2416.39 (deductible $250.0). Filed on 2024-07-31 following incident on 2024-06-25. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002568 is covered by Policy POL-45323625.
+- Claim CLM-C000002568 concerns an incident in NC on 2024-06-25.
+- Claim CLM-C000002568 has outcome Approved.
+- Claim CLM-C000002568 has claim type Auto.

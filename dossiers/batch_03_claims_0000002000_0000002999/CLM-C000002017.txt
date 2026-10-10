@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002017
+Policy ID: POL-42506704
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 6.4 years
+Previous Claims: 1
+Incident Date: 2023-08-11
+Claim Filed Date: 2023-09-05
+Claim Amount: $3,231.16
+Deductible: $2,000.00
+Claim Status: Denied
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000002017 for auto policy in WI. Policyholder tenure: 6.4 yrs with 1 prior claims. Amount claimed: $3231.16 (deductible $2000.0). Filed on 2023-09-05 following incident on 2023-08-11. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002017 is covered by Policy POL-42506704.
+- Claim CLM-C000002017 concerns an incident in WI on 2023-08-11.
+- Claim CLM-C000002017 has outcome Denied.
+- Claim CLM-C000002017 has claim type Auto.

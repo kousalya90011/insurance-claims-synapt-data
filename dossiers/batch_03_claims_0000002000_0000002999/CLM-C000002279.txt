@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002279
+Policy ID: POL-25120076
+Claim Type: Property
+State: WA
+Policyholder Tenure: 1.5 years
+Previous Claims: 2
+Incident Date: 2024-06-21
+Claim Filed Date: 2024-07-04
+Claim Amount: $41,290.71
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 49 days
+Claim Narrative: Claim CLM-C000002279 for property policy in WA. Policyholder tenure: 1.5 yrs with 2 prior claims. Amount claimed: $41290.71 (deductible $2000.0). Filed on 2024-07-04 following incident on 2024-06-21. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002279 is covered by Policy POL-25120076.
+- Claim CLM-C000002279 concerns an incident in WA on 2024-06-21.
+- Claim CLM-C000002279 has outcome Approved.
+- Claim CLM-C000002279 has claim type Property.

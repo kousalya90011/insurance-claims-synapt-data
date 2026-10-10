@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006263
+Policy ID: POL-23143522
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 27.3 years
+Previous Claims: 1
+Incident Date: 2023-06-27
+Claim Filed Date: 2023-07-24
+Claim Amount: $3,730.54
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000006263 for renters policy in MI. Policyholder tenure: 27.3 yrs with 1 prior claims. Amount claimed: $3730.54 (deductible $500.0). Filed on 2023-07-24 following incident on 2023-06-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006263 is covered by Policy POL-23143522.
+- Claim CLM-C000006263 concerns an incident in MI on 2023-06-27.
+- Claim CLM-C000006263 has outcome Approved.
+- Claim CLM-C000006263 has claim type Renters.

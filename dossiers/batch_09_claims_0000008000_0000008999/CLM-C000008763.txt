@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008763
+Policy ID: POL-71225336
+Claim Type: Renters
+State: GA
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2024-01-04
+Claim Filed Date: 2024-01-30
+Claim Amount: $803.74
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000008763 for renters policy in GA. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $803.74 (deductible $500.0). Filed on 2024-01-30 following incident on 2024-01-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008763 is covered by Policy POL-71225336.
+- Claim CLM-C000008763 concerns an incident in GA on 2024-01-04.
+- Claim CLM-C000008763 has outcome Approved.
+- Claim CLM-C000008763 has claim type Renters.

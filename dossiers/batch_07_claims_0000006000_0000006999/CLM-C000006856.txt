@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006856
+Policy ID: POL-77152019
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 8.4 years
+Previous Claims: 2
+Incident Date: 2023-10-12
+Claim Filed Date: 2023-11-09
+Claim Amount: $3,967.04
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000006856 for renters policy in VA. Policyholder tenure: 8.4 yrs with 2 prior claims. Amount claimed: $3967.04 (deductible $500.0). Filed on 2023-11-09 following incident on 2023-10-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006856 is covered by Policy POL-77152019.
+- Claim CLM-C000006856 concerns an incident in VA on 2023-10-12.
+- Claim CLM-C000006856 has outcome Approved.
+- Claim CLM-C000006856 has claim type Renters.

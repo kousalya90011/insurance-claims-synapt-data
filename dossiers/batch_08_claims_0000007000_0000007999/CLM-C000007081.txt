@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007081
+Policy ID: POL-21702249
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 7.5 years
+Previous Claims: 3
+Incident Date: 2024-06-24
+Claim Filed Date: 2024-07-19
+Claim Amount: $3,750.15
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000007081 for auto policy in MA. Policyholder tenure: 7.5 yrs with 3 prior claims. Amount claimed: $3750.15 (deductible $500.0). Filed on 2024-07-19 following incident on 2024-06-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007081 is covered by Policy POL-21702249.
+- Claim CLM-C000007081 concerns an incident in MA on 2024-06-24.
+- Claim CLM-C000007081 has outcome Approved.
+- Claim CLM-C000007081 has claim type Auto.

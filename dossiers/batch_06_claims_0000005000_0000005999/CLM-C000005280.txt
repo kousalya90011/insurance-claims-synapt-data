@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005280
+Policy ID: POL-32961218
+Claim Type: Renters
+State: MA
+Policyholder Tenure: 3.1 years
+Previous Claims: 0
+Incident Date: 2024-11-11
+Claim Filed Date: 2024-12-21
+Claim Amount: $1,529.09
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000005280 for renters policy in MA. Policyholder tenure: 3.1 yrs with 0 prior claims. Amount claimed: $1529.09 (deductible $500.0). Filed on 2024-12-21 following incident on 2024-11-11. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005280 is covered by Policy POL-32961218.
+- Claim CLM-C000005280 concerns an incident in MA on 2024-11-11.
+- Claim CLM-C000005280 has outcome Denied.
+- Claim CLM-C000005280 has claim type Renters.

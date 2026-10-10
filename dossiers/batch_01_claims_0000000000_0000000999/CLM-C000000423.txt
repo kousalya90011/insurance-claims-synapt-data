@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000423
+Policy ID: POL-21137842
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 3.8 years
+Previous Claims: 0
+Incident Date: 2023-03-11
+Claim Filed Date: 2023-03-18
+Claim Amount: $8,528.80
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000000423 for auto policy in CA. Policyholder tenure: 3.8 yrs with 0 prior claims. Amount claimed: $8528.8 (deductible $500.0). Filed on 2023-03-18 following incident on 2023-03-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000423 is covered by Policy POL-21137842.
+- Claim CLM-C000000423 concerns an incident in CA on 2023-03-11.
+- Claim CLM-C000000423 has outcome Approved.
+- Claim CLM-C000000423 has claim type Auto.

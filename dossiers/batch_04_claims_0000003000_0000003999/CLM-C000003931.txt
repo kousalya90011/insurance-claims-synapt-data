@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003931
+Policy ID: POL-89658368
+Claim Type: Business
+State: FL
+Policyholder Tenure: 4.5 years
+Previous Claims: 3
+Incident Date: 2024-10-30
+Claim Filed Date: 2024-11-27
+Claim Amount: $10,561.04
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000003931 for business policy in FL. Policyholder tenure: 4.5 yrs with 3 prior claims. Amount claimed: $10561.04 (deductible $500.0). Filed on 2024-11-27 following incident on 2024-10-30. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000003931 is covered by Policy POL-89658368.
+- Claim CLM-C000003931 concerns an incident in FL on 2024-10-30.
+- Claim CLM-C000003931 has outcome Pending.
+- Claim CLM-C000003931 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009310
+Policy ID: POL-89626190
+Claim Type: Property
+State: CO
+Policyholder Tenure: 6.8 years
+Previous Claims: 0
+Incident Date: 2023-07-27
+Claim Filed Date: 2023-08-23
+Claim Amount: $3,488.39
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000009310 for property policy in CO. Policyholder tenure: 6.8 yrs with 0 prior claims. Amount claimed: $3488.39 (deductible $500.0). Filed on 2023-08-23 following incident on 2023-07-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009310 is covered by Policy POL-89626190.
+- Claim CLM-C000009310 concerns an incident in CO on 2023-07-27.
+- Claim CLM-C000009310 has outcome Approved.
+- Claim CLM-C000009310 has claim type Property.

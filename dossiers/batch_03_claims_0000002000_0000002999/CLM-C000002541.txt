@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002541
+Policy ID: POL-37511597
+Claim Type: Home
+State: CA
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2024-09-12
+Claim Filed Date: 2024-10-11
+Claim Amount: $2,145.71
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000002541 for home policy in CA. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $2145.71 (deductible $250.0). Filed on 2024-10-11 following incident on 2024-09-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002541 is covered by Policy POL-37511597.
+- Claim CLM-C000002541 concerns an incident in CA on 2024-09-12.
+- Claim CLM-C000002541 has outcome Approved.
+- Claim CLM-C000002541 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007617
+Policy ID: POL-20789121
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 4.2 years
+Previous Claims: 1
+Incident Date: 2024-11-12
+Claim Filed Date: 2024-11-20
+Claim Amount: $5,906.79
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000007617 for home policy in AZ. Policyholder tenure: 4.2 yrs with 1 prior claims. Amount claimed: $5906.79 (deductible $1000.0). Filed on 2024-11-20 following incident on 2024-11-12. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000007617 is covered by Policy POL-20789121.
+- Claim CLM-C000007617 concerns an incident in AZ on 2024-11-12.
+- Claim CLM-C000007617 has outcome Pending.
+- Claim CLM-C000007617 has claim type Home.

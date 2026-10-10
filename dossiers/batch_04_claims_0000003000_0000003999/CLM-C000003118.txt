@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003118
+Policy ID: POL-25281997
+Claim Type: Business
+State: GA
+Policyholder Tenure: 5.1 years
+Previous Claims: 2
+Incident Date: 2023-04-21
+Claim Filed Date: 2023-05-10
+Claim Amount: $41,195.61
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 50 days
+Claim Narrative: Claim CLM-C000003118 for business policy in GA. Policyholder tenure: 5.1 yrs with 2 prior claims. Amount claimed: $41195.61 (deductible $250.0). Filed on 2023-05-10 following incident on 2023-04-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003118 is covered by Policy POL-25281997.
+- Claim CLM-C000003118 concerns an incident in GA on 2023-04-21.
+- Claim CLM-C000003118 has outcome Under Review.
+- Claim CLM-C000003118 has claim type Business.

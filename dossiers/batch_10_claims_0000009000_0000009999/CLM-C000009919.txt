@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009919
+Policy ID: POL-23566974
+Claim Type: Auto
+State: WA
+Policyholder Tenure: 15.5 years
+Previous Claims: 0
+Incident Date: 2023-02-24
+Claim Filed Date: 2023-03-04
+Claim Amount: $3,134.09
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 10 days
+Claim Narrative: Claim CLM-C000009919 for auto policy in WA. Policyholder tenure: 15.5 yrs with 0 prior claims. Amount claimed: $3134.09 (deductible $250.0). Filed on 2023-03-04 following incident on 2023-02-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009919 is covered by Policy POL-23566974.
+- Claim CLM-C000009919 concerns an incident in WA on 2023-02-24.
+- Claim CLM-C000009919 has outcome Approved.
+- Claim CLM-C000009919 has claim type Auto.

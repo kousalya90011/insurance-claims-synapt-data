@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004136
+Policy ID: POL-20058427
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2024-07-08
+Claim Filed Date: 2024-08-21
+Claim Amount: $10,526.01
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000004136 for auto policy in MD. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $10526.01 (deductible $500.0). Filed on 2024-08-21 following incident on 2024-07-08. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004136 is covered by Policy POL-20058427.
+- Claim CLM-C000004136 concerns an incident in MD on 2024-07-08.
+- Claim CLM-C000004136 has outcome Denied.
+- Claim CLM-C000004136 has claim type Auto.

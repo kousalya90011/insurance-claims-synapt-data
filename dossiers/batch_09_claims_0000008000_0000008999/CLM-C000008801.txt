@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008801
+Policy ID: POL-43227596
+Claim Type: Home
+State: NY
+Policyholder Tenure: 10.7 years
+Previous Claims: 1
+Incident Date: 2023-08-26
+Claim Filed Date: 2023-09-23
+Claim Amount: $6,279.91
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000008801 for home policy in NY. Policyholder tenure: 10.7 yrs with 1 prior claims. Amount claimed: $6279.91 (deductible $500.0). Filed on 2023-09-23 following incident on 2023-08-26. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008801 is covered by Policy POL-43227596.
+- Claim CLM-C000008801 concerns an incident in NY on 2023-08-26.
+- Claim CLM-C000008801 has outcome Under Review.
+- Claim CLM-C000008801 has claim type Home.

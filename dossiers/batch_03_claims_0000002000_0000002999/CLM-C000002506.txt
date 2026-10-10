@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002506
+Policy ID: POL-63039804
+Claim Type: Home
+State: OH
+Policyholder Tenure: 3.5 years
+Previous Claims: 1
+Incident Date: 2024-01-28
+Claim Filed Date: 2024-03-09
+Claim Amount: $5,705.87
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000002506 for home policy in OH. Policyholder tenure: 3.5 yrs with 1 prior claims. Amount claimed: $5705.87 (deductible $500.0). Filed on 2024-03-09 following incident on 2024-01-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002506 is covered by Policy POL-63039804.
+- Claim CLM-C000002506 concerns an incident in OH on 2024-01-28.
+- Claim CLM-C000002506 has outcome Approved.
+- Claim CLM-C000002506 has claim type Home.

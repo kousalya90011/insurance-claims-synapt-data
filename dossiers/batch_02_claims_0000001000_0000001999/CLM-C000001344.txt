@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001344
+Policy ID: POL-50795192
+Claim Type: Home
+State: MI
+Policyholder Tenure: 0.4 years
+Previous Claims: 2
+Incident Date: 2025-01-11
+Claim Filed Date: 2025-01-29
+Claim Amount: $13,238.98
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000001344 for home policy in MI. Policyholder tenure: 0.4 yrs with 2 prior claims. Amount claimed: $13238.98 (deductible $1000.0). Filed on 2025-01-29 following incident on 2025-01-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001344 is covered by Policy POL-50795192.
+- Claim CLM-C000001344 concerns an incident in MI on 2025-01-11.
+- Claim CLM-C000001344 has outcome Approved.
+- Claim CLM-C000001344 has claim type Home.

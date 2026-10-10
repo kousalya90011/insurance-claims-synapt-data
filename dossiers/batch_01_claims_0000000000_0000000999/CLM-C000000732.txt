@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000732
+Policy ID: POL-38171536
+Claim Type: Renters
+State: WI
+Policyholder Tenure: 3.0 years
+Previous Claims: 0
+Incident Date: 2024-10-16
+Claim Filed Date: 2024-10-22
+Claim Amount: $8,811.41
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000000732 for renters policy in WI. Policyholder tenure: 3.0 yrs with 0 prior claims. Amount claimed: $8811.41 (deductible $1000.0). Filed on 2024-10-22 following incident on 2024-10-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000732 is covered by Policy POL-38171536.
+- Claim CLM-C000000732 concerns an incident in WI on 2024-10-16.
+- Claim CLM-C000000732 has outcome Approved.
+- Claim CLM-C000000732 has claim type Renters.

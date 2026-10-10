@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000623
+Policy ID: POL-81347675
+Claim Type: Property
+State: OH
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2023-02-19
+Claim Filed Date: 2023-03-12
+Claim Amount: $20,747.21
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000000623 for property policy in OH. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed: $20747.21 (deductible $250.0). Filed on 2023-03-12 following incident on 2023-02-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000623 is covered by Policy POL-81347675.
+- Claim CLM-C000000623 concerns an incident in OH on 2023-02-19.
+- Claim CLM-C000000623 has outcome Approved.
+- Claim CLM-C000000623 has claim type Property.

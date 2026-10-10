@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006199
+Policy ID: POL-26752487
+Claim Type: Home
+State: WI
+Policyholder Tenure: 1.7 years
+Previous Claims: 1
+Incident Date: 2024-05-13
+Claim Filed Date: 2024-05-20
+Claim Amount: $55,101.38
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 55 days
+Claim Narrative: Claim CLM-C000006199 for home policy in WI. Policyholder tenure: 1.7 yrs with 1 prior claims. Amount claimed: $55101.38 (deductible $250.0). Filed on 2024-05-20 following incident on 2024-05-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006199 is covered by Policy POL-26752487.
+- Claim CLM-C000006199 concerns an incident in WI on 2024-05-13.
+- Claim CLM-C000006199 has outcome Approved.
+- Claim CLM-C000006199 has claim type Home.

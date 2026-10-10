@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003055
+Policy ID: POL-54813866
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 1.8 years
+Previous Claims: 0
+Incident Date: 2023-07-09
+Claim Filed Date: 2023-08-04
+Claim Amount: $2,197.31
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000003055 for renters policy in VA. Policyholder tenure: 1.8 yrs with 0 prior claims. Amount claimed: $2197.31 (deductible $1000.0). Filed on 2023-08-04 following incident on 2023-07-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003055 is covered by Policy POL-54813866.
+- Claim CLM-C000003055 concerns an incident in VA on 2023-07-09.
+- Claim CLM-C000003055 has outcome Approved.
+- Claim CLM-C000003055 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009435
+Policy ID: POL-50190784
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 13.3 years
+Previous Claims: 1
+Incident Date: 2024-03-31
+Claim Filed Date: 2024-04-12
+Claim Amount: $3,676.56
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000009435 for auto policy in PA. Policyholder tenure: 13.3 yrs with 1 prior claims. Amount claimed: $3676.56 (deductible $1000.0). Filed on 2024-04-12 following incident on 2024-03-31. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009435 is covered by Policy POL-50190784.
+- Claim CLM-C000009435 concerns an incident in PA on 2024-03-31.
+- Claim CLM-C000009435 has outcome Under Review.
+- Claim CLM-C000009435 has claim type Auto.

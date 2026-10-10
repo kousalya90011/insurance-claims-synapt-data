@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008442
+Policy ID: POL-15874951
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 2.3 years
+Previous Claims: 3
+Incident Date: 2024-01-09
+Claim Filed Date: 2024-01-11
+Claim Amount: $14,196.39
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000008442 for auto policy in WI. Policyholder tenure: 2.3 yrs with 3 prior claims. Amount claimed: $14196.39 (deductible $250.0). Filed on 2024-01-11 following incident on 2024-01-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008442 is covered by Policy POL-15874951.
+- Claim CLM-C000008442 concerns an incident in WI on 2024-01-09.
+- Claim CLM-C000008442 has outcome Approved.
+- Claim CLM-C000008442 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003001
+Policy ID: POL-34608672
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 9.1 years
+Previous Claims: 2
+Incident Date: 2023-12-20
+Claim Filed Date: 2024-01-05
+Claim Amount: $1,017.76
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 3 days
+Claim Narrative: Claim CLM-C000003001 for auto policy in FL. Policyholder tenure: 9.1 yrs with 2 prior claims. Amount claimed: $1017.76 (deductible $500.0). Filed on 2024-01-05 following incident on 2023-12-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003001 is covered by Policy POL-34608672.
+- Claim CLM-C000003001 concerns an incident in FL on 2023-12-20.
+- Claim CLM-C000003001 has outcome Approved.
+- Claim CLM-C000003001 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009298
+Policy ID: POL-15356676
+Claim Type: Home
+State: IL
+Policyholder Tenure: 7.8 years
+Previous Claims: 1
+Incident Date: 2025-01-03
+Claim Filed Date: 2025-02-03
+Claim Amount: $18,723.45
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000009298 for home policy in IL. Policyholder tenure: 7.8 yrs with 1 prior claims. Amount claimed: $18723.45 (deductible $500.0). Filed on 2025-02-03 following incident on 2025-01-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009298 is covered by Policy POL-15356676.
+- Claim CLM-C000009298 concerns an incident in IL on 2025-01-03.
+- Claim CLM-C000009298 has outcome Approved.
+- Claim CLM-C000009298 has claim type Home.

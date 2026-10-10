@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004531
+Policy ID: POL-90830806
+Claim Type: Auto
+State: NC
+Policyholder Tenure: 14.1 years
+Previous Claims: 1
+Incident Date: 2024-07-24
+Claim Filed Date: 2024-07-31
+Claim Amount: $2,586.76
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000004531 for auto policy in NC. Policyholder tenure: 14.1 yrs with 1 prior claims. Amount claimed: $2586.76 (deductible $500.0). Filed on 2024-07-31 following incident on 2024-07-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004531 is covered by Policy POL-90830806.
+- Claim CLM-C000004531 concerns an incident in NC on 2024-07-24.
+- Claim CLM-C000004531 has outcome Approved.
+- Claim CLM-C000004531 has claim type Auto.

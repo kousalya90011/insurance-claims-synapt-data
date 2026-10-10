@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006861
+Policy ID: POL-36463616
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 7.0 years
+Previous Claims: 1
+Incident Date: 2024-04-28
+Claim Filed Date: 2024-06-02
+Claim Amount: $14,441.25
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000006861 for auto policy in NJ. Policyholder tenure: 7.0 yrs with 1 prior claims. Amount claimed: $14441.25 (deductible $500.0). Filed on 2024-06-02 following incident on 2024-04-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006861 is covered by Policy POL-36463616.
+- Claim CLM-C000006861 concerns an incident in NJ on 2024-04-28.
+- Claim CLM-C000006861 has outcome Under Review.
+- Claim CLM-C000006861 has claim type Auto.

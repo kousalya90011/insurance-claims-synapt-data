@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000593
+Policy ID: POL-97028511
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 3.7 years
+Previous Claims: 2
+Incident Date: 2023-02-04
+Claim Filed Date: 2023-03-17
+Claim Amount: $11,985.70
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000000593 for auto policy in NJ. Policyholder tenure: 3.7 yrs with 2 prior claims. Amount claimed: $11985.7 (deductible $1000.0). Filed on 2023-03-17 following incident on 2023-02-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000593 is covered by Policy POL-97028511.
+- Claim CLM-C000000593 concerns an incident in NJ on 2023-02-04.
+- Claim CLM-C000000593 has outcome Approved.
+- Claim CLM-C000000593 has claim type Auto.

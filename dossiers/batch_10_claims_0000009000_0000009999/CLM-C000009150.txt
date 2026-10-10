@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009150
+Policy ID: POL-69696172
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 0.5 years
+Previous Claims: 0
+Incident Date: 2023-06-20
+Claim Filed Date: 2023-07-11
+Claim Amount: $12,904.11
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000009150 for auto policy in NY. Policyholder tenure: 0.5 yrs with 0 prior claims. Amount claimed: $12904.11 (deductible $250.0). Filed on 2023-07-11 following incident on 2023-06-20. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009150 is covered by Policy POL-69696172.
+- Claim CLM-C000009150 concerns an incident in NY on 2023-06-20.
+- Claim CLM-C000009150 has outcome Denied.
+- Claim CLM-C000009150 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003973
+Policy ID: POL-44005387
+Claim Type: Home
+State: GA
+Policyholder Tenure: 3.4 years
+Previous Claims: 2
+Incident Date: 2024-08-24
+Claim Filed Date: 2024-10-02
+Claim Amount: $22,379.99
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000003973 for home policy in GA. Policyholder tenure: 3.4 yrs with 2 prior claims. Amount claimed: $22379.99 (deductible $1000.0). Filed on 2024-10-02 following incident on 2024-08-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003973 is covered by Policy POL-44005387.
+- Claim CLM-C000003973 concerns an incident in GA on 2024-08-24.
+- Claim CLM-C000003973 has outcome Approved.
+- Claim CLM-C000003973 has claim type Home.

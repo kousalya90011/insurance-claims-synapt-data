@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003186
+Policy ID: POL-77236821
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2024-06-04
+Claim Filed Date: 2024-06-30
+Claim Amount: $7,431.52
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000003186 for auto policy in WI. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $7431.52 (deductible $1000.0). Filed on 2024-06-30 following incident on 2024-06-04. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000003186 is covered by Policy POL-77236821.
+- Claim CLM-C000003186 concerns an incident in WI on 2024-06-04.
+- Claim CLM-C000003186 has outcome Pending.
+- Claim CLM-C000003186 has claim type Auto.

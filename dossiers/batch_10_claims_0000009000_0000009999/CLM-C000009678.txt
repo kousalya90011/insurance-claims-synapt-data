@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009678
+Policy ID: POL-19173688
+Claim Type: Home
+State: MD
+Policyholder Tenure: 1.4 years
+Previous Claims: 3
+Incident Date: 2024-08-27
+Claim Filed Date: 2024-08-27
+Claim Amount: $16,365.64
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000009678 for home policy in MD. Policyholder tenure: 1.4 yrs with 3 prior claims. Amount claimed: $16365.64 (deductible $250.0). Filed on 2024-08-27 following incident on 2024-08-27. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000009678 is covered by Policy POL-19173688.
+- Claim CLM-C000009678 concerns an incident in MD on 2024-08-27.
+- Claim CLM-C000009678 has outcome Pending.
+- Claim CLM-C000009678 has claim type Home.

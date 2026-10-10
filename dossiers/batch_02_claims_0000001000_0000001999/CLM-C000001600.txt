@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001600
+Policy ID: POL-21421897
+Claim Type: Property
+State: PA
+Policyholder Tenure: 7.2 years
+Previous Claims: 3
+Incident Date: 2024-05-14
+Claim Filed Date: 2024-05-18
+Claim Amount: $10,499.93
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000001600 for property policy in PA. Policyholder tenure: 7.2 yrs with 3 prior claims. Amount claimed: $10499.93 (deductible $1000.0). Filed on 2024-05-18 following incident on 2024-05-14. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001600 is covered by Policy POL-21421897.
+- Claim CLM-C000001600 concerns an incident in PA on 2024-05-14.
+- Claim CLM-C000001600 has outcome Under Review.
+- Claim CLM-C000001600 has claim type Property.

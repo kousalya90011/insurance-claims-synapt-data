@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002153
+Policy ID: POL-36163394
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 40.0 years
+Previous Claims: 2
+Incident Date: 2024-07-30
+Claim Filed Date: 2024-08-29
+Claim Amount: $4,410.42
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000002153 for auto policy in TN. Policyholder tenure: 40.0 yrs with 2 prior claims. Amount claimed: $4410.42 (deductible $1000.0). Filed on 2024-08-29 following incident on 2024-07-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002153 is covered by Policy POL-36163394.
+- Claim CLM-C000002153 concerns an incident in TN on 2024-07-30.
+- Claim CLM-C000002153 has outcome Approved.
+- Claim CLM-C000002153 has claim type Auto.

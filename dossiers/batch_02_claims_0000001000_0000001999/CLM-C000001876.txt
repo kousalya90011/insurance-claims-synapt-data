@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001876
+Policy ID: POL-24512865
+Claim Type: Property
+State: NY
+Policyholder Tenure: 7.2 years
+Previous Claims: 1
+Incident Date: 2023-12-04
+Claim Filed Date: 2023-12-31
+Claim Amount: $16,194.75
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000001876 for property policy in NY. Policyholder tenure: 7.2 yrs with 1 prior claims. Amount claimed: $16194.75 (deductible $500.0). Filed on 2023-12-31 following incident on 2023-12-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001876 is covered by Policy POL-24512865.
+- Claim CLM-C000001876 concerns an incident in NY on 2023-12-04.
+- Claim CLM-C000001876 has outcome Approved.
+- Claim CLM-C000001876 has claim type Property.

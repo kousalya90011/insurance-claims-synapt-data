@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007305
+Policy ID: POL-84912971
+Claim Type: Renters
+State: MI
+Policyholder Tenure: 4.2 years
+Previous Claims: 0
+Incident Date: 2024-05-09
+Claim Filed Date: 2024-06-09
+Claim Amount: $1,835.20
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000007305 for renters policy in MI. Policyholder tenure: 4.2 yrs with 0 prior claims. Amount claimed: $1835.2 (deductible $500.0). Filed on 2024-06-09 following incident on 2024-05-09. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007305 is covered by Policy POL-84912971.
+- Claim CLM-C000007305 concerns an incident in MI on 2024-05-09.
+- Claim CLM-C000007305 has outcome Denied.
+- Claim CLM-C000007305 has claim type Renters.

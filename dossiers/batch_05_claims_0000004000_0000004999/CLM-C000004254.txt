@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004254
+Policy ID: POL-76635173
+Claim Type: Home
+State: MA
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2024-12-07
+Claim Filed Date: 2025-01-15
+Claim Amount: $28,688.38
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000004254 for home policy in MA. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $28688.38 (deductible $250.0). Filed on 2025-01-15 following incident on 2024-12-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004254 is covered by Policy POL-76635173.
+- Claim CLM-C000004254 concerns an incident in MA on 2024-12-07.
+- Claim CLM-C000004254 has outcome Approved.
+- Claim CLM-C000004254 has claim type Home.

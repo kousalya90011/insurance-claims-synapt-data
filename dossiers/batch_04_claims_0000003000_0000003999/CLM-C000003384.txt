@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003384
+Policy ID: POL-87859019
+Claim Type: Home
+State: MI
+Policyholder Tenure: 4.4 years
+Previous Claims: 1
+Incident Date: 2024-04-27
+Claim Filed Date: 2024-06-07
+Claim Amount: $5,567.45
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000003384 for home policy in MI. Policyholder tenure: 4.4 yrs with 1 prior claims. Amount claimed: $5567.45 (deductible $250.0). Filed on 2024-06-07 following incident on 2024-04-27. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003384 is covered by Policy POL-87859019.
+- Claim CLM-C000003384 concerns an incident in MI on 2024-04-27.
+- Claim CLM-C000003384 has outcome Denied.
+- Claim CLM-C000003384 has claim type Home.

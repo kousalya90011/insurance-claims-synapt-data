@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006679
+Policy ID: POL-75671835
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 8.9 years
+Previous Claims: 0
+Incident Date: 2023-06-16
+Claim Filed Date: 2023-07-19
+Claim Amount: $20,030.91
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000006679 for auto policy in OH. Policyholder tenure: 8.9 yrs with 0 prior claims. Amount claimed: $20030.91 (deductible $1000.0). Filed on 2023-07-19 following incident on 2023-06-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006679 is covered by Policy POL-75671835.
+- Claim CLM-C000006679 concerns an incident in OH on 2023-06-16.
+- Claim CLM-C000006679 has outcome Approved.
+- Claim CLM-C000006679 has claim type Auto.

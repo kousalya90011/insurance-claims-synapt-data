@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000554
+Policy ID: POL-67830962
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 1.9 years
+Previous Claims: 0
+Incident Date: 2023-07-17
+Claim Filed Date: 2023-08-16
+Claim Amount: $452.54
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000000554 for renters policy in PA. Policyholder tenure: 1.9 yrs with 0 prior claims. Amount claimed: $452.54 (deductible $250.0). Filed on 2023-08-16 following incident on 2023-07-17. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000554 is covered by Policy POL-67830962.
+- Claim CLM-C000000554 concerns an incident in PA on 2023-07-17.
+- Claim CLM-C000000554 has outcome Approved.
+- Claim CLM-C000000554 has claim type Renters.

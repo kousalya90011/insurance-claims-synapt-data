@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002171
+Policy ID: POL-20381026
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 23.1 years
+Previous Claims: 0
+Incident Date: 2023-06-28
+Claim Filed Date: 2023-07-11
+Claim Amount: $8,486.25
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000002171 for home policy in NJ. Policyholder tenure: 23.1 yrs with 0 prior claims. Amount claimed: $8486.25 (deductible $250.0). Filed on 2023-07-11 following incident on 2023-06-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002171 is covered by Policy POL-20381026.
+- Claim CLM-C000002171 concerns an incident in NJ on 2023-06-28.
+- Claim CLM-C000002171 has outcome Approved.
+- Claim CLM-C000002171 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002241
+Policy ID: POL-83910769
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2024-05-03
+Claim Filed Date: 2024-06-02
+Claim Amount: $2,118.57
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000002241 for renters policy in VA. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $2118.57 (deductible $500.0). Filed on 2024-06-02 following incident on 2024-05-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002241 is covered by Policy POL-83910769.
+- Claim CLM-C000002241 concerns an incident in VA on 2024-05-03.
+- Claim CLM-C000002241 has outcome Approved.
+- Claim CLM-C000002241 has claim type Renters.

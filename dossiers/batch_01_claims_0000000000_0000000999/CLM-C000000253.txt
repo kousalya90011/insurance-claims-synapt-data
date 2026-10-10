@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000253
+Policy ID: POL-81413490
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 7.7 years
+Previous Claims: 0
+Incident Date: 2023-12-20
+Claim Filed Date: 2024-01-14
+Claim Amount: $1,748.60
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000000253 for renters policy in AZ. Policyholder tenure: 7.7 yrs with 0 prior claims. Amount claimed: $1748.6 (deductible $500.0). Filed on 2024-01-14 following incident on 2023-12-20. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000253 is covered by Policy POL-81413490.
+- Claim CLM-C000000253 concerns an incident in AZ on 2023-12-20.
+- Claim CLM-C000000253 has outcome Under Review.
+- Claim CLM-C000000253 has claim type Renters.

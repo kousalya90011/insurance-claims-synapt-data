@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007504
+Policy ID: POL-37900310
+Claim Type: Home
+State: NY
+Policyholder Tenure: 2.5 years
+Previous Claims: 0
+Incident Date: 2023-09-03
+Claim Filed Date: 2023-10-08
+Claim Amount: $7,637.84
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000007504 for home policy in NY. Policyholder tenure: 2.5 yrs with 0 prior claims. Amount claimed: $7637.84 (deductible $250.0). Filed on 2023-10-08 following incident on 2023-09-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007504 is covered by Policy POL-37900310.
+- Claim CLM-C000007504 concerns an incident in NY on 2023-09-03.
+- Claim CLM-C000007504 has outcome Approved.
+- Claim CLM-C000007504 has claim type Home.

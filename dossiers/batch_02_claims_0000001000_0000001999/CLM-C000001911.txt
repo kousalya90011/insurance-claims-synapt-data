@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001911
+Policy ID: POL-12704912
+Claim Type: Renters
+State: MA
+Policyholder Tenure: 0.6 years
+Previous Claims: 2
+Incident Date: 2024-08-03
+Claim Filed Date: 2024-09-05
+Claim Amount: $1,484.23
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000001911 for renters policy in MA. Policyholder tenure: 0.6 yrs with 2 prior claims. Amount claimed: $1484.23 (deductible $500.0). Filed on 2024-09-05 following incident on 2024-08-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001911 is covered by Policy POL-12704912.
+- Claim CLM-C000001911 concerns an incident in MA on 2024-08-03.
+- Claim CLM-C000001911 has outcome Approved.
+- Claim CLM-C000001911 has claim type Renters.

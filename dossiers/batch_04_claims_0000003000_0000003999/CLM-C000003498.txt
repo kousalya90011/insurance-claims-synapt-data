@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003498
+Policy ID: POL-72017659
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 7.2 years
+Previous Claims: 3
+Incident Date: 2023-03-29
+Claim Filed Date: 2023-04-30
+Claim Amount: $1,542.13
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000003498 for auto policy in AZ. Policyholder tenure: 7.2 yrs with 3 prior claims. Amount claimed: $1542.13 (deductible $250.0). Filed on 2023-04-30 following incident on 2023-03-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003498 is covered by Policy POL-72017659.
+- Claim CLM-C000003498 concerns an incident in AZ on 2023-03-29.
+- Claim CLM-C000003498 has outcome Approved.
+- Claim CLM-C000003498 has claim type Auto.

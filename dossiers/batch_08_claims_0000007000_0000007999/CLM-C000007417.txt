@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007417
+Policy ID: POL-96513445
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 3.5 years
+Previous Claims: 2
+Incident Date: 2024-04-30
+Claim Filed Date: 2024-05-10
+Claim Amount: $7,152.07
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000007417 for renters policy in VA. Policyholder tenure: 3.5 yrs with 2 prior claims. Amount claimed: $7152.07 (deductible $1000.0). Filed on 2024-05-10 following incident on 2024-04-30. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007417 is covered by Policy POL-96513445.
+- Claim CLM-C000007417 concerns an incident in VA on 2024-04-30.
+- Claim CLM-C000007417 has outcome Under Review.
+- Claim CLM-C000007417 has claim type Renters.

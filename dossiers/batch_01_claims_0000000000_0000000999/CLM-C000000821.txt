@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000821
+Policy ID: POL-11311532
+Claim Type: Home
+State: MD
+Policyholder Tenure: 1.3 years
+Previous Claims: 2
+Incident Date: 2024-01-08
+Claim Filed Date: 2024-02-20
+Claim Amount: $7,035.21
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000000821 for home policy in MD. Policyholder tenure: 1.3 yrs with 2 prior claims. Amount claimed: $7035.21 (deductible $500.0). Filed on 2024-02-20 following incident on 2024-01-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000821 is covered by Policy POL-11311532.
+- Claim CLM-C000000821 concerns an incident in MD on 2024-01-08.
+- Claim CLM-C000000821 has outcome Approved.
+- Claim CLM-C000000821 has claim type Home.

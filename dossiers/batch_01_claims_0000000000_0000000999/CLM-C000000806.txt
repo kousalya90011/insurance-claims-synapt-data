@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000806
+Policy ID: POL-68511250
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2024-12-30
+Claim Filed Date: 2025-01-01
+Claim Amount: $15,802.54
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000000806 for auto policy in MO. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $15802.54 (deductible $250.0). Filed on 2025-01-01 following incident on 2024-12-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000806 is covered by Policy POL-68511250.
+- Claim CLM-C000000806 concerns an incident in MO on 2024-12-30.
+- Claim CLM-C000000806 has outcome Approved.
+- Claim CLM-C000000806 has claim type Auto.

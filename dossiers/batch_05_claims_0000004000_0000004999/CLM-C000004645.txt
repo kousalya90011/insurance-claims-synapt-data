@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004645
+Policy ID: POL-84472274
+Claim Type: Home
+State: CA
+Policyholder Tenure: 2.4 years
+Previous Claims: 1
+Incident Date: 2023-05-29
+Claim Filed Date: 2023-07-07
+Claim Amount: $15,181.27
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000004645 for home policy in CA. Policyholder tenure: 2.4 yrs with 1 prior claims. Amount claimed: $15181.27 (deductible $250.0). Filed on 2023-07-07 following incident on 2023-05-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004645 is covered by Policy POL-84472274.
+- Claim CLM-C000004645 concerns an incident in CA on 2023-05-29.
+- Claim CLM-C000004645 has outcome Approved.
+- Claim CLM-C000004645 has claim type Home.

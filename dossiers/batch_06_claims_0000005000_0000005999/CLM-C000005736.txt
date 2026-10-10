@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005736
+Policy ID: POL-99945102
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 0.5 years
+Previous Claims: 1
+Incident Date: 2023-10-26
+Claim Filed Date: 2023-10-31
+Claim Amount: $2,326.59
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000005736 for auto policy in CO. Policyholder tenure: 0.5 yrs with 1 prior claims. Amount claimed: $2326.59 (deductible $1000.0). Filed on 2023-10-31 following incident on 2023-10-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005736 is covered by Policy POL-99945102.
+- Claim CLM-C000005736 concerns an incident in CO on 2023-10-26.
+- Claim CLM-C000005736 has outcome Approved.
+- Claim CLM-C000005736 has claim type Auto.

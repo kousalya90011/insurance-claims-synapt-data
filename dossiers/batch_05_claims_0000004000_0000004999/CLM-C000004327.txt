@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004327
+Policy ID: POL-62887147
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2024-07-04
+Claim Filed Date: 2024-07-27
+Claim Amount: $13,577.11
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000004327 for auto policy in MA. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $13577.11 (deductible $500.0). Filed on 2024-07-27 following incident on 2024-07-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004327 is covered by Policy POL-62887147.
+- Claim CLM-C000004327 concerns an incident in MA on 2024-07-04.
+- Claim CLM-C000004327 has outcome Approved.
+- Claim CLM-C000004327 has claim type Auto.

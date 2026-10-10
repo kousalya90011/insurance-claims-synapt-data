@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001213
+Policy ID: POL-10424130
+Claim Type: Property
+State: IL
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2023-05-11
+Claim Filed Date: 2023-06-07
+Claim Amount: $7,697.82
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000001213 for property policy in IL. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $7697.82 (deductible $500.0). Filed on 2023-06-07 following incident on 2023-05-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001213 is covered by Policy POL-10424130.
+- Claim CLM-C000001213 concerns an incident in IL on 2023-05-11.
+- Claim CLM-C000001213 has outcome Approved.
+- Claim CLM-C000001213 has claim type Property.

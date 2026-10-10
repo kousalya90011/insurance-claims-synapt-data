@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002812
+Policy ID: POL-87432122
+Claim Type: Home
+State: NJ
+Policyholder Tenure: 10.1 years
+Previous Claims: 0
+Incident Date: 2023-07-29
+Claim Filed Date: 2023-08-12
+Claim Amount: $16,614.00
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000002812 for home policy in NJ. Policyholder tenure: 10.1 yrs with 0 prior claims. Amount claimed: $16614.0 (deductible $250.0). Filed on 2023-08-12 following incident on 2023-07-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002812 is covered by Policy POL-87432122.
+- Claim CLM-C000002812 concerns an incident in NJ on 2023-07-29.
+- Claim CLM-C000002812 has outcome Approved.
+- Claim CLM-C000002812 has claim type Home.

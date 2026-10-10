@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006587
+Policy ID: POL-57287783
+Claim Type: Home
+State: MI
+Policyholder Tenure: 0.8 years
+Previous Claims: 4
+Incident Date: 2024-12-12
+Claim Filed Date: 2025-01-11
+Claim Amount: $19,428.28
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000006587 for home policy in MI. Policyholder tenure: 0.8 yrs with 4 prior claims. Amount claimed: $19428.28 (deductible $1000.0). Filed on 2025-01-11 following incident on 2024-12-12. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006587 is covered by Policy POL-57287783.
+- Claim CLM-C000006587 concerns an incident in MI on 2024-12-12.
+- Claim CLM-C000006587 has outcome Approved.
+- Claim CLM-C000006587 has claim type Home.

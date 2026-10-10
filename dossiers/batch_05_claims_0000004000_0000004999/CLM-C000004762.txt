@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004762
+Policy ID: POL-19543439
+Claim Type: Home
+State: IL
+Policyholder Tenure: 9.1 years
+Previous Claims: 0
+Incident Date: 2024-02-23
+Claim Filed Date: 2024-04-01
+Claim Amount: $8,684.98
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000004762 for home policy in IL. Policyholder tenure: 9.1 yrs with 0 prior claims. Amount claimed: $8684.98 (deductible $500.0). Filed on 2024-04-01 following incident on 2024-02-23. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000004762 is covered by Policy POL-19543439.
+- Claim CLM-C000004762 concerns an incident in IL on 2024-02-23.
+- Claim CLM-C000004762 has outcome Pending.
+- Claim CLM-C000004762 has claim type Home.

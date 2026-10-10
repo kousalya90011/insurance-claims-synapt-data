@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004734
+Policy ID: POL-54946640
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 3.1 years
+Previous Claims: 1
+Incident Date: 2024-02-26
+Claim Filed Date: 2024-03-31
+Claim Amount: $7,820.00
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 39 days
+Claim Narrative: Claim CLM-C000004734 for auto policy in OH. Policyholder tenure: 3.1 yrs with 1 prior claims. Amount claimed: $7820.0 (deductible $1000.0). Filed on 2024-03-31 following incident on 2024-02-26. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000004734 is covered by Policy POL-54946640.
+- Claim CLM-C000004734 concerns an incident in OH on 2024-02-26.
+- Claim CLM-C000004734 has outcome Denied.
+- Claim CLM-C000004734 has claim type Auto.

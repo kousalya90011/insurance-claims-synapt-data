@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009563
+Policy ID: POL-89759647
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 4.2 years
+Previous Claims: 0
+Incident Date: 2025-01-02
+Claim Filed Date: 2025-01-17
+Claim Amount: $4,929.12
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000009563 for auto policy in VA. Policyholder tenure: 4.2 yrs with 0 prior claims. Amount claimed: $4929.12 (deductible $500.0). Filed on 2025-01-17 following incident on 2025-01-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009563 is covered by Policy POL-89759647.
+- Claim CLM-C000009563 concerns an incident in VA on 2025-01-02.
+- Claim CLM-C000009563 has outcome Under Review.
+- Claim CLM-C000009563 has claim type Auto.

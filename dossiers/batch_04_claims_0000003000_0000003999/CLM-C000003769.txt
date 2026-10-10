@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003769
+Policy ID: POL-42369966
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 10.4 years
+Previous Claims: 0
+Incident Date: 2024-04-06
+Claim Filed Date: 2024-05-05
+Claim Amount: $3,912.74
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000003769 for auto policy in AZ. Policyholder tenure: 10.4 yrs with 0 prior claims. Amount claimed: $3912.74 (deductible $500.0). Filed on 2024-05-05 following incident on 2024-04-06. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003769 is covered by Policy POL-42369966.
+- Claim CLM-C000003769 concerns an incident in AZ on 2024-04-06.
+- Claim CLM-C000003769 has outcome Under Review.
+- Claim CLM-C000003769 has claim type Auto.

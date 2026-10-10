@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002874
+Policy ID: POL-70556804
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 37.0 years
+Previous Claims: 1
+Incident Date: 2024-12-03
+Claim Filed Date: 2024-12-30
+Claim Amount: $7,060.53
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000002874 for auto policy in AZ. Policyholder tenure: 37.0 yrs with 1 prior claims. Amount claimed: $7060.53 (deductible $500.0). Filed on 2024-12-30 following incident on 2024-12-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002874 is covered by Policy POL-70556804.
+- Claim CLM-C000002874 concerns an incident in AZ on 2024-12-03.
+- Claim CLM-C000002874 has outcome Denied.
+- Claim CLM-C000002874 has claim type Auto.

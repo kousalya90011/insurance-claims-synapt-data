@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009715
+Policy ID: POL-98464873
+Claim Type: Property
+State: GA
+Policyholder Tenure: 2.0 years
+Previous Claims: 0
+Incident Date: 2023-01-04
+Claim Filed Date: 2023-02-08
+Claim Amount: $67,663.68
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 75 days
+Claim Narrative: Claim CLM-C000009715 for property policy in GA. Policyholder tenure: 2.0 yrs with 0 prior claims. Amount claimed: $67663.68 (deductible $250.0). Filed on 2023-02-08 following incident on 2023-01-04. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000009715 is covered by Policy POL-98464873.
+- Claim CLM-C000009715 concerns an incident in GA on 2023-01-04.
+- Claim CLM-C000009715 has outcome Under Review.
+- Claim CLM-C000009715 has claim type Property.

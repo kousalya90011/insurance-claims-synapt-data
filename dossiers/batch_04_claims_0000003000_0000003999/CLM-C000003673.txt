@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003673
+Policy ID: POL-92738428
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 2.8 years
+Previous Claims: 0
+Incident Date: 2023-07-19
+Claim Filed Date: 2023-08-04
+Claim Amount: $12,705.10
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000003673 for auto policy in OH. Policyholder tenure: 2.8 yrs with 0 prior claims. Amount claimed: $12705.1 (deductible $500.0). Filed on 2023-08-04 following incident on 2023-07-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003673 is covered by Policy POL-92738428.
+- Claim CLM-C000003673 concerns an incident in OH on 2023-07-19.
+- Claim CLM-C000003673 has outcome Approved.
+- Claim CLM-C000003673 has claim type Auto.

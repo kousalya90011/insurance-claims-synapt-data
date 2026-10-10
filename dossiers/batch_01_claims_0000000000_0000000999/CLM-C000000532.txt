@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000532
+Policy ID: POL-48633369
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 3.6 years
+Previous Claims: 1
+Incident Date: 2023-10-27
+Claim Filed Date: 2023-11-25
+Claim Amount: $8,415.31
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000000532 for auto policy in MI. Policyholder tenure: 3.6 yrs with 1 prior claims. Amount claimed: $8415.31 (deductible $250.0). Filed on 2023-11-25 following incident on 2023-10-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000532 is covered by Policy POL-48633369.
+- Claim CLM-C000000532 concerns an incident in MI on 2023-10-27.
+- Claim CLM-C000000532 has outcome Under Review.
+- Claim CLM-C000000532 has claim type Auto.

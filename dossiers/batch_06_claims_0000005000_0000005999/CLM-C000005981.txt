@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005981
+Policy ID: POL-77456347
+Claim Type: Auto
+State: TX
+Policyholder Tenure: 3.8 years
+Previous Claims: 1
+Incident Date: 2023-02-18
+Claim Filed Date: 2023-02-19
+Claim Amount: $3,380.61
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000005981 for auto policy in TX. Policyholder tenure: 3.8 yrs with 1 prior claims. Amount claimed: $3380.61 (deductible $250.0). Filed on 2023-02-19 following incident on 2023-02-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005981 is covered by Policy POL-77456347.
+- Claim CLM-C000005981 concerns an incident in TX on 2023-02-18.
+- Claim CLM-C000005981 has outcome Approved.
+- Claim CLM-C000005981 has claim type Auto.

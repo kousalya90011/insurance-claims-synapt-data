@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000757
+Policy ID: POL-86170317
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 8.3 years
+Previous Claims: 3
+Incident Date: 2024-04-22
+Claim Filed Date: 2024-04-22
+Claim Amount: $5,531.35
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 48 days
+Claim Narrative: Claim CLM-C000000757 for auto policy in NY. Policyholder tenure: 8.3 yrs with 3 prior claims. Amount claimed: $5531.35 (deductible $500.0). Filed on 2024-04-22 following incident on 2024-04-22. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000000757 is covered by Policy POL-86170317.
+- Claim CLM-C000000757 concerns an incident in NY on 2024-04-22.
+- Claim CLM-C000000757 has outcome Denied.
+- Claim CLM-C000000757 has claim type Auto.

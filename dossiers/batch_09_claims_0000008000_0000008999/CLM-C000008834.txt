@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008834
+Policy ID: POL-77122122
+Claim Type: Home
+State: MD
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2024-02-21
+Claim Filed Date: 2024-03-31
+Claim Amount: $35,079.68
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000008834 for home policy in MD. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $35079.68 (deductible $500.0). Filed on 2024-03-31 following incident on 2024-02-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008834 is covered by Policy POL-77122122.
+- Claim CLM-C000008834 concerns an incident in MD on 2024-02-21.
+- Claim CLM-C000008834 has outcome Under Review.
+- Claim CLM-C000008834 has claim type Home.

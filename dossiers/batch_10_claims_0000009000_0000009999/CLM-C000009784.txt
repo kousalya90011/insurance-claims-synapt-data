@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009784
+Policy ID: POL-71930374
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 4.2 years
+Previous Claims: 1
+Incident Date: 2024-07-14
+Claim Filed Date: 2024-08-05
+Claim Amount: $5,078.70
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000009784 for auto policy in NY. Policyholder tenure: 4.2 yrs with 1 prior claims. Amount claimed: $5078.7 (deductible $2000.0). Filed on 2024-08-05 following incident on 2024-07-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009784 is covered by Policy POL-71930374.
+- Claim CLM-C000009784 concerns an incident in NY on 2024-07-14.
+- Claim CLM-C000009784 has outcome Approved.
+- Claim CLM-C000009784 has claim type Auto.

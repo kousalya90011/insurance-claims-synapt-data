@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008879
+Policy ID: POL-87826276
+Claim Type: Property
+State: GA
+Policyholder Tenure: 22.0 years
+Previous Claims: 4
+Incident Date: 2023-02-04
+Claim Filed Date: 2023-03-02
+Claim Amount: $26,107.09
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000008879 for property policy in GA. Policyholder tenure: 22.0 yrs with 4 prior claims. Amount claimed: $26107.09 (deductible $1000.0). Filed on 2023-03-02 following incident on 2023-02-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008879 is covered by Policy POL-87826276.
+- Claim CLM-C000008879 concerns an incident in GA on 2023-02-04.
+- Claim CLM-C000008879 has outcome Approved.
+- Claim CLM-C000008879 has claim type Property.

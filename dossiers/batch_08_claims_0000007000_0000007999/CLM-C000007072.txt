@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007072
+Policy ID: POL-76833318
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 2.0 years
+Previous Claims: 0
+Incident Date: 2023-12-04
+Claim Filed Date: 2023-12-24
+Claim Amount: $3,814.47
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000007072 for auto policy in NJ. Policyholder tenure: 2.0 yrs with 0 prior claims. Amount claimed: $3814.47 (deductible $1000.0). Filed on 2023-12-24 following incident on 2023-12-04. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007072 is covered by Policy POL-76833318.
+- Claim CLM-C000007072 concerns an incident in NJ on 2023-12-04.
+- Claim CLM-C000007072 has outcome Denied.
+- Claim CLM-C000007072 has claim type Auto.

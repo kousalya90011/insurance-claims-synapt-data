@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001511
+Policy ID: POL-65813435
+Claim Type: Business
+State: TN
+Policyholder Tenure: 2.1 years
+Previous Claims: 0
+Incident Date: 2023-04-27
+Claim Filed Date: 2023-05-21
+Claim Amount: $64,719.21
+Deductible: $5,000.00
+Claim Status: Approved
+Resolution Time: 46 days
+Claim Narrative: Claim CLM-C000001511 for business policy in TN. Policyholder tenure: 2.1 yrs with 0 prior claims. Amount claimed: $64719.21 (deductible $5000.0). Filed on 2023-05-21 following incident on 2023-04-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001511 is covered by Policy POL-65813435.
+- Claim CLM-C000001511 concerns an incident in TN on 2023-04-27.
+- Claim CLM-C000001511 has outcome Approved.
+- Claim CLM-C000001511 has claim type Business.

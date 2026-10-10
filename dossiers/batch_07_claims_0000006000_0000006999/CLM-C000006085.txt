@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006085
+Policy ID: POL-45124852
+Claim Type: Renters
+State: AZ
+Policyholder Tenure: 3.3 years
+Previous Claims: 0
+Incident Date: 2024-04-06
+Claim Filed Date: 2024-04-10
+Claim Amount: $768.55
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000006085 for renters policy in AZ. Policyholder tenure: 3.3 yrs with 0 prior claims. Amount claimed: $768.55 (deductible $500.0). Filed on 2024-04-10 following incident on 2024-04-06. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006085 is covered by Policy POL-45124852.
+- Claim CLM-C000006085 concerns an incident in AZ on 2024-04-06.
+- Claim CLM-C000006085 has outcome Approved.
+- Claim CLM-C000006085 has claim type Renters.

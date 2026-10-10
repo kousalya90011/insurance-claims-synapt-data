@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005919
+Policy ID: POL-78586571
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 3.3 years
+Previous Claims: 0
+Incident Date: 2024-12-04
+Claim Filed Date: 2025-01-07
+Claim Amount: $7,539.08
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000005919 for property policy in AZ. Policyholder tenure: 3.3 yrs with 0 prior claims. Amount claimed: $7539.08 (deductible $250.0). Filed on 2025-01-07 following incident on 2024-12-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005919 is covered by Policy POL-78586571.
+- Claim CLM-C000005919 concerns an incident in AZ on 2024-12-04.
+- Claim CLM-C000005919 has outcome Approved.
+- Claim CLM-C000005919 has claim type Property.

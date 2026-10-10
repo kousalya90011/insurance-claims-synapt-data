@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002338
+Policy ID: POL-50904051
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 0.6 years
+Previous Claims: 1
+Incident Date: 2023-05-24
+Claim Filed Date: 2023-06-14
+Claim Amount: $8,950.27
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000002338 for auto policy in MA. Policyholder tenure: 0.6 yrs with 1 prior claims. Amount claimed: $8950.27 (deductible $500.0). Filed on 2023-06-14 following incident on 2023-05-24. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002338 is covered by Policy POL-50904051.
+- Claim CLM-C000002338 concerns an incident in MA on 2023-05-24.
+- Claim CLM-C000002338 has outcome Approved.
+- Claim CLM-C000002338 has claim type Auto.

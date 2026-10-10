@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004625
+Policy ID: POL-12521871
+Claim Type: Renters
+State: VA
+Policyholder Tenure: 12.6 years
+Previous Claims: 2
+Incident Date: 2025-01-14
+Claim Filed Date: 2025-02-02
+Claim Amount: $1,570.34
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 13 days
+Claim Narrative: Claim CLM-C000004625 for renters policy in VA. Policyholder tenure: 12.6 yrs with 2 prior claims. Amount claimed: $1570.34 (deductible $1000.0). Filed on 2025-02-02 following incident on 2025-01-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004625 is covered by Policy POL-12521871.
+- Claim CLM-C000004625 concerns an incident in VA on 2025-01-14.
+- Claim CLM-C000004625 has outcome Approved.
+- Claim CLM-C000004625 has claim type Renters.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005107
+Policy ID: POL-95559834
+Claim Type: Business
+State: WA
+Policyholder Tenure: 0.3 years
+Previous Claims: 1
+Incident Date: 2024-01-27
+Claim Filed Date: 2024-03-10
+Claim Amount: $55,653.52
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 46 days
+Claim Narrative: Claim CLM-C000005107 for business policy in WA. Policyholder tenure: 0.3 yrs with 1 prior claims. Amount claimed: $55653.52 (deductible $1000.0). Filed on 2024-03-10 following incident on 2024-01-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005107 is covered by Policy POL-95559834.
+- Claim CLM-C000005107 concerns an incident in WA on 2024-01-27.
+- Claim CLM-C000005107 has outcome Approved.
+- Claim CLM-C000005107 has claim type Business.

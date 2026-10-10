@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006189
+Policy ID: POL-26541286
+Claim Type: Business
+State: TN
+Policyholder Tenure: 14.0 years
+Previous Claims: 1
+Incident Date: 2024-06-05
+Claim Filed Date: 2024-06-13
+Claim Amount: $28,879.83
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006189 for business policy in TN. Policyholder tenure: 14.0 yrs with 1 prior claims. Amount claimed: $28879.83 (deductible $1000.0). Filed on 2024-06-13 following incident on 2024-06-05. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006189 is covered by Policy POL-26541286.
+- Claim CLM-C000006189 concerns an incident in TN on 2024-06-05.
+- Claim CLM-C000006189 has outcome Pending.
+- Claim CLM-C000006189 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003733
+Policy ID: POL-50021922
+Claim Type: Property
+State: FL
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2023-07-21
+Claim Filed Date: 2023-08-14
+Claim Amount: $16,089.96
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000003733 for property policy in FL. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $16089.96 (deductible $250.0). Filed on 2023-08-14 following incident on 2023-07-21. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000003733 is covered by Policy POL-50021922.
+- Claim CLM-C000003733 concerns an incident in FL on 2023-07-21.
+- Claim CLM-C000003733 has outcome Under Review.
+- Claim CLM-C000003733 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006071
+Policy ID: POL-45156268
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 9.2 years
+Previous Claims: 0
+Incident Date: 2023-08-07
+Claim Filed Date: 2023-08-18
+Claim Amount: $9,572.15
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000006071 for auto policy in PA. Policyholder tenure: 9.2 yrs with 0 prior claims. Amount claimed: $9572.15 (deductible $500.0). Filed on 2023-08-18 following incident on 2023-08-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006071 is covered by Policy POL-45156268.
+- Claim CLM-C000006071 concerns an incident in PA on 2023-08-07.
+- Claim CLM-C000006071 has outcome Approved.
+- Claim CLM-C000006071 has claim type Auto.

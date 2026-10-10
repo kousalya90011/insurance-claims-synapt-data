@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002313
+Policy ID: POL-20701931
+Claim Type: Home
+State: CO
+Policyholder Tenure: 1.2 years
+Previous Claims: 0
+Incident Date: 2024-11-27
+Claim Filed Date: 2024-12-20
+Claim Amount: $14,565.68
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000002313 for home policy in CO. Policyholder tenure: 1.2 yrs with 0 prior claims. Amount claimed: $14565.68 (deductible $250.0). Filed on 2024-12-20 following incident on 2024-11-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002313 is covered by Policy POL-20701931.
+- Claim CLM-C000002313 concerns an incident in CO on 2024-11-27.
+- Claim CLM-C000002313 has outcome Approved.
+- Claim CLM-C000002313 has claim type Home.

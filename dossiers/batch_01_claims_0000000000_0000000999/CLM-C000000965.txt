@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000965
+Policy ID: POL-65497952
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 4.8 years
+Previous Claims: 1
+Incident Date: 2024-05-02
+Claim Filed Date: 2024-06-12
+Claim Amount: $11,951.58
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 17 days
+Claim Narrative: Claim CLM-C000000965 for auto policy in MA. Policyholder tenure: 4.8 yrs with 1 prior claims. Amount claimed: $11951.58 (deductible $500.0). Filed on 2024-06-12 following incident on 2024-05-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000965 is covered by Policy POL-65497952.
+- Claim CLM-C000000965 concerns an incident in MA on 2024-05-02.
+- Claim CLM-C000000965 has outcome Approved.
+- Claim CLM-C000000965 has claim type Auto.

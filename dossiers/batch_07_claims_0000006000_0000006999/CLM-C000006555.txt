@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006555
+Policy ID: POL-26861230
+Claim Type: Property
+State: GA
+Policyholder Tenure: 4.6 years
+Previous Claims: 1
+Incident Date: 2024-01-28
+Claim Filed Date: 2024-02-09
+Claim Amount: $42,314.78
+Deductible: $250.00
+Claim Status: Under Review
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000006555 for property policy in GA. Policyholder tenure: 4.6 yrs with 1 prior claims. Amount claimed: $42314.78 (deductible $250.0). Filed on 2024-02-09 following incident on 2024-01-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006555 is covered by Policy POL-26861230.
+- Claim CLM-C000006555 concerns an incident in GA on 2024-01-28.
+- Claim CLM-C000006555 has outcome Under Review.
+- Claim CLM-C000006555 has claim type Property.

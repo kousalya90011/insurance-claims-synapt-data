@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008642
+Policy ID: POL-78426620
+Claim Type: Business
+State: NJ
+Policyholder Tenure: 5.0 years
+Previous Claims: 5
+Incident Date: 2024-07-11
+Claim Filed Date: 2024-08-05
+Claim Amount: $20,728.02
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000008642 for business policy in NJ. Policyholder tenure: 5.0 yrs with 5 prior claims. Amount claimed: $20728.02 (deductible $1000.0). Filed on 2024-08-05 following incident on 2024-07-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008642 is covered by Policy POL-78426620.
+- Claim CLM-C000008642 concerns an incident in NJ on 2024-07-11.
+- Claim CLM-C000008642 has outcome Approved.
+- Claim CLM-C000008642 has claim type Business.

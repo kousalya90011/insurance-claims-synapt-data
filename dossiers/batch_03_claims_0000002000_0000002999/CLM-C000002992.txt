@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002992
+Policy ID: POL-85262042
+Claim Type: Home
+State: MI
+Policyholder Tenure: 2.6 years
+Previous Claims: 1
+Incident Date: 2024-10-08
+Claim Filed Date: 2024-10-20
+Claim Amount: $16,294.53
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 16 days
+Claim Narrative: Claim CLM-C000002992 for home policy in MI. Policyholder tenure: 2.6 yrs with 1 prior claims. Amount claimed: $16294.53 (deductible $500.0). Filed on 2024-10-20 following incident on 2024-10-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002992 is covered by Policy POL-85262042.
+- Claim CLM-C000002992 concerns an incident in MI on 2024-10-08.
+- Claim CLM-C000002992 has outcome Approved.
+- Claim CLM-C000002992 has claim type Home.

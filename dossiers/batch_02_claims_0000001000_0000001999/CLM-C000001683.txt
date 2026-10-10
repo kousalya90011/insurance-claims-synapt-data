@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001683
+Policy ID: POL-89199611
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 1.1 years
+Previous Claims: 0
+Incident Date: 2023-09-03
+Claim Filed Date: 2023-09-17
+Claim Amount: $32,137.45
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 45 days
+Claim Narrative: Claim CLM-C000001683 for property policy in AZ. Policyholder tenure: 1.1 yrs with 0 prior claims. Amount claimed: $32137.45 (deductible $250.0). Filed on 2023-09-17 following incident on 2023-09-03. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000001683 is covered by Policy POL-89199611.
+- Claim CLM-C000001683 concerns an incident in AZ on 2023-09-03.
+- Claim CLM-C000001683 has outcome Denied.
+- Claim CLM-C000001683 has claim type Property.

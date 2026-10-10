@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008570
+Policy ID: POL-72239872
+Claim Type: Home
+State: MD
+Policyholder Tenure: 2.5 years
+Previous Claims: 0
+Incident Date: 2024-07-16
+Claim Filed Date: 2024-08-19
+Claim Amount: $7,876.40
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000008570 for home policy in MD. Policyholder tenure: 2.5 yrs with 0 prior claims. Amount claimed: $7876.4 (deductible $2000.0). Filed on 2024-08-19 following incident on 2024-07-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008570 is covered by Policy POL-72239872.
+- Claim CLM-C000008570 concerns an incident in MD on 2024-07-16.
+- Claim CLM-C000008570 has outcome Approved.
+- Claim CLM-C000008570 has claim type Home.

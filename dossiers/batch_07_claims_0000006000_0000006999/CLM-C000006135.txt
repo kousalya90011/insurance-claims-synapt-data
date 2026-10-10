@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006135
+Policy ID: POL-39812595
+Claim Type: Home
+State: CO
+Policyholder Tenure: 2.7 years
+Previous Claims: 0
+Incident Date: 2024-04-02
+Claim Filed Date: 2024-05-02
+Claim Amount: $17,150.34
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000006135 for home policy in CO. Policyholder tenure: 2.7 yrs with 0 prior claims. Amount claimed: $17150.34 (deductible $500.0). Filed on 2024-05-02 following incident on 2024-04-02. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006135 is covered by Policy POL-39812595.
+- Claim CLM-C000006135 concerns an incident in CO on 2024-04-02.
+- Claim CLM-C000006135 has outcome Approved.
+- Claim CLM-C000006135 has claim type Home.

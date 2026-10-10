@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002007
+Policy ID: POL-77176250
+Claim Type: Home
+State: OH
+Policyholder Tenure: 1.4 years
+Previous Claims: 1
+Incident Date: 2024-06-21
+Claim Filed Date: 2024-07-29
+Claim Amount: $16,659.55
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000002007 for home policy in OH. Policyholder tenure: 1.4 yrs with 1 prior claims. Amount claimed: $16659.55 (deductible $250.0). Filed on 2024-07-29 following incident on 2024-06-21. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002007 is covered by Policy POL-77176250.
+- Claim CLM-C000002007 concerns an incident in OH on 2024-06-21.
+- Claim CLM-C000002007 has outcome Denied.
+- Claim CLM-C000002007 has claim type Home.

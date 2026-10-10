@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007253
+Policy ID: POL-65362202
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 5.7 years
+Previous Claims: 0
+Incident Date: 2024-09-29
+Claim Filed Date: 2024-10-17
+Claim Amount: $1,835.40
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 7 days
+Claim Narrative: Claim CLM-C000007253 for auto policy in MA. Policyholder tenure: 5.7 yrs with 0 prior claims. Amount claimed: $1835.4 (deductible $250.0). Filed on 2024-10-17 following incident on 2024-09-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007253 is covered by Policy POL-65362202.
+- Claim CLM-C000007253 concerns an incident in MA on 2024-09-29.
+- Claim CLM-C000007253 has outcome Approved.
+- Claim CLM-C000007253 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008250
+Policy ID: POL-85229650
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 0.7 years
+Previous Claims: 1
+Incident Date: 2023-01-31
+Claim Filed Date: 2023-03-08
+Claim Amount: $3,068.30
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000008250 for auto policy in MO. Policyholder tenure: 0.7 yrs with 1 prior claims. Amount claimed: $3068.3 (deductible $500.0). Filed on 2023-03-08 following incident on 2023-01-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008250 is covered by Policy POL-85229650.
+- Claim CLM-C000008250 concerns an incident in MO on 2023-01-31.
+- Claim CLM-C000008250 has outcome Approved.
+- Claim CLM-C000008250 has claim type Auto.

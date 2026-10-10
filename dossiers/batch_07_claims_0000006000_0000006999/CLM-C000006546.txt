@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006546
+Policy ID: POL-94973107
+Claim Type: Renters
+State: TX
+Policyholder Tenure: 8.9 years
+Previous Claims: 0
+Incident Date: 2024-01-19
+Claim Filed Date: 2024-01-26
+Claim Amount: $4,005.60
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000006546 for renters policy in TX. Policyholder tenure: 8.9 yrs with 0 prior claims. Amount claimed: $4005.6 (deductible $2000.0). Filed on 2024-01-26 following incident on 2024-01-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006546 is covered by Policy POL-94973107.
+- Claim CLM-C000006546 concerns an incident in TX on 2024-01-19.
+- Claim CLM-C000006546 has outcome Approved.
+- Claim CLM-C000006546 has claim type Renters.

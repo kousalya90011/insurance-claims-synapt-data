@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000926
+Policy ID: POL-22068514
+Claim Type: Property
+State: IL
+Policyholder Tenure: 4.6 years
+Previous Claims: 0
+Incident Date: 2024-01-18
+Claim Filed Date: 2024-01-21
+Claim Amount: $41,394.17
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000000926 for property policy in IL. Policyholder tenure: 4.6 yrs with 0 prior claims. Amount claimed: $41394.17 (deductible $500.0). Filed on 2024-01-21 following incident on 2024-01-18. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000926 is covered by Policy POL-22068514.
+- Claim CLM-C000000926 concerns an incident in IL on 2024-01-18.
+- Claim CLM-C000000926 has outcome Approved.
+- Claim CLM-C000000926 has claim type Property.

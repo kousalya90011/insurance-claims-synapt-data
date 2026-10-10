@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002268
+Policy ID: POL-17813947
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 20.1 years
+Previous Claims: 2
+Incident Date: 2023-07-09
+Claim Filed Date: 2023-08-19
+Claim Amount: $3,286.44
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000002268 for auto policy in AZ. Policyholder tenure: 20.1 yrs with 2 prior claims. Amount claimed: $3286.44 (deductible $500.0). Filed on 2023-08-19 following incident on 2023-07-09. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002268 is covered by Policy POL-17813947.
+- Claim CLM-C000002268 concerns an incident in AZ on 2023-07-09.
+- Claim CLM-C000002268 has outcome Denied.
+- Claim CLM-C000002268 has claim type Auto.

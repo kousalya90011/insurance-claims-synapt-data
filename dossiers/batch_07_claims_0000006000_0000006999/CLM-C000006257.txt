@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006257
+Policy ID: POL-12360344
+Claim Type: Home
+State: VA
+Policyholder Tenure: 3.3 years
+Previous Claims: 0
+Incident Date: 2024-04-26
+Claim Filed Date: 2024-05-14
+Claim Amount: $6,190.49
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000006257 for home policy in VA. Policyholder tenure: 3.3 yrs with 0 prior claims. Amount claimed: $6190.49 (deductible $500.0). Filed on 2024-05-14 following incident on 2024-04-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006257 is covered by Policy POL-12360344.
+- Claim CLM-C000006257 concerns an incident in VA on 2024-04-26.
+- Claim CLM-C000006257 has outcome Approved.
+- Claim CLM-C000006257 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003260
+Policy ID: POL-28984094
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 25.7 years
+Previous Claims: 1
+Incident Date: 2023-08-03
+Claim Filed Date: 2023-09-03
+Claim Amount: $1,271.83
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000003260 for auto policy in MI. Policyholder tenure: 25.7 yrs with 1 prior claims. Amount claimed: $1271.83 (deductible $2000.0). Filed on 2023-09-03 following incident on 2023-08-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003260 is covered by Policy POL-28984094.
+- Claim CLM-C000003260 concerns an incident in MI on 2023-08-03.
+- Claim CLM-C000003260 has outcome Approved.
+- Claim CLM-C000003260 has claim type Auto.

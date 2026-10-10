@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000320
+Policy ID: POL-59936721
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 5.1 years
+Previous Claims: 3
+Incident Date: 2023-05-08
+Claim Filed Date: 2023-05-16
+Claim Amount: $4,626.65
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000000320 for auto policy in CA. Policyholder tenure: 5.1 yrs with 3 prior claims. Amount claimed: $4626.65 (deductible $500.0). Filed on 2023-05-16 following incident on 2023-05-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000320 is covered by Policy POL-59936721.
+- Claim CLM-C000000320 concerns an incident in CA on 2023-05-08.
+- Claim CLM-C000000320 has outcome Approved.
+- Claim CLM-C000000320 has claim type Auto.

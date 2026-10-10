@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008140
+Policy ID: POL-73834660
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 1.1 years
+Previous Claims: 1
+Incident Date: 2023-11-26
+Claim Filed Date: 2023-12-07
+Claim Amount: $6,488.73
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000008140 for auto policy in FL. Policyholder tenure: 1.1 yrs with 1 prior claims. Amount claimed: $6488.73 (deductible $500.0). Filed on 2023-12-07 following incident on 2023-11-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008140 is covered by Policy POL-73834660.
+- Claim CLM-C000008140 concerns an incident in FL on 2023-11-26.
+- Claim CLM-C000008140 has outcome Approved.
+- Claim CLM-C000008140 has claim type Auto.

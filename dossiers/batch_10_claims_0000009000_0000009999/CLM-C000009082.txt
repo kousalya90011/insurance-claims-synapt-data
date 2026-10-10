@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009082
+Policy ID: POL-56096777
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2024-12-19
+Claim Filed Date: 2025-01-02
+Claim Amount: $5,085.54
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000009082 for auto policy in FL. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $5085.54 (deductible $250.0). Filed on 2025-01-02 following incident on 2024-12-19. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009082 is covered by Policy POL-56096777.
+- Claim CLM-C000009082 concerns an incident in FL on 2024-12-19.
+- Claim CLM-C000009082 has outcome Approved.
+- Claim CLM-C000009082 has claim type Auto.

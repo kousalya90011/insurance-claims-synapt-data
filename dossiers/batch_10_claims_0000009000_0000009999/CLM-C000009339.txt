@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009339
+Policy ID: POL-88199670
+Claim Type: Home
+State: TX
+Policyholder Tenure: 4.2 years
+Previous Claims: 4
+Incident Date: 2023-07-18
+Claim Filed Date: 2023-07-29
+Claim Amount: $22,349.04
+Deductible: $250.00
+Claim Status: Denied
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000009339 for home policy in TX. Policyholder tenure: 4.2 yrs with 4 prior claims. Amount claimed: $22349.04 (deductible $250.0). Filed on 2023-07-29 following incident on 2023-07-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009339 is covered by Policy POL-88199670.
+- Claim CLM-C000009339 concerns an incident in TX on 2023-07-18.
+- Claim CLM-C000009339 has outcome Denied.
+- Claim CLM-C000009339 has claim type Home.

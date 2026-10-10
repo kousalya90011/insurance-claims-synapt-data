@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000390
+Policy ID: POL-38837550
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 1.4 years
+Previous Claims: 0
+Incident Date: 2023-06-10
+Claim Filed Date: 2023-07-06
+Claim Amount: $53,170.18
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000000390 for auto policy in TN. Policyholder tenure: 1.4 yrs with 0 prior claims. Amount claimed: $53170.18 (deductible $1000.0). Filed on 2023-07-06 following incident on 2023-06-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000390 is covered by Policy POL-38837550.
+- Claim CLM-C000000390 concerns an incident in TN on 2023-06-10.
+- Claim CLM-C000000390 has outcome Approved.
+- Claim CLM-C000000390 has claim type Auto.

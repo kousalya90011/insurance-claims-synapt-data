@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005604
+Policy ID: POL-38875320
+Claim Type: Property
+State: GA
+Policyholder Tenure: 5.9 years
+Previous Claims: 0
+Incident Date: 2023-08-07
+Claim Filed Date: 2023-08-28
+Claim Amount: $18,240.30
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000005604 for property policy in GA. Policyholder tenure: 5.9 yrs with 0 prior claims. Amount claimed: $18240.3 (deductible $500.0). Filed on 2023-08-28 following incident on 2023-08-07. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005604 is covered by Policy POL-38875320.
+- Claim CLM-C000005604 concerns an incident in GA on 2023-08-07.
+- Claim CLM-C000005604 has outcome Under Review.
+- Claim CLM-C000005604 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008046
+Policy ID: POL-78833164
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 6.2 years
+Previous Claims: 1
+Incident Date: 2024-01-26
+Claim Filed Date: 2024-03-06
+Claim Amount: $5,590.12
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000008046 for auto policy in FL. Policyholder tenure: 6.2 yrs with 1 prior claims. Amount claimed: $5590.12 (deductible $500.0). Filed on 2024-03-06 following incident on 2024-01-26. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008046 is covered by Policy POL-78833164.
+- Claim CLM-C000008046 concerns an incident in FL on 2024-01-26.
+- Claim CLM-C000008046 has outcome Denied.
+- Claim CLM-C000008046 has claim type Auto.

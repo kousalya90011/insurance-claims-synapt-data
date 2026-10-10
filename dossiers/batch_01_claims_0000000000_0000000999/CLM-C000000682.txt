@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000682
+Policy ID: POL-14513155
+Claim Type: Home
+State: TX
+Policyholder Tenure: 0.4 years
+Previous Claims: 1
+Incident Date: 2023-03-07
+Claim Filed Date: 2023-04-20
+Claim Amount: $3,878.00
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000000682 for home policy in TX. Policyholder tenure: 0.4 yrs with 1 prior claims. Amount claimed: $3878.0 (deductible $1000.0). Filed on 2023-04-20 following incident on 2023-03-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000682 is covered by Policy POL-14513155.
+- Claim CLM-C000000682 concerns an incident in TX on 2023-03-07.
+- Claim CLM-C000000682 has outcome Approved.
+- Claim CLM-C000000682 has claim type Home.

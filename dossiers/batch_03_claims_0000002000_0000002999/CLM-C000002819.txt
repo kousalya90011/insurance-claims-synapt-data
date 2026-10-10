@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002819
+Policy ID: POL-56418010
+Claim Type: Business
+State: NJ
+Policyholder Tenure: 0.1 years
+Previous Claims: 1
+Incident Date: 2024-04-13
+Claim Filed Date: 2024-05-08
+Claim Amount: $5,311.37
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000002819 for business policy in NJ. Policyholder tenure: 0.1 yrs with 1 prior claims. Amount claimed: $5311.37 (deductible $500.0). Filed on 2024-05-08 following incident on 2024-04-13. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002819 is covered by Policy POL-56418010.
+- Claim CLM-C000002819 concerns an incident in NJ on 2024-04-13.
+- Claim CLM-C000002819 has outcome Denied.
+- Claim CLM-C000002819 has claim type Business.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004433
+Policy ID: POL-48618897
+Claim Type: Property
+State: TN
+Policyholder Tenure: 0.2 years
+Previous Claims: 0
+Incident Date: 2023-10-04
+Claim Filed Date: 2023-11-06
+Claim Amount: $4,609.27
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000004433 for property policy in TN. Policyholder tenure: 0.2 yrs with 0 prior claims. Amount claimed: $4609.27 (deductible $500.0). Filed on 2023-11-06 following incident on 2023-10-04. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004433 is covered by Policy POL-48618897.
+- Claim CLM-C000004433 concerns an incident in TN on 2023-10-04.
+- Claim CLM-C000004433 has outcome Approved.
+- Claim CLM-C000004433 has claim type Property.

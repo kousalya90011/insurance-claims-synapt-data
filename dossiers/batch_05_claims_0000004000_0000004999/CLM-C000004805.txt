@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004805
+Policy ID: POL-46384880
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 0.6 years
+Previous Claims: 0
+Incident Date: 2023-08-24
+Claim Filed Date: 2023-09-12
+Claim Amount: $47,282.21
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 41 days
+Claim Narrative: Claim CLM-C000004805 for auto policy in PA. Policyholder tenure: 0.6 yrs with 0 prior claims. Amount claimed: $47282.21 (deductible $1000.0). Filed on 2023-09-12 following incident on 2023-08-24. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004805 is covered by Policy POL-46384880.
+- Claim CLM-C000004805 concerns an incident in PA on 2023-08-24.
+- Claim CLM-C000004805 has outcome Under Review.
+- Claim CLM-C000004805 has claim type Auto.

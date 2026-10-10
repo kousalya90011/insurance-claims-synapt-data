@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003927
+Policy ID: POL-68571512
+Claim Type: Home
+State: WI
+Policyholder Tenure: 1.7 years
+Previous Claims: 0
+Incident Date: 2024-03-05
+Claim Filed Date: 2024-04-17
+Claim Amount: $9,308.96
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000003927 for home policy in WI. Policyholder tenure: 1.7 yrs with 0 prior claims. Amount claimed: $9308.96 (deductible $2500.0). Filed on 2024-04-17 following incident on 2024-03-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003927 is covered by Policy POL-68571512.
+- Claim CLM-C000003927 concerns an incident in WI on 2024-03-05.
+- Claim CLM-C000003927 has outcome Approved.
+- Claim CLM-C000003927 has claim type Home.

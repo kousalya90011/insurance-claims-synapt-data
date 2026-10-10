@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007607
+Policy ID: POL-65810135
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 3.8 years
+Previous Claims: 1
+Incident Date: 2024-11-20
+Claim Filed Date: 2024-12-07
+Claim Amount: $1,491.70
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000007607 for auto policy in NJ. Policyholder tenure: 3.8 yrs with 1 prior claims. Amount claimed: $1491.7 (deductible $500.0). Filed on 2024-12-07 following incident on 2024-11-20. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007607 is covered by Policy POL-65810135.
+- Claim CLM-C000007607 concerns an incident in NJ on 2024-11-20.
+- Claim CLM-C000007607 has outcome Approved.
+- Claim CLM-C000007607 has claim type Auto.

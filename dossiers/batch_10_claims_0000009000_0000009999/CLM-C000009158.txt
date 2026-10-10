@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009158
+Policy ID: POL-99418488
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 8.9 years
+Previous Claims: 0
+Incident Date: 2024-09-18
+Claim Filed Date: 2024-10-22
+Claim Amount: $20,574.70
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000009158 for auto policy in MD. Policyholder tenure: 8.9 yrs with 0 prior claims. Amount claimed: $20574.7 (deductible $500.0). Filed on 2024-10-22 following incident on 2024-09-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009158 is covered by Policy POL-99418488.
+- Claim CLM-C000009158 concerns an incident in MD on 2024-09-18.
+- Claim CLM-C000009158 has outcome Denied.
+- Claim CLM-C000009158 has claim type Auto.

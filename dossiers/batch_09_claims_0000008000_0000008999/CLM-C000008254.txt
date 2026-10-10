@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008254
+Policy ID: POL-56722670
+Claim Type: Property
+State: CO
+Policyholder Tenure: 4.5 years
+Previous Claims: 0
+Incident Date: 2023-12-28
+Claim Filed Date: 2024-01-26
+Claim Amount: $6,991.61
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000008254 for property policy in CO. Policyholder tenure: 4.5 yrs with 0 prior claims. Amount claimed: $6991.61 (deductible $500.0). Filed on 2024-01-26 following incident on 2023-12-28. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000008254 is covered by Policy POL-56722670.
+- Claim CLM-C000008254 concerns an incident in CO on 2023-12-28.
+- Claim CLM-C000008254 has outcome Under Review.
+- Claim CLM-C000008254 has claim type Property.

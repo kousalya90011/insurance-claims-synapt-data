@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003655
+Policy ID: POL-74956298
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 7.1 years
+Previous Claims: 1
+Incident Date: 2024-06-08
+Claim Filed Date: 2024-06-10
+Claim Amount: $3,208.11
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 26 days
+Claim Narrative: Claim CLM-C000003655 for renters policy in IL. Policyholder tenure: 7.1 yrs with 1 prior claims. Amount claimed: $3208.11 (deductible $1000.0). Filed on 2024-06-10 following incident on 2024-06-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003655 is covered by Policy POL-74956298.
+- Claim CLM-C000003655 concerns an incident in IL on 2024-06-08.
+- Claim CLM-C000003655 has outcome Approved.
+- Claim CLM-C000003655 has claim type Renters.

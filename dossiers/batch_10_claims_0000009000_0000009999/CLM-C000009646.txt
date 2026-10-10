@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009646
+Policy ID: POL-89569064
+Claim Type: Home
+State: CO
+Policyholder Tenure: 10.6 years
+Previous Claims: 1
+Incident Date: 2023-05-22
+Claim Filed Date: 2023-06-04
+Claim Amount: $7,884.25
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000009646 for home policy in CO. Policyholder tenure: 10.6 yrs with 1 prior claims. Amount claimed: $7884.25 (deductible $250.0). Filed on 2023-06-04 following incident on 2023-05-22. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009646 is covered by Policy POL-89569064.
+- Claim CLM-C000009646 concerns an incident in CO on 2023-05-22.
+- Claim CLM-C000009646 has outcome Approved.
+- Claim CLM-C000009646 has claim type Home.

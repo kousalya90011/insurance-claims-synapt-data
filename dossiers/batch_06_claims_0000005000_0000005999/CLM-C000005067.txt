@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005067
+Policy ID: POL-93356396
+Claim Type: Home
+State: CA
+Policyholder Tenure: 1.2 years
+Previous Claims: 1
+Incident Date: 2024-11-11
+Claim Filed Date: 2024-11-19
+Claim Amount: $13,285.45
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 29 days
+Claim Narrative: Claim CLM-C000005067 for home policy in CA. Policyholder tenure: 1.2 yrs with 1 prior claims. Amount claimed: $13285.45 (deductible $250.0). Filed on 2024-11-19 following incident on 2024-11-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005067 is covered by Policy POL-93356396.
+- Claim CLM-C000005067 concerns an incident in CA on 2024-11-11.
+- Claim CLM-C000005067 has outcome Approved.
+- Claim CLM-C000005067 has claim type Home.

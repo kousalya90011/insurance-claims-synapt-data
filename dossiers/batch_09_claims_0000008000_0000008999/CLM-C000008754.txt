@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008754
+Policy ID: POL-97629765
+Claim Type: Auto
+State: OH
+Policyholder Tenure: 5.9 years
+Previous Claims: 1
+Incident Date: 2024-10-16
+Claim Filed Date: 2024-11-03
+Claim Amount: $19,174.44
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000008754 for auto policy in OH. Policyholder tenure: 5.9 yrs with 1 prior claims. Amount claimed: $19174.44 (deductible $500.0). Filed on 2024-11-03 following incident on 2024-10-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008754 is covered by Policy POL-97629765.
+- Claim CLM-C000008754 concerns an incident in OH on 2024-10-16.
+- Claim CLM-C000008754 has outcome Approved.
+- Claim CLM-C000008754 has claim type Auto.

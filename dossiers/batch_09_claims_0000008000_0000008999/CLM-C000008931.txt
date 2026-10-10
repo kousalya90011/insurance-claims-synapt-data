@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008931
+Policy ID: POL-71534302
+Claim Type: Renters
+State: MA
+Policyholder Tenure: 2.0 years
+Previous Claims: 2
+Incident Date: 2025-01-09
+Claim Filed Date: 2025-01-25
+Claim Amount: $1,286.41
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000008931 for renters policy in MA. Policyholder tenure: 2.0 yrs with 2 prior claims. Amount claimed: $1286.41 (deductible $250.0). Filed on 2025-01-25 following incident on 2025-01-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008931 is covered by Policy POL-71534302.
+- Claim CLM-C000008931 concerns an incident in MA on 2025-01-09.
+- Claim CLM-C000008931 has outcome Approved.
+- Claim CLM-C000008931 has claim type Renters.

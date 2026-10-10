@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008120
+Policy ID: POL-81858896
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 1.2 years
+Previous Claims: 1
+Incident Date: 2024-03-10
+Claim Filed Date: 2024-03-13
+Claim Amount: $2,753.92
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000008120 for auto policy in PA. Policyholder tenure: 1.2 yrs with 1 prior claims. Amount claimed: $2753.92 (deductible $250.0). Filed on 2024-03-13 following incident on 2024-03-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008120 is covered by Policy POL-81858896.
+- Claim CLM-C000008120 concerns an incident in PA on 2024-03-10.
+- Claim CLM-C000008120 has outcome Approved.
+- Claim CLM-C000008120 has claim type Auto.

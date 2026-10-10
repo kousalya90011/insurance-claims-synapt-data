@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000536
+Policy ID: POL-82279117
+Claim Type: Auto
+State: NY
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2024-12-26
+Claim Filed Date: 2025-02-07
+Claim Amount: $6,673.33
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 40 days
+Claim Narrative: Claim CLM-C000000536 for auto policy in NY. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $6673.33 (deductible $500.0). Filed on 2025-02-07 following incident on 2024-12-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000536 is covered by Policy POL-82279117.
+- Claim CLM-C000000536 concerns an incident in NY on 2024-12-26.
+- Claim CLM-C000000536 has outcome Approved.
+- Claim CLM-C000000536 has claim type Auto.

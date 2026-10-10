@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005246
+Policy ID: POL-61025631
+Claim Type: Property
+State: NC
+Policyholder Tenure: 8.7 years
+Previous Claims: 1
+Incident Date: 2024-07-05
+Claim Filed Date: 2024-07-29
+Claim Amount: $6,569.38
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000005246 for property policy in NC. Policyholder tenure: 8.7 yrs with 1 prior claims. Amount claimed: $6569.38 (deductible $500.0). Filed on 2024-07-29 following incident on 2024-07-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005246 is covered by Policy POL-61025631.
+- Claim CLM-C000005246 concerns an incident in NC on 2024-07-05.
+- Claim CLM-C000005246 has outcome Approved.
+- Claim CLM-C000005246 has claim type Property.

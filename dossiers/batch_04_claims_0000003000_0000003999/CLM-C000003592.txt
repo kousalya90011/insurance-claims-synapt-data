@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003592
+Policy ID: POL-26279598
+Claim Type: Renters
+State: OH
+Policyholder Tenure: 7.6 years
+Previous Claims: 1
+Incident Date: 2024-04-10
+Claim Filed Date: 2024-04-26
+Claim Amount: $2,799.87
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000003592 for renters policy in OH. Policyholder tenure: 7.6 yrs with 1 prior claims. Amount claimed: $2799.87 (deductible $500.0). Filed on 2024-04-26 following incident on 2024-04-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003592 is covered by Policy POL-26279598.
+- Claim CLM-C000003592 concerns an incident in OH on 2024-04-10.
+- Claim CLM-C000003592 has outcome Approved.
+- Claim CLM-C000003592 has claim type Renters.

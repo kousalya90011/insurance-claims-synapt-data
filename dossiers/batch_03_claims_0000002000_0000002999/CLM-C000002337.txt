@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002337
+Policy ID: POL-88557305
+Claim Type: Auto
+State: TN
+Policyholder Tenure: 2.6 years
+Previous Claims: 0
+Incident Date: 2023-07-02
+Claim Filed Date: 2023-07-13
+Claim Amount: $1,544.78
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 14 days
+Claim Narrative: Claim CLM-C000002337 for auto policy in TN. Policyholder tenure: 2.6 yrs with 0 prior claims. Amount claimed: $1544.78 (deductible $500.0). Filed on 2023-07-13 following incident on 2023-07-02. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000002337 is covered by Policy POL-88557305.
+- Claim CLM-C000002337 concerns an incident in TN on 2023-07-02.
+- Claim CLM-C000002337 has outcome Under Review.
+- Claim CLM-C000002337 has claim type Auto.

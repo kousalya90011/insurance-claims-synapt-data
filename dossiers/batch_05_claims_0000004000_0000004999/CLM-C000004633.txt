@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004633
+Policy ID: POL-95050444
+Claim Type: Auto
+State: MI
+Policyholder Tenure: 19.4 years
+Previous Claims: 1
+Incident Date: 2024-03-08
+Claim Filed Date: 2024-04-07
+Claim Amount: $4,014.85
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000004633 for auto policy in MI. Policyholder tenure: 19.4 yrs with 1 prior claims. Amount claimed: $4014.85 (deductible $2000.0). Filed on 2024-04-07 following incident on 2024-03-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004633 is covered by Policy POL-95050444.
+- Claim CLM-C000004633 concerns an incident in MI on 2024-03-08.
+- Claim CLM-C000004633 has outcome Approved.
+- Claim CLM-C000004633 has claim type Auto.

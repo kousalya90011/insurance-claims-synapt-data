@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008821
+Policy ID: POL-39461742
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 2.4 years
+Previous Claims: 0
+Incident Date: 2024-05-02
+Claim Filed Date: 2024-05-10
+Claim Amount: $6,145.47
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000008821 for auto policy in MO. Policyholder tenure: 2.4 yrs with 0 prior claims. Amount claimed: $6145.47 (deductible $500.0). Filed on 2024-05-10 following incident on 2024-05-02. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000008821 is covered by Policy POL-39461742.
+- Claim CLM-C000008821 concerns an incident in MO on 2024-05-02.
+- Claim CLM-C000008821 has outcome Pending.
+- Claim CLM-C000008821 has claim type Auto.

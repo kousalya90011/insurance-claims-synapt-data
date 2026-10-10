@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000843
+Policy ID: POL-20820751
+Claim Type: Property
+State: MO
+Policyholder Tenure: 9.1 years
+Previous Claims: 0
+Incident Date: 2023-04-01
+Claim Filed Date: 2023-04-13
+Claim Amount: $6,932.68
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: 66 days
+Claim Narrative: Claim CLM-C000000843 for property policy in MO. Policyholder tenure: 9.1 yrs with 0 prior claims. Amount claimed: $6932.68 (deductible $250.0). Filed on 2023-04-13 following incident on 2023-04-01. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000843 is covered by Policy POL-20820751.
+- Claim CLM-C000000843 concerns an incident in MO on 2023-04-01.
+- Claim CLM-C000000843 has outcome Pending.
+- Claim CLM-C000000843 has claim type Property.

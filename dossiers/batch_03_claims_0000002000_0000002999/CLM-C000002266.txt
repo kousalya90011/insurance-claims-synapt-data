@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002266
+Policy ID: POL-30402641
+Claim Type: Auto
+State: AZ
+Policyholder Tenure: 21.9 years
+Previous Claims: 1
+Incident Date: 2024-05-24
+Claim Filed Date: 2024-07-02
+Claim Amount: $7,593.91
+Deductible: $2,500.00
+Claim Status: Denied
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000002266 for auto policy in AZ. Policyholder tenure: 21.9 yrs with 1 prior claims. Amount claimed: $7593.91 (deductible $2500.0). Filed on 2024-07-02 following incident on 2024-05-24. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002266 is covered by Policy POL-30402641.
+- Claim CLM-C000002266 concerns an incident in AZ on 2024-05-24.
+- Claim CLM-C000002266 has outcome Denied.
+- Claim CLM-C000002266 has claim type Auto.

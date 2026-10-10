@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009700
+Policy ID: POL-57632776
+Claim Type: Property
+State: CA
+Policyholder Tenure: 0.1 years
+Previous Claims: 1
+Incident Date: 2023-01-17
+Claim Filed Date: 2023-01-29
+Claim Amount: $4,300.59
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000009700 for property policy in CA. Policyholder tenure: 0.1 yrs with 1 prior claims. Amount claimed: $4300.59 (deductible $500.0). Filed on 2023-01-29 following incident on 2023-01-17. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000009700 is covered by Policy POL-57632776.
+- Claim CLM-C000009700 concerns an incident in CA on 2023-01-17.
+- Claim CLM-C000009700 has outcome Denied.
+- Claim CLM-C000009700 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008540
+Policy ID: POL-21468400
+Claim Type: Business
+State: MA
+Policyholder Tenure: 1.4 years
+Previous Claims: 1
+Incident Date: 2024-11-01
+Claim Filed Date: 2024-11-02
+Claim Amount: $12,997.59
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000008540 for business policy in MA. Policyholder tenure: 1.4 yrs with 1 prior claims. Amount claimed: $12997.59 (deductible $250.0). Filed on 2024-11-02 following incident on 2024-11-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008540 is covered by Policy POL-21468400.
+- Claim CLM-C000008540 concerns an incident in MA on 2024-11-01.
+- Claim CLM-C000008540 has outcome Approved.
+- Claim CLM-C000008540 has claim type Business.

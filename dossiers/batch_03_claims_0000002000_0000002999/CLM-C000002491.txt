@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002491
+Policy ID: POL-82476283
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 15.9 years
+Previous Claims: 1
+Incident Date: 2023-10-16
+Claim Filed Date: 2023-10-31
+Claim Amount: $11,395.66
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 20 days
+Claim Narrative: Claim CLM-C000002491 for auto policy in IL. Policyholder tenure: 15.9 yrs with 1 prior claims. Amount claimed: $11395.66 (deductible $250.0). Filed on 2023-10-31 following incident on 2023-10-16. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002491 is covered by Policy POL-82476283.
+- Claim CLM-C000002491 concerns an incident in IL on 2023-10-16.
+- Claim CLM-C000002491 has outcome Approved.
+- Claim CLM-C000002491 has claim type Auto.

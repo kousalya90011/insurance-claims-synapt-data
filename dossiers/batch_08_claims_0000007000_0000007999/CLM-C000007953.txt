@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007953
+Policy ID: POL-77561695
+Claim Type: Business
+State: MD
+Policyholder Tenure: 2.6 years
+Previous Claims: 1
+Incident Date: 2024-07-30
+Claim Filed Date: 2024-09-03
+Claim Amount: $91,598.00
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 67 days
+Claim Narrative: Claim CLM-C000007953 for business policy in MD. Policyholder tenure: 2.6 yrs with 1 prior claims. Amount claimed: $91598.0 (deductible $1000.0). Filed on 2024-09-03 following incident on 2024-07-30. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007953 is covered by Policy POL-77561695.
+- Claim CLM-C000007953 concerns an incident in MD on 2024-07-30.
+- Claim CLM-C000007953 has outcome Approved.
+- Claim CLM-C000007953 has claim type Business.

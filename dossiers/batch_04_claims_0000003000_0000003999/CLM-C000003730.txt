@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003730
+Policy ID: POL-56705055
+Claim Type: Business
+State: GA
+Policyholder Tenure: 1.0 years
+Previous Claims: 0
+Incident Date: 2024-02-13
+Claim Filed Date: 2024-02-16
+Claim Amount: $5,601.63
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 61 days
+Claim Narrative: Claim CLM-C000003730 for business policy in GA. Policyholder tenure: 1.0 yrs with 0 prior claims. Amount claimed: $5601.63 (deductible $500.0). Filed on 2024-02-16 following incident on 2024-02-13. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000003730 is covered by Policy POL-56705055.
+- Claim CLM-C000003730 concerns an incident in GA on 2024-02-13.
+- Claim CLM-C000003730 has outcome Denied.
+- Claim CLM-C000003730 has claim type Business.

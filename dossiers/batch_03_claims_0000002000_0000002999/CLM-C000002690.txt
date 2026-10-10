@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002690
+Policy ID: POL-95258780
+Claim Type: Business
+State: FL
+Policyholder Tenure: 2.8 years
+Previous Claims: 1
+Incident Date: 2023-06-11
+Claim Filed Date: 2023-07-11
+Claim Amount: $123,706.54
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 63 days
+Claim Narrative: Claim CLM-C000002690 for business policy in FL. Policyholder tenure: 2.8 yrs with 1 prior claims. Amount claimed: $123706.54 (deductible $1000.0). Filed on 2023-07-11 following incident on 2023-06-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002690 is covered by Policy POL-95258780.
+- Claim CLM-C000002690 concerns an incident in FL on 2023-06-11.
+- Claim CLM-C000002690 has outcome Approved.
+- Claim CLM-C000002690 has claim type Business.

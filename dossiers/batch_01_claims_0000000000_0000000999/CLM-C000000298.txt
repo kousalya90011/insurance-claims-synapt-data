@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000298
+Policy ID: POL-37196139
+Claim Type: Renters
+State: MD
+Policyholder Tenure: 1.5 years
+Previous Claims: 1
+Incident Date: 2023-06-11
+Claim Filed Date: 2023-06-11
+Claim Amount: $8,780.08
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000000298 for renters policy in MD. Policyholder tenure: 1.5 yrs with 1 prior claims. Amount claimed: $8780.08 (deductible $1000.0). Filed on 2023-06-11 following incident on 2023-06-11. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000298 is covered by Policy POL-37196139.
+- Claim CLM-C000000298 concerns an incident in MD on 2023-06-11.
+- Claim CLM-C000000298 has outcome Approved.
+- Claim CLM-C000000298 has claim type Renters.

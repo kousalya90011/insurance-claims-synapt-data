@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008287
+Policy ID: POL-15941343
+Claim Type: Auto
+State: FL
+Policyholder Tenure: 10.2 years
+Previous Claims: 1
+Incident Date: 2023-12-01
+Claim Filed Date: 2023-12-02
+Claim Amount: $6,996.50
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000008287 for auto policy in FL. Policyholder tenure: 10.2 yrs with 1 prior claims. Amount claimed: $6996.5 (deductible $250.0). Filed on 2023-12-02 following incident on 2023-12-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008287 is covered by Policy POL-15941343.
+- Claim CLM-C000008287 concerns an incident in FL on 2023-12-01.
+- Claim CLM-C000008287 has outcome Approved.
+- Claim CLM-C000008287 has claim type Auto.

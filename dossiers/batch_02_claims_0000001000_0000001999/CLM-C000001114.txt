@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001114
+Policy ID: POL-15229763
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 3.4 years
+Previous Claims: 0
+Incident Date: 2024-10-11
+Claim Filed Date: 2024-11-10
+Claim Amount: $2,469.49
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 66 days
+Claim Narrative: Claim CLM-C000001114 for auto policy in GA. Policyholder tenure: 3.4 yrs with 0 prior claims. Amount claimed: $2469.49 (deductible $1000.0). Filed on 2024-11-10 following incident on 2024-10-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001114 is covered by Policy POL-15229763.
+- Claim CLM-C000001114 concerns an incident in GA on 2024-10-11.
+- Claim CLM-C000001114 has outcome Under Review.
+- Claim CLM-C000001114 has claim type Auto.

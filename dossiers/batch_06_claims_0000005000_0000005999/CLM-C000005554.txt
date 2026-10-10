@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005554
+Policy ID: POL-29799409
+Claim Type: Property
+State: MA
+Policyholder Tenure: 12.4 years
+Previous Claims: 1
+Incident Date: 2024-10-12
+Claim Filed Date: 2024-10-15
+Claim Amount: $9,094.76
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000005554 for property policy in MA. Policyholder tenure: 12.4 yrs with 1 prior claims. Amount claimed: $9094.76 (deductible $500.0). Filed on 2024-10-15 following incident on 2024-10-12. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000005554 is covered by Policy POL-29799409.
+- Claim CLM-C000005554 concerns an incident in MA on 2024-10-12.
+- Claim CLM-C000005554 has outcome Under Review.
+- Claim CLM-C000005554 has claim type Property.

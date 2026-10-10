@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002973
+Policy ID: POL-34532784
+Claim Type: Home
+State: VA
+Policyholder Tenure: 2.3 years
+Previous Claims: 1
+Incident Date: 2024-08-01
+Claim Filed Date: 2024-08-15
+Claim Amount: $18,170.40
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000002973 for home policy in VA. Policyholder tenure: 2.3 yrs with 1 prior claims. Amount claimed: $18170.4 (deductible $1000.0). Filed on 2024-08-15 following incident on 2024-08-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002973 is covered by Policy POL-34532784.
+- Claim CLM-C000002973 concerns an incident in VA on 2024-08-01.
+- Claim CLM-C000002973 has outcome Approved.
+- Claim CLM-C000002973 has claim type Home.

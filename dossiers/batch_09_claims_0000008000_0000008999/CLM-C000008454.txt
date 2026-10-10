@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008454
+Policy ID: POL-63035892
+Claim Type: Property
+State: AZ
+Policyholder Tenure: 1.3 years
+Previous Claims: 1
+Incident Date: 2024-07-13
+Claim Filed Date: 2024-08-21
+Claim Amount: $3,365.93
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 8 days
+Claim Narrative: Claim CLM-C000008454 for property policy in AZ. Policyholder tenure: 1.3 yrs with 1 prior claims. Amount claimed: $3365.93 (deductible $500.0). Filed on 2024-08-21 following incident on 2024-07-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008454 is covered by Policy POL-63035892.
+- Claim CLM-C000008454 concerns an incident in AZ on 2024-07-13.
+- Claim CLM-C000008454 has outcome Approved.
+- Claim CLM-C000008454 has claim type Property.

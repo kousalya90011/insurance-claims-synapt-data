@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000210
+Policy ID: POL-18675186
+Claim Type: Renters
+State: MO
+Policyholder Tenure: 6.3 years
+Previous Claims: 1
+Incident Date: 2024-07-11
+Claim Filed Date: 2024-08-05
+Claim Amount: $1,332.23
+Deductible: $1,000.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000000210 for renters policy in MO. Policyholder tenure: 6.3 yrs with 1 prior claims. Amount claimed: $1332.23 (deductible $1000.0). Filed on 2024-08-05 following incident on 2024-07-11. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000000210 is covered by Policy POL-18675186.
+- Claim CLM-C000000210 concerns an incident in MO on 2024-07-11.
+- Claim CLM-C000000210 has outcome Pending.
+- Claim CLM-C000000210 has claim type Renters.

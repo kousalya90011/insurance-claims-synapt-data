@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008168
+Policy ID: POL-49422409
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 2.0 years
+Previous Claims: 0
+Incident Date: 2024-08-31
+Claim Filed Date: 2024-09-09
+Claim Amount: $1,510.52
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000008168 for auto policy in MO. Policyholder tenure: 2.0 yrs with 0 prior claims. Amount claimed: $1510.52 (deductible $500.0). Filed on 2024-09-09 following incident on 2024-08-31. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008168 is covered by Policy POL-49422409.
+- Claim CLM-C000008168 concerns an incident in MO on 2024-08-31.
+- Claim CLM-C000008168 has outcome Approved.
+- Claim CLM-C000008168 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002355
+Policy ID: POL-51772753
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 25.8 years
+Previous Claims: 1
+Incident Date: 2023-10-26
+Claim Filed Date: 2023-11-04
+Claim Amount: $7,794.24
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000002355 for auto policy in PA. Policyholder tenure: 25.8 yrs with 1 prior claims. Amount claimed: $7794.24 (deductible $2000.0). Filed on 2023-11-04 following incident on 2023-10-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002355 is covered by Policy POL-51772753.
+- Claim CLM-C000002355 concerns an incident in PA on 2023-10-26.
+- Claim CLM-C000002355 has outcome Approved.
+- Claim CLM-C000002355 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006900
+Policy ID: POL-56718195
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 1.5 years
+Previous Claims: 0
+Incident Date: 2023-12-03
+Claim Filed Date: 2023-12-30
+Claim Amount: $8,076.57
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000006900 for auto policy in CA. Policyholder tenure: 1.5 yrs with 0 prior claims. Amount claimed: $8076.57 (deductible $500.0). Filed on 2023-12-30 following incident on 2023-12-03. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000006900 is covered by Policy POL-56718195.
+- Claim CLM-C000006900 concerns an incident in CA on 2023-12-03.
+- Claim CLM-C000006900 has outcome Approved.
+- Claim CLM-C000006900 has claim type Auto.

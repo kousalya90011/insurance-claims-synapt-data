@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007935
+Policy ID: POL-21161783
+Claim Type: Home
+State: WI
+Policyholder Tenure: 0.5 years
+Previous Claims: 2
+Incident Date: 2023-01-25
+Claim Filed Date: 2023-02-14
+Claim Amount: $5,646.92
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000007935 for home policy in WI. Policyholder tenure: 0.5 yrs with 2 prior claims. Amount claimed: $5646.92 (deductible $500.0). Filed on 2023-02-14 following incident on 2023-01-25. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007935 is covered by Policy POL-21161783.
+- Claim CLM-C000007935 concerns an incident in WI on 2023-01-25.
+- Claim CLM-C000007935 has outcome Denied.
+- Claim CLM-C000007935 has claim type Home.

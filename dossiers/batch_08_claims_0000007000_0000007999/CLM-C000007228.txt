@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007228
+Policy ID: POL-89048324
+Claim Type: Home
+State: PA
+Policyholder Tenure: 3.5 years
+Previous Claims: 1
+Incident Date: 2024-02-18
+Claim Filed Date: 2024-03-30
+Claim Amount: $4,993.15
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 48 days
+Claim Narrative: Claim CLM-C000007228 for home policy in PA. Policyholder tenure: 3.5 yrs with 1 prior claims. Amount claimed: $4993.15 (deductible $500.0). Filed on 2024-03-30 following incident on 2024-02-18. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000007228 is covered by Policy POL-89048324.
+- Claim CLM-C000007228 concerns an incident in PA on 2024-02-18.
+- Claim CLM-C000007228 has outcome Denied.
+- Claim CLM-C000007228 has claim type Home.

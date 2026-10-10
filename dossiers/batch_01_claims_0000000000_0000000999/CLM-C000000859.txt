@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000859
+Policy ID: POL-17742202
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 4.9 years
+Previous Claims: 1
+Incident Date: 2023-11-22
+Claim Filed Date: 2024-01-05
+Claim Amount: $26,343.44
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000000859 for auto policy in MD. Policyholder tenure: 4.9 yrs with 1 prior claims. Amount claimed: $26343.44 (deductible $500.0). Filed on 2024-01-05 following incident on 2023-11-22. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000000859 is covered by Policy POL-17742202.
+- Claim CLM-C000000859 concerns an incident in MD on 2023-11-22.
+- Claim CLM-C000000859 has outcome Under Review.
+- Claim CLM-C000000859 has claim type Auto.

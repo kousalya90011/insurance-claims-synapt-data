@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007909
+Policy ID: POL-98222528
+Claim Type: Home
+State: NC
+Policyholder Tenure: 5.6 years
+Previous Claims: 0
+Incident Date: 2024-06-27
+Claim Filed Date: 2024-07-16
+Claim Amount: $40,476.18
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 36 days
+Claim Narrative: Claim CLM-C000007909 for home policy in NC. Policyholder tenure: 5.6 yrs with 0 prior claims. Amount claimed: $40476.18 (deductible $1000.0). Filed on 2024-07-16 following incident on 2024-06-27. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007909 is covered by Policy POL-98222528.
+- Claim CLM-C000007909 concerns an incident in NC on 2024-06-27.
+- Claim CLM-C000007909 has outcome Under Review.
+- Claim CLM-C000007909 has claim type Home.

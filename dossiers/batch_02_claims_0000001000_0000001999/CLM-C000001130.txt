@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001130
+Policy ID: POL-48777828
+Claim Type: Home
+State: TN
+Policyholder Tenure: 0.7 years
+Previous Claims: 0
+Incident Date: 2023-03-14
+Claim Filed Date: 2023-03-14
+Claim Amount: $4,753.33
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000001130 for home policy in TN. Policyholder tenure: 0.7 yrs with 0 prior claims. Amount claimed: $4753.33 (deductible $250.0). Filed on 2023-03-14 following incident on 2023-03-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001130 is covered by Policy POL-48777828.
+- Claim CLM-C000001130 concerns an incident in TN on 2023-03-14.
+- Claim CLM-C000001130 has outcome Approved.
+- Claim CLM-C000001130 has claim type Home.

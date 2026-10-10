@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007991
+Policy ID: POL-28762811
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 1.3 years
+Previous Claims: 0
+Incident Date: 2024-02-07
+Claim Filed Date: 2024-03-10
+Claim Amount: $2,283.69
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 27 days
+Claim Narrative: Claim CLM-C000007991 for auto policy in MO. Policyholder tenure: 1.3 yrs with 0 prior claims. Amount claimed: $2283.69 (deductible $500.0). Filed on 2024-03-10 following incident on 2024-02-07. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007991 is covered by Policy POL-28762811.
+- Claim CLM-C000007991 concerns an incident in MO on 2024-02-07.
+- Claim CLM-C000007991 has outcome Approved.
+- Claim CLM-C000007991 has claim type Auto.

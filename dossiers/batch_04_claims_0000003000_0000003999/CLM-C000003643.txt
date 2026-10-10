@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003643
+Policy ID: POL-71399768
+Claim Type: Business
+State: CO
+Policyholder Tenure: 0.1 years
+Previous Claims: 0
+Incident Date: 2024-04-23
+Claim Filed Date: 2024-05-25
+Claim Amount: $42,387.31
+Deductible: $2,500.00
+Claim Status: Approved
+Resolution Time: 21 days
+Claim Narrative: Claim CLM-C000003643 for business policy in CO. Policyholder tenure: 0.1 yrs with 0 prior claims. Amount claimed: $42387.31 (deductible $2500.0). Filed on 2024-05-25 following incident on 2024-04-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003643 is covered by Policy POL-71399768.
+- Claim CLM-C000003643 concerns an incident in CO on 2024-04-23.
+- Claim CLM-C000003643 has outcome Approved.
+- Claim CLM-C000003643 has claim type Business.

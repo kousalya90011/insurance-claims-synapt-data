@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009432
+Policy ID: POL-26330900
+Claim Type: Home
+State: WA
+Policyholder Tenure: 2.0 years
+Previous Claims: 0
+Incident Date: 2024-01-26
+Claim Filed Date: 2024-03-07
+Claim Amount: $3,702.54
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 6 days
+Claim Narrative: Claim CLM-C000009432 for home policy in WA. Policyholder tenure: 2.0 yrs with 0 prior claims. Amount claimed: $3702.54 (deductible $500.0). Filed on 2024-03-07 following incident on 2024-01-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009432 is covered by Policy POL-26330900.
+- Claim CLM-C000009432 concerns an incident in WA on 2024-01-26.
+- Claim CLM-C000009432 has outcome Approved.
+- Claim CLM-C000009432 has claim type Home.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000003113
+Policy ID: POL-99509903
+Claim Type: Home
+State: IL
+Policyholder Tenure: 7.4 years
+Previous Claims: 0
+Incident Date: 2023-05-05
+Claim Filed Date: 2023-06-17
+Claim Amount: $16,008.94
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 18 days
+Claim Narrative: Claim CLM-C000003113 for home policy in IL. Policyholder tenure: 7.4 yrs with 0 prior claims. Amount claimed: $16008.94 (deductible $1000.0). Filed on 2023-06-17 following incident on 2023-05-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000003113 is covered by Policy POL-99509903.
+- Claim CLM-C000003113 concerns an incident in IL on 2023-05-05.
+- Claim CLM-C000003113 has outcome Approved.
+- Claim CLM-C000003113 has claim type Home.

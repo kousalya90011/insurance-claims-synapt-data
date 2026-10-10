@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005099
+Policy ID: POL-92198645
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 13.8 years
+Previous Claims: 3
+Incident Date: 2023-09-29
+Claim Filed Date: 2023-11-03
+Claim Amount: $834.30
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 4 days
+Claim Narrative: Claim CLM-C000005099 for auto policy in NJ. Policyholder tenure: 13.8 yrs with 3 prior claims. Amount claimed: $834.3 (deductible $1000.0). Filed on 2023-11-03 following incident on 2023-09-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005099 is covered by Policy POL-92198645.
+- Claim CLM-C000005099 concerns an incident in NJ on 2023-09-29.
+- Claim CLM-C000005099 has outcome Approved.
+- Claim CLM-C000005099 has claim type Auto.

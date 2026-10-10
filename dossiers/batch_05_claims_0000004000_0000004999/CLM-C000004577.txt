@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004577
+Policy ID: POL-84408611
+Claim Type: Auto
+State: IL
+Policyholder Tenure: 1.9 years
+Previous Claims: 4
+Incident Date: 2024-04-10
+Claim Filed Date: 2024-05-23
+Claim Amount: $4,743.16
+Deductible: $2,500.00
+Claim Status: Under Review
+Resolution Time: 11 days
+Claim Narrative: Claim CLM-C000004577 for auto policy in IL. Policyholder tenure: 1.9 yrs with 4 prior claims. Amount claimed: $4743.16 (deductible $2500.0). Filed on 2024-05-23 following incident on 2024-04-10. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004577 is covered by Policy POL-84408611.
+- Claim CLM-C000004577 concerns an incident in IL on 2024-04-10.
+- Claim CLM-C000004577 has outcome Under Review.
+- Claim CLM-C000004577 has claim type Auto.

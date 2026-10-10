@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002706
+Policy ID: POL-22037036
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 3.7 years
+Previous Claims: 0
+Incident Date: 2024-05-21
+Claim Filed Date: 2024-06-25
+Claim Amount: $8,700.92
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000002706 for auto policy in MA. Policyholder tenure: 3.7 yrs with 0 prior claims. Amount claimed: $8700.92 (deductible $500.0). Filed on 2024-06-25 following incident on 2024-05-21. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000002706 is covered by Policy POL-22037036.
+- Claim CLM-C000002706 concerns an incident in MA on 2024-05-21.
+- Claim CLM-C000002706 has outcome Pending.
+- Claim CLM-C000002706 has claim type Auto.

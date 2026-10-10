@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004090
+Policy ID: POL-55585537
+Claim Type: Auto
+State: MA
+Policyholder Tenure: 15.6 years
+Previous Claims: 1
+Incident Date: 2023-04-11
+Claim Filed Date: 2023-05-08
+Claim Amount: $8,399.72
+Deductible: $2,500.00
+Claim Status: Under Review
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000004090 for auto policy in MA. Policyholder tenure: 15.6 yrs with 1 prior claims. Amount claimed: $8399.72 (deductible $2500.0). Filed on 2023-05-08 following incident on 2023-04-11. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000004090 is covered by Policy POL-55585537.
+- Claim CLM-C000004090 concerns an incident in MA on 2023-04-11.
+- Claim CLM-C000004090 has outcome Under Review.
+- Claim CLM-C000004090 has claim type Auto.

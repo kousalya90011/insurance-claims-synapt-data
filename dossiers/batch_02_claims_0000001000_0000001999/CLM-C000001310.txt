@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001310
+Policy ID: POL-82668843
+Claim Type: Auto
+State: CO
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-10-20
+Claim Filed Date: 2023-10-21
+Claim Amount: $13,963.98
+Deductible: $500.00
+Claim Status: Under Review
+Resolution Time: 22 days
+Claim Narrative: Claim CLM-C000001310 for auto policy in CO. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $13963.98 (deductible $500.0). Filed on 2023-10-21 following incident on 2023-10-20. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000001310 is covered by Policy POL-82668843.
+- Claim CLM-C000001310 concerns an incident in CO on 2023-10-20.
+- Claim CLM-C000001310 has outcome Under Review.
+- Claim CLM-C000001310 has claim type Auto.

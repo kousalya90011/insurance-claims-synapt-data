@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001134
+Policy ID: POL-20814952
+Claim Type: Renters
+State: NY
+Policyholder Tenure: 22.8 years
+Previous Claims: 1
+Incident Date: 2024-12-08
+Claim Filed Date: 2024-12-11
+Claim Amount: $1,710.70
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 38 days
+Claim Narrative: Claim CLM-C000001134 for renters policy in NY. Policyholder tenure: 22.8 yrs with 1 prior claims. Amount claimed: $1710.7 (deductible $250.0). Filed on 2024-12-11 following incident on 2024-12-08. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001134 is covered by Policy POL-20814952.
+- Claim CLM-C000001134 concerns an incident in NY on 2024-12-08.
+- Claim CLM-C000001134 has outcome Approved.
+- Claim CLM-C000001134 has claim type Renters.

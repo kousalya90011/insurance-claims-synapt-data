@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002636
+Policy ID: POL-98392985
+Claim Type: Home
+State: MD
+Policyholder Tenure: 3.7 years
+Previous Claims: 1
+Incident Date: 2023-05-12
+Claim Filed Date: 2023-06-22
+Claim Amount: $20,608.33
+Deductible: $1,000.00
+Claim Status: Denied
+Resolution Time: 9 days
+Claim Narrative: Claim CLM-C000002636 for home policy in MD. Policyholder tenure: 3.7 yrs with 1 prior claims. Amount claimed: $20608.33 (deductible $1000.0). Filed on 2023-06-22 following incident on 2023-05-12. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000002636 is covered by Policy POL-98392985.
+- Claim CLM-C000002636 concerns an incident in MD on 2023-05-12.
+- Claim CLM-C000002636 has outcome Denied.
+- Claim CLM-C000002636 has claim type Home.

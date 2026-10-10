@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008708
+Policy ID: POL-22828389
+Claim Type: Property
+State: WA
+Policyholder Tenure: 8.0 years
+Previous Claims: 0
+Incident Date: 2023-01-27
+Claim Filed Date: 2023-02-04
+Claim Amount: $5,190.70
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 32 days
+Claim Narrative: Claim CLM-C000008708 for property policy in WA. Policyholder tenure: 8.0 yrs with 0 prior claims. Amount claimed: $5190.7 (deductible $500.0). Filed on 2023-02-04 following incident on 2023-01-27. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008708 is covered by Policy POL-22828389.
+- Claim CLM-C000008708 concerns an incident in WA on 2023-01-27.
+- Claim CLM-C000008708 has outcome Approved.
+- Claim CLM-C000008708 has claim type Property.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000009104
+Policy ID: POL-34564035
+Claim Type: Home
+State: TN
+Policyholder Tenure: 10.5 years
+Previous Claims: 0
+Incident Date: 2023-03-26
+Claim Filed Date: 2023-04-01
+Claim Amount: $47,126.37
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000009104 for home policy in TN. Policyholder tenure: 10.5 yrs with 0 prior claims. Amount claimed: $47126.37 (deductible $500.0). Filed on 2023-04-01 following incident on 2023-03-26. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000009104 is covered by Policy POL-34564035.
+- Claim CLM-C000009104 concerns an incident in TN on 2023-03-26.
+- Claim CLM-C000009104 has outcome Approved.
+- Claim CLM-C000009104 has claim type Home.

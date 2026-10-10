@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000001644
+Policy ID: POL-78258000
+Claim Type: Auto
+State: MO
+Policyholder Tenure: 14.4 years
+Previous Claims: 0
+Incident Date: 2024-06-09
+Claim Filed Date: 2024-06-16
+Claim Amount: $1,461.45
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 31 days
+Claim Narrative: Claim CLM-C000001644 for auto policy in MO. Policyholder tenure: 14.4 yrs with 0 prior claims. Amount claimed: $1461.45 (deductible $500.0). Filed on 2024-06-16 following incident on 2024-06-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000001644 is covered by Policy POL-78258000.
+- Claim CLM-C000001644 concerns an incident in MO on 2024-06-09.
+- Claim CLM-C000001644 has outcome Approved.
+- Claim CLM-C000001644 has claim type Auto.

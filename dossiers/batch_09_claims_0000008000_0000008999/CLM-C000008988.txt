@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008988
+Policy ID: POL-84345711
+Claim Type: Renters
+State: MA
+Policyholder Tenure: 1.6 years
+Previous Claims: 1
+Incident Date: 2023-06-28
+Claim Filed Date: 2023-07-05
+Claim Amount: $1,929.15
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 23 days
+Claim Narrative: Claim CLM-C000008988 for renters policy in MA. Policyholder tenure: 1.6 yrs with 1 prior claims. Amount claimed: $1929.15 (deductible $2000.0). Filed on 2023-07-05 following incident on 2023-06-28. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008988 is covered by Policy POL-84345711.
+- Claim CLM-C000008988 concerns an incident in MA on 2023-06-28.
+- Claim CLM-C000008988 has outcome Approved.
+- Claim CLM-C000008988 has claim type Renters.

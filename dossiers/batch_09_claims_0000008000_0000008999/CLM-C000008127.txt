@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008127
+Policy ID: POL-14505958
+Claim Type: Renters
+State: PA
+Policyholder Tenure: 2.3 years
+Previous Claims: 0
+Incident Date: 2024-07-05
+Claim Filed Date: 2024-07-10
+Claim Amount: $2,957.17
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 24 days
+Claim Narrative: Claim CLM-C000008127 for renters policy in PA. Policyholder tenure: 2.3 yrs with 0 prior claims. Amount claimed: $2957.17 (deductible $500.0). Filed on 2024-07-10 following incident on 2024-07-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008127 is covered by Policy POL-14505958.
+- Claim CLM-C000008127 concerns an incident in PA on 2024-07-05.
+- Claim CLM-C000008127 has outcome Approved.
+- Claim CLM-C000008127 has claim type Renters.

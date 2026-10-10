@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005493
+Policy ID: POL-86523556
+Claim Type: Renters
+State: IL
+Policyholder Tenure: 4.9 years
+Previous Claims: 1
+Incident Date: 2024-03-10
+Claim Filed Date: 2024-04-22
+Claim Amount: $5,485.11
+Deductible: $250.00
+Claim Status: Approved
+Resolution Time: 19 days
+Claim Narrative: Claim CLM-C000005493 for renters policy in IL. Policyholder tenure: 4.9 yrs with 1 prior claims. Amount claimed: $5485.11 (deductible $250.0). Filed on 2024-04-22 following incident on 2024-03-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005493 is covered by Policy POL-86523556.
+- Claim CLM-C000005493 concerns an incident in IL on 2024-03-10.
+- Claim CLM-C000005493 has outcome Approved.
+- Claim CLM-C000005493 has claim type Renters.

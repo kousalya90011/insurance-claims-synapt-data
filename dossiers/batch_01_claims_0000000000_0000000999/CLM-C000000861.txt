@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000861
+Policy ID: POL-50390268
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 24.7 years
+Previous Claims: 1
+Incident Date: 2024-02-10
+Claim Filed Date: 2024-02-25
+Claim Amount: $6,766.69
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 33 days
+Claim Narrative: Claim CLM-C000000861 for auto policy in MD. Policyholder tenure: 24.7 yrs with 1 prior claims. Amount claimed: $6766.69 (deductible $500.0). Filed on 2024-02-25 following incident on 2024-02-10. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000861 is covered by Policy POL-50390268.
+- Claim CLM-C000000861 concerns an incident in MD on 2024-02-10.
+- Claim CLM-C000000861 has outcome Approved.
+- Claim CLM-C000000861 has claim type Auto.

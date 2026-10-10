@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007458
+Policy ID: POL-10839828
+Claim Type: Home
+State: TN
+Policyholder Tenure: 11.1 years
+Previous Claims: 3
+Incident Date: 2023-11-19
+Claim Filed Date: 2023-12-11
+Claim Amount: $12,282.52
+Deductible: $1,000.00
+Claim Status: Under Review
+Resolution Time: 12 days
+Claim Narrative: Claim CLM-C000007458 for home policy in TN. Policyholder tenure: 11.1 yrs with 3 prior claims. Amount claimed: $12282.52 (deductible $1000.0). Filed on 2023-12-11 following incident on 2023-11-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000007458 is covered by Policy POL-10839828.
+- Claim CLM-C000007458 concerns an incident in TN on 2023-11-19.
+- Claim CLM-C000007458 has outcome Under Review.
+- Claim CLM-C000007458 has claim type Home.

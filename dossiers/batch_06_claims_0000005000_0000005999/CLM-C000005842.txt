@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005842
+Policy ID: POL-93753483
+Claim Type: Auto
+State: GA
+Policyholder Tenure: 2.5 years
+Previous Claims: 0
+Incident Date: 2024-03-21
+Claim Filed Date: 2024-04-07
+Claim Amount: $767.21
+Deductible: $250.00
+Claim Status: Pending
+Resolution Time: 45 days
+Claim Narrative: Claim CLM-C000005842 for auto policy in GA. Policyholder tenure: 2.5 yrs with 0 prior claims. Amount claimed: $767.21 (deductible $250.0). Filed on 2024-04-07 following incident on 2024-03-21. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000005842 is covered by Policy POL-93753483.
+- Claim CLM-C000005842 concerns an incident in GA on 2024-03-21.
+- Claim CLM-C000005842 has outcome Pending.
+- Claim CLM-C000005842 has claim type Auto.

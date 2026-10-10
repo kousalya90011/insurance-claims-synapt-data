@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006283
+Policy ID: POL-62097500
+Claim Type: Auto
+State: CA
+Policyholder Tenure: 3.2 years
+Previous Claims: 0
+Incident Date: 2023-03-19
+Claim Filed Date: 2023-04-08
+Claim Amount: $8,148.59
+Deductible: $2,000.00
+Claim Status: Under Review
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000006283 for auto policy in CA. Policyholder tenure: 3.2 yrs with 0 prior claims. Amount claimed: $8148.59 (deductible $2000.0). Filed on 2023-04-08 following incident on 2023-03-19. Status: under_review
+
+RELATIONSHIPS
+- Claim CLM-C000006283 is covered by Policy POL-62097500.
+- Claim CLM-C000006283 concerns an incident in CA on 2023-03-19.
+- Claim CLM-C000006283 has outcome Under Review.
+- Claim CLM-C000006283 has claim type Auto.

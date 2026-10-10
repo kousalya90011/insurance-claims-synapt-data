@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007340
+Policy ID: POL-69400258
+Claim Type: Auto
+State: WI
+Policyholder Tenure: 2.4 years
+Previous Claims: 1
+Incident Date: 2023-08-13
+Claim Filed Date: 2023-09-18
+Claim Amount: $4,043.18
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000007340 for auto policy in WI. Policyholder tenure: 2.4 yrs with 1 prior claims. Amount claimed: $4043.18 (deductible $500.0). Filed on 2023-09-18 following incident on 2023-08-13. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007340 is covered by Policy POL-69400258.
+- Claim CLM-C000007340 concerns an incident in WI on 2023-08-13.
+- Claim CLM-C000007340 has outcome Approved.
+- Claim CLM-C000007340 has claim type Auto.

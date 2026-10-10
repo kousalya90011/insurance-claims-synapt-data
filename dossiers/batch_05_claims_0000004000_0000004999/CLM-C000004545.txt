@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004545
+Policy ID: POL-25708341
+Claim Type: Business
+State: AZ
+Policyholder Tenure: 1.0 years
+Previous Claims: 2
+Incident Date: 2025-01-09
+Claim Filed Date: 2025-02-15
+Claim Amount: $5,291.57
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 34 days
+Claim Narrative: Claim CLM-C000004545 for business policy in AZ. Policyholder tenure: 1.0 yrs with 2 prior claims. Amount claimed: $5291.57 (deductible $500.0). Filed on 2025-02-15 following incident on 2025-01-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004545 is covered by Policy POL-25708341.
+- Claim CLM-C000004545 concerns an incident in AZ on 2025-01-09.
+- Claim CLM-C000004545 has outcome Approved.
+- Claim CLM-C000004545 has claim type Business.

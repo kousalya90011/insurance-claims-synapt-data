@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008208
+Policy ID: POL-99610281
+Claim Type: Home
+State: CO
+Policyholder Tenure: 5.7 years
+Previous Claims: 0
+Incident Date: 2024-06-29
+Claim Filed Date: 2024-07-24
+Claim Amount: $4,103.00
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 28 days
+Claim Narrative: Claim CLM-C000008208 for home policy in CO. Policyholder tenure: 5.7 yrs with 0 prior claims. Amount claimed: $4103.0 (deductible $1000.0). Filed on 2024-07-24 following incident on 2024-06-29. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000008208 is covered by Policy POL-99610281.
+- Claim CLM-C000008208 concerns an incident in CO on 2024-06-29.
+- Claim CLM-C000008208 has outcome Approved.
+- Claim CLM-C000008208 has claim type Home.

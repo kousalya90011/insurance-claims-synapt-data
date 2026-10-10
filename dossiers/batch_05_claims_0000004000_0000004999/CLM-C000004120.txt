@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000004120
+Policy ID: POL-40958540
+Claim Type: Auto
+State: NJ
+Policyholder Tenure: 15.1 years
+Previous Claims: 1
+Incident Date: 2024-12-01
+Claim Filed Date: 2024-12-15
+Claim Amount: $31,577.60
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 37 days
+Claim Narrative: Claim CLM-C000004120 for auto policy in NJ. Policyholder tenure: 15.1 yrs with 1 prior claims. Amount claimed: $31577.6 (deductible $1000.0). Filed on 2024-12-15 following incident on 2024-12-01. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000004120 is covered by Policy POL-40958540.
+- Claim CLM-C000004120 concerns an incident in NJ on 2024-12-01.
+- Claim CLM-C000004120 has outcome Approved.
+- Claim CLM-C000004120 has claim type Auto.

@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000006702
+Policy ID: POL-75101159
+Claim Type: Auto
+State: VA
+Policyholder Tenure: 19.1 years
+Previous Claims: 0
+Incident Date: 2024-06-02
+Claim Filed Date: 2024-06-19
+Claim Amount: $6,834.30
+Deductible: $500.00
+Claim Status: Pending
+Resolution Time: Unresolved / Pending
+Claim Narrative: Claim CLM-C000006702 for auto policy in VA. Policyholder tenure: 19.1 yrs with 0 prior claims. Amount claimed: $6834.3 (deductible $500.0). Filed on 2024-06-19 following incident on 2024-06-02. Status: pending
+
+RELATIONSHIPS
+- Claim CLM-C000006702 is covered by Policy POL-75101159.
+- Claim CLM-C000006702 concerns an incident in VA on 2024-06-02.
+- Claim CLM-C000006702 has outcome Pending.
+- Claim CLM-C000006702 has claim type Auto.

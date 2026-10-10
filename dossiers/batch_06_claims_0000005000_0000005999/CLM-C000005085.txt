@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005085
+Policy ID: POL-50598114
+Claim Type: Property
+State: CA
+Policyholder Tenure: 17.2 years
+Previous Claims: 0
+Incident Date: 2024-10-01
+Claim Filed Date: 2024-10-27
+Claim Amount: $1,409.36
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000005085 for property policy in CA. Policyholder tenure: 17.2 yrs with 0 prior claims. Amount claimed: $1409.36 (deductible $500.0). Filed on 2024-10-27 following incident on 2024-10-01. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000005085 is covered by Policy POL-50598114.
+- Claim CLM-C000005085 concerns an incident in CA on 2024-10-01.
+- Claim CLM-C000005085 has outcome Denied.
+- Claim CLM-C000005085 has claim type Property.

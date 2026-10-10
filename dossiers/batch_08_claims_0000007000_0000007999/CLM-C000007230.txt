@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007230
+Policy ID: POL-93267488
+Claim Type: Home
+State: AZ
+Policyholder Tenure: 4.4 years
+Previous Claims: 1
+Incident Date: 2023-01-14
+Claim Filed Date: 2023-02-24
+Claim Amount: $13,949.50
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 35 days
+Claim Narrative: Claim CLM-C000007230 for home policy in AZ. Policyholder tenure: 4.4 yrs with 1 prior claims. Amount claimed: $13949.5 (deductible $500.0). Filed on 2023-02-24 following incident on 2023-01-14. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007230 is covered by Policy POL-93267488.
+- Claim CLM-C000007230 concerns an incident in AZ on 2023-01-14.
+- Claim CLM-C000007230 has outcome Approved.
+- Claim CLM-C000007230 has claim type Home.

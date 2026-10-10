@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000005809
+Policy ID: POL-57196456
+Claim Type: Property
+State: MD
+Policyholder Tenure: 3.3 years
+Previous Claims: 0
+Incident Date: 2024-08-23
+Claim Filed Date: 2024-08-24
+Claim Amount: $7,858.69
+Deductible: $2,000.00
+Claim Status: Approved
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000005809 for property policy in MD. Policyholder tenure: 3.3 yrs with 0 prior claims. Amount claimed: $7858.69 (deductible $2000.0). Filed on 2024-08-24 following incident on 2024-08-23. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000005809 is covered by Policy POL-57196456.
+- Claim CLM-C000005809 concerns an incident in MD on 2024-08-23.
+- Claim CLM-C000005809 has outcome Approved.
+- Claim CLM-C000005809 has claim type Property.

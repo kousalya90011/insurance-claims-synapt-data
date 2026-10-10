@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000000005
+Policy ID: POL-17735107
+Claim Type: Business
+State: OH
+Policyholder Tenure: 1.3 years
+Previous Claims: 1
+Incident Date: 2023-11-09
+Claim Filed Date: 2023-11-10
+Claim Amount: $5,172.64
+Deductible: $1,000.00
+Claim Status: Approved
+Resolution Time: 30 days
+Claim Narrative: Claim CLM-C000000005 for business policy in OH. Policyholder tenure: 1.3 yrs with 1 prior claims. Amount claimed: $5172.64 (deductible $1000.0). Filed on 2023-11-10 following incident on 2023-11-09. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000000005 is covered by Policy POL-17735107.
+- Claim CLM-C000000005 concerns an incident in OH on 2023-11-09.
+- Claim CLM-C000000005 has outcome Approved.
+- Claim CLM-C000000005 has claim type Business.

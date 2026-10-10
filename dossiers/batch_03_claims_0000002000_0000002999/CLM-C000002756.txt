@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000002756
+Policy ID: POL-35744256
+Claim Type: Auto
+State: PA
+Policyholder Tenure: 11.0 years
+Previous Claims: 0
+Incident Date: 2024-08-15
+Claim Filed Date: 2024-09-15
+Claim Amount: $14,740.11
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 42 days
+Claim Narrative: Claim CLM-C000002756 for auto policy in PA. Policyholder tenure: 11.0 yrs with 0 prior claims. Amount claimed: $14740.11 (deductible $500.0). Filed on 2024-09-15 following incident on 2024-08-15. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000002756 is covered by Policy POL-35744256.
+- Claim CLM-C000002756 concerns an incident in PA on 2024-08-15.
+- Claim CLM-C000002756 has outcome Approved.
+- Claim CLM-C000002756 has claim type Auto.

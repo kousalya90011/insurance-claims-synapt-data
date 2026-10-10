@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000008013
+Policy ID: POL-83281528
+Claim Type: Auto
+State: MD
+Policyholder Tenure: 8.5 years
+Previous Claims: 2
+Incident Date: 2023-03-01
+Claim Filed Date: 2023-03-07
+Claim Amount: $6,647.87
+Deductible: $500.00
+Claim Status: Denied
+Resolution Time: 25 days
+Claim Narrative: Claim CLM-C000008013 for auto policy in MD. Policyholder tenure: 8.5 yrs with 2 prior claims. Amount claimed: $6647.87 (deductible $500.0). Filed on 2023-03-07 following incident on 2023-03-01. Status: denied
+
+RELATIONSHIPS
+- Claim CLM-C000008013 is covered by Policy POL-83281528.
+- Claim CLM-C000008013 concerns an incident in MD on 2023-03-01.
+- Claim CLM-C000008013 has outcome Denied.
+- Claim CLM-C000008013 has claim type Auto.

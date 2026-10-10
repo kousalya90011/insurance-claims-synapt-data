@@ -1,0 +1,20 @@
+CLAIM DOSSIER
+Claim ID: CLM-C000007584
+Policy ID: POL-29790103
+Claim Type: Renters
+State: CA
+Policyholder Tenure: 0.4 years
+Previous Claims: 0
+Incident Date: 2023-06-05
+Claim Filed Date: 2023-06-08
+Claim Amount: $5,003.79
+Deductible: $500.00
+Claim Status: Approved
+Resolution Time: 15 days
+Claim Narrative: Claim CLM-C000007584 for renters policy in CA. Policyholder tenure: 0.4 yrs with 0 prior claims. Amount claimed: $5003.79 (deductible $500.0). Filed on 2023-06-08 following incident on 2023-06-05. Status: approved
+
+RELATIONSHIPS
+- Claim CLM-C000007584 is covered by Policy POL-29790103.
+- Claim CLM-C000007584 concerns an incident in CA on 2023-06-05.
+- Claim CLM-C000007584 has outcome Approved.
+- Claim CLM-C000007584 has claim type Renters.
